@@ -57,13 +57,17 @@ body.film-page {
     z-index: 10;
 }
 
-.film-controls-inner {
+.film-controls-primary {
     max-width: 1200px;
     margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
     gap: 18px 24px;
     align-items: flex-start;
+}
+
+.film-controls-secondary {
+    display: contents;
 }
 
 .film-control-group {
@@ -80,11 +84,18 @@ body.film-page {
     color: var(--text-muted);
 }
 
-.film-control-status {
-    margin-left: auto;
-    flex-direction: row;
+.film-controls-status {
+    max-width: 1200px;
+    margin: 14px auto 0;
+    display: flex;
     align-items: center;
     gap: 12px;
+    font-size: 12px;
+    color: var(--text-muted);
+}
+
+.film-controls-status #film-clear {
+    margin-left: auto;
 }
 
 #film-status {
@@ -100,6 +111,49 @@ body.film-page {
     color: var(--text);
     font-size: 13px;
     min-height: 32px;
+}
+
+/* === Secondary controls "more" button (mobile only) === */
+.film-secondary-toggle {
+    display: none;
+    flex: 0 0 auto;
+    width: 44px;
+    height: 40px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: var(--bg);
+    color: var(--text);
+    font-size: 18px;
+    line-height: 1;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    padding: 0;
+    transition: border-color 0.15s, background 0.15s;
+}
+
+.film-secondary-toggle:hover {
+    border-color: var(--text-dim);
+}
+
+.film-secondary-toggle[aria-expanded="true"] {
+    background: var(--bg-elevated);
+    border-color: var(--accent);
+}
+
+.film-secondary-dot {
+    position: absolute;
+    top: 7px;
+    right: 7px;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: var(--accent);
+}
+
+.film-secondary-dot.hidden {
+    display: none;
 }
 
 .chip .chip-count {
@@ -290,15 +344,78 @@ body.film-page {
     .film-title h1 { font-size: 22px; }
     .film-standfirst { font-size: 14px; }
 
-    #film-controls { padding: 12px 14px; }
-    .film-controls-inner { gap: 14px; }
-    .film-control-status {
-        margin-left: 0;
-        width: 100%;
-        justify-content: space-between;
+    /* Sticky controls — collapse to a single horizontal-scroll strip */
+    #film-controls {
+        padding: 10px 0 8px;
+    }
+    .film-controls-primary {
+        gap: 0;
+        flex-wrap: nowrap;
+        align-items: center;
+        padding: 0 14px;
+    }
+    .film-control-categories {
+        flex: 1 1 0;
+        min-width: 0;
+        gap: 0;
+    }
+    .film-control-categories label {
+        display: none;
+    }
+    /* The horizontal-scrolling strip of category pills */
+    #film-category-chips {
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        scroll-snap-type: x proximity;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+        padding: 2px 4px 2px 0;
+        mask-image: linear-gradient(to right, transparent 0, #000 8px, #000 calc(100% - 18px), transparent 100%);
+        -webkit-mask-image: linear-gradient(to right, transparent 0, #000 8px, #000 calc(100% - 18px), transparent 100%);
+    }
+    #film-category-chips::-webkit-scrollbar { display: none; }
+    #film-category-chips .chip {
+        flex: 0 0 auto;
+        scroll-snap-align: start;
     }
 
-    #film-main { padding: 18px 14px 32px; }
+    /* The ⋯ button is shown only on mobile */
+    .film-secondary-toggle {
+        display: inline-flex;
+        margin-left: 8px;
+    }
+
+    /* Secondary controls become a popover anchored under the ⋯ button */
+    .film-controls-secondary {
+        display: none;
+        position: absolute;
+        top: calc(100% + 4px);
+        right: 14px;
+        max-width: calc(100vw - 28px);
+        background: var(--bg-elevated);
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        box-shadow: 0 8px 28px rgba(0,0,0,0.4);
+        padding: 14px;
+        flex-direction: column;
+        gap: 14px;
+        z-index: 20;
+    }
+    .film-controls-secondary.is-open {
+        display: flex;
+    }
+    .film-controls-secondary .film-control-group {
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    /* Status row sits below the strip, still visible at all times */
+    .film-controls-status {
+        margin: 6px 14px 0;
+        font-size: 12px;
+    }
+
+    #film-main { padding: 14px 14px 32px; }
     #film-grid {
         grid-template-columns: 1fr;
         gap: 14px;

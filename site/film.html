@@ -26,32 +26,38 @@
     </header>
 
     <section id="film-controls">
-        <div class="film-controls-inner">
-            <div class="film-control-group">
+        <div class="film-controls-primary">
+            <div class="film-control-group film-control-categories">
                 <label>Category</label>
                 <div id="film-category-chips" class="filter-chips"></div>
             </div>
-            <div class="film-control-group">
-                <label>Format</label>
-                <div id="film-format-chips" class="filter-chips"></div>
+            <button id="film-secondary-toggle" class="film-secondary-toggle" aria-label="More filters and sort" aria-expanded="false" aria-controls="film-controls-secondary">
+                <span aria-hidden="true">⋯</span>
+                <span id="film-secondary-dot" class="film-secondary-dot hidden" aria-hidden="true"></span>
+            </button>
+            <div id="film-controls-secondary" class="film-controls-secondary">
+                <div class="film-control-group">
+                    <label>Format</label>
+                    <div id="film-format-chips" class="filter-chips"></div>
+                </div>
+                <div class="film-control-group">
+                    <label>Potential</label>
+                    <div id="film-potential-chips" class="filter-chips"></div>
+                </div>
+                <div class="film-control-group">
+                    <label>Sort</label>
+                    <select id="film-sort">
+                        <option value="potential">Strongest first</option>
+                        <option value="newest">Newest first</option>
+                        <option value="oldest">Oldest first</option>
+                        <option value="random">Random</option>
+                    </select>
+                </div>
             </div>
-            <div class="film-control-group">
-                <label>Potential</label>
-                <div id="film-potential-chips" class="filter-chips"></div>
-            </div>
-            <div class="film-control-group">
-                <label>Sort</label>
-                <select id="film-sort">
-                    <option value="potential">Strongest first</option>
-                    <option value="newest">Newest first</option>
-                    <option value="oldest">Oldest first</option>
-                    <option value="random">Random</option>
-                </select>
-            </div>
-            <div class="film-control-group film-control-status">
-                <span id="film-status"></span>
-                <button id="film-clear" class="btn btn-small">Clear filters</button>
-            </div>
+        </div>
+        <div class="film-controls-status">
+            <span id="film-status"></span>
+            <button id="film-clear" class="btn btn-small">Clear filters</button>
         </div>
     </section>
 

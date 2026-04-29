@@ -159,6 +159,36 @@ class FilmLens {
             );
             this.render();
         });
+
+        // Mobile: ⋯ button toggles the secondary controls popover
+        const secondaryToggle = document.getElementById("film-secondary-toggle");
+        const secondary = document.getElementById("film-controls-secondary");
+        if (secondaryToggle && secondary) {
+            const closeSecondary = () => {
+                secondary.classList.remove("is-open");
+                secondaryToggle.setAttribute("aria-expanded", "false");
+            };
+            secondaryToggle.addEventListener("click", e => {
+                e.stopPropagation();
+                const isOpen = secondary.classList.toggle("is-open");
+                secondaryToggle.setAttribute("aria-expanded", isOpen ? "true" : "false");
+            });
+            document.addEventListener("click", e => {
+                if (!secondary.classList.contains("is-open")) return;
+                if (secondary.contains(e.target) || secondaryToggle.contains(e.target)) return;
+                closeSecondary();
+            });
+            document.addEventListener("keydown", e => {
+                if (e.key === "Escape" && secondary.classList.contains("is-open")) closeSecondary();
+            });
+        }
+    }
+
+    updateSecondaryDot() {
+        const dot = document.getElementById("film-secondary-dot");
+        if (!dot) return;
+        const active = this.filters.formats.size > 0 || this.filters.potential !== "high_medium";
+        dot.classList.toggle("hidden", !active);
     }
 
     filterArticles() {
@@ -215,6 +245,7 @@ class FilmLens {
 
         status.textContent = `${sorted.length} of ${this.articles.length} pieces shown`;
         stats.textContent = `${this.articles.length} pieces flagged for film potential`;
+        this.updateSecondaryDot();
 
         if (sorted.length === 0) {
             grid.innerHTML = "";
