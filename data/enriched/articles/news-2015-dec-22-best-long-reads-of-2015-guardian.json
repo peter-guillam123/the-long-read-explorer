@@ -1,0 +1,157 @@
+{
+  "id": "news-2015-dec-22-best-long-reads-of-2015-guardian",
+  "guardian_id": "news/2015/dec/22/best-long-reads-of-2015-guardian",
+  "title": "The best of the Long Read in 2015",
+  "date": "2015-12-22",
+  "author": "Jonathan Shainin",
+  "standfirst": "Our 15 favourite pieces of the year",
+  "body_text": "The Long Read published 144 pieces in 2015 – our first full year. (If you’re counting at home, that’s about 800,000 words, or roughly the length of the first five Harry Potter novels.) It wasn’t easy to choose 15 favourites, but here they are – perfect reading for your holiday week, arranged in chronological order: Tobias Jones – The murder that obsessed Italy On 26 November 2010, Yara Gambirasio, 13, went missing. Three months later her body was discovered in scrubland nearby. So began one of the most complex murder investigations in Italian history, which turned up some shocking insights into a small mountain community. Oliver Burkeman – The difficult problem of consciousness Philosophers and scientists have been at war for decades over the question of what makes human beings more than complex robots. Martin Woollacott – Forty years on from the fall of Vietnam When North Vietnamese troops marched into Saigon on 30 April 1975, it marked the most crushing defeat in US military history. Four decades after he reported on these events for the Guardian, Martin Woollacott reflects upon what it meant for both nations. Paul Krugman – The austerity delusion The case for cuts was a lie. Why does Britain still believe it? The Nobel prize winner makes a devastating case against George Osborne’s economic plans. Amelia Gentleman – Time, gentlemen: when will the last all-male clubs admit women? The Garrick Club in London is embroiled in a bitter struggle over whether to admit women members. How long can the British establishment fend off modernity? Pamela Newkirk – The man who was caged in a zoo In 1904, Ota Benga was kidnapped from Congo and taken to the US, where he was exhibited with monkeys. His appalling story reveals the roots of a racial prejudice that still haunts us. Patrick Wintour – The undoing of Ed Miliband It was Labour’s most stunning defeat since 1983. This exclusive account, based on unique access to the party leader’s closest aides, tells the inside story of what went wrong. Sophie Elmhirst – Is Richard Dawkins destroying his reputation? The scientist and bestselling writer has become the face of a new crusading atheism. But even his closest allies worry that his online provocations do more harm than good. Gary Younge – Farewell to America After 12 years in the US, Gary Younge was preparing to depart – as the country’s racial frictions seemed certain to spark another summer of conflict. Sam Knight – Can Winston Churchill’s grandson save Serco – and is it worth saving? Serco capitalised on decades of government privatisation before scandal and mismanagement made it a poster-child for the dangers of outsourcing. Now it is struggling for survival. Jordan Kisner – The art of sound in the movies Skip Lievsay is one of the most talented men in Hollywood. He has created audioscapes for Martin Scorsese and is the only sound man the Coen brothers go to. But the key to this work is more than clever effects, it is understanding the human mind. Edward Docx – One lawyer’s crusade to defend extreme pornography Myles Jackman is on a mission to change Britain’s obscenity laws. For him, it’s more than a job, it’s a moral calling. Garance le Caisne – Inside Syria’s death machine Caesar, the Syrian military photographer who smuggled shocking evidence of torture out of Assad’s dungeons, tells his story. Charlotte Higgins – The genius of the Great British Bake Off How Bake Off became something much larger than television – a global cultural phenomenon and the perfect show for Britain now. Tom Lamont – The death and life of the great British pub Across the country, pubs are being shuttered at an alarming rate – scooped up by developers and ransacked for profit – changing the face of neighbourhoods and turning our beloved locals into estate agents, betting shops, and luxury flats. This is the story of how one pub fought back.",
+  "word_count": 635,
+  "article_url": "https://www.theguardian.com/news/2015/dec/22/best-long-reads-of-2015-guardian",
+  "audio_url": null,
+  "has_audio": false,
+  "tags": [
+    "news/series/the-long-read",
+    "uk/uk",
+    "type/article",
+    "tone/features",
+    "profile/jonathan-shainin"
+  ],
+  "section": "news",
+  "people_mentioned": [
+    {
+      "name": "Jonathan Shainin",
+      "role": "Author of this retrospective piece and editor of The Guardian Long Read"
+    },
+    {
+      "name": "Yara Gambirasio",
+      "role": "13-year-old Italian murder victim whose case obsessed Italy"
+    },
+    {
+      "name": "Oliver Burkeman",
+      "role": "Guardian writer who explored the philosophical problem of consciousness"
+    },
+    {
+      "name": "Martin Woollacott",
+      "role": "Guardian correspondent who reported on Vietnam War and reflected on its aftermath"
+    },
+    {
+      "name": "Paul Krugman",
+      "role": "Nobel Prize-winning economist who critiqued British austerity policies"
+    },
+    {
+      "name": "Amelia Gentleman",
+      "role": "Guardian writer who investigated all-male clubs in Britain"
+    },
+    {
+      "name": "Ota Benga",
+      "role": "Congolese man who was exhibited in a US zoo in 1904"
+    },
+    {
+      "name": "Ed Miliband",
+      "role": "Former Labour Party leader whose electoral defeat was analyzed"
+    },
+    {
+      "name": "Richard Dawkins",
+      "role": "Evolutionary biologist and prominent atheist whose reputation was examined"
+    },
+    {
+      "name": "Gary Younge",
+      "role": "Guardian writer who spent 12 years in the US covering racial tensions"
+    },
+    {
+      "name": "Winston Churchill",
+      "role": "Former British Prime Minister whose grandson was involved with Serco"
+    },
+    {
+      "name": "Skip Lievsay",
+      "role": "Hollywood sound designer who worked with Scorsese and the Coen brothers"
+    },
+    {
+      "name": "Myles Jackman",
+      "role": "Lawyer crusading to change Britain's obscenity laws"
+    },
+    {
+      "name": "Caesar",
+      "role": "Syrian military photographer who smuggled evidence of torture out of Assad's prisons"
+    }
+  ],
+  "article_type": "review",
+  "themes": [
+    "journalism",
+    "consciousness",
+    "war",
+    "economics",
+    "gender",
+    "race",
+    "democracy",
+    "secularism",
+    "technology",
+    "law",
+    "human rights",
+    "cinema",
+    "politics",
+    "media"
+  ],
+  "time_periods": [
+    {
+      "start_year": 1904,
+      "end_year": 1904,
+      "label": "Colonial exhibition of Ota Benga in US zoo"
+    },
+    {
+      "start_year": 1975,
+      "end_year": 1975,
+      "label": "Fall of Saigon and end of Vietnam War"
+    },
+    {
+      "start_year": 2010,
+      "end_year": 2015,
+      "label": "Contemporary period covering murder case, austerity politics, and ongoing conflicts"
+    }
+  ],
+  "geographic_regions": [
+    "Italy",
+    "United States",
+    "Vietnam",
+    "United Kingdom",
+    "Congo",
+    "Syria"
+  ],
+  "historical_figures": [
+    "Winston Churchill",
+    "Ed Miliband",
+    "Richard Dawkins",
+    "Paul Krugman"
+  ],
+  "domain_tags": [
+    "media",
+    "philosophy",
+    "history",
+    "politics",
+    "economics",
+    "sociology",
+    "law",
+    "psychology",
+    "anthropology",
+    "art",
+    "technology"
+  ],
+  "cross_domain_bridges": [
+    "This retrospective demonstrates how contemporary journalism intersects with multiple academic disciplines, from neuroscience and philosophy of mind in consciousness studies to historical analysis of political events. The collection shows how media coverage bridges scientific research, legal reform, economic policy analysis, and cultural criticism, revealing journalism's role as a translator between specialized knowledge domains and public understanding."
+  ],
+  "abstracted_concepts": [
+    "transmission of knowledge",
+    "power and resistance",
+    "individual vs collective",
+    "tradition vs innovation",
+    "visible vs invisible"
+  ],
+  "film_adaptation": {
+    "potential": "low",
+    "categories": [],
+    "format": "documentary",
+    "pitch": null,
+    "comparable_works": []
+  }
+}

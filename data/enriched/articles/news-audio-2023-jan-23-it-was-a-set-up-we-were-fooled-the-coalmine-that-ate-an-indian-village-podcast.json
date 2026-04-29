@@ -1,0 +1,101 @@
+{
+  "id": "news-audio-2023-jan-23-it-was-a-set-up-we-were-fooled-the-coalmine-that-ate-an-indian-village-podcast",
+  "guardian_id": "news/audio/2023/jan/23/it-was-a-set-up-we-were-fooled-the-coalmine-that-ate-an-indian-village-podcast",
+  "title": "‘It was a set-up, we were fooled’: the coalmine that ate an Indian village – podcast",
+  "date": "2023-01-23",
+  "author": "Written by Ankur Paliwal and read by Raj Ghatak. Produced by Jessica Beck. The executive producer was Ellie Bury",
+  "standfirst": "In a pristine forest in central India, the multibillion-dollar mining giant Adani has razed trees – and homes – to dig more coal. How does this kind of destruction get the go-ahead? By Ankur Paliwal",
+  "body_text": "Archive: NDTV; Heritage Times Read text version here",
+  "word_count": 8,
+  "article_url": "https://www.theguardian.com/news/audio/2023/jan/23/it-was-a-set-up-we-were-fooled-the-coalmine-that-ate-an-indian-village-podcast",
+  "audio_url": "https://www.theguardian.com/news/audio/2023/jan/23/it-was-a-set-up-we-were-fooled-the-coalmine-that-ate-an-indian-village-podcast",
+  "has_audio": true,
+  "tags": [
+    "news/series/the-audio-long-read",
+    "news/series/the-long-read",
+    "world/india",
+    "environment/coal",
+    "business/adani-group",
+    "environment/fossil-fuels",
+    "environment/mining",
+    "type/audio",
+    "type/podcast",
+    "profile/ankur-paliwal",
+    "profile/jessica-beck",
+    "profile/ellie-bury",
+    "tracking/commissioningdesk/uk-audio"
+  ],
+  "section": "news",
+  "people_mentioned": [
+    {
+      "name": "Ankur Paliwal",
+      "role": "Author and journalist who wrote the article"
+    },
+    {
+      "name": "Raj Ghatak",
+      "role": "Narrator who reads the podcast version"
+    },
+    {
+      "name": "Jessica Beck",
+      "role": "Producer of the podcast"
+    },
+    {
+      "name": "Ellie Bury",
+      "role": "Executive producer of the podcast"
+    }
+  ],
+  "article_type": "investigation",
+  "themes": [
+    "environment",
+    "power",
+    "capitalism",
+    "human rights",
+    "corruption",
+    "inequality",
+    "industrialisation"
+  ],
+  "time_periods": [
+    {
+      "start_year": 2020,
+      "end_year": 2023,
+      "label": "Contemporary period of Adani mining expansion in India"
+    }
+  ],
+  "geographic_regions": [
+    "India",
+    "Central India"
+  ],
+  "historical_figures": [],
+  "domain_tags": [
+    "politics",
+    "economics",
+    "geography",
+    "media",
+    "law",
+    "sociology"
+  ],
+  "cross_domain_bridges": [
+    "This mining conflict illustrates how environmental destruction intersects with economic policy, as government approvals for extractive industries reveal the tension between development models and ecological preservation. The case demonstrates how corporate power operates within legal frameworks, showing how regulatory capture and policy-making processes can override local community rights and environmental protections."
+  ],
+  "abstracted_concepts": [
+    "power and resistance",
+    "individual vs collective",
+    "center vs periphery",
+    "unintended consequences",
+    "local vs universal"
+  ],
+  "film_adaptation": {
+    "potential": "medium",
+    "categories": [
+      "david_vs_goliath",
+      "visual_spectacle"
+    ],
+    "format": "documentary",
+    "pitch": "Villagers in central India fight back against mining giant Adani as the company destroys their pristine forest home to extract coal, revealing how local communities are steamrolled by corporate power.",
+    "comparable_works": [
+      "Dark Waters",
+      "The Cove",
+      "Gasland"
+    ]
+  }
+}

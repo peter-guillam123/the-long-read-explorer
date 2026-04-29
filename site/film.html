@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Films from the long read</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/film.css">
+</head>
+<body class="film-page">
+    <header id="film-header">
+        <div class="film-header-inner">
+            <div class="film-title">
+                <h1>Films from the long read</h1>
+                <p class="film-standfirst">
+                    A lens on the Guardian Long Read archive for the multimedia team —
+                    pieces that might translate to film or documentary, sorted by the
+                    kind of story they are. Pitches and categories are auto-generated
+                    by Claude; treat them as a starting point, not a verdict.
+                </p>
+            </div>
+            <nav class="film-nav">
+                <a href="index.html">&larr; back to the explorer</a>
+            </nav>
+        </div>
+    </header>
+
+    <section id="film-controls">
+        <div class="film-controls-inner">
+            <div class="film-control-group">
+                <label>Category</label>
+                <div id="film-category-chips" class="filter-chips"></div>
+            </div>
+            <div class="film-control-group">
+                <label>Format</label>
+                <div id="film-format-chips" class="filter-chips"></div>
+            </div>
+            <div class="film-control-group">
+                <label>Potential</label>
+                <div id="film-potential-chips" class="filter-chips"></div>
+            </div>
+            <div class="film-control-group">
+                <label>Sort</label>
+                <select id="film-sort">
+                    <option value="potential">Strongest first</option>
+                    <option value="newest">Newest first</option>
+                    <option value="oldest">Oldest first</option>
+                    <option value="random">Random</option>
+                </select>
+            </div>
+            <div class="film-control-group film-control-status">
+                <span id="film-status"></span>
+                <button id="film-clear" class="btn btn-small">Clear filters</button>
+            </div>
+        </div>
+    </section>
+
+    <main id="film-main">
+        <div id="film-grid"></div>
+        <div id="film-empty" class="film-empty hidden">
+            Nothing here matches those filters yet. Try widening them.
+        </div>
+        <div id="film-loading" class="film-loading">Loading…</div>
+    </main>
+
+    <footer id="film-footer">
+        <span id="film-stats"></span>
+        <span class="footer-right">
+            <a href="https://www.theguardian.com/news/series/the-long-read" target="_blank" rel="noopener">The Guardian Long Read</a>
+        </span>
+    </footer>
+
+    <script type="module" src="js/film.js"></script>
+</body>
+</html>

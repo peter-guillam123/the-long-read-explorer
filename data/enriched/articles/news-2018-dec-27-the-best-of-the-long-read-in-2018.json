@@ -1,0 +1,142 @@
+{
+  "id": "news-2018-dec-27-the-best-of-the-long-read-in-2018",
+  "guardian_id": "news/2018/dec/27/the-best-of-the-long-read-in-2018",
+  "title": "The best of the Long Read in 2018",
+  "date": "2018-12-27",
+  "author": "Jonathan Shainin",
+  "standfirst": "Our 20 favourite pieces of the yearSupport The Guardian’s independent journalism including the Long Read. Make a contribution today",
+  "body_text": "How a new technology is changing the lives of people who cannot speak – Jordan Kisner Millions are robbed of the power of speech by illness, injury or lifelong conditions. Can the creation of bespoke digital voices transform their ability to communicate? Why Silicon Valley billionaires are prepping for the apocalypse in New Zealand – Mark O’Connell How an extreme libertarian tract predicting the collapse of liberal democracies – written by Jacob Rees-Mogg’s father – inspired the likes of Peter Thiel to buy up property across the Pacific. Yes, bacon really is killing us – Bee Wilson Decades’ worth of research proves that chemicals used to make bacon do cause cancer. So how did the meat industry convince us it was safe? The YouTube star who fought back against revenge porn – and won – Jenny Kleeman Four years after her ex posted explicit videos filmed without her consent, Chrissy Chambers talks about the gruelling legal battle that nearly destroyed her. Why I’m suing over my dream internship – Amalia Illgner It’s time to end a system that excludes the less privileged from the arts, media and politics. How many murders can a police informer get away with? – Ian Cobain Last year Northern Irish paramilitary Gary Haggarty pleaded guilty to hundreds of violent crimes, including many killings – while working for the British state. The spectacular power of big lens – Sam Knight How one giant company will dominate the way the whole world sees. Why Silicon Valley can’t fix itself – Moira Weigel & Ben Tarnoff Tech insiders have finally started admitting their mistakes – but the solutions they are offering could just help the big players get even more powerful. How to spot a perfect fake: the world’s top art forgery detective – Samanth Subramanian Forgeries have got so good – and so costly – that Sotheby’s has brought in its own in-house fraud-busting expert. Behemoth, bully, thief: how the English language is taking over the planet – Jacob Mikanowski No language in history has dominated the world quite like English does today. Is there any point in resisting? The age of patriarchy: how an unfashionable idea became a rallying cry for feminism today – Charlotte Higgins A term that was derided and abandoned a decade ago has come roaring back to life. The free speech panic: how the right concocted a crisis – William Davies Snowflake students have become the target of a new rightwing crusade. But exaggerated claims of censorship reveal a deeper anxiety at the core of modern conservatism. BDS: how a controversial non-violent movement has transformed the Israeli-Palestinian debate – Nathan Thrall Israel sees the international boycott campaign as an existential threat to the Jewish state. Palestinians regard it as their last resort. How TripAdvisor changed travel – Linda Kinstler The world’s biggest travel site has turned the industry upside down – but now it is struggling to deal with the same kinds of problems that are vexing other tech giants like Facebook, Google and Twitter. Dulwich Hamlet: the improbable tale of a tiny football club that lost its home to developers – and won it back – Tom Lamont After they were locked out of their own stadium, an unlikely band of supporters came together to save the club. The plastic backlash: what’s behind our sudden rage – and will it make a difference? – Stephen Buranyi Decades after it became part of the fabric of our lives, a worldwide revolt against plastic is under way. How the ‘rugby rape trial’ divided Ireland – Susan McKay After a trial that dominated the news, the accused were all found not guilty. But the case had tapped into a deeper rage that has not died down. Field of dreams: heartbreak and heroics at the World Ploughing Championships – Sophie Elmhirst Some compare it to snooker, others to figure skating. But for those who have given their lives to competitive ploughing, it’s more than a sport, it’s a way of life. Forever prisoners: were a father and son wrongly ensnared by America’s war on terror? – Saba Imtiaz Saifullah Paracha, the oldest prisoner in Guantánamo Bay, will probably die in detention without ever being charged. His son is currently in a US prison. Both have been in custody for almost 15 years, accused of aiding al-Qaida. But did they? Bowel movement: the push to change the way you poo – Alex Blasdel Are you sitting comfortably? Many people are not – and they insist that the way we’ve been going to the toilet is all wrong. • Follow the Long Read on Twitter at @gdnlongread, or sign up to the long read weekly email here. • Support The Guardian’s independent journalism including the Long Read. Your support helps secure our future and keep our reporting open to all. Make a contribution today.",
+  "word_count": 776,
+  "article_url": "https://www.theguardian.com/news/2018/dec/27/the-best-of-the-long-read-in-2018",
+  "audio_url": null,
+  "has_audio": false,
+  "tags": [
+    "news/series/the-long-read",
+    "uk/uk",
+    "society/society",
+    "technology/technology",
+    "technology/silicon-valley",
+    "food/food",
+    "money/work-and-careers",
+    "artanddesign/art",
+    "world/feminism",
+    "world/censorship",
+    "travel/travel",
+    "sport/sport",
+    "us-news/us-news",
+    "lifeandstyle/lifeandstyle",
+    "type/article",
+    "tone/features",
+    "tone/news",
+    "profile/jonathan-shainin",
+    "tracking/commissioningdesk/long-read"
+  ],
+  "section": "news",
+  "people_mentioned": [
+    {
+      "name": "Jonathan Shainin",
+      "role": "Author and editor compiling the year's best Long Read articles"
+    },
+    {
+      "name": "Jordan Kisner",
+      "role": "Author of article about digital voice technology"
+    },
+    {
+      "name": "Mark O'Connell",
+      "role": "Author investigating Silicon Valley billionaires' New Zealand apocalypse preparations"
+    },
+    {
+      "name": "Jacob Rees-Mogg's father",
+      "role": "Author of libertarian tract that influenced tech billionaires"
+    },
+    {
+      "name": "Peter Thiel",
+      "role": "Silicon Valley billionaire buying property in New Zealand"
+    },
+    {
+      "name": "Bee Wilson",
+      "role": "Author investigating bacon and cancer research"
+    },
+    {
+      "name": "Jenny Kleeman",
+      "role": "Author profiling revenge porn victim Chrissy Chambers"
+    },
+    {
+      "name": "Chrissy Chambers",
+      "role": "YouTube star who fought legal battle against revenge porn"
+    },
+    {
+      "name": "Amalia Illgner",
+      "role": "Author writing about unpaid internship system inequality"
+    },
+    {
+      "name": "Ian Cobain",
+      "role": "Author investigating police informer Gary Haggarty"
+    },
+    {
+      "name": "Gary Haggarty",
+      "role": "Northern Irish paramilitary informer who committed murders while working for British state"
+    },
+    {
+      "name": "Saifullah Paracha",
+      "role": "Oldest prisoner in Guantánamo Bay, detained without charges for 15 years"
+    }
+  ],
+  "article_type": "review",
+  "themes": [
+    "technology",
+    "power",
+    "justice",
+    "human rights",
+    "censorship",
+    "language",
+    "gender",
+    "globalisation"
+  ],
+  "time_periods": [
+    {
+      "start_year": 2018,
+      "end_year": 2018,
+      "label": "Contemporary period covering various social and technological issues"
+    }
+  ],
+  "geographic_regions": [
+    "New Zealand",
+    "Silicon Valley",
+    "Northern Ireland",
+    "Ireland",
+    "United States",
+    "Global"
+  ],
+  "historical_figures": [
+    "Jacob Rees-Mogg's father"
+  ],
+  "domain_tags": [
+    "technology",
+    "media",
+    "politics",
+    "law",
+    "medicine",
+    "economics",
+    "sociology",
+    "linguistics",
+    "art"
+  ],
+  "cross_domain_bridges": [
+    "The articles demonstrate how technology intersects with human rights and social justice, as seen in digital voice creation for speech-impaired individuals and revenge porn litigation. Economic inequality manifests across domains from unpaid internships excluding the less privileged from arts and media to Silicon Valley wealth enabling apocalypse preparation. Legal and political systems intersect with intelligence work in the case of the police informer, while medical research connects to corporate influence in the bacon industry investigation."
+  ],
+  "abstracted_concepts": [
+    "power and resistance",
+    "individual vs collective",
+    "tradition vs innovation",
+    "unintended consequences",
+    "boundary crossing"
+  ],
+  "film_adaptation": {
+    "potential": "none",
+    "categories": [],
+    "format": "documentary",
+    "pitch": null,
+    "comparable_works": []
+  }
+}

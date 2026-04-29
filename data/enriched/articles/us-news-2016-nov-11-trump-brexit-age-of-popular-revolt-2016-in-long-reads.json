@@ -1,0 +1,142 @@
+{
+  "id": "us-news-2016-nov-11-trump-brexit-age-of-popular-revolt-2016-in-long-reads",
+  "guardian_id": "us-news/2016/nov/11/trump-brexit-age-of-popular-revolt-2016-in-long-reads",
+  "title": "Trump, Brexit and the age of popular revolt: 2016 in Long Reads",
+  "date": "2016-11-11",
+  "author": "Jonathan Shainin",
+  "standfirst": "Ten big stories to help make sense of a bewildering year in global politics",
+  "body_text": "The political earthquakes of 2016 have shaken the complacent preconceptions of the liberal establishment. But the signs were there. Here are ten stories that tried to reckon with our new era of populist backlash. The dark history of Donald Trump’s rightwing revolt – Timothy Shenk The Republican intellectual establishment tried to block Trump – but his message of cultural and racial resentment has deep roots in the American right How technology disrupted the truth – Katharine Viner Social media has swallowed the news – threatening the funding of public-interest reporting and ushering in an era when everyone has their own facts. But the consequences go far beyond journalism How the education gap is tearing politics apart – David Runciman In the year of Trump and Brexit, education has become the greatest divide of all – splitting voters into two increasingly hostile camps. But don’t assume this is simply a clash between the ignorant and the enlightened The ruthlessly effective rebranding of Europe’s new far right – Sasha Polakow-Suransky Across the continent, rightwing populist parties have seized control of the political conversation. How have they done it? By stealing the language, causes and voters of the traditional left How the ‘Great Paradox’ of American politics holds the secret to Trump’s success – Arlie Hochschild In the heartland of the American right, people harmed by polluting industries have instead come to hate the government whose environmental regulations protect them. Now they’re voting for Donald Trump The cult of the expert – and how it collapsed – Sebastian Mallaby Led by a class of omnipotent central bankers, experts have gained extraordinary political power. Will a populist backlash shatter their technocratic dream? How remain failed: the inside story of a doomed campaign – Rafael Behr They promised it would be an easy victory. But they had no idea what was about to hit them Revenge of the tabloids – Andy Beckett Rocked by the phone-hacking scandal and haemorrhaging readers, the rightwing tabloids seemed to be yesterday’s news. But now, in Theresa May’s Brexit Britain, they look more powerful than ever Welcome to the age of Trump – Jonathan Freedland Donald Trump’s rise reveals a growing attraction to political demagogues – and points to a wider crisis of democracy Us v Them: the birth of populism – John B Judis It’s not about left or right: populism is a style of politics that pits ‘the people’ against ‘the establishment’. Its rise is a warning sign that the status quo is failing",
+  "word_count": 401,
+  "article_url": "https://www.theguardian.com/us-news/2016/nov/11/trump-brexit-age-of-popular-revolt-2016-in-long-reads",
+  "audio_url": null,
+  "has_audio": false,
+  "tags": [
+    "us-news/donaldtrump",
+    "us-news/us-news",
+    "world/world",
+    "us-news/us-elections-2016",
+    "world/far-right",
+    "education/education",
+    "politics/politics",
+    "technology/internet",
+    "technology/technology",
+    "world/europe-news",
+    "us-news/us-politics",
+    "politics/eu-referendum",
+    "media/pressandpublishing",
+    "media/newspapers",
+    "media/media",
+    "world/eu",
+    "uk/uk",
+    "politics/foreignpolicy",
+    "news/series/the-long-read",
+    "type/article",
+    "tone/news",
+    "tracking/commissioningdesk/digital-backbench"
+  ],
+  "section": "us-news",
+  "people_mentioned": [
+    {
+      "name": "Jonathan Shainin",
+      "role": "Author of this overview article"
+    },
+    {
+      "name": "Timothy Shenk",
+      "role": "Author who wrote about Trump's rightwing revolt"
+    },
+    {
+      "name": "Katharine Viner",
+      "role": "Author who wrote about technology disrupting truth"
+    },
+    {
+      "name": "David Runciman",
+      "role": "Author who wrote about the education gap in politics"
+    },
+    {
+      "name": "Sasha Polakow-Suransky",
+      "role": "Author who wrote about Europe's new far right"
+    },
+    {
+      "name": "Arlie Hochschild",
+      "role": "Author who wrote about American politics and Trump's success"
+    },
+    {
+      "name": "Sebastian Mallaby",
+      "role": "Author who wrote about the collapse of expert authority"
+    },
+    {
+      "name": "Rafael Behr",
+      "role": "Author who wrote about the failed Remain campaign"
+    },
+    {
+      "name": "Andy Beckett",
+      "role": "Author who wrote about tabloid newspapers' resurgence"
+    },
+    {
+      "name": "Jonathan Freedland",
+      "role": "Author who wrote about Trump and democratic crisis"
+    },
+    {
+      "name": "John B Judis",
+      "role": "Author who wrote about the birth of populism"
+    },
+    {
+      "name": "Donald Trump",
+      "role": "US presidential candidate and central figure in 2016 political upheaval"
+    },
+    {
+      "name": "Theresa May",
+      "role": "British Prime Minister during Brexit implementation"
+    }
+  ],
+  "article_type": "explainer",
+  "themes": [
+    "democracy",
+    "nationalism",
+    "class",
+    "race",
+    "technology",
+    "education",
+    "the press",
+    "power"
+  ],
+  "time_periods": [
+    {
+      "start_year": 2016,
+      "end_year": 2016,
+      "label": "Year of Brexit vote and Trump election"
+    }
+  ],
+  "geographic_regions": [
+    "United States",
+    "United Kingdom",
+    "Europe"
+  ],
+  "historical_figures": [
+    "Donald Trump"
+  ],
+  "domain_tags": [
+    "politics",
+    "media",
+    "sociology",
+    "education",
+    "technology"
+  ],
+  "cross_domain_bridges": [
+    "The article demonstrates how technological changes in media consumption fundamentally altered political communication, creating information silos that enabled populist movements. Educational stratification created new class divisions that transcended traditional economic categories, reshaping electoral coalitions. Social media platforms designed for engagement inadvertently amplified political polarization through algorithmic content curation."
+  ],
+  "abstracted_concepts": [
+    "individual vs collective",
+    "center vs periphery",
+    "reason vs emotion",
+    "tradition vs innovation",
+    "power and resistance"
+  ],
+  "film_adaptation": {
+    "potential": "low",
+    "categories": [],
+    "format": "documentary",
+    "pitch": null,
+    "comparable_works": []
+  }
+}

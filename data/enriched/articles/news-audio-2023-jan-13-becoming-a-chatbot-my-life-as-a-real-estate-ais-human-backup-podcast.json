@@ -1,0 +1,94 @@
+{
+  "id": "news-audio-2023-jan-13-becoming-a-chatbot-my-life-as-a-real-estate-ais-human-backup-podcast",
+  "guardian_id": "news/audio/2023/jan/13/becoming-a-chatbot-my-life-as-a-real-estate-ais-human-backup-podcast",
+  "title": "Becoming a chatbot: my life as a real estate AI’s human backup – podcast",
+  "date": "2023-01-13",
+  "author": "Written by Laura Preston and read by Erin Hunter. Produced by Jessica Beck. The executive producer was Ellie Bury",
+  "standfirst": "For one weird year, I was the human who stepped in to make sure a property chatbot didn’t blow its cover – I was a person pretending to be a computer pretending to be a person. By Laura Preston",
+  "body_text": "Read the text version here A longer version of this story appears in the latest n+1 magazine",
+  "word_count": 17,
+  "article_url": "https://www.theguardian.com/news/audio/2023/jan/13/becoming-a-chatbot-my-life-as-a-real-estate-ais-human-backup-podcast",
+  "audio_url": "https://www.theguardian.com/news/audio/2023/jan/13/becoming-a-chatbot-my-life-as-a-real-estate-ais-human-backup-podcast",
+  "has_audio": true,
+  "tags": [
+    "news/series/the-audio-long-read",
+    "news/series/the-long-read",
+    "technology/chatbots",
+    "technology/artificialintelligenceai",
+    "business/realestate",
+    "technology/internet",
+    "type/audio",
+    "profile/laura-preston",
+    "profile/ellie-bury",
+    "profile/jessica-beck",
+    "tracking/commissioningdesk/uk-audio",
+    "tracking/commissioningdesk/long-read"
+  ],
+  "section": "news",
+  "people_mentioned": [
+    {
+      "name": "Laura Preston",
+      "role": "Author and narrator who worked as human backup for a real estate chatbot"
+    },
+    {
+      "name": "Erin Hunter",
+      "role": "Podcast narrator/reader"
+    },
+    {
+      "name": "Jessica Beck",
+      "role": "Podcast producer"
+    },
+    {
+      "name": "Ellie Bury",
+      "role": "Executive producer of the podcast"
+    }
+  ],
+  "article_type": "memoir",
+  "themes": [
+    "technology",
+    "labour",
+    "identity",
+    "technology and society"
+  ],
+  "time_periods": [
+    {
+      "start_year": 2020,
+      "end_year": 2023,
+      "label": "Contemporary AI and automation era"
+    }
+  ],
+  "geographic_regions": [
+    "United States"
+  ],
+  "historical_figures": [],
+  "domain_tags": [
+    "technology",
+    "economics",
+    "sociology",
+    "psychology"
+  ],
+  "cross_domain_bridges": [
+    "This memoir bridges technology and labor economics by revealing how AI automation often relies on hidden human labor, demonstrating the economic reality that 'artificial intelligence' frequently masks low-wage human workers. The experience connects to psychology and sociology through its exploration of identity confusion when humans must perform as machines, raising questions about authenticity and the psychological toll of technological deception in modern work environments."
+  ],
+  "abstracted_concepts": [
+    "individual vs collective",
+    "tradition vs innovation",
+    "freedom vs control",
+    "visible vs invisible",
+    "unintended consequences"
+  ],
+  "film_adaptation": {
+    "potential": "medium",
+    "categories": [
+      "hidden_world",
+      "ethical_choice"
+    ],
+    "format": "either",
+    "pitch": "A woman spends a year working as the human backup for an AI chatbot, stepping in whenever the bot fails to convince customers it's real. She becomes trapped in a strange liminal space between human and machine, person and performance.",
+    "comparable_works": [
+      "Her",
+      "Black Mirror",
+      "Sorry to Bother You"
+    ]
+  }
+}

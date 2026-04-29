@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Long Read Explorer</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div id="app">
+        <!-- Header -->
+        <header id="header">
+            <div class="header-left">
+                <h1>The Long Read <span class="subtitle">Explorer</span></h1>
+            </div>
+            <div class="header-center">
+                <div class="search-container">
+                    <input type="text" id="search-input" placeholder="Search articles, themes, authors..." autocomplete="off">
+                    <div id="search-results" class="search-dropdown hidden"></div>
+                </div>
+            </div>
+            <div class="header-right">
+                <button id="surprise-btn" class="btn btn-accent" title="Random discovery">Surprise Me</button>
+                <button id="path-finder-btn" class="btn" title="Find connections between articles">Path Finder</button>
+                <button id="filters-toggle" class="btn" title="Toggle filters">Filters</button>
+                <a href="film.html" class="btn" title="Long reads with film potential">Films &rarr;</a>
+            </div>
+        </header>
+
+        <!-- Connection of the Day banner -->
+        <div id="cotd-banner" class="hidden">
+            <span id="cotd-text"></span>
+            <button id="cotd-close" class="btn-icon" title="Close">&times;</button>
+        </div>
+
+        <!-- Filters panel -->
+        <div id="filters-panel" class="hidden">
+            <div class="filter-group">
+                <label>Domain</label>
+                <div id="domain-filters" class="filter-chips"></div>
+            </div>
+            <div class="filter-group">
+                <label>Time Period</label>
+                <div class="range-inputs">
+                    <input type="number" id="year-start" placeholder="From" min="-3000" max="2026">
+                    <span>to</span>
+                    <input type="number" id="year-end" placeholder="To" min="-3000" max="2026">
+                </div>
+            </div>
+            <div class="filter-group">
+                <label>Connection Types</label>
+                <div id="connection-type-filters" class="filter-chips"></div>
+            </div>
+            <div class="filter-group">
+                <button id="clear-filters" class="btn btn-small">Clear All</button>
+                <span id="filter-status"></span>
+            </div>
+        </div>
+
+        <!-- Main content -->
+        <main id="main">
+            <!-- Graph canvas -->
+            <div id="graph-container">
+                <canvas id="graph-canvas"></canvas>
+                <div id="graph-tooltip" class="hidden"></div>
+                <div id="graph-legend"></div>
+                <div id="loading-overlay">
+                    <div class="spinner"></div>
+                    <p>Loading articles...</p>
+                </div>
+            </div>
+
+            <!-- Detail panel -->
+            <aside id="detail-panel" class="hidden">
+                <div class="panel-header">
+                    <button id="panel-close" class="btn-icon" title="Close">&times;</button>
+                </div>
+                <div id="panel-content"></div>
+            </aside>
+        </main>
+
+        <!-- Path finder modal -->
+        <div id="path-modal" class="modal hidden">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2>Path Finder</h2>
+                    <button class="btn-icon modal-close">&times;</button>
+                </div>
+                <p>Find the shortest path between two articles through the connection graph.</p>
+                <div class="path-inputs">
+                    <input type="text" id="path-from" placeholder="Start article..." autocomplete="off">
+                    <span class="path-arrow">&rarr;</span>
+                    <input type="text" id="path-to" placeholder="End article..." autocomplete="off">
+                </div>
+                <div id="path-suggestions" class="hidden"></div>
+                <button id="find-path-btn" class="btn btn-accent">Find Path</button>
+                <div id="path-result"></div>
+            </div>
+        </div>
+
+        <!-- Stats footer -->
+        <footer id="footer">
+            <span id="stats-text"></span>
+            <span class="footer-right">
+                <a href="https://www.theguardian.com/news/series/the-long-read" target="_blank" rel="noopener">The Guardian Long Read</a>
+            </span>
+        </footer>
+    </div>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script type="module" src="js/app.js"></script>
+</body>
+</html>
