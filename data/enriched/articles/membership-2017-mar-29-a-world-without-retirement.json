@@ -114,10 +114,16 @@
     "measurement and precision"
   ],
   "film_adaptation": {
-    "potential": "low",
-    "categories": [],
+    "potential": "medium",
+    "categories": [
+      "david_vs_goliath"
+    ],
     "format": "documentary",
-    "pitch": null,
-    "comparable_works": []
+    "pitch": "Follow individuals from different generations as they navigate Britain's collapsing retirement system — from a 62-year-old woman facing homelessness to a 30-year-old father already terrified of old age.",
+    "comparable_works": [
+      "I, Daniel Blake",
+      "The Florida Project",
+      "American Factory"
+    ]
   }
 }

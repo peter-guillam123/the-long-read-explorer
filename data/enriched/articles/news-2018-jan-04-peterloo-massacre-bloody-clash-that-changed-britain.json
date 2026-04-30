@@ -117,15 +117,15 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "origin_moment",
+      "history_revisited",
       "david_vs_goliath"
     ],
     "format": "either",
-    "pitch": "The 1819 Peterloo Massacre follows 60,000 peaceful protesters demanding voting rights who were brutally charged by cavalry in Manchester, killing 18 and wounding 650 in the bloodiest political clash in British history. The event birthed modern British democracy and the Guardian newspaper itself.",
+    "pitch": "The story of how a peaceful pro-democracy rally in 1819 Manchester turned into Britain's bloodiest political massacre when cavalry charged into 60,000 men, women and children, killing 18 and changing the course of British democracy forever.",
     "comparable_works": [
-      "Mike Leigh's Peterloo",
       "Bloody Sunday",
-      "The King's Speech"
+      "The Crown",
+      "Mike Leigh's Peterloo"
     ]
   }
 }

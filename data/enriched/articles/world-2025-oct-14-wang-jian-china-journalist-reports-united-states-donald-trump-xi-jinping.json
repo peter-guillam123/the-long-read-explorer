@@ -126,14 +126,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
+      "phenomenal_individual",
       "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "A Chinese journalist broadcasts nightly from his Boston garage to 800,000 YouTube subscribers, offering uncensored analysis of US-China relations while serving as a bridge between two increasingly hostile superpowers.",
+    "pitch": "A Chinese journalist broadcasts nightly from his Boston garage to 800,000 YouTube subscribers, offering uncensored analysis of US-China relations while navigating between two worlds that increasingly misunderstand each other.",
     "comparable_works": [
-      "The Social Dilemma",
-      "Free Solo",
-      "Won't You Be My Neighbor?"
+      "The Act of Killing",
+      "Risk",
+      "Citizenfour"
     ]
   }
 }

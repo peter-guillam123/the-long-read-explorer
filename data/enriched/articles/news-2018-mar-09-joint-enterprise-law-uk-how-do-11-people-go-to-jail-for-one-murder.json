@@ -129,15 +129,15 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "david_vs_goliath",
-      "ethical_choice"
+      "twisty_mystery",
+      "david_vs_goliath"
     ],
-    "format": "documentary",
-    "pitch": "Eleven young men receive life sentences for one murder, with only one person wielding the knife. A damning examination of how joint enterprise law disproportionately criminalises young black men in Britain.",
+    "format": "either",
+    "pitch": "Eleven young men receive life sentences for a single stabbing carried out by one person, exposing how joint enterprise law disproportionately criminalises black youth for being present when violence erupts.",
     "comparable_works": [
       "When They See Us",
-      "The Central Park Five",
-      "13th"
+      "The Thin Blue Line",
+      "Just Mercy"
     ]
   }
 }

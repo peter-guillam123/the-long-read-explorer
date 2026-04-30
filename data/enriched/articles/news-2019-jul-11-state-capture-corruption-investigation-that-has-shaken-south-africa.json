@@ -125,16 +125,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
+      "conspiracy",
       "whistleblower",
-      "twisty_mystery",
-      "david_vs_goliath"
+      "history_revisited"
     ],
-    "format": "documentary",
-    "pitch": "Four white South African brothers who sacrificed everything to fight apartheid are now at the centre of a corruption scandal that threatens to expose how the liberation movement they once served became a criminal enterprise.",
+    "format": "either",
+    "pitch": "Four white brothers who sacrificed everything to fight apartheid now stand accused of orchestrating industrial-scale corruption in post-apartheid South Africa. Hidden camera footage shows one brother counting cash bribes while their heroic past collides with testimony of state capture that reaches the highest levels of government.",
     "comparable_works": [
-      "The Act of Killing",
-      "Icarus",
-      "All the President's Men"
+      "All the President's Men",
+      "The Two Popes",
+      "Spotlight"
     ]
   }
 }

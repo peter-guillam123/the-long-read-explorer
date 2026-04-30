@@ -106,17 +106,17 @@
     "individual vs collective"
   ],
   "film_adaptation": {
-    "potential": "high",
+    "potential": "medium",
     "categories": [
-      "survival",
+      "david_vs_goliath",
       "closed_community_upheaval"
     ],
     "format": "documentary",
-    "pitch": "The transformation of Yarmouk from thriving Palestinian neighbourhood to Syria's most besieged district, told through the residents trapped inside as their safe haven becomes a prison where people die queuing for bread.",
+    "pitch": "A Palestinian refugee camp that was once Syria's most prosperous becomes a death trap when civil war forces ordinary families to choose between neutrality and survival.",
     "comparable_works": [
       "For Sama",
       "The Cave",
-      "Last Men in Aleppo"
+      "City of Ghosts"
     ]
   }
 }

@@ -104,17 +104,18 @@
     "unintended consequences"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
-      "twisty_mystery",
-      "david_vs_goliath"
+      "conspiracy",
+      "history_revisited",
+      "closed_community_upheaval"
     ],
     "format": "documentary",
-    "pitch": "A fake letter alleging an Islamic conspiracy to take over Birmingham schools destroys careers and divides a community, while the teachers caught in the media storm fight to clear their names and reveal what really happened.",
+    "pitch": "A fake letter alleging an Islamic takeover of Birmingham schools triggers a national scandal, destroying careers and reputations — but the real conspiracy was the fabrication itself.",
     "comparable_works": [
-      "The Staircase",
-      "Making a Murderer",
-      "When They See Us"
+      "The Act of Killing",
+      "Going Clear",
+      "Won't You Be My Neighbor?"
     ]
   }
 }

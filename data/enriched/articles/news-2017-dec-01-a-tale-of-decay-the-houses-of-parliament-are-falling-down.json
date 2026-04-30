@@ -124,15 +124,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
-      "visual_spectacle"
+      "architecture"
     ],
     "format": "documentary",
-    "pitch": "A crumbling Palace of Westminster becomes a character itself as politicians delay £3.5bn repairs while fire patrols hunt for flames every hour and Victorian sewage ejectors threaten to flood the building with effluent.",
+    "pitch": "As Britain's Parliament building crumbles with asbestos, sewage leaks and fire risks, politicians refuse to evacuate for repairs that could fundamentally change how British democracy operates.",
     "comparable_works": [
-      "The Ruins of Lifta",
-      "Manufactured Landscapes",
-      "The Act of Killing"
+      "The Farthest",
+      "Requiem for the American Dream",
+      "Citizenfour"
     ]
   }
 }

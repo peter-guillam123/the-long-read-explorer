@@ -89,17 +89,10 @@
     "measurement and precision"
   ],
   "film_adaptation": {
-    "potential": "medium",
-    "categories": [
-      "hidden_world",
-      "ethical_choice"
-    ],
+    "potential": "low",
+    "categories": [],
     "format": "documentary",
-    "pitch": "A GP in Edinburgh confronts the weekly challenge of identifying who among his suicidal patients truly means to die, drawing on lessons learned from a dedicated suicide ward that once operated in the city's old hospital.",
-    "comparable_works": [
-      "The Bridge",
-      "Adam Curtis documentaries",
-      "24 Hours in A&E"
-    ]
+    "pitch": null,
+    "comparable_works": []
   }
 }

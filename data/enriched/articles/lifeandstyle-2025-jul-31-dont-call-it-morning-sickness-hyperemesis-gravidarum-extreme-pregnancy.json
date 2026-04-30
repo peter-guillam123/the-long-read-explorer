@@ -110,14 +110,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "survival",
+      "history_revisited",
       "david_vs_goliath"
     ],
-    "format": "either",
-    "pitch": "A woman battles hyperemesis gravidarum—extreme pregnancy sickness that can last nine months—while uncovering how Victorian doctors took the condition more seriously than modern medicine does today.",
+    "format": "documentary",
+    "pitch": "A medical condition affecting millions of pregnant women worldwide has been largely ignored by modern healthcare, despite Victorian doctors treating it with more gravity and resources than today's practitioners.",
     "comparable_works": [
-      "Sicko",
-      "The Constant Gardener",
+      "The Bleeding Edge",
+      "What Happened, Miss Simone?",
       "Unrest"
     ]
   }

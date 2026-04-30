@@ -128,15 +128,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "phenomenal_individual",
-      "hidden_world"
+      "history_revisited",
+      "phenomenal_individual"
     ],
     "format": "either",
-    "pitch": "A Jamaican poet turned radical journalist navigates race riots and revolutionary politics in 1920s London, writing incendiary pieces for Sylvia Pankhurst's underground newspaper while dodging government surveillance.",
+    "pitch": "A young Jamaican poet becomes one of Britain's first Black journalists in 1920s London, documenting racial violence and working-class struggle alongside suffragette Sylvia Pankhurst during a turbulent period that mirrors today's political tensions.",
     "comparable_works": [
-      "Judas and the Black Messiah",
-      "The Crown",
-      "Darkest Hour"
+      "Suffragette",
+      "The Personal History of David Copperfield",
+      "Amazing Grace"
     ]
   }
 }

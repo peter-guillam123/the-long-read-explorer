@@ -140,15 +140,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
+      "espionage",
       "twisty_mystery",
-      "espionage"
+      "phenomenal_individual"
     ],
     "format": "either",
-    "pitch": "A Spanish journalist infiltrates Russian opposition circles for over a decade, charming his way into the inner circle of Putin's enemies, before being arrested as a deep-cover Russian spy. The story follows those who trusted him as they grapple with whether their friend was an innocent reporter or a master manipulator who betrayed them all.",
+    "pitch": "A Spanish journalist spent a decade charming his way into Russian opposition circles and war zones, helping colleagues break major stories, until his 2022 arrest revealed he may have been a deep-cover GRU spy all along. The investigation traces back through years of friendships and professional relationships to ask: was Pablo González really Pavel from Moscow?",
     "comparable_works": [
       "The Americans",
-      "Red Sparrow",
-      "The Spy Who Came In from the Cold"
+      "Tinker Tailor Soldier Spy",
+      "The Spy Who Came in from the Cold"
     ]
   }
 }

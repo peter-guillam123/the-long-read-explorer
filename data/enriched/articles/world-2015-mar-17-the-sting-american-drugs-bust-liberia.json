@@ -124,16 +124,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "heist_con",
       "twisty_mystery",
-      "espionage"
+      "forensic_chase",
+      "david_vs_goliath"
     ],
     "format": "either",
-    "pitch": "A DEA sting operation in Liberia becomes personal when an undercover agent recognises the Nigerian drug trafficker he arrested 20 years earlier. The cat-and-mouse game unfolds across multiple continents as American agents pose as corrupt officials to bring down a cocaine smuggling network.",
+    "pitch": "A DEA sting operation in post-war Liberia targets a Nigerian drug trafficker who the undercover agent had arrested years earlier — but doesn't recognise until it's almost too late.",
     "comparable_works": [
-      "Argo",
-      "American Hustle",
-      "Narcos"
+      "The Departed",
+      "Donnie Brasco",
+      "McMafia"
     ]
   }
 }

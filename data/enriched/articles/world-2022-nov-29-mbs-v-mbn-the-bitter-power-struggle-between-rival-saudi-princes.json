@@ -112,16 +112,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
+      "conspiracy",
       "espionage",
-      "heist_con",
-      "hidden_world"
+      "david_vs_goliath"
     ],
     "format": "either",
-    "pitch": "A young Saudi prince orchestrates a palace coup to seize the throne from his CIA-backed cousin, using detention, threats and psychological pressure in a single night that reshapes the kingdom's power structure.",
+    "pitch": "The brutal palace coup that saw Mohammed bin Salman seize the Saudi throne from his CIA-backed cousin through intimidation, surveillance and family betrayal. A real-world Game of Thrones with geopolitical consequences, told through secret text messages and insider testimonies.",
     "comparable_works": [
       "The Crown",
-      "House of Cards",
-      "All the President's Men"
+      "All the President's Men",
+      "Succession"
     ]
   }
 }

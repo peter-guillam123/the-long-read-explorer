@@ -109,13 +109,13 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "ethical_choice"
+      "phenomenal_individual"
     ],
     "format": "documentary",
-    "pitch": "An Israeli peace activist who spent 15 years building trust with Hamas leaders watches that relationship collapse after 7 October, forcing him to choose between his lifelong beliefs and harsh new realities.",
+    "pitch": "An Israeli peace negotiator who spent 15 years building trust with a Hamas official watches their relationship collapse after October 7th, forcing him to question everything he believed about the possibility of peace.",
     "comparable_works": [
       "The Gatekeepers",
-      "5 Broken Cameras",
+      "Five Broken Cameras",
       "The Oslo Diaries"
     ]
   }

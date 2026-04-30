@@ -128,14 +128,14 @@
     "potential": "high",
     "categories": [
       "david_vs_goliath",
-      "hidden_world"
+      "ethical_choice"
     ],
     "format": "documentary",
-    "pitch": "John Wright has spent 17 years in prison for stealing a bike as a teenager, trapped by Britain's indeterminate sentence system that was designed to protect the public but became a legal black hole where the most vulnerable prisoners have the least chance of getting out.",
+    "pitch": "John Wright has been in prison for 17 years for stealing a bicycle as a teenager, trapped by Britain's indeterminate sentencing system where mental illness makes release less likely while imprisonment worsens mental health.",
     "comparable_works": [
-      "The Staircase",
-      "Making a Murderer",
-      "Time: The Kalief Browder Story"
+      "The Central Park Five",
+      "Dear Zachary",
+      "Making a Murderer"
     ]
   }
 }

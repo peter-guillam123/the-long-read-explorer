@@ -112,14 +112,15 @@
     "potential": "high",
     "categories": [
       "david_vs_goliath",
+      "conspiracy",
       "whistleblower"
     ],
     "format": "documentary",
-    "pitch": "Environmental activist Priya Pillai is detained at Delhi airport and prevented from flying to London to testify about Indian coal mining, triggering a legal battle that exposes the Modi government's systematic campaign to silence NGOs through surveillance, fund freezing and intimidation.",
+    "pitch": "Environmental activist Priya Pillai is stopped at Delhi airport and branded an enemy of the state for trying to speak to British MPs about coal mining, as Modi's government systematically dismantles Greenpeace India through surveillance, fund freezing and bureaucratic warfare.",
     "comparable_works": [
-      "The Act of Killing",
-      "Citizenfour",
-      "Dark Waters"
+      "Dark Waters",
+      "The Insider",
+      "Citizenfour"
     ]
   }
 }

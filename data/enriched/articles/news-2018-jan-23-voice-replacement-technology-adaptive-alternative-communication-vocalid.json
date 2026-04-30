@@ -96,15 +96,14 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "phenomenal_individual",
-      "origin_moment"
+      "phenomenal_individual"
     ],
     "format": "documentary",
-    "pitch": "A young filmmaker races to preserve his voice before cancer surgery destroys his ability to speak, using revolutionary technology that could transform how millions of voiceless people communicate with the world.",
+    "pitch": "A young filmmaker facing the loss of his voice to cancer races to 'bank' his speech using revolutionary technology, while exploring the hidden world of millions who communicate through machines.",
     "comparable_works": [
       "The Theory of Everything",
-      "My Beautiful Broken Brain",
-      "Hawking"
+      "Hawking",
+      "The Diving Bell and the Butterfly"
     ]
   }
 }

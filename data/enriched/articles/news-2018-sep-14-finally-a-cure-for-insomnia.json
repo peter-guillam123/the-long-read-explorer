@@ -123,15 +123,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "phenomenal_individual",
-      "hidden_world"
+      "phenomenal_individual"
     ],
     "format": "documentary",
-    "pitch": "A South African psychiatrist revolutionises treatment for Britain's insomnia epidemic from a small London clinic, challenging decades of medical orthodoxy while battling his own sleeplessness.",
+    "pitch": "A South African psychiatrist who suffered chronic insomnia builds Britain's only dedicated sleep clinic, treating over 1,000 patients with radical therapy that challenges decades of medical orthodoxy.",
     "comparable_works": [
-      "The Weight of Gold",
+      "The Social Dilemma",
       "Heal",
-      "Unrest"
+      "Dark Waters"
     ]
   }
 }

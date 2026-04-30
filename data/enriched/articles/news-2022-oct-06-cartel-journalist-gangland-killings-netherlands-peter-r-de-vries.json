@@ -115,16 +115,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
+      "forensic_chase",
       "whistleblower",
-      "twisty_mystery",
-      "forensic_chase"
+      "phenomenal_individual"
     ],
     "format": "either",
-    "pitch": "When a small-time criminal's conscience forces him to testify against Europe's biggest cocaine kingpin, his evidence triggers a killing spree that reaches Holland's most famous crime journalist. The story follows Nabil B's transformation from lookout to star witness as bodies pile up around the trial that would expose the 'Mocro Maffia'.",
+    "pitch": "A crime journalist becomes the target of Europe's most powerful drug cartel after championing a star witness whose testimony threatens to bring down a billion-euro cocaine empire. When Nabil B turns informant against kingpin Ridouan Taghi following a botched murder of his childhood friend, his alliance with celebrity reporter Peter R de Vries sets off a deadly chain of assassinations that exposes how deeply organised crime has penetrated Dutch society.",
     "comparable_works": [
+      "Spotlight",
       "The Insider",
-      "Donnie Brasco",
-      "McMafia"
+      "Zodiac"
     ]
   }
 }

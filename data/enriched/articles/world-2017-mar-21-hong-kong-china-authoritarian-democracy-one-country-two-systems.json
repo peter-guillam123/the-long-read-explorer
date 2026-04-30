@@ -123,10 +123,11 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "david_vs_goliath"
+      "david_vs_goliath",
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "Young Hong Kong democracy activists like 20-year-old Joshua Wong fight to preserve their city's freedoms as Beijing systematically dismantles the 'one country, two systems' arrangement through abductions, electoral interference and authoritarian control.",
+    "pitch": "Twenty years after Britain handed Hong Kong back to China, young democracy activists like Joshua Wong fight Beijing's tightening grip as the 'one country, two systems' promise crumbles around them.",
     "comparable_works": [
       "Winter on Fire",
       "The Act of Killing",

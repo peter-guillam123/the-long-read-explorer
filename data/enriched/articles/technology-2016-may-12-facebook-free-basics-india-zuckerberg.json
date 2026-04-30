@@ -95,14 +95,14 @@
     "potential": "high",
     "categories": [
       "david_vs_goliath",
-      "hidden_world"
+      "brand_story"
     ],
-    "format": "documentary",
-    "pitch": "Mark Zuckerberg's attempt to bring free internet to India backfires spectacularly when local activists expose Facebook's plan as digital colonialism, forcing the tech giant into its biggest retreat.",
+    "format": "either",
+    "pitch": "Mark Zuckerberg's attempt to bring free internet to India's rural poor backfires spectacularly when Indians see through Facebook's philanthropic veneer and mount a grassroots campaign that deals the company its biggest defeat in 12 years.",
     "comparable_works": [
-      "The Social Dilemma",
+      "The Social Network",
       "The Great Hack",
-      "Terms and Conditions May Apply"
+      "Thank You for Smoking"
     ]
   }
 }

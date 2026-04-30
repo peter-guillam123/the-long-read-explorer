@@ -113,15 +113,15 @@
     "potential": "high",
     "categories": [
       "espionage",
-      "twisty_mystery",
+      "conspiracy",
       "closed_community_upheaval"
     ],
-    "format": "documentary",
-    "pitch": "A bumbling Tibetan-American police officer turned alleged Chinese spy tears apart New York's Tibetan exile community, exposing how Beijing weaponises paranoia and family ties to control dissidents thousands of miles from home.",
+    "format": "either",
+    "pitch": "A bumbling Tibetan-American police officer's arrest for spying exposes China's vast surveillance network targeting exile communities in New York, fracturing a tight-knit diaspora already living in fear.",
     "comparable_works": [
-      "The Mole: Undercover in North Korea",
-      "Icarus",
-      "Operation Varsity Blues"
+      "The Americans",
+      "Mindhunter",
+      "The Spy Who Came in from the Cold"
     ]
   }
 }

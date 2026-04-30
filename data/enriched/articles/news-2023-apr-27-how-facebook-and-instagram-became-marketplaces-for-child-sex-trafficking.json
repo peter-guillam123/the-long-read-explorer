@@ -94,16 +94,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "david_vs_goliath",
       "whistleblower",
+      "david_vs_goliath",
       "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "A two-year investigation following child trafficking survivors and advocates as they battle Meta's algorithms and corporate indifference to stop Instagram becoming a marketplace for selling children for sex.",
+    "pitch": "Child trafficking survivors and advocates take on Meta's platforms where predators openly buy and sell children, exposing how Instagram has become the new classified ads for sexual exploitation.",
     "comparable_works": [
       "The Social Dilemma",
       "I Am Jane Doe",
-      "Liberated: The New Sexual Revolution"
+      "Tricked"
     ]
   }
 }

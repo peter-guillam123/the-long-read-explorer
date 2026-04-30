@@ -116,11 +116,11 @@
     "categories": [
       "hidden_world"
     ],
-    "format": "documentary",
-    "pitch": "A Nigerian writer returns to her Igbo roots after growing up in an English-only household, exploring how language became a battleground between education and wealth in post-colonial Africa.",
+    "format": "either",
+    "pitch": "A Nigerian writer embarks on a journey to reclaim her native Igbo language after growing up in an English-only household, exploring the cultural tensions between education and tradition in post-colonial Africa.",
     "comparable_works": [
-      "Won't You Be My Neighbor?",
-      "The Act of Killing"
+      "The Farewell",
+      "Minari"
     ]
   }
 }

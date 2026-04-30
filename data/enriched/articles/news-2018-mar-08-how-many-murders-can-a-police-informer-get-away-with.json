@@ -126,16 +126,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "espionage",
-      "phenomenal_individual",
-      "ethical_choice"
+      "conspiracy",
+      "twisty_mystery",
+      "whistleblower"
     ],
     "format": "either",
-    "pitch": "Gary Haggarty committed over 500 crimes including five murders while working as a police informer for the British state during the Northern Ireland Troubles. A serial killer protected by his handlers, he operated for 16 years as both terrorist and agent in a system that prioritised intelligence gathering over justice.",
+    "pitch": "A loyalist paramilitary commits hundreds of murders and violent crimes over 16 years while on the British state's payroll, exposing a system where police protected informers rather than victims. The story reveals how Britain's intelligence strategy in Northern Ireland prioritised agent recruitment over crime detection, allowing serial killers to operate with impunity.",
     "comparable_works": [
       "The Departed",
-      "Donnie Brasco",
-      "The Informer"
+      "Spotlight",
+      "The Troubles trilogy"
     ]
   }
 }

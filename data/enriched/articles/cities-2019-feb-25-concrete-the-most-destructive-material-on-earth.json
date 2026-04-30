@@ -172,15 +172,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "visual_spectacle",
-      "david_vs_goliath"
+      "architecture",
+      "visual_spectacle"
     ],
     "format": "documentary",
-    "pitch": "The global concrete industry pumps out more material than all plastic production combined, turning our blue-green planet grey at breakneck speed. Environmental activists and researchers battle against entrenched political and corporate interests to expose how humanity's most essential building material is destroying the very foundations of life on Earth.",
+    "pitch": "A global journey through the concrete industry reveals how humanity's most ubiquitous building material is reshaping the planet faster than nature itself, from Japanese gangster-funded mega-projects to sand pirates destroying coastlines.",
     "comparable_works": [
-      "An Inconvenient Truth",
-      "The Corporation",
-      "Seaspiracy"
+      "Manufactured Landscapes",
+      "The Human Scale",
+      "Koyaanisqatsi"
     ]
   }
 }

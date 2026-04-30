@@ -129,15 +129,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "david_vs_goliath",
-      "phenomenal_individual"
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "Head teacher Sue Vermes transforms a failing primary school in Oxford's most deprived area through radical compassion rather than zero-tolerance discipline, fighting against a decade of austerity and the pandemic's devastating impact on Britain's most vulnerable children.",
+    "pitch": "A headteacher transforms a failing primary school in Oxford by rejecting zero-tolerance discipline policies in favour of understanding each child's trauma, while navigating austerity, pandemic chaos and a cost-of-living crisis.",
     "comparable_works": [
       "Won't You Be My Neighbor?",
       "Waiting for Superman",
-      "The Class"
+      "Captain Fantastic"
     ]
   }
 }

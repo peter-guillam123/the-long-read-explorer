@@ -107,14 +107,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "david_vs_goliath"
+      "david_vs_goliath",
+      "conspiracy"
     ],
     "format": "documentary",
-    "pitch": "Residents of a south London housing estate fight a labyrinthine system of private contractors and council bureaucracy after a £150m regeneration leaves them with dangerous living conditions and no one to hold accountable.",
+    "pitch": "Residents of a south London council estate fight a labyrinthine system after regeneration promises turn into floods, fires and corporate doublespeak — with the same contractors who refurbished Grenfell Tower.",
     "comparable_works": [
-      "I, Daniel Blake",
-      "The Grenfell Tower Inquiry",
-      "Cathy Come Home"
+      "The Take",
+      "I, Daniel Blake"
     ]
   }
 }

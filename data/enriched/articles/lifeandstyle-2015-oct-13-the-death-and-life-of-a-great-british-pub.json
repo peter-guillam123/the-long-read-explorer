@@ -105,16 +105,17 @@
     "power and resistance"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
-      "david_vs_goliath"
+      "david_vs_goliath",
+      "conspiracy"
     ],
-    "format": "documentary",
-    "pitch": "A family of Irish publicans battles a mysterious property developer known as 'the Grim Reaper of pubs' who systematically buys and shuts down beloved London locals to convert them into luxury flats.",
+    "format": "either",
+    "pitch": "The Murphy family battles a mysterious property developer known as 'the Grim Reaper of pubs' who systematically destroys Britain's locals through legal loopholes and planning tricks. A microcosm of gentrification told through one Camden pub's fight for survival against forces designed to erase working-class gathering places.",
     "comparable_works": [
-      "Gentrification: London",
-      "The Last Blockbuster",
-      "McMillions"
+      "I, Daniel Blake",
+      "The Insider",
+      "Spotlight"
     ]
   }
 }

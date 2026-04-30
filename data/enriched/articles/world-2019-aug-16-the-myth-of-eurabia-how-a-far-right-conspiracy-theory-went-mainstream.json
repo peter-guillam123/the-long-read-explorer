@@ -129,15 +129,16 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
+      "conspiracy",
       "origin_moment",
-      "twisty_mystery"
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "How an obscure Egyptian-Jewish writer's conspiracy theory about European surrender to Islam travelled through blogs and chatrooms to inspire Anders Breivik's massacre and reshape Western politics.",
+    "pitch": "How an obscure Egyptian-Jewish conspiracy theorist's writings about European surrender to Islam inspired Norwegian blogger Fjordman, whose ideas directly influenced Anders Breivik's 2011 massacre that killed 77 people.",
     "comparable_works": [
-      "The Cleaners",
-      "Terms and Conditions May Apply",
-      "The Great Hack"
+      "The Great Hack",
+      "Get Me Roger Stone",
+      "The Brink"
     ]
   }
 }

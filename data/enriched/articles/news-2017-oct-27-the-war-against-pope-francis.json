@@ -137,15 +137,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
+      "closed_community_upheaval",
       "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "Pope Francis faces a brewing revolt from conservative cardinals who accuse him of heresy over his reforms on divorce and communion. The battle threatens to fracture the world's largest religious organisation as both sides prepare for an unprecedented showdown.",
+    "pitch": "Inside the Vatican's civil war as Pope Francis faces accusations of heresy from his own cardinals, with conservative Catholics plotting to force out the leader they compare to the mad emperor Caligula.",
     "comparable_works": [
       "Spotlight",
-      "The Two Popes",
-      "Mea Maxima Culpa: Silence in the House of God"
+      "Mea Maxima Culpa: Silence in the House of God",
+      "Going Clear: Scientology and the Prison of Belief"
     ]
   }
 }

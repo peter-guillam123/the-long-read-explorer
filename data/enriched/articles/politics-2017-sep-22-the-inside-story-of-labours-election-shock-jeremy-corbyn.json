@@ -143,14 +143,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "origin_moment"
+      "david_vs_goliath",
+      "history_revisited"
     ],
-    "format": "documentary",
-    "pitch": "How Jeremy Corbyn's ragtag team of political outsiders defied their own party machine and media predictions to nearly topple Theresa May in Britain's 2017 election. Behind-the-scenes access to the key players reveals the improvised campaign that shifted the centre of gravity in British politics.",
+    "format": "either",
+    "pitch": "Jeremy Corbyn's ragtag team of political outsiders defies predictions of electoral wipeout to strip Theresa May of her majority in seven weeks, transforming from fringe ideologues into a government-in-waiting.",
     "comparable_works": [
       "The War Room",
-      "Our Brand Is Crisis",
-      "Brexit: The Uncivil War"
+      "All the President's Men",
+      "The Campaign"
     ]
   }
 }

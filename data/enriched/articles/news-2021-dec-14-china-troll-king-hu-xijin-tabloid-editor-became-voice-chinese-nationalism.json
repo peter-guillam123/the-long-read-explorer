@@ -121,14 +121,15 @@
     "potential": "high",
     "categories": [
       "phenomenal_individual",
+      "conspiracy",
       "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "The rise of Hu Xijin, China's most influential propagandist who transformed from tabloid editor to the combative voice of Chinese nationalism, wielding Twitter like a weapon while helping shape Xi Jinping's increasingly aggressive global messaging.",
+    "pitch": "A tabloid editor becomes China's most influential propagandist, crafting a new aggressive nationalism that reshapes how the world's second superpower speaks to the West — while operating in the shadowy space between journalism and state control.",
     "comparable_works": [
-      "The Great Hack",
-      "Active Measures",
-      "Enemies of the People"
+      "The Act of Killing",
+      "Citizenfour",
+      "The Great Hack"
     ]
   }
 }

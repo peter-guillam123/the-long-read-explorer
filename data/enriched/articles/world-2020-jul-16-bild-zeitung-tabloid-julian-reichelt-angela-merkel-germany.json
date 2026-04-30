@@ -134,15 +134,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
-      "phenomenal_individual"
+      "phenomenal_individual",
+      "brand_story"
     ],
     "format": "documentary",
-    "pitch": "A portrait of Julian Reichelt, the combative editor of Europe's largest tabloid, as he wages war against Germany's political establishment while courting readers at fire stations and beer halls across the country.",
+    "pitch": "Julian Reichelt, the provocative editor of Europe's largest tabloid Bild, wages a media war against Angela Merkel and Germany's liberal establishment from the driver's seat of a culture-shifting newspaper that still shapes political discourse across the country.",
     "comparable_works": [
-      "The Murdoch Dynasty",
-      "Citizen Kane",
-      "Dark Money"
+      "The Brink",
+      "Citizenfour",
+      "All the President's Men"
     ]
   }
 }

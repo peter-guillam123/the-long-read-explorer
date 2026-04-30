@@ -119,14 +119,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
+      "phenomenal_individual",
+      "david_vs_goliath",
       "ethical_choice"
     ],
     "format": "either",
-    "pitch": "A decade after Basque separatists murdered her husband, a widow receives a letter from one of his killers asking to meet. Their unlikely friendship challenges both to confront the true cost of political violence.",
+    "pitch": "A decade after Basque terrorists killed her husband, a widow receives a letter from one of his assassins asking to meet — beginning an extraordinary friendship that challenges everything both know about forgiveness and justice.",
     "comparable_works": [
+      "The Act of Killing",
       "In the Name of the Father",
-      "The Forgiveness of Blood",
-      "Maixabel"
+      "The Forgiven"
     ]
   }
 }

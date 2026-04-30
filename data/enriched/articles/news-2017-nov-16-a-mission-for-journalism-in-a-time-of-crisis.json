@@ -139,16 +139,10 @@
     "origins and foundations"
   ],
   "film_adaptation": {
-    "potential": "medium",
-    "categories": [
-      "origin_moment"
-    ],
+    "potential": "low",
+    "categories": [],
     "format": "documentary",
-    "pitch": "The founding of the Guardian newspaper emerges from the 1819 Peterloo massacre, when 28-year-old journalist John Edward Taylor witnesses cavalry charge into peaceful protesters, killing 11 and spurring him to create a paper that would hold power to account.",
-    "comparable_works": [
-      "The Post",
-      "All the President's Men",
-      "Spotlight"
-    ]
+    "pitch": null,
+    "comparable_works": []
   }
 }

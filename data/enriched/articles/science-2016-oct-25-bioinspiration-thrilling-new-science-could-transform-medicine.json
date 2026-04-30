@@ -119,14 +119,13 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "phenomenal_individual",
-      "hidden_world"
+      "phenomenal_individual"
     ],
     "format": "documentary",
-    "pitch": "A bioengineer who owes his success to Spider-Man creates revolutionary medical technologies by copying nature's designs, from gecko feet to porcupine quills.",
+    "pitch": "Jeffrey Karp uses nature's blueprints to revolutionise surgery, from gecko-inspired medical tape to porcupine quill staples he tests on his own chin.",
     "comparable_works": [
-      "The Social Dilemma",
-      "AlphaGo",
+      "The Theory of Everything",
+      "Free Solo",
       "Abstract: The Art of Design"
     ]
   }

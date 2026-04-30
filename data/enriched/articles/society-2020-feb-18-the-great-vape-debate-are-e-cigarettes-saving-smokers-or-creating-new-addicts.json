@@ -124,14 +124,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
+      "brand_story",
       "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "The transatlantic battle over vaping follows British health officials defending e-cigarettes as life-saving tools against American activists convinced they're creating a new generation of addicts.",
+    "pitch": "A transatlantic divide over vaping splits the public health establishment as San Francisco bans e-cigarettes while Britain's NHS promotes them, with Juul caught in the crossfire of lawsuits and regulatory fury.",
     "comparable_works": [
-      "The Century of the Self",
-      "Thank You for Smoking",
-      "Merchants of Doubt"
+      "The Social Dilemma",
+      "Merchants of Doubt",
+      "Dark Waters"
     ]
   }
 }

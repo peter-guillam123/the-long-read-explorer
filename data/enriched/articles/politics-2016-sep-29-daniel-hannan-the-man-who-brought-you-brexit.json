@@ -153,13 +153,14 @@
     "unintended consequences"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
       "phenomenal_individual",
-      "origin_moment"
+      "origin_moment",
+      "conspiracy"
     ],
-    "format": "documentary",
-    "pitch": "The untold story of Daniel Hannan, the obscure MEP who spent 25 years crafting the intellectual framework for Brexit from his office in Brussels, watching his fringe cause transform into a national revolution.",
+    "format": "either",
+    "pitch": "A quietly obsessive MEP spent 25 years plotting Brexit from inside the European Parliament, writing the intellectual framework that would eventually convince 17 million people to leave the EU. The story of how Daniel Hannan and a small sect of true believers engineered the most consequential political upset in modern British history.",
     "comparable_works": [
       "The Social Network",
       "Vice",

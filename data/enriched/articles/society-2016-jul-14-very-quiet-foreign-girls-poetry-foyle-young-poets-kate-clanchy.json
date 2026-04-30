@@ -144,16 +144,17 @@
     "transmission of knowledge"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
-      "hidden_world"
+      "hidden_world",
+      "phenomenal_individual"
     ],
     "format": "documentary",
-    "pitch": "A teacher creates a poetry group for refugee girls at a diverse Oxford school, unlocking stories of trauma and displacement that the students had never been able to tell.",
+    "pitch": "A teacher creates a poetry group for refugee girls at a diverse academy, discovering extraordinary talent among students silenced by trauma and displacement. As the group finds its voice through verse, their stories reveal both the cost of starting over and the power of language to reclaim identity.",
     "comparable_works": [
       "Won't You Be My Neighbor?",
-      "Freedom Writers",
-      "Finding Forrester"
+      "Spelling the Dream",
+      "Finding Vivian Maier"
     ]
   }
 }

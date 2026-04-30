@@ -138,14 +138,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "david_vs_goliath"
+      "conspiracy",
+      "david_vs_goliath",
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "Bereaved families wage a 32-year battle against police lies and institutional cover-up after the Hillsborough disaster kills 97 people, exposing how the British justice system can fail ordinary citizens seeking truth.",
+    "pitch": "A 32-year battle between working-class families and the British establishment after police lies blamed Liverpool supporters for their own deaths at Hillsborough stadium, revealing how power protects itself at any cost.",
     "comparable_works": [
       "The Central Park Five",
       "Making a Murderer",
-      "Spotlight"
+      "Grenfell: In Search of Truth"
     ]
   }
 }

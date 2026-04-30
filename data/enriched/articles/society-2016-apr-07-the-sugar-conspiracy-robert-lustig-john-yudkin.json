@@ -107,17 +107,18 @@
     "theory vs observation"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
+      "conspiracy",
       "david_vs_goliath",
-      "whistleblower"
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "British nutritionist John Yudkin identified sugar as the real dietary villain in the 1970s, only to have his career destroyed by powerful colleagues and industry interests who championed the low-fat orthodoxy that may have caused decades of obesity and diabetes.",
+    "pitch": "British nutritionist John Yudkin warned in 1972 that sugar, not fat, was killing us — but a powerful establishment destroyed his career and buried his research for decades. The story of how industry influence and scientific groupthink created a public health disaster that affects millions today.",
     "comparable_works": [
-      "The Insider",
+      "The Big Short",
       "Dark Waters",
-      "Food, Inc."
+      "Merchants of Doubt"
     ]
   }
 }

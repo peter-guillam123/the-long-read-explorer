@@ -118,14 +118,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "david_vs_goliath"
+      "david_vs_goliath",
+      "history_revisited"
     ],
-    "format": "documentary",
-    "pitch": "The five-year journey of Ed Miliband from surprise Labour leadership victory to his last chance at Number 10, fighting press hostility and party scepticism while trying to reshape British capitalism from the opposition benches.",
+    "format": "either",
+    "pitch": "Ed Miliband's five-year battle to reshape Labour and British politics after inheriting a broken party, culminating in the 2015 election that would make or break his radical gamble.",
     "comparable_works": [
-      "The War Room",
-      "Our Brand Is Crisis",
-      "Weiner"
+      "The Deal",
+      "The Special Relationship",
+      "All the President's Men"
     ]
   }
 }

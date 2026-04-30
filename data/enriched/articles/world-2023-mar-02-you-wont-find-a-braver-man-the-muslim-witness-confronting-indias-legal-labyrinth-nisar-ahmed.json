@@ -118,14 +118,15 @@
     "potential": "high",
     "categories": [
       "david_vs_goliath",
+      "whistleblower",
       "ethical_choice"
     ],
-    "format": "documentary",
-    "pitch": "A Muslim businessman who survived the Delhi riots becomes a witness in court cases against his attackers, only to find himself trapped in a legal system that seems designed to silence him rather than deliver justice.",
+    "format": "either",
+    "pitch": "A Muslim witness to Delhi's 2020 riots discovers that testifying against the perpetrators puts him in greater danger than the violence itself, as India's justice system becomes another battleground in the country's religious conflict.",
     "comparable_works": [
-      "The Act of Killing",
-      "Strong Island",
-      "Time"
+      "The Insider",
+      "Spotlight",
+      "Dark Waters"
     ]
   }
 }

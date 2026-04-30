@@ -125,16 +125,17 @@
     "decline and fall"
   ],
   "film_adaptation": {
-    "potential": "high",
+    "potential": "medium",
     "categories": [
-      "phenomenal_individual"
+      "phenomenal_individual",
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "The rise and fall of Alan Yentob, the BBC's most powerful cultural gatekeeper for half a century, whose influence shaped everything from David Bowie documentaries to Strictly Come Dancing before his spectacular public downfall over a charity scandal.",
+    "pitch": "The rise and fall of Alan Yentob, the BBC executive who shaped decades of British television from David Bowie documentaries to Strictly Come Dancing, told through his final chapter making a refugee camp film while his career crumbles around him.",
     "comparable_works": [
-      "The Fall of the House of Murdoch",
-      "Citizen Kane",
-      "Won't You Be My Neighbor?"
+      "Won't You Be My Neighbor?",
+      "American Masters",
+      "The Last Mogul"
     ]
   }
 }

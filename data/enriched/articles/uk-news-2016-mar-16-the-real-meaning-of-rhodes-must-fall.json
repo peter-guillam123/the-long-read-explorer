@@ -121,14 +121,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "david_vs_goliath",
-      "origin_moment"
+      "origin_moment",
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "Student activists at Oxford and Cape Town challenge centuries of colonial legacy through protests to remove Cecil Rhodes statues, sparking a global debate about institutional racism and historical memory.",
+    "pitch": "How a statue removal campaign at the University of Cape Town sparked a global student movement confronting institutional racism, following the activists as they take their fight from South Africa to Oxford University.",
     "comparable_works": [
-      "I Am Not Your Negro",
       "13th",
+      "I Am Not Your Negro",
       "The Act of Killing"
     ]
   }

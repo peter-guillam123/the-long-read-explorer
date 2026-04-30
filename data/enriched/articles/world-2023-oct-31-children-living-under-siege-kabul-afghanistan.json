@@ -96,16 +96,17 @@
     "unintended consequences"
   ],
   "film_adaptation": {
-    "potential": "high",
+    "potential": "medium",
     "categories": [
-      "survival"
+      "survival",
+      "history_revisited"
     ],
     "format": "either",
-    "pitch": "A 10-year-old girl and her extended family endure months of relentless bombardment during the 1992 siege of Kabul, where survival becomes a daily negotiation between hope and terror.",
+    "pitch": "A 10-year-old girl navigates months of siege in 1992 Kabul as her family develops rituals around death, hunger and the daily terror of rocket attacks during the mujahideen's bombardment of the Afghan capital.",
     "comparable_works": [
-      "Persepolis",
-      "Come and See",
-      "The Pianist"
+      "Grave of the Fireflies",
+      "The Siege",
+      "City of Life and Death"
     ]
   }
 }

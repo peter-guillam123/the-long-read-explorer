@@ -144,15 +144,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
-      "phenomenal_individual"
+      "phenomenal_individual",
+      "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "The unelected civil servant who has been the constant power behind four prime ministers, accumulating secrets and influence while remaining invisible to the public.",
+    "pitch": "The unelected civil servant who has wielded more power than most cabinet ministers, serving three prime ministers across two decades while becoming the hidden architect of modern British government.",
     "comparable_works": [
-      "The Thick of It",
+      "The Fog of War",
       "All the President's Men",
-      "Inside Job"
+      "The Crown"
     ]
   }
 }

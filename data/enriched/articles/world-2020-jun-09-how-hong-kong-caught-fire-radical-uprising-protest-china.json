@@ -122,15 +122,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
+      "origin_moment",
       "david_vs_goliath",
-      "origin_moment"
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "How a city of 7 million transformed from cautious pragmatism to radical resistance in one extraordinary year, as Beijing's tightening grip sparked the largest protests in Hong Kong's history. The story follows key activists like Bonnie Leung from the margins to mass mobilisation, culminating in 2 million people taking to the streets.",
+    "pitch": "The transformation of Hong Kong from a pragmatic, business-focused city into the epicentre of one of the world's most dramatic pro-democracy uprisings, told through the activists who witnessed both the Tiananmen massacre and their own movement's radicalisation.",
     "comparable_works": [
       "Winter on Fire: Ukraine's Fight for Freedom",
-      "Joshua: Teenager vs. Superpower",
-      "The Act of Killing"
+      "The Square",
+      "Joshua: Teenager vs. Superpower"
     ]
   }
 }

@@ -102,17 +102,18 @@
     "power and resistance"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
+      "brand_story",
       "whistleblower",
       "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "A veteran pharmacist's depression becomes the entry point into how private equity transformed Britain's most trusted chemist from a caring institution into a profit-driven machine that staff say endangers patients.",
+    "pitch": "How Britain's most trusted pharmacy chain was transformed from a Methodist family business into a profit-driven machine, told through the eyes of pharmacists who claim the new business model puts patients at risk.",
     "comparable_works": [
-      "The Insider",
+      "The Corporation",
       "Spotlight",
-      "I, Daniel Blake"
+      "Dark Waters"
     ]
   }
 }

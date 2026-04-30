@@ -118,14 +118,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "ethical_choice",
-      "closed_community_upheaval"
+      "david_vs_goliath",
+      "ethical_choice"
     ],
     "format": "documentary",
-    "pitch": "Dr Ibrahim Maiga becomes the sole medical authority for 60,000 people when jihadists occupy Timbuktu, while religious leader Daouda Ali Maiga must choose between collaboration and resistance as he's forced to serve as a sharia court judge.",
+    "pitch": "Dr Ibrahim Maiga becomes the sole doctor for 60,000 people when jihadists overrun Timbuktu, while religious leaders navigate impossible choices between collaboration and survival in a state that has abandoned them.",
     "comparable_works": [
-      "The Square",
-      "City of Ghosts"
+      "They Shall Not Grow Old",
+      "The Act of Killing",
+      "Of Fathers and Sons"
     ]
   }
 }

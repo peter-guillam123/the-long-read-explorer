@@ -117,17 +117,18 @@
     "unintended consequences"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
       "hidden_world",
-      "phenomenal_individual"
+      "phenomenal_individual",
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "Denis Nikitin's journey from packed-lunch schoolboy to neo-Nazi MMA fighter reveals how Russia's football hooligan firms became a state-backed machine for recruiting far-right extremists.",
+    "pitch": "Denis Nikitin's journey from mother's packed lunches to neo-Nazi MMA fighter reveals how Putin's Russia created and then tried to destroy its own monster — a state-sponsored hooligan army that got too powerful to control.",
     "comparable_works": [
       "Icarus",
       "The Act of Killing",
-      "Fight Club"
+      "Russia's Hooligan Army"
     ]
   }
 }

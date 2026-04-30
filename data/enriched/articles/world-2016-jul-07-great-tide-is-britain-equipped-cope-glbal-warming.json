@@ -133,15 +133,16 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
+      "history_revisited",
       "survival",
       "visual_spectacle"
     ],
     "format": "either",
-    "pitch": "Britain faces a new Great Tide as climate change makes 1953-level flooding commonplace, following communities from the Scottish coast to London as they brace for a catastrophe that could displace millions and reshape the nation's geography.",
+    "pitch": "The forgotten 1953 flood that killed 531 people across Britain becomes a window into the country's unpreparedness for the climate disasters to come. A combination of historical recreation and present-day warning about what happens when the next great tide hits.",
     "comparable_works": [
-      "The Day After Tomorrow",
+      "The Impossible",
       "An Inconvenient Truth",
-      "Flood"
+      "Chernobyl"
     ]
   }
 }

@@ -132,14 +132,14 @@
     "potential": "medium",
     "categories": [
       "whistleblower",
-      "david_vs_goliath"
+      "history_revisited"
     ],
-    "format": "either",
-    "pitch": "A young civil servant watches from inside government as Margaret Thatcher systematically dismantles Britain's commitment to objective truth, transforming how power communicates with citizens forever.",
+    "format": "documentary",
+    "pitch": "A idealistic civil servant watches from inside as Thatcher's government systematically dismantles the notion of objective truth, turning government information from public service into political propaganda.",
     "comparable_works": [
-      "The Report",
-      "Official Secrets",
-      "All the President's Men"
+      "The Insider",
+      "All the President's Men",
+      "Official Secrets"
     ]
   }
 }

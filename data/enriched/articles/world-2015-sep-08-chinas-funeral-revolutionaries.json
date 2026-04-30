@@ -110,14 +110,14 @@
     "categories": [
       "hidden_world",
       "david_vs_goliath",
-      "origin_moment"
+      "phenomenal_individual"
     ],
-    "format": "documentary",
-    "pitch": "Two Chinese entrepreneurs attempt to disrupt their country's notoriously corrupt funeral industry, armed with Silicon Valley ideals and facing down decades of entrenched bureaucracy and organised crime.",
+    "format": "either",
+    "pitch": "Two tech entrepreneurs attempt to disrupt China's corrupt funeral industry after one experiences its seedy underbelly while his mother is dying of cancer. They face off against decades of entrenched bureaucracy and criminal networks in a market worth billions.",
     "comparable_works": [
-      "The China Hustle",
-      "Fyre: The Greatest Party That Never Happened",
-      "WeWork: Or the Making and Breaking of a $47 Billion Unicorn"
+      "The Social Network",
+      "Super Size Me",
+      "Fyre: The Greatest Party That Never Happened"
     ]
   }
 }

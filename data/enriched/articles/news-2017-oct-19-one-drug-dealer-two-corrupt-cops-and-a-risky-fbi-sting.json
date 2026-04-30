@@ -106,16 +106,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "hidden_world",
-      "ethical_choice",
-      "heist_con"
+      "twisty_mystery",
+      "heist_con",
+      "ethical_choice"
     ],
     "format": "either",
-    "pitch": "A teenage drug dealer in Baltimore strikes a corrupt deal with two police officers who sell him confiscated drugs, then becomes an FBI informant to expose them when the partnership turns deadly.",
+    "pitch": "A teenage drug dealer in Baltimore gets pulled into a corrupt scheme with two police officers who sell him confiscated drugs, then becomes an FBI informant to expose them when the arrangement turns deadly.",
     "comparable_works": [
-      "The Departed",
-      "Donnie Brasco",
-      "We Own This City"
+      "The Wire",
+      "We Own This City",
+      "White Boy Rick"
     ]
   }
 }

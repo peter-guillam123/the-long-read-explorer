@@ -114,15 +114,15 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "survival",
+      "david_vs_goliath",
       "ethical_choice"
     ],
     "format": "either",
-    "pitch": "A young woman trapped in an abusive relationship kills her partner in what she claims was self-defence, but the legal system sees murder. Her case becomes a test of how the courts understand domestic violence and psychological coercion.",
+    "pitch": "A young woman trapped in an abusive relationship kills her partner in self-defence, then fights the legal system that refuses to recognise intimate terrorism as grounds for murder.",
     "comparable_works": [
-      "Dirty John",
-      "The Act",
-      "Unbelievable"
+      "Unbelievable",
+      "When They See Us",
+      "Big Little Lies"
     ]
   }
 }

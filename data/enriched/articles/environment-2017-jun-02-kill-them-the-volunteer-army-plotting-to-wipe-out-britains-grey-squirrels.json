@@ -97,14 +97,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
-      "phenomenal_individual"
+      "phenomenal_individual",
+      "david_vs_goliath",
+      "closed_community_upheaval"
     ],
     "format": "documentary",
-    "pitch": "Julie Bailey, a disabled former gymnast turned squirrel hunter, leads a volunteer army across Britain's countryside on a mission to save red squirrels by systematically exterminating grey ones. A passionate conservation effort that reveals the moral complexities of protecting native species in an era of mass extinction.",
+    "pitch": "A disabled former gymnast becomes an obsessive squirrel sniper, leading a volunteer army of ordinary Britons in a controversial campaign to save red squirrels by systematically killing grey ones.",
     "comparable_works": [
-      "My Octopus Teacher",
       "Tiger King",
+      "My Octopus Teacher",
       "Blackfish"
     ]
   }

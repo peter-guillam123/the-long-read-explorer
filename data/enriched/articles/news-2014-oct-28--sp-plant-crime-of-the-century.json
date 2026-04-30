@@ -95,15 +95,16 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
-      "phenomenal_individual"
+      "twisty_mystery",
+      "phenomenal_individual",
+      "hidden_world"
     ],
-    "format": "documentary",
-    "pitch": "Inside the secretive world of plant crime where botanical obsessives steal the world's rarest species, following the theft of the planet's last surviving water lily and the Spanish scientist who saved it from extinction.",
+    "format": "either",
+    "pitch": "When the world's rarest water lily is stolen from Kew Gardens, the theft exposes an underground network of plant criminals and the obsessive scientists trying to save species from extinction.",
     "comparable_works": [
       "The Orchid Thief",
-      "Don't F**k With Cats",
-      "Tiger King"
+      "Don't F**k with Cats",
+      "My Octopus Teacher"
     ]
   }
 }

@@ -109,14 +109,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "david_vs_goliath"
+      "david_vs_goliath",
+      "closed_community_upheaval"
     ],
     "format": "documentary",
-    "pitch": "A writer walks the 119-mile route of Britain's most expensive railway project at 3mph, meeting the ordinary people whose lives will be destroyed by trains passing at 225mph.",
+    "pitch": "A writer walks the entire 119-mile route of Britain's most expensive infrastructure project, meeting the farmers, mechanics and villagers whose homes and livelihoods will be demolished for a railway that saves commuters 32 minutes.",
     "comparable_works": [
-      "The Take",
-      "Erin Brockovich",
-      "A Decent Factory"
+      "The Pennine Way",
+      "Tracks",
+      "Wild"
     ]
   }
 }

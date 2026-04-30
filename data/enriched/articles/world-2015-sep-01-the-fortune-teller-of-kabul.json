@@ -114,16 +114,17 @@
     "continuity vs change"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
-      "hidden_world"
+      "hidden_world",
+      "phenomenal_individual"
     ],
     "format": "documentary",
-    "pitch": "A Kabul fortune-teller becomes an unlikely guide for Afghans desperate to flee their country, using ancient mysticism to navigate modern migration routes as the Taliban rises and Western forces withdraw.",
+    "pitch": "A fortune-teller in Kabul becomes the unlikely counsellor to thousands of Afghans desperate to flee their country, using ancient mysticism to navigate modern migration routes as the Western occupation collapses.",
     "comparable_works": [
-      "City of Ghosts",
-      "Of Fathers and Sons",
-      "Last Men in Aleppo"
+      "The Cave",
+      "Taxi Tehran",
+      "Of Fathers and Sons"
     ]
   }
 }

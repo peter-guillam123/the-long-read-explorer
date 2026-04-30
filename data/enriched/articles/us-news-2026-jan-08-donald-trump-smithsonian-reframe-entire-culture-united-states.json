@@ -115,14 +115,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "david_vs_goliath"
+      "david_vs_goliath",
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "Museum director Kim Sajet becomes the unlikely face of resistance when Trump personally targets her on social media, sparking a constitutional crisis over who controls America's cultural memory.",
+    "pitch": "Kim Sajet, director of America's National Portrait Gallery, refuses to bend when Trump tries to fire her on social media for displaying too many women and minorities. Her quiet resistance becomes a battleground for who gets to control the story America tells about itself.",
     "comparable_works": [
-      "The Social Dilemma",
-      "Spotlight",
-      "Dark Waters"
+      "All the President's Men",
+      "The Post",
+      "Dark Money"
     ]
   }
 }

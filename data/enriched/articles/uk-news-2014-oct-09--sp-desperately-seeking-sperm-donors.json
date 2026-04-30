@@ -97,14 +97,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
-      "phenomenal_individual"
+      "phenomenal_individual",
+      "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "Laura Witjens, a force-of-nature Dutch CEO, launches Britain's National Sperm Bank while confronting men on trains and at rugby clubs about masturbation, cultural shame and the country's fertility crisis.",
+    "pitch": "Laura Witjens, a Dutch bulldozer of a woman, launches Britain's first National Sperm Bank while personally accosting men at train stations with sperm donor t-shirts. Her mission to solve the country's dire sperm shortage reveals a peculiarly British crisis of sexual squeamishness.",
     "comparable_works": [
-      "Made for Love",
-      "The Business of Being Born"
+      "The Red Pill",
+      "Liberated: The New Sexual Revolution"
     ]
   }
 }

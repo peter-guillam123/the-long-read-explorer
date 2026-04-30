@@ -102,18 +102,18 @@
     "unintended consequences"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
-      "twisty_mystery",
-      "david_vs_goliath",
-      "espionage"
+      "conspiracy",
+      "espionage",
+      "david_vs_goliath"
     ],
-    "format": "documentary",
-    "pitch": "A Ukrainian fact-checker discovers that debunking Russian disinformation only makes her part of the game, as she navigates a hall of mirrors where truth itself becomes a weapon.",
+    "format": "either",
+    "pitch": "A Ukrainian journalism student battles Russian disinformation warfare, only to find herself caught in an endless hall of mirrors where truth itself becomes weaponised. Her investigation reveals how Putin's Russia pioneered a new form of conflict fought not with bullets but in the 'psychosphere' of human consciousness.",
     "comparable_works": [
-      "Citizenfour",
       "The Great Hack",
-      "Active Measures"
+      "Active Measures",
+      "Icarus"
     ]
   }
 }

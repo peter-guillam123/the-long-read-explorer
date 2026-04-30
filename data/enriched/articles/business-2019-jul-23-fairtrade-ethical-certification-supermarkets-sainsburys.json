@@ -113,10 +113,11 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "david_vs_goliath"
+      "david_vs_goliath",
+      "brand_story"
     ],
     "format": "documentary",
-    "pitch": "Paul Tiony and other African farmers battle corporate giants like Sainsbury's who abandon fair trade certification for their own watered-down schemes, threatening decades of progress towards ethical commerce.",
+    "pitch": "When Sainsbury's abandoned Fairtrade for its own 'Fairly Traded' label, Kenyan tea farmer Paul Tiony found himself at the centre of a corporate betrayal that threatens to unravel decades of ethical trading progress.",
     "comparable_works": [
       "The Corporation",
       "Food, Inc.",

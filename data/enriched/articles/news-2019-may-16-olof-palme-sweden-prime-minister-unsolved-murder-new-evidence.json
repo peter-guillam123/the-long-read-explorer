@@ -127,14 +127,15 @@
     "potential": "high",
     "categories": [
       "twisty_mystery",
-      "forensic_chase"
+      "forensic_chase",
+      "conspiracy"
     ],
     "format": "either",
-    "pitch": "The assassination of Swedish prime minister Olof Palme in 1986 remains unsolved after 33 years, spawning conspiracy theories, amateur detectives driven to obsession, and 130 false confessions. As new evidence emerges and investigators promise a breakthrough, the case that haunts an entire nation may finally reach its conclusion.",
+    "pitch": "The assassination of Sweden's prime minister in 1986 remains unsolved after three decades, spawning the world's largest murder investigation archive and a national obsession that has driven amateur detectives to madness. As new evidence emerges, the case that shattered Sweden's innocence may finally reach its conclusion.",
     "comparable_works": [
-      "Zodiac",
       "The Jinx",
-      "Making a Murderer"
+      "Making a Murderer",
+      "Zodiac"
     ]
   }
 }

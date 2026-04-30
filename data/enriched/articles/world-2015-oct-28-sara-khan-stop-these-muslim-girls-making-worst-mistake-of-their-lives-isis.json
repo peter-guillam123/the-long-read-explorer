@@ -123,15 +123,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "ethical_choice",
-      "david_vs_goliath"
+      "david_vs_goliath",
+      "ethical_choice"
     ],
     "format": "documentary",
-    "pitch": "Sara Khan walks a tightrope between government counter-terrorism officials and the Muslim communities she's trying to protect from ISIS recruitment, facing attacks from both sides as she attempts to save young women from radicalisation.",
+    "pitch": "Sara Khan, a British Muslim woman, becomes the government's key weapon against ISIS recruitment while facing accusations from her own community that she's betraying the people she claims to protect.",
     "comparable_works": [
       "The Act of Killing",
-      "My Name Is Red",
-      "The Square"
+      "Won't You Be My Neighbor?",
+      "Citizenfour"
     ]
   }
 }

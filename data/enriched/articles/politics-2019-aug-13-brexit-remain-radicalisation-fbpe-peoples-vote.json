@@ -138,15 +138,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
       "origin_moment"
     ],
     "format": "documentary",
-    "pitch": "The transformation of moderate middle-class Britons into political radicals through the #FBPE movement, following key figures as they navigate online tribes, street protests and the psychological upheaval of finding themselves outsiders in their own country.",
+    "pitch": "How Brexit transformed middle-class moderates into political radicals, told through the rise of #FBPE Twitter and the grassroots remain movement that emerged from defeat.",
     "comparable_works": [
-      "The Great Hack",
       "The Social Dilemma",
-      "Brexit: The Uncivil War"
+      "Brexit: The Uncivil War",
+      "Won't You Be My Neighbor?"
     ]
   }
 }

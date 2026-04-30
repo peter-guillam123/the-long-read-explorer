@@ -150,14 +150,14 @@
     "categories": [
       "twisty_mystery",
       "heist_con",
-      "espionage"
+      "conspiracy"
     ],
     "format": "either",
-    "pitch": "A Georgian antiques dealer and his accomplices steal £2.5m worth of rare Russian books from libraries across Europe, leaving high-quality forgeries in their place — but investigators suspect state-sponsored motives behind the continent-spanning literary heist that began just after Putin's invasion of Ukraine.",
+    "pitch": "A sophisticated book theft ring steals 170 rare Russian classics from libraries across Europe during the Ukraine war, leaving investigators to wonder whether they're chasing petty criminals or a state-sponsored operation to reclaim cultural heritage.",
     "comparable_works": [
       "The Monuments Men",
-      "Operation Varsity Blues",
-      "McMillion$"
+      "The Thomas Crown Affair",
+      "American Animals"
     ]
   }
 }

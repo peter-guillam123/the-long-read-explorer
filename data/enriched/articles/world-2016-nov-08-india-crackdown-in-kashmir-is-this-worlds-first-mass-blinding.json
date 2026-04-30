@@ -115,17 +115,17 @@
     "unintended consequences"
   ],
   "film_adaptation": {
-    "potential": "high",
+    "potential": "medium",
     "categories": [
       "david_vs_goliath",
-      "visual_spectacle"
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "In Kashmir's 2016 uprising, Indian forces fired 1.3 million metal pellets into crowds of protesters, systematically blinding hundreds of civilians including children as young as four in what may be the world's first mass blinding campaign.",
+    "pitch": "The systematic blinding of hundreds of young Kashmiris by Indian security forces using pellet guns during the 2016 uprising following militant leader Burhan Wani's killing. Told through the eyes of victims, doctors performing dozens of emergency surgeries daily, and families navigating life under the world's longest-running military occupation.",
     "comparable_works": [
+      "For Sama",
       "5 Broken Cameras",
-      "The Act of Killing",
-      "For Sama"
+      "The Act of Killing"
     ]
   }
 }

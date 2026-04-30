@@ -108,16 +108,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "david_vs_goliath",
+      "phenomenal_individual",
       "hidden_world",
-      "heist_con"
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "A Dutch former activist leads an underground network of amateur detectives who pose as tourists to infiltrate illegal fishing operations controlled by organised crime syndicates across Europe. Van der Werf and his volunteer army of teachers, nurses and train drivers risk their safety to gather evidence that could put mafia bosses behind bars.",
+    "pitch": "A former ship's engineer turned activist leads an underground network of amateur sleuths who spend their holidays going undercover to expose billion-dollar illegal fishing operations run by organised crime syndicates.",
     "comparable_works": [
-      "Sea of Shadows",
       "Seaspiracy",
-      "The Cove"
+      "The Cove",
+      "Blackfish"
     ]
   }
 }

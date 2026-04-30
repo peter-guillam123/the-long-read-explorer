@@ -108,16 +108,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "forensic_chase",
+      "history_revisited",
       "whistleblower",
-      "david_vs_goliath"
+      "forensic_chase"
     ],
     "format": "documentary",
-    "pitch": "A Dutch researcher poses as a regime loyalist to track down a Syrian war criminal who executed civilians in a Damascus suburb, while survivors break their silence to expose the full scale of Assad's killing machine in Tadamon.",
+    "pitch": "Survivors of Assad's mass executions in Damascus break their silence after the regime's fall, revealing how a leaked video that exposed one killer became the key to uncovering thousands more murders than anyone knew.",
     "comparable_works": [
       "The Act of Killing",
-      "For Sama",
-      "They Shall Not Grow Old"
+      "20 Days in Mariupol",
+      "For Sama"
     ]
   }
 }

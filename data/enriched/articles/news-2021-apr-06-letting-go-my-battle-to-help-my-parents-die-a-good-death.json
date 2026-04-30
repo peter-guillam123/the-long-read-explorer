@@ -88,16 +88,16 @@
     "power and resistance"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
       "ethical_choice"
     ],
     "format": "either",
-    "pitch": "A daughter navigates the impossible task of honouring her elderly parents' wish to die at home during the pandemic, battling a medical system determined to keep them alive against their will.",
+    "pitch": "A daughter navigates the healthcare system's refusal to honour her parents' wishes to die at home, fighting to protect their end-of-life choices during the pandemic.",
     "comparable_works": [
+      "Still Alice",
       "The Father",
-      "Amour",
-      "Still Alice"
+      "Amour"
     ]
   }
 }

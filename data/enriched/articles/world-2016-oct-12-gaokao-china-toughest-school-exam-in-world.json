@@ -115,12 +115,13 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world"
+      "hidden_world",
+      "survival"
     ],
     "format": "documentary",
-    "pitch": "Following Chinese student Yuan Qi through the final months before gaokao, China's brutal college entrance exam that determines the fate of 10 million teenagers each year. The film reveals the extraordinary pressures of a system where a single three-digit score decides your career, marriage prospects and entire future.",
+    "pitch": "Follow a Chinese student through the brutal gaokao exam system - two days that determine everything in a society where 50,000 compete for each university place, complete with anti-cheating drones and parents camping outside exam halls.",
     "comparable_works": [
-      "Spellbound",
+      "Waiting for Superman",
       "Race to Nowhere",
       "Most Likely to Succeed"
     ]

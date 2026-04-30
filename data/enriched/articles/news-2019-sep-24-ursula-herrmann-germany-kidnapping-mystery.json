@@ -90,15 +90,14 @@
     "potential": "high",
     "categories": [
       "twisty_mystery",
-      "forensic_chase",
-      "closed_community_upheaval"
+      "forensic_chase"
     ],
     "format": "either",
-    "pitch": "When 10-year-old Ursula Herrmann disappears while cycling home through a Bavarian forest in 1981, police discover she was buried alive in an elaborate underground box — launching a decades-long investigation that tears apart a picturesque lakeside community.",
+    "pitch": "When 10-year-old Ursula Herrmann disappeared cycling through a Bavarian forest in 1981, police found her buried alive in an elaborate underground box — launching a decades-long investigation that would tear apart a community and leave Germany's most notorious kidnapping case unsolved.",
     "comparable_works": [
-      "Zodiac",
-      "The Disappearance of Madeleine McCann",
-      "West of Memphis"
+      "Making a Murderer",
+      "The Jinx",
+      "Zodiac"
     ]
   }
 }

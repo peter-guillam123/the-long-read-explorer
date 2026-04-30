@@ -107,15 +107,15 @@
     "potential": "high",
     "categories": [
       "forensic_chase",
-      "david_vs_goliath",
-      "hidden_world"
+      "hidden_world",
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "Wildlife conservationists in Madagascar turn private detectives to catch tortoise smugglers, using undercover stings and Facebook investigations to expose a black market worth millions. Their target: a young trafficker moving Madagascar's rarest tortoises to buyers in Asia, one suitcase at a time.",
+    "pitch": "Wildlife detectives use military-style tactics and undercover stings to take down tortoise smugglers in Madagascar, where a single rare tortoise can fetch $50,000 on the black market. A former counter-terrorism officer turned conservationist tracks down a Facebook-posting smuggler in a country where corruption makes wildlife crime nearly impossible to prosecute.",
     "comparable_works": [
-      "Don't F**k with Cats",
-      "The Traffickers",
-      "Racing Extinction"
+      "The Ivory Game",
+      "Racing Extinction",
+      "Don't F**k with Cats"
     ]
   }
 }

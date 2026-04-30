@@ -92,15 +92,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "hidden_world",
+      "phenomenal_individual",
+      "david_vs_goliath",
       "ethical_choice"
     ],
     "format": "either",
-    "pitch": "A former primary school classmate discovers his childhood acquaintance has been convicted as a human trafficker for county lines drug dealing, leading to an examination of how modern slavery laws transform vulnerable teenagers into both victims and perpetrators.",
+    "pitch": "A childhood friend of the journalist becomes the first person convicted as a slave master under modern trafficking laws for running teenage drug dealers between cities. The story follows his journey from homeless 14-year-old to convicted trafficker, questioning whether the justice system is catching the right people.",
     "comparable_works": [
-      "Top Boy",
-      "I, Daniel Blake",
-      "The Work"
+      "Moonlight",
+      "The Wire",
+      "County Lines"
     ]
   }
 }

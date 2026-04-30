@@ -128,12 +128,12 @@
       "heist_con",
       "hidden_world"
     ],
-    "format": "documentary",
-    "pitch": "A Bougainvillean conman who ran a $232m Ponzi scheme retreated to a jungle compound where he crowned himself king and still commands the loyalty of his subjects, despite being hunted by authorities.",
+    "format": "either",
+    "pitch": "A Bougainvillean man runs a $232 million Ponzi scheme, declares himself king of a jungle compound, and continues to command loyal followers despite being hunted by authorities and rivals across the remote South Pacific islands.",
     "comparable_works": [
-      "The Tinder Swindler",
-      "Tiger King",
-      "Wild Wild Country"
+      "The King of Kong",
+      "Fyre: The Greatest Party That Never Happened",
+      "Tiger King"
     ]
   }
 }

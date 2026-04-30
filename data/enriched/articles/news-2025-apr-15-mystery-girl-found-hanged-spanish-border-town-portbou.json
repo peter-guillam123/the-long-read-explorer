@@ -120,13 +120,14 @@
     "potential": "high",
     "categories": [
       "twisty_mystery",
-      "forensic_chase"
+      "forensic_chase",
+      "phenomenal_individual"
     ],
-    "format": "documentary",
-    "pitch": "A nameless girl found hanging from a tree in a Spanish border town in 1990 sparks a 30-year obsession among locals to discover her identity, until a TV crime show uncovers evidence that transforms the case from suicide to potential murder.",
+    "format": "either",
+    "pitch": "When a nameless girl is found hanging from a tree in a Spanish border town in 1990, a forensic doctor, journalist and TV presenter spend three decades obsessively trying to identify her — until new evidence suggests she may have been murdered.",
     "comparable_works": [
-      "The Keepers",
-      "Making a Murderer",
+      "The Jinx",
+      "Don't F**k with Cats",
       "The Disappearance of Madeleine McCann"
     ]
   }

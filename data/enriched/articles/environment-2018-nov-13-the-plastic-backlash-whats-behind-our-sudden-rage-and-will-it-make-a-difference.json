@@ -132,16 +132,10 @@
     "cause and effect"
   ],
   "film_adaptation": {
-    "potential": "medium",
-    "categories": [
-      "origin_moment"
-    ],
+    "potential": "low",
+    "categories": [],
     "format": "documentary",
-    "pitch": "How a six-minute sequence in Blue Planet II sparked a global revolt against plastic that transformed environmental campaigning forever. The story follows the scientists, campaigners and BBC producers who witnessed ordinary people suddenly turn against a material they'd lived with for decades.",
-    "comparable_works": [
-      "An Inconvenient Truth",
-      "Blackfish",
-      "Free Solo"
-    ]
+    "pitch": null,
+    "comparable_works": []
   }
 }

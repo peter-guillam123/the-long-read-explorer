@@ -132,15 +132,16 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
+      "phenomenal_individual",
       "visual_spectacle",
-      "phenomenal_individual"
+      "brand_story"
     ],
     "format": "documentary",
-    "pitch": "Austrian developer Josef Kleindienst attempts to resurrect Dubai's failed artificial archipelago 'The World' with snow machines in the desert and underwater bedrooms, ten years after the financial crash left 300 artificial islands as abandoned sand mounds in the Gulf.",
+    "pitch": "Austrian developer Josef Kleindienst attempts to revive Dubai's abandoned artificial archipelago by building snow plazas and underwater hotels on islands shaped like European countries. A decade after financial collapse left The World as empty sand mounds in the Gulf, one man's megalomaniacal vision collides with the reality of climate, physics and money.",
     "comparable_works": [
-      "The Act of Killing",
       "Fyre: The Greatest Party That Never Happened",
-      "McMillions"
+      "The Act of Killing",
+      "Manufactured Landscapes"
     ]
   }
 }

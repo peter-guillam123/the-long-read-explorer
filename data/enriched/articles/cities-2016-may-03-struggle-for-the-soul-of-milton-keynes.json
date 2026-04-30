@@ -131,14 +131,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "david_vs_goliath",
-      "closed_community_upheaval"
+      "architecture",
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "As Milton Keynes turns 50, the architects and residents who built Britain's most misunderstood modernist city fight developers and planners threatening to destroy its founding vision — including a crucial battle to preserve the midsummer sunrise alignment down its main boulevard.",
+    "pitch": "Britain's most misunderstood city faces a battle for its soul as developers threaten to destroy the modernist vision that aligned Milton Keynes' main street with the midsummer sunrise. Local residents and the original architects defend their maligned masterpiece against forces that would sacrifice its cosmic ambitions for profit.",
     "comparable_works": [
+      "Citizen Architect",
       "The Pruitt-Igoe Myth",
-      "Citizen Jane: Battle for the City"
+      "Rams"
     ]
   }
 }

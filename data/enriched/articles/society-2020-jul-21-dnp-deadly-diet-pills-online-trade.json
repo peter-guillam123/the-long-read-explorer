@@ -120,15 +120,15 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "hidden_world",
-      "david_vs_goliath"
+      "david_vs_goliath",
+      "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "A mother fights to ban the deadly industrial chemical that killed her daughter, exposing the unregulated online trade that markets lethal poison as diet pills to vulnerable young people.",
+    "pitch": "A mother fights to ban the industrial chemical that killed her daughter, exposing a deadly online trade targeting people with eating disorders. The film follows grieving families taking on an unregulated industry that packages explosive powder into diet pills and markets them to the vulnerable.",
     "comparable_works": [
-      "Take Care of Maya",
-      "The Social Dilemma",
-      "Sicko"
+      "Dark Waters",
+      "The Insider",
+      "To the Bone"
     ]
   }
 }

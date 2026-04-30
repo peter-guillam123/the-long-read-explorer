@@ -133,15 +133,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "espionage",
-      "ethical_choice"
+      "history_revisited",
+      "ethical_choice",
+      "espionage"
     ],
     "format": "either",
-    "pitch": "A former US defence secretary carries a secret peace plan into North Korea in 1999, only to watch hawks in Washington destroy the mission that could have prevented decades of nuclear crisis.",
+    "pitch": "A former US defence secretary's secret 1999 mission to Pyongyang could have ended North Korea's nuclear programme before it began — but political hawks killed the deal, setting the stage for today's crisis.",
     "comparable_works": [
       "The Fog of War",
-      "Darkest Hour",
-      "13 Days"
+      "13 Days",
+      "All the President's Men"
     ]
   }
 }

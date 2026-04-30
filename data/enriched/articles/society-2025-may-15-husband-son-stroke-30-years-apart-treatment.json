@@ -104,14 +104,15 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "survival"
+      "david_vs_goliath",
+      "history_revisited"
     ],
     "format": "either",
-    "pitch": "A woman fights the medical establishment twice across 30 years as both her husband and son suffer strokes, revealing how little has changed in Britain's approach to rehabilitation and recovery.",
+    "pitch": "A woman fights a broken NHS stroke system twice — first for her husband in 1992, then for her son 30 years later, discovering that institutional neglect has barely changed despite decades of medical advances.",
     "comparable_works": [
       "Still Alice",
       "The Theory of Everything",
-      "Five Feet Apart"
+      "Spotlight"
     ]
   }
 }

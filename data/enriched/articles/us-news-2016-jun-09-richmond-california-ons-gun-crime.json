@@ -96,16 +96,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "hidden_world",
       "david_vs_goliath",
-      "ethical_choice"
+      "phenomenal_individual",
+      "hidden_world"
     ],
     "format": "either",
-    "pitch": "Ex-convicts in Richmond, California run a radical programme that pays potential killers monthly stipends not to shoot each other, cutting the city's murder rate by 77%. The story follows former gang leader Rohnell Robinson and his mentor Sam Vaughn as they navigate the moral complexities of a system that rewards people for not committing crimes.",
+    "pitch": "A former serial killer turned peace negotiator leads an experimental programme that pays gang members not to shoot each other, cutting murder rates by 77% in one of America's most violent cities. The story follows Rohnell Robinson's transformation from triggerman to mentor while questioning whether you can actually buy your way out of urban warfare.",
     "comparable_works": [
       "The Interrupters",
-      "13th",
-      "Boyz n the Hood"
+      "Boyz n the Hood",
+      "Fruitvale Station"
     ]
   }
 }

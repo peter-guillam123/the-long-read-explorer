@@ -108,15 +108,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "visual_spectacle",
-      "david_vs_goliath"
+      "hidden_world",
+      "origin_moment"
     ],
     "format": "documentary",
-    "pitch": "How China's communist government transformed a lactose-intolerant nation into the world's third-largest milk producer in 30 years, turning desert into factory farms while triggering a global environmental crisis. A Beijing filmmaker who lived through this transformation guides us from childhood propaganda ads to the mega-dairies of Inner Mongolia.",
+    "pitch": "How China's Communist Party transformed a lactose-intolerant nation into the world's third-largest milk producer in just 30 years, using dairy as a symbol of modern prosperity while creating a global environmental crisis.",
     "comparable_works": [
-      "The Corporation",
-      "Food, Inc.",
-      "An Inconvenient Truth"
+      "The China Hustle",
+      "Manufactured Landscapes",
+      "Food, Inc."
     ]
   }
 }

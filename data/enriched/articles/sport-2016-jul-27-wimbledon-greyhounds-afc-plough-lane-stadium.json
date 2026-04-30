@@ -123,16 +123,17 @@
     "power and resistance"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
-      "david_vs_goliath"
+      "david_vs_goliath",
+      "closed_community_upheaval"
     ],
     "format": "either",
-    "pitch": "A fan-owned football club fights its way up from the bottom of the pyramid after its original team was moved to another city, but to complete their journey home they must evict the last greyhound track in London.",
+    "pitch": "Fan-owned football club AFC Wimbledon fights its way back from the lowest leagues after their original team was relocated to Milton Keynes, only to discover their dream homecoming requires destroying London's last greyhound racing track — making them the villain in someone else's underdog story.",
     "comparable_works": [
       "The Damned United",
-      "Sunderland 'Til I Die",
-      "Leicester City: The Impossible Dream"
+      "Senna",
+      "Icarus"
     ]
   }
 }

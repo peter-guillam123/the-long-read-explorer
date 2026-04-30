@@ -136,14 +136,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "visual_spectacle"
+      "hidden_world",
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "Behind the scenes of the 2009 Copenhagen climate summit's spectacular collapse, culminating in Barack Obama barging uninvited into a private meeting of world leaders in a last-ditch attempt to salvage any deal from two weeks of diplomatic chaos.",
+    "pitch": "Behind-the-scenes chaos at the 2009 Copenhagen climate summit, where Obama gatecrashed a private meeting between world leaders as delegates bled from frustration and the planet's future was decided by sleep-deprived negotiators eating cold sandwiches.",
     "comparable_works": [
-      "The War Room",
-      "Veep",
-      "Inside the Meltdown"
+      "The Fog of War",
+      "13 Days",
+      "Fahrenheit 9/11"
     ]
   }
 }

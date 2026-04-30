@@ -117,14 +117,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "visual_spectacle"
+      "history_revisited",
+      "phenomenal_individual"
     ],
-    "format": "documentary",
-    "pitch": "A first-person account of the fall of Saigon in April 1975, following the Guardian correspondent who witnessed the chaotic final days as American helicopters evacuated the desperate whilst North Vietnamese tanks rolled through empty streets.",
+    "format": "either",
+    "pitch": "A Guardian correspondent's eyewitness account of the fall of Saigon in 1975, following him through the chaotic final days as American helicopters evacuate desperate crowds while North Vietnamese tanks roll into a city living on rumours and denial.",
     "comparable_works": [
       "The Fog of War",
-      "Last Days in Vietnam",
-      "Apocalypse Now"
+      "Apocalypse Now",
+      "Last Days in Vietnam"
     ]
   }
 }

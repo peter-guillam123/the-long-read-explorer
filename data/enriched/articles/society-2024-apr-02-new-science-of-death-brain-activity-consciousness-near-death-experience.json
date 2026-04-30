@@ -122,15 +122,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "twisty_mystery",
+      "phenomenal_individual",
       "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "A neuroscientist discovers that the brains of dying patients show unexplained bursts of activity, challenging everything medicine thought it knew about death and consciousness.",
+    "pitch": "A neuroscientist at the University of Michigan discovers unprecedented electrical activity in the brains of dying patients, forcing science to reconsider what happens in the final moments of life.",
     "comparable_works": [
-      "What the Health",
-      "The Mystery of Chi",
-      "Waking Life"
+      "The Theory of Everything",
+      "My Octopus Teacher",
+      "Particle Fever"
     ]
   }
 }

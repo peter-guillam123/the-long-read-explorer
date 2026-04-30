@@ -111,17 +111,18 @@
     "boundary crossing"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
       "visual_spectacle",
-      "survival"
+      "survival",
+      "closed_community_upheaval"
     ],
     "format": "documentary",
-    "pitch": "As Tuvalu becomes the world's first nation threatened with complete submersion, residents navigate between a government's digital statehood experiment and the reality of permanent exile from their disappearing islands.",
+    "pitch": "On a Pacific island nation that will be underwater within decades, 11,000 people face an impossible choice between a digital future and physical displacement as their government declares them the world's first virtual nation.",
     "comparable_works": [
-      "The Island President",
-      "Climate You Can't See",
-      "Aquarela"
+      "An Inconvenient Truth",
+      "The Age of Stupid",
+      "Chasing Ice"
     ]
   }
 }

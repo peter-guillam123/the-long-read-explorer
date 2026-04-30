@@ -128,14 +128,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "david_vs_goliath"
+      "david_vs_goliath",
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "Three generations of Appalachian activists — from communist newspaper publishers in the 1930s to striking teachers in 2018 — challenge the myth that rural America belongs to Trump. Their stories reveal how the region's radical labour tradition is inspiring a new wave of grassroots organising against corporate power.",
+    "pitch": "Contemporary activists in Appalachia draw on their families' forgotten history of communist organising and labour resistance to challenge the myth that coal country has always been conservative Trump territory.",
     "comparable_works": [
       "Harlan County USA",
       "American Factory",
-      "The Last Mountain"
+      "Union"
     ]
   }
 }

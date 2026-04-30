@@ -97,17 +97,18 @@
     "unintended consequences"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
       "david_vs_goliath",
-      "phenomenal_individual"
+      "phenomenal_individual",
+      "visual_spectacle"
     ],
     "format": "documentary",
-    "pitch": "As rising seas devour the Norfolk and Suffolk coasts, two elderly holdouts wage their own private wars against the waves — one woman camping in a caravan as her cliff crumbles away, one man spending decades building his own sea defences with borrowed bulldozers.",
+    "pitch": "As rising seas devour Britain's coastline, a handful of stubborn residents refuse to retreat — including a 70-year-old woman living in a caravan as her cliff crumbles away and an 84-year-old farmer building his own DIY sea defences with bulldozers and rubble.",
     "comparable_works": [
-      "Grizzly Man",
-      "The Dig",
-      "My Architect"
+      "Beasts of the Southern Wild",
+      "The Impossible",
+      "Grizzly Man"
     ]
   }
 }

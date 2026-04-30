@@ -90,14 +90,15 @@
     "potential": "high",
     "categories": [
       "hidden_world",
-      "david_vs_goliath"
+      "david_vs_goliath",
+      "whistleblower"
     ],
     "format": "either",
-    "pitch": "A Vietnamese teenager trafficked into modern slavery on a British cannabis farm fights a landmark legal case after the state treats him as a criminal rather than a victim. His journey exposes the hidden network of child trafficking that supplies Britain's cannabis industry.",
+    "pitch": "A Vietnamese teenager trafficked into modern slavery on a British cannabis farm fights through the legal system when authorities treat him as a criminal rather than a victim. His landmark high court case exposes how the UK's justice system fails the children it should protect.",
     "comparable_works": [
-      "I Am Not Your Negro",
+      "I, Daniel Blake",
       "The Traffickers",
-      "Room"
+      "Taken for a Ride"
     ]
   }
 }

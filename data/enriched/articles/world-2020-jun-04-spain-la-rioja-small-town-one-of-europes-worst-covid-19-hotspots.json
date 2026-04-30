@@ -106,14 +106,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "closed_community_upheaval"
+      "closed_community_upheaval",
+      "conspiracy"
     ],
     "format": "documentary",
-    "pitch": "A medieval Spanish town of 6,300 people becomes one of Europe's deadliest Covid hotspots, as neighbours turn against each other and conspiracy theories spread faster than the virus itself.",
+    "pitch": "A medieval Spanish town of 6,300 becomes Europe's deadliest Covid hotspot, as residents turn detective to count their own dead while local authorities refuse to release figures, fracturing the community between those demanding truth and those protecting reputation.",
     "comparable_works": [
-      "Contagion",
-      "The Act of Killing",
-      "Welcome to Chechnya"
+      "Collective",
+      "After Truth: Disinformation and the Cost of Fake News"
     ]
   }
 }

@@ -36,19 +36,23 @@ VALID_POTENTIAL = {"high", "medium", "low", "none"}
 VALID_FORMATS = {"fiction", "documentary", "either"}
 
 CATEGORIES = {
-    "twisty_mystery":            "Investigations with reveals, deception, identity, hidden truths slowly unspooling.",
-    "hidden_world":              "A sub-culture, niche profession or closed community most readers have never seen inside.",
-    "phenomenal_individual":     "A person whose feats, obsession or singular ability would carry a film on their own.",
-    "heist_con":                 "A caper, scam or audacious scheme — Tinder Swindler, Catch Me If You Can territory.",
+    "twisty_mystery":            "Investigations and crime stories with reveals, deception, identity, hidden truths slowly unspooling. Includes quirky / low-stakes / weirdly specific crimes — not just violent ones.",
+    "conspiracy":                "A scheme where powerful actors deliberately deceive the public — cover-ups, manufactured narratives, hidden agendas, slow-burn exposure of institutional deceit. Requires active concealment, not just 'closed-door decisions'. Different from 'twisty_mystery' (single truth unspooling); this is structural, organised dishonesty.",
+    "hidden_world":              "A sub-culture, niche profession, closed community or surprising/unusual workplace most readers have never seen inside.",
+    "phenomenal_individual":     "A person whose feats, obsession or singular ability would carry a film on their own. Includes athletes, astronauts and others whose lifestyle is inseparable from the feat — and non-traditional investigators (volunteer detectives, journalist-sleuths, citizen experts).",
+    "heist_con":                 "A caper, scam or audacious scheme — Tinder Swindler, Catch Me If You Can territory. The fun ones, not just the cruel ones.",
+    "brand_story":               "Absurd, scandalous or revealing things that happened to (or because of) a famous brand or franchise — Pepsi's Harrier-jet promotion, the rigging of Who Wants to Be a Millionaire, McDonald's monopoly fraud. The story IS the brand.",
     "david_vs_goliath":          "A small actor takes on a much bigger one — Erin Brockovich, The Insider.",
     "whistleblower":             "Exposing institutional rot from inside — Spotlight, The Report.",
     "survival":                  "Physical or psychological extremes — Touching the Void, 127 Hours.",
-    "forensic_chase":            "Patient detective work cracking a cold case — Don't F**k With Cats, Mindhunter.",
+    "forensic_chase":            "Patient detective work, with both pursuer and pursued — cat-and-mouse dynamics, cold cases solved by relentlessness. Don't F**k With Cats, Mindhunter, The Jinx.",
     "origin_moment":             "The moment a movement, scene, technology or idea began — The Social Network.",
+    "history_revisited":         "Looking back to reassess a known event or era with fresh evidence, modern eyes, or buried context. Different from 'origin_moment' (which is about a beginning); this is about re-examination — what really happened, what we got wrong.",
     "closed_community_upheaval": "A small place upended by a single event — Tiger King energy.",
     "ethical_choice":            "A protagonist forced into an impossible decision — Sophie's Choice, The Insider.",
+    "architecture":              "Buildings, architects, urban form — pieces about the politics or poetry of physical space, the people who shape it, the cities they remake. The Brutalist, The Fountainhead, Citizen Architect.",
     "visual_spectacle":          "Settings or worlds that demand to be seen — ice caps, particle colliders, deserts.",
-    "espionage":                 "Tradecraft, defectors, moles, covert state operations — Cold War or contemporary.",
+    "espionage":                 "Tradecraft, defectors, moles, covert state operations. From Cold War paranoia to contemporary disinformation — can lean documentary (real spies, real defections) or fiction-thriller (Bourne-type action, identity unmasking).",
 }
 
 PROMPT = """You are helping the Guardian's multimedia team identify long reads that could translate into a film or documentary.
@@ -85,6 +89,15 @@ Two checks before you commit to a rating:
 2. If you've returned 'medium' or higher with an empty categories list, you've almost certainly mis-rated — drop it to 'low'. The categories below are the lens through which we identify film material; if none of them fit, the piece probably isn't film material.
 
 Default to caution. We'd rather miss a borderline 'medium' than flood the multimedia team with weak suggestions.
+
+A few patterns that score well, beyond the category list:
+
+- 'So strange I can't believe it' — true stories that pull you up short on the page. If the article makes you say "wait, really?", that's a signal.
+- Conspiracies and quirky crimes where the texture is as interesting as the outcome.
+- Stories tied to a specific place that hasn't been over-mined for film yet (regional UK, Africa, central Asia, etc.).
+- Pieces from key moments of recent history (1990s onwards especially) that feel ripe for revisiting with modern eyes.
+- Famous brands or franchises caught in absurd or revealing situations.
+- Architects, buildings or spaces with a strong narrative through-line.
 
 Available category slugs (pick 0-3 that genuinely fit):
 
@@ -196,6 +209,8 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--sample", type=int, default=0,
                         help="Run on N evenly-spaced articles, print results, do not write.")
+    parser.add_argument("--force", action="store_true",
+                        help="Re-process articles even if they already have a film_adaptation field.")
     args = parser.parse_args()
 
     if not os.environ.get("ANTHROPIC_API_KEY"):
@@ -223,7 +238,7 @@ def main():
     for i, path in enumerate(targets):
         article = json.loads(path.read_text())
 
-        if not args.sample and "film_adaptation" in article:
+        if not args.sample and not args.force and "film_adaptation" in article:
             skipped += 1
             continue
 

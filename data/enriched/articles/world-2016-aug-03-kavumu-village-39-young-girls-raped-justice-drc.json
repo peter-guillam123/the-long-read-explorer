@@ -110,17 +110,17 @@
     "visible vs invisible"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
       "forensic_chase",
       "closed_community_upheaval"
     ],
     "format": "documentary",
-    "pitch": "A police officer in eastern Congo pursues an organised ring systematically abducting and raping dozens of young girls from the same village, while families live in terror and authorities fail to act.",
+    "pitch": "A dedicated police officer in a remote Congolese village hunts an organised ring systematically abducting and raping dozens of young girls, while the traumatised community fractures under fear and stigma.",
     "comparable_works": [
-      "City of God",
-      "The Act of Killing",
-      "Our Girls"
+      "The Hunting Ground",
+      "City of Joy",
+      "When They See Us"
     ]
   }
 }

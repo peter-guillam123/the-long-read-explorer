@@ -127,15 +127,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "phenomenal_individual",
-      "david_vs_goliath"
+      "david_vs_goliath",
+      "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "Martin Wolfe, a maverick plant pathologist, spent decades developing revolutionary wheat varieties that could resist disease without chemicals, culminating in his experimental farm where he proved that genetic diversity could challenge the industrial food system.",
+    "pitch": "A rogue plant pathologist and a new generation of artisan bakers wage war against industrial agriculture and the supermarket loaf that dominates British tables. Their weapon: ancient wheat varieties and forgotten techniques that could revolutionise how we grow and eat our daily bread.",
     "comparable_works": [
       "The Biggest Little Farm",
-      "Food, Inc.",
-      "The Botany of Desire"
+      "Somm",
+      "Chef's Table"
     ]
   }
 }

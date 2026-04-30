@@ -122,14 +122,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "closed_community_upheaval"
+      "closed_community_upheaval",
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "Liverpool, Labour's heartland, fractures along with the party as Corbyn's rise exposes decades of ideological tension in Britain's 'reddest city'.",
+    "pitch": "A broken window becomes the metaphor for Labour's civil war as Liverpool - the party's reddest stronghold - hosts the 2016 conference while grassroots members revolt against Westminster's attempted coup against Corbyn.",
     "comparable_works": [
-      "The War Room",
-      "Our Boys",
-      "The Last Miners"
+      "The Labour Files",
+      "Brexit: The Uncivil War",
+      "The Wilderness Years"
     ]
   }
 }

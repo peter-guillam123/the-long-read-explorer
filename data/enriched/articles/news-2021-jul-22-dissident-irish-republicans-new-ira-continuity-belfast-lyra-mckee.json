@@ -113,10 +113,11 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world"
+      "hidden_world",
+      "closed_community_upheaval"
     ],
     "format": "documentary",
-    "pitch": "A taxi driver and former Provisional IRA member navigate the fractured world of dissident republicanism in post-Good Friday Agreement Northern Ireland, where small groups still wage armed struggle despite widespread condemnation.",
+    "pitch": "Inside the fractured world of dissident Irish republicans who refuse to accept the peace process, following key figures as they justify continuing an armed campaign that most of Ireland has rejected.",
     "comparable_works": [
       "The Troubles: A Dublin Story",
       "Bobby Sands: 66 Days",

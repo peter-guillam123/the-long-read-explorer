@@ -111,17 +111,17 @@
     "boundary crossing"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
       "phenomenal_individual",
-      "closed_community_upheaval"
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "When thousands of Central American refugees overwhelm a Texas border town, a 62-year-old Catholic nun mobilises an entire community to transform a church hall into an unlikely sanctuary.",
+    "pitch": "Sister Norma, a 62-year-old Catholic nun, transforms a parish hall into a sanctuary for thousands of Central American migrants when her Texas border town becomes ground zero for America's 2014 immigration crisis.",
     "comparable_works": [
-      "Won't You Be My Neighbor?",
-      "The Good Lie",
-      "Which Way Home"
+      "Fire at Sea",
+      "Which Way Home",
+      "The Good Lie"
     ]
   }
 }

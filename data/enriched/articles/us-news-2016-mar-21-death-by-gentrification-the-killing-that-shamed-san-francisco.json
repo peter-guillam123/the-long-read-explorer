@@ -120,14 +120,14 @@
     "potential": "high",
     "categories": [
       "david_vs_goliath",
-      "closed_community_upheaval"
+      "history_revisited"
     ],
     "format": "either",
-    "pitch": "When a Latino security guard is shot dead by police after newcomers call 911 on him in the San Francisco neighbourhood where he'd lived his entire life, his immigrant parents take on the city in a wrongful death lawsuit that exposes how gentrification turns long-time residents into strangers in their own community.",
+    "pitch": "A young Latino security guard is killed by police in the San Francisco neighbourhood where he grew up, after white newcomers mistake his presence for a threat during the city's tech gentrification wave.",
     "comparable_works": [
       "Fruitvale Station",
-      "When They See Us",
-      "The Pursuit of Happyness"
+      "The Hate U Give",
+      "When They See Us"
     ]
   }
 }

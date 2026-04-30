@@ -94,15 +94,15 @@
     "potential": "high",
     "categories": [
       "phenomenal_individual",
-      "david_vs_goliath",
-      "ethical_choice"
+      "whistleblower",
+      "david_vs_goliath"
     ],
     "format": "either",
-    "pitch": "A young Italian journalist's exposé of the Naples mafia becomes a global bestseller, forcing him into eight years of armed protection, bulletproof cars and constant relocation. The story follows his transformation from fearless investigator to virtual prisoner, exploring whether the price of truth is worth destroying your own life.",
+    "pitch": "A young writer's exposé of the Naples mafia becomes an international bestseller, forcing him into eight years of armed protection as he navigates the suffocating reality of life under constant death threats.",
     "comparable_works": [
       "Spotlight",
-      "The Insider",
-      "Citizenfour"
+      "All the President's Men",
+      "The Insider"
     ]
   }
 }

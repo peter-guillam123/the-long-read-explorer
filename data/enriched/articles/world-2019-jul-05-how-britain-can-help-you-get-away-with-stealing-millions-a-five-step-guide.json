@@ -109,15 +109,16 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
+      "conspiracy",
+      "heist_con",
       "whistleblower"
     ],
     "format": "documentary",
-    "pitch": "Howard Wilkinson's investigation into the €200bn Danske Bank money laundering scandal reveals how Britain's Companies House became the world's premier tool for financial crime through a simple loophole that nobody checks.",
+    "pitch": "Following whistleblower Howard Wilkinson as he exposes how Britain's lax company registration system enabled the world's largest money laundering operation, moving €200bn of Russian dirty money through European banks.",
     "comparable_works": [
       "The Laundromat",
-      "Icarus",
-      "The China Hustle"
+      "Dirty Money",
+      "McMillion$"
     ]
   }
 }

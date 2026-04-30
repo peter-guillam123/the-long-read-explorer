@@ -115,15 +115,10 @@
     "canon formation"
   ],
   "film_adaptation": {
-    "potential": "medium",
-    "categories": [
-      "hidden_world"
-    ],
+    "potential": "low",
+    "categories": [],
     "format": "documentary",
-    "pitch": "A disabled academic takes on Hollywood's oldest prejudice by playing a villain himself, exposing how centuries of storytelling have embedded ableism so deep that sensitivity readers can't fix it.",
-    "comparable_works": [
-      "Disclosure",
-      "The Celluloid Closet"
-    ]
+    "pitch": null,
+    "comparable_works": []
   }
 }

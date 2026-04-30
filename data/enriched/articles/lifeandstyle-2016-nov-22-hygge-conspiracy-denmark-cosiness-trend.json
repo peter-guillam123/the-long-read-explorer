@@ -119,10 +119,17 @@
     "canon formation"
   ],
   "film_adaptation": {
-    "potential": "low",
-    "categories": [],
+    "potential": "medium",
+    "categories": [
+      "conspiracy",
+      "brand_story"
+    ],
     "format": "documentary",
-    "pitch": null,
-    "comparable_works": []
+    "pitch": "How London book editors manufactured Britain's hygge obsession from a single BBC article, turning an obscure Danish word into a £multi-million lifestyle industry that bears no resemblance to the original concept.",
+    "comparable_works": [
+      "The Century of the Self",
+      "Merchants of Doubt",
+      "The Great Hack"
+    ]
   }
 }

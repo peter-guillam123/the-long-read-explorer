@@ -99,17 +99,18 @@
     "power and resistance"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
+      "phenomenal_individual",
       "forensic_chase",
       "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "Ukrainian investigators race across a war zone to document Russian atrocities in real time, building cases against war criminals while bombs still fall around them.",
+    "pitch": "Ukrainian investigators race across active war zones to document Russian war crimes in real time, gathering evidence within hours of troops retreating while dodging bombardment and navigating the chaos of a functioning legal system during wartime.",
     "comparable_works": [
+      "Spotlight",
       "The Act of Killing",
-      "Icarus",
-      "For Sama"
+      "Winter on Fire"
     ]
   }
 }

@@ -105,14 +105,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world"
+      "hidden_world",
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "A Palestinian father spends his life savings to smuggle his son out of Shatila refugee camp, where three generations of his family have lived in stateless limbo since 1948.",
+    "pitch": "Three generations of one Palestinian family trapped in Lebanon's Shatila refugee camp, where a father smuggles his son to Europe to break a 75-year cycle of statelessness that began with the Nakba.",
     "comparable_works": [
-      "Human Flow",
       "The Cave",
-      "For Sama"
+      "For Sama",
+      "Human Flow"
     ]
   }
 }

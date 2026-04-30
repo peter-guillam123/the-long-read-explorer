@@ -123,17 +123,10 @@
     "boundary crossing"
   ],
   "film_adaptation": {
-    "potential": "medium",
-    "categories": [
-      "phenomenal_individual",
-      "visual_spectacle"
-    ],
+    "potential": "low",
+    "categories": [],
     "format": "documentary",
-    "pitch": "A filmmaker follows researchers like Craig Foster and Jane Goodall as they form intimate bonds with animals, capturing the moment when human and non-human minds truly connect.",
-    "comparable_works": [
-      "My Octopus Teacher",
-      "Jane",
-      "March of the Penguins"
-    ]
+    "pitch": null,
+    "comparable_works": []
   }
 }

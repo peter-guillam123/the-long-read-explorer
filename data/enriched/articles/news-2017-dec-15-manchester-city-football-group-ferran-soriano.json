@@ -106,14 +106,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
-      "origin_moment"
+      "brand_story",
+      "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "Ferran Soriano, the architect of Barcelona's greatest football team, attempts to build the world's first multinational football corporation with Sheikh Mansour's billions, transforming Manchester City into the flagship of a global empire that could change the sport forever.",
+    "pitch": "A Barcelona executive builds football's first global corporation, turning Manchester City into the flagship of a multinational empire that spans continents and challenges the sport's traditional structures.",
     "comparable_works": [
       "The Last Dance",
-      "Moneyball",
+      "Icarus",
       "All or Nothing: Manchester City"
     ]
   }

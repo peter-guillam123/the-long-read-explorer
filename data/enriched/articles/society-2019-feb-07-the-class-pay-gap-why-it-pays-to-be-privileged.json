@@ -111,16 +111,10 @@
     "unintended consequences"
   ],
   "film_adaptation": {
-    "potential": "medium",
-    "categories": [
-      "hidden_world"
-    ],
+    "potential": "low",
+    "categories": [],
     "format": "documentary",
-    "pitch": "Mark, a powerful TV commissioner, opens up about the invisible advantages that accelerated his career, exposing how Britain's elite workplaces quietly segregate by class beneath their meritocratic veneer.",
-    "comparable_works": [
-      "The Boys Club",
-      "Divide and Rule: The Story of Roger Ailes",
-      "The Corporation"
-    ]
+    "pitch": null,
+    "comparable_works": []
   }
 }

@@ -113,16 +113,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "ethical_choice",
-      "whistleblower",
-      "hidden_world"
+      "conspiracy",
+      "phenomenal_individual",
+      "ethical_choice"
     ],
     "format": "either",
-    "pitch": "Sebastian Coe, Olympic hero turned athletics chief, must choose between cleaning up his corrupt sport or protecting the insiders who made his career — with Russia's Olympic fate hanging in the balance.",
+    "pitch": "Sebastian Coe, Olympic hero and architect of London 2012, becomes president of athletics' governing body just as French police arrive to investigate his predecessor for corruption and Russian state-sponsored doping. He must choose between preserving his standing with the Olympic establishment that made his career or taking the tough action that could restore his sport's credibility.",
     "comparable_works": [
-      "The Insider",
-      "Spotlight",
-      "Icarus"
+      "Icarus",
+      "The Two Popes",
+      "Spotlight"
     ]
   }
 }

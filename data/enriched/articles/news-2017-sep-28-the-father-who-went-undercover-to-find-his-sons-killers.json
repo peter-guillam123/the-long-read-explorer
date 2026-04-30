@@ -107,15 +107,15 @@
     "potential": "high",
     "categories": [
       "phenomenal_individual",
-      "forensic_chase",
-      "david_vs_goliath"
+      "david_vs_goliath",
+      "forensic_chase"
     ],
     "format": "either",
-    "pitch": "A bank clerk infiltrates Spain's criminal underworld to solve his son's murder after police bungle the investigation. His obsessive pursuit of justice transforms him into a national hero but destroys his family.",
+    "pitch": "After police botch his son's murder investigation, a Spanish bank clerk infiltrates the criminal underworld night after night for two decades, becoming a national hero while his family falls apart.",
     "comparable_works": [
-      "Prisoners",
-      "The Staircase",
-      "In the Name of the Father"
+      "In the Name of the Father",
+      "Zodiac",
+      "The Night Of"
     ]
   }
 }

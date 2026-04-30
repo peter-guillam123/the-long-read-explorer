@@ -107,16 +107,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "hidden_world",
       "phenomenal_individual",
+      "hidden_world",
       "ethical_choice"
     ],
     "format": "documentary",
-    "pitch": "Mexican artist César Aréchiga moves into one of the country's most dangerous maximum security prisons for six weeks to teach art therapy to violent gang members and drug cartel veterans. The film follows his unlikely experiment to transform killers into creators while navigating the complex psychology of inmates who have spent years using their hands to destroy rather than build.",
+    "pitch": "An idealistic Mexican artist moves into one of the country's most dangerous prisons for six weeks to teach art therapy to cartel killers and gang members, risking his safety to prove that creativity can transform lives shaped by violence.",
     "comparable_works": [
+      "Free Solo",
       "The Act of Killing",
-      "The Work",
-      "Inmates"
+      "Midnight Express"
     ]
   }
 }

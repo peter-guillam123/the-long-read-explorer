@@ -116,14 +116,15 @@
     "potential": "high",
     "categories": [
       "david_vs_goliath",
-      "closed_community_upheaval"
+      "closed_community_upheaval",
+      "conspiracy"
     ],
     "format": "documentary",
-    "pitch": "A small Swedish town discovers their drinking water contains the world's highest levels of 'forever chemicals' from military firefighting foam, turning residents into reluctant activists fighting for answers about their contaminated bodies and their children's futures.",
+    "pitch": "A Swedish air force town discovers their award-winning drinking water contains the world's highest known levels of forever chemicals, transforming residents into reluctant activists fighting government reassurances while grappling with contamination levels 1,000 times above safety limits.",
     "comparable_works": [
       "Dark Waters",
       "Erin Brockovich",
-      "The Devil We Know"
+      "The China Syndrome"
     ]
   }
 }

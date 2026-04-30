@@ -92,14 +92,13 @@
     "potential": "high",
     "categories": [
       "twisty_mystery",
-      "hidden_world",
-      "closed_community_upheaval"
+      "hidden_world"
     ],
     "format": "either",
-    "pitch": "When notorious online troll Eris commits suicide in the gaming community Epic Mafia, players who live in a world where deception is the point of the game struggle to determine if his death is real or just his most elaborate hoax yet.",
+    "pitch": "When a notorious online troll commits suicide in the gaming community Epic Mafia, players struggle to distinguish truth from deception in a world where lying is literally the game.",
     "comparable_works": [
-      "Don't F**k with Cats",
       "Catfish",
+      "We Are Legion: The Story of the Hacktivists",
       "The Social Dilemma"
     ]
   }

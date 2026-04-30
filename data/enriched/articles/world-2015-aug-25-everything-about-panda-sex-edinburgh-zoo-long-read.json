@@ -129,15 +129,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
-      "visual_spectacle"
+      "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "Inside Edinburgh Zoo's panda breeding programme, where keepers monitor hormones, analyse urine samples and race against 24-hour windows to save a species through captive reproduction.",
+    "pitch": "Behind the scenes at Edinburgh Zoo's desperate attempts to breed pandas, where keepers collect urine with syringes, analyse hormone levels through the night, and race against 24-hour fertility windows under intense public scrutiny.",
     "comparable_works": [
       "March of the Penguins",
-      "The Zookeeper's Wife",
-      "Our Planet"
+      "Blackfish",
+      "The Cove"
     ]
   }
 }

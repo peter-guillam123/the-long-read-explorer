@@ -97,14 +97,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
-      "phenomenal_individual"
+      "phenomenal_individual",
+      "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "A murderer turned al-Qaeda associate turned government security chief reveals how the UAE has weaponised chaos in Yemen's civil war, building a shadow state through warlords like him.",
+    "pitch": "A convicted murderer turned al-Qaeda affiliate becomes a UAE-backed warlord profiting from Yemen's chaos, exemplifying how foreign powers have transformed a civil war into a profitable patchwork of competing militias.",
     "comparable_works": [
       "The Act of Killing",
-      "Restrepo",
+      "Cartel Land",
       "City of Ghosts"
     ]
   }

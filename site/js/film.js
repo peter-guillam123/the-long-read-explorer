@@ -8,16 +8,20 @@
 
 const CATEGORIES = [
     ["twisty_mystery",            "Twisty mystery"],
+    ["conspiracy",                "Conspiracy"],
     ["hidden_world",              "Hidden world"],
     ["phenomenal_individual",     "Phenomenal individual"],
     ["heist_con",                 "Heist / con"],
+    ["brand_story",               "Brand story"],
     ["david_vs_goliath",          "David vs Goliath"],
     ["whistleblower",             "Whistleblower"],
     ["survival",                  "Survival"],
     ["forensic_chase",            "Forensic chase"],
     ["origin_moment",             "Origin moment"],
+    ["history_revisited",         "History revisited"],
     ["closed_community_upheaval", "Community upheaval"],
     ["ethical_choice",            "Ethical choice"],
+    ["architecture",              "Architecture"],
     ["visual_spectacle",          "Visual spectacle"],
     ["espionage",                 "Espionage"],
 ];

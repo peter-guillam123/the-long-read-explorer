@@ -107,15 +107,15 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "hidden_world",
-      "survival"
+      "phenomenal_individual",
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "A filmmaker follows a homeless 13-year-old through the care system and criminal justice system over two decades, watching as early trauma shapes an entire life trajectory.",
+    "pitch": "A filmmaker returns to trace what happened to Craig, the 13-year-old runaway she filmed in 1998, uncovering a decades-long cycle of homelessness, crime and institutional failure that began in the care system.",
     "comparable_works": [
       "Seven Up!",
-      "Hoop Dreams",
-      "The Up Series"
+      "The Staircase",
+      "Three Identical Strangers"
     ]
   }
 }

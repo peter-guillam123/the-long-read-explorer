@@ -115,13 +115,13 @@
     "potential": "medium",
     "categories": [
       "phenomenal_individual",
-      "hidden_world"
+      "brand_story"
     ],
-    "format": "documentary",
-    "pitch": "Leonardo Del Vecchio built a global eyewear empire from an orphanage in wartime Milan, quietly controlling how 1.4 billion people see the world through brands they never knew he owned.",
+    "format": "either",
+    "pitch": "Leonardo Del Vecchio, an orphan from wartime Milan, builds a spectacles empire that secretly controls how 1.4 billion people see the world. Now his company is merging with its biggest rival to dominate human vision at the moment our eyes are failing faster than ever before.",
     "comparable_works": [
+      "The Founder",
       "The Social Dilemma",
-      "The Corporation",
       "Citizen Kane"
     ]
   }

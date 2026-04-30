@@ -111,13 +111,14 @@
     "freedom vs control"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
       "david_vs_goliath",
-      "whistleblower"
+      "whistleblower",
+      "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "Garment workers in Lesotho expose systematic sexual abuse in factories making jeans for Levi's, forcing a global brand to confront the dark reality of its supply chain.",
+    "pitch": "Women garment workers in Lesotho expose systematic sexual abuse in factories making jeans for Levi's and other major brands, forcing a global reckoning with the fashion industry's supply chain abuses.",
     "comparable_works": [
       "The True Cost",
       "Made in Bangladesh",

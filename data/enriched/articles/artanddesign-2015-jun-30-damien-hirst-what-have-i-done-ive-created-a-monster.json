@@ -125,14 +125,15 @@
     "potential": "medium",
     "categories": [
       "phenomenal_individual",
+      "brand_story",
       "origin_moment"
     ],
-    "format": "documentary",
-    "pitch": "Damien Hirst, Britain's most famous living artist, attempts to reclaim his legacy by opening his own £25m gallery after falling from grace as the enfant terrible who revolutionised British art in the 1980s.",
+    "format": "either",
+    "pitch": "Britain's most famous living artist builds a £25m gallery to control his legacy after mass production destroyed the shock value that made him notorious. The enfant terrible who revolutionised British art with a dead shark now faces irrelevance at 50.",
     "comparable_works": [
-      "The Mystery of Chi Chi",
-      "Banksy Does New York",
-      "Abstract: The Art of Design"
+      "Exit Through the Gift Shop",
+      "The Price of Everything",
+      "Billions in Change"
     ]
   }
 }

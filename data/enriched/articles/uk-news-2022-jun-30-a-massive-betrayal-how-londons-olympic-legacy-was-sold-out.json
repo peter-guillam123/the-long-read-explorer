@@ -121,14 +121,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
+      "conspiracy",
       "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "A teenage campaigner who fought to bring the Olympics to east London watches as the promises of affordable housing and regeneration are systematically betrayed by politicians and developers over a decade.",
+    "pitch": "Paul Amuzie, a teenager from east London's poorest borough, campaigns for the Olympics believing it will transform his community — only to watch developers and politicians systematically abandon every promise made to local residents.",
     "comparable_works": [
-      "I, Daniel Blake",
       "The Act of Killing",
-      "Citizenfour"
+      "Icarus",
+      "Won't You Be My Neighbor?"
     ]
   }
 }

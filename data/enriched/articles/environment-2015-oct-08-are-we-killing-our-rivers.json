@@ -92,14 +92,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "david_vs_goliath"
+      "david_vs_goliath",
+      "visual_spectacle"
     ],
     "format": "documentary",
-    "pitch": "River keeper Jim Smith fights to save the river Ouse from drying up as climate change and development threaten Britain's water supply. A man who has walked the same banks for 52 years watches his river become a stagnant puddle.",
+    "pitch": "A 71-year-old river keeper watches his beloved Ouse slowly die as developers and climate change drain southern England dry, fighting to save what may be Britain's water future.",
     "comparable_works": [
       "The Age of Stupid",
       "An Inconvenient Truth",
-      "Dark Waters"
+      "Before the Flood"
     ]
   }
 }

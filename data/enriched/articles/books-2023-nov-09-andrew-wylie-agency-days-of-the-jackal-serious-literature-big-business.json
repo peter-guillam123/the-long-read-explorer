@@ -164,17 +164,17 @@
     "power and resistance"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
       "phenomenal_individual",
       "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "Andrew Wylie reshaped global publishing by poaching literary giants and turning highbrow authors into millionaires, earning the nickname 'The Jackal' for his ruthless tactics that transformed how serious literature gets bought and sold worldwide.",
+    "pitch": "Andrew Wylie transformed literary publishing by treating Nobel laureates like Hollywood stars, orchestrating audacious deals from poaching Henry Kissinger to conquering China with dead authors' estates. A portrait of the man who turned highbrow culture into a billion-dollar game.",
     "comparable_works": [
-      "The Devil Wears Prada",
-      "Super Pumped",
-      "Theranos documentary series"
+      "Halston",
+      "The China Hustle",
+      "Becoming Warren Buffett"
     ]
   }
 }

@@ -108,16 +108,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "phenomenal_individual",
-      "visual_spectacle",
-      "david_vs_goliath"
+      "history_revisited",
+      "phenomenal_individual"
     ],
     "format": "documentary",
-    "pitch": "Archaeologist Francisco Estrada-Belli uses cutting-edge laser technology to rewrite Maya history, discovering a lost civilisation of 16 million people while modern Maya descendants fight for recognition of their heritage in Guatemala.",
+    "pitch": "Two archaeologists use laser technology to overturn centuries of assumptions about Maya civilisation, revealing a lost megalopolis of 16 million people while modern Maya descendants fight for political recognition in Guatemala.",
     "comparable_works": [
-      "The Lost City of Z",
-      "Expedition Unknown",
-      "Cave of Forgotten Dreams"
+      "Lost Cities with Albert Lin",
+      "Civilisations",
+      "The Cave of Forgotten Dreams"
     ]
   }
 }

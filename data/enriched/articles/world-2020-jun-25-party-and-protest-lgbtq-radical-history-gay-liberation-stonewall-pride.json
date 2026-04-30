@@ -145,10 +145,11 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "origin_moment"
+      "origin_moment",
+      "history_revisited"
     ],
     "format": "either",
-    "pitch": "The story of how a spontaneous riot at a mafia-run gay bar in 1969 Greenwich Village became the birth of the modern LGBTQ+ rights movement, following key figures like drag performer Stormé DeLarverie and soldier Henry Baird whose lives were transformed by those six nights of resistance.",
+    "pitch": "The untold stories behind the Stonewall riots reveal how a diverse group of trans women, drag queens and working-class people of colour sparked the modern LGBTQ+ movement, only to watch it become sanitised by corporate Pride parades decades later.",
     "comparable_works": [
       "Milk",
       "The Death and Life of Marsha P. Johnson",

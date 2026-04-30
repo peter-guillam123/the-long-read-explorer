@@ -127,16 +127,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "twisty_mystery",
-      "whistleblower",
-      "espionage"
+      "conspiracy",
+      "history_revisited",
+      "whistleblower"
     ],
     "format": "either",
-    "pitch": "A 19-year-old farm boy survives an MI5-orchestrated assassination that kills his best friend, then fights for three decades to expose how British intelligence ran death squads in Northern Ireland. Two secret reports by senior investigators reveal a conspiracy reaching the highest levels of the security services.",
+    "pitch": "A 19-year-old farmer survives a police execution that kills his best friend, then spends three decades fighting to expose a state conspiracy that reaches from MI5 to the highest levels of the RUC. Classified reports finally reveal the truth about Britain's 'shoot-to-kill' policy in 1980s Northern Ireland.",
     "comparable_works": [
-      "The Troubles: A Dublin Story",
-      "Spotlight",
-      "Tinker Tailor Soldier Spy"
+      "The Disappeared",
+      "Bloody Sunday",
+      "In the Name of the Father"
     ]
   }
 }

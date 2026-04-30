@@ -108,11 +108,12 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
+      "phenomenal_individual",
       "hidden_world",
-      "phenomenal_individual"
+      "forensic_chase"
     ],
     "format": "documentary",
-    "pitch": "Crime reporter Zille Hyder risks his life nightly to cover Karachi's spiral into violence, carrying a Taliban bullet in his arm as he navigates the lethal intersection of gangsters, terrorists and corrupt politics in one of the world's most dangerous cities.",
+    "pitch": "A crime reporter with a bullet lodged in his arm navigates Karachi's warzone streets, risking his life to decode the city's violent power struggles while on a Taliban hit list.",
     "comparable_works": [
       "City of God",
       "Cartel Land",

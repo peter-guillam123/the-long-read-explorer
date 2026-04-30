@@ -119,16 +119,10 @@
     "unintended consequences"
   ],
   "film_adaptation": {
-    "potential": "medium",
-    "categories": [
-      "closed_community_upheaval"
-    ],
+    "potential": "low",
+    "categories": [],
     "format": "documentary",
-    "pitch": "A British journalist spends a month in Muncie, Indiana during the 2016 election, watching a quintessentially American town grapple with economic collapse and political upheaval as Trump's victory unfolds in real time.",
-    "comparable_works": [
-      "American Factory",
-      "Hillbilly Elegy",
-      "The Last Campaign of Governor Booth Gardner"
-    ]
+    "pitch": null,
+    "comparable_works": []
   }
 }

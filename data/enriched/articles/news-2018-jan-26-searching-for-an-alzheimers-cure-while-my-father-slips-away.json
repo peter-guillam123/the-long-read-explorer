@@ -110,15 +110,15 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "survival",
+      "phenomenal_individual",
       "ethical_choice"
     ],
-    "format": "documentary",
-    "pitch": "A journalist races against time to find an Alzheimer's cure while documenting his father's decline from accomplished doctor to a man who forgets his daughter-in-law's name. The search takes him from clinical trials across continents to dubious treatments smuggled through European hotels, all while his family grapples with whether hope or acceptance is the kinder choice.",
+    "format": "either",
+    "pitch": "A son races against time to find an Alzheimer's cure while documenting his brilliant father's descent into dementia, from smuggling experimental yoghurt drinks across continents to confronting the unbearable mathematics of hope.",
     "comparable_works": [
       "Still Alice",
       "The Father",
-      "Dick Johnson Is Dead"
+      "Away from Her"
     ]
   }
 }

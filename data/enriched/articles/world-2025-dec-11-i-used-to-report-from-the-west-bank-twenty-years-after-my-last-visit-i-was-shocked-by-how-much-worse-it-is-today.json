@@ -116,14 +116,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "visual_spectacle"
+      "history_revisited",
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "A journalist returns to the West Bank after 20 years to find Palestinians trapped in an increasingly suffocating maze of checkpoints, settlements and despair, with resistance reduced to memory.",
+    "pitch": "A veteran journalist returns to the West Bank after 20 years to find Palestinian resistance crushed and hope extinguished, mapping the slow strangling of a people through checkpoints, settlements and economic warfare.",
     "comparable_works": [
       "5 Broken Cameras",
-      "The Present",
-      "Omar"
+      "The Gatekeepers",
+      "Waltz with Bashir"
     ]
   }
 }

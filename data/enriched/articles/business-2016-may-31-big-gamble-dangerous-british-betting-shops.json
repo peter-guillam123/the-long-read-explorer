@@ -100,16 +100,17 @@
     "decline and fall"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
-      "hidden_world"
+      "hidden_world",
+      "david_vs_goliath"
     ],
-    "format": "documentary",
-    "pitch": "The murder of a Ladbrokes manager exposes the isolated, vulnerable world of betting shop workers as Britain's high streets became dominated by gambling machines and lone employees working dangerous hours.",
+    "format": "either",
+    "pitch": "The murder of a betting shop manager exposes the human cost of Britain's gambling industry transformation, following isolated workers manning high-stakes machines in increasingly dangerous conditions.",
     "comparable_works": [
-      "The Corporation",
       "I, Daniel Blake",
-      "Kids Company: The Inside Story"
+      "Sorry We Missed You",
+      "The Hurt Locker"
     ]
   }
 }

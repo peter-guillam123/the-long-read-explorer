@@ -156,15 +156,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "david_vs_goliath",
+      "architecture",
       "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "How a small group of New York preservationists battles secretive billionaire developers who are using obscure zoning loopholes to build impossible 'pencil towers' that cast permanent shadows over Central Park.",
+    "pitch": "How New York's pencil towers rose from secret deals between oligarchs and developers, reshaping Manhattan's skyline through a labyrinthine system of air rights trading that most residents never knew existed.",
     "comparable_works": [
-      "Citizen Four",
       "The China Hustle",
-      "Dirty Money"
+      "Citizenfour",
+      "The Act of Killing"
     ]
   }
 }

@@ -107,15 +107,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "david_vs_goliath",
-      "ethical_choice"
+      "ethical_choice",
+      "david_vs_goliath"
     ],
-    "format": "either",
-    "pitch": "Two unlikely advocates without PhDs take on the medical establishment with a morally dubious scheme to fund life-saving drug trials by charging desperate billionaires millions while everyone else participates for free.",
+    "format": "documentary",
+    "pitch": "Two outsiders without PhDs develop a morally questionable scheme to save abandoned life-saving drugs by charging desperate millionaires to fund clinical trials, testing their theory after one of them is diagnosed with terminal cancer.",
     "comparable_works": [
-      "Dallas Buyers Club",
-      "I, Daniel Blake",
-      "The Big Short"
+      "Fire in the Blood",
+      "The Inventor: Out for Blood in Silicon Valley"
     ]
   }
 }

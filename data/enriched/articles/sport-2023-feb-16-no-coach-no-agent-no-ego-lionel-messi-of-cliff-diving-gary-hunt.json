@@ -100,18 +100,17 @@
     "the role of chance"
   ],
   "film_adaptation": {
-    "potential": "high",
+    "potential": "medium",
     "categories": [
       "phenomenal_individual",
-      "hidden_world",
-      "visual_spectacle"
+      "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "The enigmatic Gary Hunt dominates the death-defying sport of cliff diving through unprecedented innovation and preternatural calm, while remaining utterly indifferent to fame, fortune or conventional athletic professionalism.",
+    "pitch": "Gary Hunt has dominated cliff diving for over a decade without a coach or agent, turning wooden trophies into ashtrays while revolutionising a sport that involves falling eight storeys at 50mph in three seconds of flight.",
     "comparable_works": [
       "Free Solo",
       "Icarus",
-      "The Dawn Wall"
+      "The Barkley Marathons"
     ]
   }
 }

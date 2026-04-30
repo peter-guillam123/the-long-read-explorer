@@ -118,16 +118,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "twisty_mystery",
+      "conspiracy",
       "forensic_chase",
       "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "Italian investigators use digital forensics and autopsy evidence to expose Egyptian state lies about the torture-murder of PhD student Giulio Regeni, whose research into Cairo's independent unions made him a target on the revolution's fifth anniversary.",
+    "pitch": "Italian investigators use digital evidence and forensic science to expose Egyptian state lies about the torture-murder of Cambridge PhD student Giulio Regeni, whose research into labour unions made him a target on the fifth anniversary of the Arab Spring.",
     "comparable_works": [
-      "Icarus",
       "The Dissident",
-      "Murder on Middle Beach"
+      "Icarus",
+      "Spotlight"
     ]
   }
 }

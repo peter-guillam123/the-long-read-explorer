@@ -164,14 +164,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "phenomenal_individual"
+      "phenomenal_individual",
+      "history_revisited"
     ],
-    "format": "documentary",
-    "pitch": "The rise of Giorgia Meloni from teenage neo-fascist activist to respectable European leader, tracking how a political shapeshifter navigated from Italy's far-right margins to hosting world leaders at the G7.",
+    "format": "either",
+    "pitch": "A young woman from Rome's working-class suburbs rises from a neo-fascist youth movement to become Italy's first female prime minister, forcing Europe to reckon with how far-right politics can reinvent itself for mainstream power.",
     "comparable_works": [
       "Vice",
-      "The Family",
-      "Putin's Palace"
+      "The Iron Lady",
+      "All the President's Men"
     ]
   }
 }

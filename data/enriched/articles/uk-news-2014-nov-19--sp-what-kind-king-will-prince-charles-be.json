@@ -121,14 +121,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "phenomenal_individual"
+      "phenomenal_individual",
+      "ethical_choice"
     ],
-    "format": "documentary",
-    "pitch": "Prince Charles has spent seven decades preparing to be king while building a shadow network of influence through organic farming, architecture campaigns and handwritten letters to ministers. As the succession approaches, the question becomes whether Britain's most politically active heir can transform into a constitutional monarch.",
+    "format": "either",
+    "pitch": "As Charles III prepares to become king after the longest wait in British history, his decades of political activism through 'black spider memos' and backdoor lobbying threaten to upend the constitutional monarchy. The film follows his struggle between duty and conviction as he faces the choice to abandon his life's work or risk the crown itself.",
     "comparable_works": [
       "The Crown",
-      "Becoming",
-      "Won't You Be My Neighbor?"
+      "The Queen",
+      "A Very English Scandal"
     ]
   }
 }

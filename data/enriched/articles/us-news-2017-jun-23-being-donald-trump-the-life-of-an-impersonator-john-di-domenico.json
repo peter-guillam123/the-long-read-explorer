@@ -126,17 +126,17 @@
     "boundary crossing"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
-      "hidden_world",
-      "phenomenal_individual"
+      "phenomenal_individual",
+      "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "A professional Trump impersonator who's spent 13 years studying his subject discovers unexpected truths about American politics when his act becomes a window into the electorate's real feelings during the 2016 campaign.",
+    "pitch": "A Trump impersonator who's spent 13 years perfecting his craft discovers uncomfortable truths about American politics when his performances start revealing what voters really think. As the 2016 election unfolds, Di Domenico becomes an accidental anthropologist, witnessing confessions and reactions that pollsters never see.",
     "comparable_works": [
-      "Won't You Be My Neighbor?",
-      "Jim & Andy: The Great Beyond",
-      "Weiner"
+      "Weiner",
+      "The Impostor",
+      "Best Worst Movie"
     ]
   }
 }

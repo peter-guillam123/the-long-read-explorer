@@ -146,15 +146,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
-      "phenomenal_individual"
+      "brand_story",
+      "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "The Mormon mother and son who built a $33 million empire selling plastic footstools that promise to revolutionise how the world defecates, challenging two centuries of western toilet orthodoxy.",
+    "pitch": "A Mormon mother-son duo build a $33 million empire selling plastic footstools that promise to revolutionise how we defecate, sparking a cultural movement that challenges two centuries of western toilet orthodoxy.",
     "comparable_works": [
       "The Toys That Made Us",
-      "Fyre: The Greatest Party That Never Happened",
-      "Going Clear"
+      "Fyre: The Greatest Party That Never Happened"
     ]
   }
 }

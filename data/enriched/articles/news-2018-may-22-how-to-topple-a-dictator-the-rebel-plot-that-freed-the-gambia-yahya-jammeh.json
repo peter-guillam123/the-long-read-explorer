@@ -135,14 +135,15 @@
     "potential": "high",
     "categories": [
       "david_vs_goliath",
-      "heist_con"
+      "conspiracy",
+      "phenomenal_individual"
     ],
     "format": "either",
-    "pitch": "Six presidential bodyguards turn against their dictator boss and orchestrate an elaborate election sabotage operation, joining a network of unlikely rebels to topple Gambia's 22-year regime through cunning rather than force.",
+    "pitch": "A small group of bodyguards and opposition activists orchestrate the downfall of Yahya Jammeh, Africa's most eccentric dictator, through ballot-box sabotage and grassroots resistance. The five-month campaign that ended 22 years of brutal rule in Gambia unfolds through the eyes of unlikely heroes willing to risk everything.",
     "comparable_works": [
-      "The Death of Stalin",
-      "7 Days in Entebbe",
-      "Official Secrets"
+      "The Last King of Scotland",
+      "Hotel Rwanda",
+      "They Shall Not Grow Old"
     ]
   }
 }

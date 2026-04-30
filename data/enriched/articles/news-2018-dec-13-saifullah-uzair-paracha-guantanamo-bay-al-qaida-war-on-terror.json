@@ -132,15 +132,15 @@
     "potential": "high",
     "categories": [
       "david_vs_goliath",
-      "twisty_mystery",
+      "conspiracy",
       "ethical_choice"
     ],
-    "format": "documentary",
-    "pitch": "A wealthy Pakistani businessman and his son have spent 15 years in separate US prisons accused of aiding al-Qaeda, yet the alleged terrorists they supposedly helped claim the family had no idea who they really were.",
+    "format": "either",
+    "pitch": "A wealthy Pakistani businessman and his son disappear into America's post-9/11 detention system for 15 years without trial, accused of helping al-Qaeda operatives who may have deceived them about their true identities.",
     "comparable_works": [
       "The Mauritanian",
       "Taxi to the Dark Side",
-      "Errol Morris's The Thin Blue Line"
+      "The Report"
     ]
   }
 }

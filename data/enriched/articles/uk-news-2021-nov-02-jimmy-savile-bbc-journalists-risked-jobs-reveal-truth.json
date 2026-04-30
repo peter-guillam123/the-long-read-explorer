@@ -117,15 +117,15 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "david_vs_goliath",
+      "conspiracy",
       "whistleblower",
-      "ethical_choice"
+      "david_vs_goliath"
     ],
     "format": "either",
-    "pitch": "Two BBC journalists risk their careers to expose Jimmy Savile's crimes, fighting their own institution to give voice to survivors who had been silenced for decades.",
+    "pitch": "Two BBC journalists risk their careers to expose Jimmy Savile's decades of abuse after his death, fighting their own institution's attempts to bury the story while giving voice to victims the establishment had ignored.",
     "comparable_works": [
       "Spotlight",
-      "The Insider",
+      "Dark Waters",
       "She Said"
     ]
   }

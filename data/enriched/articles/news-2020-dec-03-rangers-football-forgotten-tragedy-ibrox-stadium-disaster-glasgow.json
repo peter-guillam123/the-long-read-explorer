@@ -86,16 +86,18 @@
     "cause and effect"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
-      "closed_community_upheaval"
+      "history_revisited",
+      "conspiracy",
+      "survival"
     ],
     "format": "either",
-    "pitch": "A football-mad Glasgow teenager survives two deadly crushes at Rangers-Celtic matches a decade apart, revealing how sectarian hatred and institutional neglect turned Britain's most bitter rivalry into a killing ground.",
+    "pitch": "A survivor of the 1971 Ibrox disaster returns to examine how Rangers football club systematically avoided responsibility for 66 deaths, revealing a pattern of cover-up that began with an eerily similar 1961 incident the author also survived.",
     "comparable_works": [
       "Hillsborough",
       "The Two Escobars",
-      "Bobby"
+      "15 Minutes of Shame"
     ]
   }
 }

@@ -128,14 +128,15 @@
     "potential": "high",
     "categories": [
       "phenomenal_individual",
-      "hidden_world"
+      "origin_moment",
+      "conspiracy"
     ],
-    "format": "documentary",
-    "pitch": "The unlikely gay intellectual from France's elite who transformed Marine Le Pen's far-right party from racist fringe movement into a mainstream force that nearly won the presidency. An intimate portrait of political strategy and ideological seduction as Philippot rewrites the playbook for populist power.",
+    "format": "either",
+    "pitch": "The unlikely partnership between Marine Le Pen and Florian Philippot, an elite gay civil servant who transformed France's far-right into a presidential contender by sanitising its toxic image while secretly working from inside the government.",
     "comparable_works": [
-      "The Brink",
-      "Get Me Roger Stone",
-      "The Family"
+      "Vice",
+      "The Social Network",
+      "All the President's Men"
     ]
   }
 }

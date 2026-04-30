@@ -105,11 +105,11 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "origin_moment",
-      "hidden_world"
+      "brand_story",
+      "origin_moment"
     ],
     "format": "documentary",
-    "pitch": "Richard Howard, a redundant banker, becomes Uber's first London employee and spends sleepless nights building a driver network from his one-room office, while Travis Kalanick plots to abandon the luxury model and go mass market.",
+    "pitch": "A young Scottish banker becomes Uber's first London employee and builds a network of luxury drivers from scratch, as the company plots to transform from an elite service into a mass-market platform that would reshape urban transport worldwide.",
     "comparable_works": [
       "The Social Network",
       "Super Pumped",

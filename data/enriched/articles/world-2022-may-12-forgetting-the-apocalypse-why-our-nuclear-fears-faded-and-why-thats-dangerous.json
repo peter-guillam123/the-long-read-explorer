@@ -135,14 +135,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "origin_moment"
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "How the visceral memory of Hiroshima and Nagasaki kept nuclear weapons unused for 76 years, and why forgetting that horror makes nuclear war more likely as the last survivors die off.",
+    "pitch": "How the visceral memory of Hiroshima once terrified world leaders into restraint, and what happens now that the last witnesses are gone and nuclear threats are becoming casual again.",
     "comparable_works": [
       "The Fog of War",
-      "Countdown to Zero",
-      "Chernobyl"
+      "13 Days",
+      "Atomic Cafe"
     ]
   }
 }

@@ -89,15 +89,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "visual_spectacle",
-      "hidden_world"
+      "phenomenal_individual",
+      "visual_spectacle"
     ],
     "format": "documentary",
-    "pitch": "Nasa scientists spend a decade flying over the Arctic ice caps, collecting data that reveals the scale of climate change while watching their own culture lose faith in facts and science.",
+    "pitch": "A NASA mission scientist leads a decade-long aerial survey of polar ice caps, watching climate change unfold in real time while wondering if anyone back home still believes in facts.",
     "comparable_works": [
       "An Inconvenient Truth",
       "Chasing Ice",
-      "The Age of Stupid"
+      "The Last Ice"
     ]
   }
 }

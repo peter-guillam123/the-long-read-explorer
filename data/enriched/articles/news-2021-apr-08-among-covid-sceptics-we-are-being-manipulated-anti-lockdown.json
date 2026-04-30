@@ -121,14 +121,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world"
+      "hidden_world",
+      "conspiracy"
     ],
     "format": "documentary",
-    "pitch": "Following real people who fell into Covid conspiracy movements, tracking how personal crises and isolation led ordinary individuals down online rabbit holes that transformed their understanding of reality.",
+    "pitch": "Following Anna, a Bradford tattoo artist whose pandemic desperation leads her into the UK's Covid sceptic movement, revealing how ordinary people get drawn into conspiracy theories through genuine grievance and institutional abandonment.",
     "comparable_works": [
       "The Social Dilemma",
-      "Behind the Curve",
-      "QAnon: Into the Storm"
+      "Brexit: The Uncivil War",
+      "Behind the Curve"
     ]
   }
 }

@@ -107,15 +107,13 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "phenomenal_individual",
-      "david_vs_goliath"
+      "phenomenal_individual"
     ],
     "format": "documentary",
-    "pitch": "Kate Raworth battles the economics establishment to prove her radical 'doughnut' model can work in the real world, from Oxford lecture halls to ambitious experiments across 70 cities worldwide.",
+    "pitch": "Economist Kate Raworth attempts to transform cities worldwide with her radical 'doughnut economics' theory, testing whether academic ideas can create real change when governments from Amsterdam to Malaysia start implementing her model.",
     "comparable_works": [
       "An Inconvenient Truth",
-      "The Corporation",
-      "Inside Job"
+      "The Social Dilemma"
     ]
   }
 }

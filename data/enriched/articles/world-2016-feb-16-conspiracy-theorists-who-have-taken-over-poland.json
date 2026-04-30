@@ -113,14 +113,16 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
+      "conspiracy",
+      "history_revisited",
       "phenomenal_individual"
     ],
-    "format": "documentary",
-    "pitch": "Jarosław Kaczyński, a bitter former child actor turned conspiracy theorist, weaponises Poland's traumatic history to become the country's shadow ruler, dismantling democratic institutions while never holding office himself.",
+    "format": "either",
+    "pitch": "Jarosław Kaczyński, a former child actor turned political operative, convinces an entire nation that their democratic transition was a sham orchestrated by communist collaborators and liberal traitors. His conspiracy theories propel him from the margins to become Poland's shadow ruler, systematically dismantling the very democracy he helped create.",
     "comparable_works": [
-      "Putin's Witnesses",
-      "The Family",
-      "Vice"
+      "The Act of Killing",
+      "All the President's Men",
+      "Darkest Hour"
     ]
   }
 }

@@ -134,16 +134,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "david_vs_goliath",
       "forensic_chase",
-      "origin_moment"
+      "history_revisited",
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "The mother of a murdered Greek rapper takes on a neo-Nazi party that infiltrated parliament, triggering the largest trial of fascists since Nuremberg. Six years of courtroom drama reveal how Golden Dawn exploited Greece's economic collapse to bring Hitler's ideology back to European politics.",
+    "pitch": "The murder of an anti-fascist rapper triggers the largest Nazi trial since Nuremberg, as prosecutors dismantle Greece's Golden Dawn party through methodical investigation of their criminal network.",
     "comparable_works": [
       "The Act of Killing",
-      "Spotlight",
-      "13th"
+      "Wild Wild Country",
+      "The Staircase"
     ]
   }
 }

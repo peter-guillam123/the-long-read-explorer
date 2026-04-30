@@ -154,10 +154,11 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "origin_moment"
+      "origin_moment",
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "Paul Mace's decision to put poppies on Leicester City shirts in 2003 accidentally triggered a two-decade transformation of Britain's remembrance culture into something approaching mandatory patriotism.",
+    "pitch": "How a single Leicester City executive's decision to put poppies on football shirts in 2003 accidentally transformed Britain's remembrance culture into a tool of performative patriotism and social pressure.",
     "comparable_works": [
       "The Century of the Self",
       "HyperNormalisation"

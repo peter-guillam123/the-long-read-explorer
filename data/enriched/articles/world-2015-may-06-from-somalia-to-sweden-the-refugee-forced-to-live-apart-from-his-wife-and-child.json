@@ -114,15 +114,15 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "ethical_choice",
-      "hidden_world"
+      "david_vs_goliath",
+      "ethical_choice"
     ],
     "format": "either",
-    "pitch": "A Somali refugee must choose between love and freedom when resettlement to Sweden separates him from the woman he met in the world's largest refugee camp. Sweden's immigration laws trap him in a middle-class life whilst his wife and child remain in Dadaab, creating a new kind of exile.",
+    "pitch": "A refugee journalist wins the resettlement lottery to Sweden after 18 years in the world's largest refugee camp, but immigration laws prevent his wife and newborn child from joining him — and he cannot return to claim them.",
     "comparable_works": [
-      "Human Flow",
-      "The Good Lie",
-      "Dheepan"
+      "The Pursuit of Happyness",
+      "A Separation",
+      "Human Flow"
     ]
   }
 }

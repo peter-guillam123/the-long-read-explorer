@@ -139,14 +139,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "phenomenal_individual"
+      "phenomenal_individual",
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "The rise and fall of Benjamin Netanyahu, Israel's longest-serving prime minister, whose decades-long political career reshaped a nation before collapsing spectacularly on 7 October 2023.",
+    "pitch": "The rise and fall of Benjamin Netanyahu, Israel's longest-serving prime minister whose decades-long project to reshape the country through occupation management and political manipulation culminated in the intelligence failures that enabled Hamas's devastating 7 October attack.",
     "comparable_works": [
-      "The Family I Had",
-      "Won't You Be My Neighbor?",
-      "All the President's Men"
+      "The Putin Interviews",
+      "The Fog of War",
+      "Nixon"
     ]
   }
 }

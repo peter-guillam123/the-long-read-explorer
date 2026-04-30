@@ -109,14 +109,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "visual_spectacle"
+      "visual_spectacle",
+      "architecture"
     ],
     "format": "documentary",
-    "pitch": "A journey along the 600-mile coastal strip from Abidjan to Lagos, capturing the world's fastest urbanisation as half a billion people reshape west Africa into the planet's largest megalopolis by 2100.",
+    "pitch": "Following the explosive growth of west Africa's coastal megalopolis as it transforms from scattered colonial outposts into what will become the world's largest continuous urban zone, home to half a billion people by 2100.",
     "comparable_works": [
-      "Manufactured Landscapes",
       "Urbanized",
-      "Human Flow"
+      "The Human Scale",
+      "Koyaanisqatsi"
     ]
   }
 }

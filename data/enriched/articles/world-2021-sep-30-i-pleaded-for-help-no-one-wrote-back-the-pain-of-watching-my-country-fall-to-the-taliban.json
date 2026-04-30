@@ -102,17 +102,17 @@
     "continuity vs change"
   ],
   "film_adaptation": {
-    "potential": "high",
+    "potential": "medium",
     "categories": [
       "ethical_choice",
       "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "As Kabul falls to the Taliban, civilians across the globe scramble to coordinate evacuations through WhatsApp groups, making life-or-death decisions about who gets saved when governments fail to act.",
+    "pitch": "As Kabul falls to the Taliban, an Afghan-born refugee in London coordinates desperate WhatsApp evacuations with inexperienced civilians and special forces, making impossible choices about who lives and who gets left behind.",
     "comparable_works": [
-      "The White Helmets",
-      "City of Ghosts",
-      "For Sama"
+      "Last Days in Vietnam",
+      "For Sama",
+      "Flee"
     ]
   }
 }

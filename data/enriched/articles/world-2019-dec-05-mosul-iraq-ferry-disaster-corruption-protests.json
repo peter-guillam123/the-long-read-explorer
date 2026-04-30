@@ -90,15 +90,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
+      "survival",
       "david_vs_goliath",
-      "closed_community_upheaval"
+      "conspiracy"
     ],
-    "format": "documentary",
-    "pitch": "Families of 128 victims of a preventable ferry disaster in war-torn Mosul fight for justice against the corrupt militia-backed operators who ignored safety warnings. The tragedy becomes a microcosm of Iraq's broken system as ordinary people demand accountability from untouchable power brokers.",
+    "format": "either",
+    "pitch": "When a pleasure ferry sinks in post-ISIS Mosul, killing 128 people including families celebrating the new year, survivors and victims' relatives fight for justice against the militia-backed corruption that caused the disaster.",
     "comparable_works": [
-      "The Act of Killing",
-      "City of Ghosts",
-      "For Sama"
+      "The Impossible",
+      "Spotlight",
+      "They Shall Not Grow Old"
     ]
   }
 }

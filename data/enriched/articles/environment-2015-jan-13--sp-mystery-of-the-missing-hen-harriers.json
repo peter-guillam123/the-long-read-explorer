@@ -106,18 +106,18 @@
     "measurement and precision"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
+      "twisty_mystery",
       "david_vs_goliath",
-      "forensic_chase",
-      "closed_community_upheaval"
+      "forensic_chase"
     ],
     "format": "documentary",
-    "pitch": "RSPB detective Howard Jones investigates the disappearance of two satellite-tagged hen harriers in Lancashire, uncovering a bitter conflict between conservationists and the grouse shooting industry that threatens England's rarest bird of prey.",
+    "pitch": "RSPB investigators use covert surveillance and satellite tracking to hunt for whoever is systematically killing England's last hen harriers, exposing a bitter conflict between conservationists and the grouse shooting establishment.",
     "comparable_works": [
-      "Tiger King",
-      "Don't F**k With Cats",
-      "The Cove"
+      "The Cove",
+      "Blackfish",
+      "My Octopus Teacher"
     ]
   }
 }

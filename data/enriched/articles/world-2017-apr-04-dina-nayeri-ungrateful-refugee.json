@@ -96,14 +96,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "survival"
+      "hidden_world"
     ],
     "format": "either",
-    "pitch": "An Iranian refugee family navigates multiple forms of exile across three continents, enduring physical violence and psychological pressure to erase their identity in exchange for acceptance in the West.",
+    "pitch": "An Iranian refugee family navigates the hidden rules of American assimilation in 1990s Oklahoma, where gratitude becomes a currency and identity erasure is the price of acceptance.",
     "comparable_works": [
-      "The Farewell",
-      "Minari",
-      "Brooklyn"
+      "The Namesake",
+      "Persepolis",
+      "Minari"
     ]
   }
 }

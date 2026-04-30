@@ -103,15 +103,13 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
-      "visual_spectacle"
+      "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "Inside one of Europe's last vinyl pressing plants, a handful of East German engineers keep obsolete Soviet-era machines running to meet surging demand from a music industry that left records for dead decades ago.",
+    "pitch": "The last vinyl pressing plants in Europe struggle to keep ancient machinery running as demand explodes, with former East German engineers using Cold War-era ingenuity to salvage Soviet-era equipment and feed a format everyone thought was dead.",
     "comparable_works": [
-      "American Factory",
       "The Last Blockbuster",
-      "Sunset Strip"
+      "Jiro Dreams of Sushi"
     ]
   }
 }

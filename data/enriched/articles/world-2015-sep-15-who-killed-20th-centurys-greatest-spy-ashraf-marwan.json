@@ -109,16 +109,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "twisty_mystery",
       "espionage",
-      "phenomenal_individual"
+      "twisty_mystery",
+      "conspiracy"
     ],
     "format": "either",
-    "pitch": "The mysterious death of Ashraf Marwan, a double agent who may have been the 20th century's greatest spy, falls from his London balcony in 2007, taking secrets that could have toppled governments with him.",
+    "pitch": "The mysterious death of Ashraf Marwan, a double agent who may have been the 20th century's greatest spy, working simultaneously for Egypt and Israel before falling from his London balcony in 2007 — taking his secrets and missing memoirs with him.",
     "comparable_works": [
-      "The Spy Who Came In from the Cold",
+      "The Spy",
       "Tinker Tailor Soldier Spy",
-      "A Most Wanted Man"
+      "The Night Manager"
     ]
   }
 }

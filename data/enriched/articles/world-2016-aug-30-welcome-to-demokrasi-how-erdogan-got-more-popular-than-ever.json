@@ -123,15 +123,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "closed_community_upheaval",
-      "david_vs_goliath"
+      "history_revisited",
+      "closed_community_upheaval"
     ],
-    "format": "documentary",
-    "pitch": "A village headman leads his Istanbul neighbourhood's defence against coup soldiers on the night Turkey's democracy nearly fell, becoming a holy warrior in Erdoğan's new form of majoritarian rule.",
+    "format": "either",
+    "pitch": "The night Turkey's democracy was saved by ordinary citizens who answered their president's mobile phone call to resist a military coup, told through the village headman who led the defence of his Istanbul neighbourhood and paid in blood.",
     "comparable_works": [
+      "The Act of Killing",
       "Winter on Fire",
-      "The Square",
-      "Maidan"
+      "They Shall Not Grow Old"
     ]
   }
 }

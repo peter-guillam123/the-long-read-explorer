@@ -428,29 +428,33 @@
   },
   "film_adaptation_counts": {
     "by_potential": {
-      "medium": 476,
-      "low": 149,
-      "high": 261,
+      "medium": 428,
+      "low": 156,
+      "high": 302,
       "none": 1
     },
     "by_category": {
-      "hidden_world": 288,
-      "david_vs_goliath": 260,
-      "phenomenal_individual": 191,
-      "ethical_choice": 103,
-      "origin_moment": 86,
-      "twisty_mystery": 79,
-      "closed_community_upheaval": 70,
-      "visual_spectacle": 60,
-      "whistleblower": 58,
-      "survival": 57,
-      "forensic_chase": 49,
-      "espionage": 36,
-      "heist_con": 34
+      "david_vs_goliath": 289,
+      "phenomenal_individual": 263,
+      "hidden_world": 201,
+      "history_revisited": 132,
+      "conspiracy": 129,
+      "ethical_choice": 80,
+      "closed_community_upheaval": 68,
+      "origin_moment": 60,
+      "twisty_mystery": 60,
+      "whistleblower": 59,
+      "brand_story": 57,
+      "forensic_chase": 52,
+      "survival": 41,
+      "visual_spectacle": 24,
+      "heist_con": 22,
+      "espionage": 19,
+      "architecture": 18
     },
     "by_format": {
-      "documentary": 705,
-      "either": 181,
+      "either": 237,
+      "documentary": 649,
       "fiction": 1
     }
   }

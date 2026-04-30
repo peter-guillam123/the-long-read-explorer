@@ -102,10 +102,11 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "origin_moment"
+      "origin_moment",
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "How a Welsh farmer and a molecular biophysicist who took ayahuasca in Costa Rica built the climate movement that shut down central London and changed global environmental politics within 18 months.",
+    "pitch": "How a psychedelic revelation in Costa Rica and a cafe conversation spawned Extinction Rebellion — from 15 activists in a Cotswolds living room to thousands blocking London bridges in less than two years.",
     "comparable_works": [
       "The Social Network",
       "An Inconvenient Truth",

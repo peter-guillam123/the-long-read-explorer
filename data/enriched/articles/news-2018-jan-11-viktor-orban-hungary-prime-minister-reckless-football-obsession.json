@@ -136,15 +136,15 @@
     "potential": "high",
     "categories": [
       "phenomenal_individual",
-      "hidden_world",
-      "closed_community_upheaval"
+      "conspiracy",
+      "brand_story"
     ],
-    "format": "documentary",
-    "pitch": "Viktor Orbán's football obsession reveals how a populist leader built absolute power through stadium construction and oligarch networking, with his childhood village's cathedral-like arena serving as the epicentre of corruption and influence-peddling.",
+    "format": "either",
+    "pitch": "Hungary's prime minister Viktor Orbán has spent millions of EU funds building football stadiums across the country, including a 3,800-capacity cathedral-like arena in his childhood village of 1,800 people where oligarchs gather in reserved parking spaces to conduct state business from the skybox.",
     "comparable_works": [
-      "Putin's Palace",
-      "The Act of Killing",
-      "Icarus"
+      "The Last Dance",
+      "Icarus",
+      "All the President's Men"
     ]
   }
 }

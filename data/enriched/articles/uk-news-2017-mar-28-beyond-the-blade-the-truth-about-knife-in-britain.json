@@ -136,16 +136,10 @@
     "classification and taxonomy"
   ],
   "film_adaptation": {
-    "potential": "medium",
-    "categories": [
-      "closed_community_upheaval"
-    ],
+    "potential": "low",
+    "categories": [],
     "format": "documentary",
-    "pitch": "A filmmaker follows the families of young knife crime victims across Britain, revealing how austerity, media coverage and political responses have failed a generation caught in an escalating crisis.",
-    "comparable_works": [
-      "Bowling for Columbine",
-      "The Interrupters",
-      "Newtown"
-    ]
+    "pitch": null,
+    "comparable_works": []
   }
 }

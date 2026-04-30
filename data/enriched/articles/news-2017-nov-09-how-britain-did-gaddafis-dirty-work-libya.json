@@ -148,16 +148,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
+      "conspiracy",
       "espionage",
-      "whistleblower",
-      "ethical_choice"
+      "whistleblower"
     ],
     "format": "either",
-    "pitch": "Secret documents reveal how MI6 helped Gaddafi kidnap and torture his enemies after 9/11, as Mark Allen and Moussa Koussa forge an unlikely friendship that sacrifices dissidents for geopolitical advantage.",
+    "pitch": "Secret documents reveal how MI6 and the CIA helped Gaddafi kidnap and torture his enemies across the world in exchange for intelligence cooperation after 9/11. The story follows Mark Allen, the MI6 spy chief who built a personal friendship with Libya's intelligence head while orchestrating renditions from Hong Kong to Thailand.",
     "comparable_works": [
       "The Report",
       "Official Secrets",
-      "Tinker Tailor Soldier Spy"
+      "State of Play"
     ]
   }
 }

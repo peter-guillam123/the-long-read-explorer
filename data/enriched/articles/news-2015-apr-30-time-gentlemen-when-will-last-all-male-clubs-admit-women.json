@@ -119,15 +119,13 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
-      "closed_community_upheaval"
+      "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "Inside the Garrick Club's bitter 2015 battle over admitting women, where establishment figures like Stephen Fry and Michael Gove clash with old guard members determined to preserve their male sanctuary at any cost.",
+    "pitch": "Inside the Garrick Club's bitter 2015 vote on admitting women members, where establishment figures like Jeremy Paxman and Michael Gove clash with old-guard traditionalists behind velvet curtains and leather-bound ledgers.",
     "comparable_works": [
       "The Square",
-      "Dior and I",
-      "The Last Bookstore"
+      "Meet the Patels"
     ]
   }
 }

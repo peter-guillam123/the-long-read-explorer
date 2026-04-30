@@ -120,15 +120,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "phenomenal_individual",
-      "hidden_world"
+      "phenomenal_individual"
     ],
     "format": "documentary",
-    "pitch": "Britain's most formidable barrister destroys Russian oligarchs in his final case before joining the Supreme Court, while writing acclaimed histories of medieval warfare in his spare time.",
+    "pitch": "Britain's most brilliant barrister demolishes Russian oligarch Boris Berezovsky in a £5 million courtroom showdown before ascending to the Supreme Court. A portrait of intellectual power operating at the highest levels of the establishment.",
     "comparable_works": [
       "The Staircase",
-      "McMillions",
-      "The Last Dance"
+      "Won't You Be My Neighbor?",
+      "RBG"
     ]
   }
 }

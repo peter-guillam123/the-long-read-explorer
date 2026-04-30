@@ -135,15 +135,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
-      "ethical_choice"
+      "phenomenal_individual",
+      "history_revisited"
     ],
-    "format": "documentary",
-    "pitch": "A behind-the-scenes look at how Britain's chief peace negotiator spent a decade secretly meeting IRA leaders in safe houses across Ireland, navigating the moral complexity of shaking hands with people who had killed civilians to forge the Good Friday Agreement.",
+    "format": "either",
+    "pitch": "Jonathan Powell, Tony Blair's chief of staff, reveals the secret meetings and personal relationships that turned IRA commanders into peace negotiators — a behind-the-scenes account of how governments actually talk their way out of wars.",
     "comparable_works": [
-      "The Fog of War",
-      "Five Broken Cameras",
-      "Winter on Fire"
+      "The Good Friday Agreement (BBC)",
+      "The Secret Peacemaker",
+      "13 Days"
     ]
   }
 }

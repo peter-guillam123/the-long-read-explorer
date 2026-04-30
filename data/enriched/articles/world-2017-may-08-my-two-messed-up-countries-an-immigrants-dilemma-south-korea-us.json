@@ -102,17 +102,18 @@
     "unintended consequences"
   ],
   "film_adaptation": {
-    "potential": "high",
+    "potential": "medium",
     "categories": [
-      "ethical_choice",
-      "twisty_mystery"
+      "conspiracy",
+      "history_revisited",
+      "ethical_choice"
     ],
     "format": "documentary",
-    "pitch": "A Korean-American writer finds herself caught between two countries in crisis — South Korea's president exposed as a puppet of a mysterious cult leader's daughter, while Trump's America turns hostile to immigrants like herself.",
+    "pitch": "A Korean-American journalist finds herself caught between two democracies in crisis — watching massive street protests topple South Korea's president over a bizarre spiritual advisor scandal while Trump wins the US election.",
     "comparable_works": [
       "The Act of Killing",
-      "Won't You Be My Neighbor?",
-      "Icarus"
+      "Winter on Fire",
+      "The Square"
     ]
   }
 }

@@ -93,10 +93,17 @@
     "scale and proportion"
   ],
   "film_adaptation": {
-    "potential": "low",
-    "categories": [],
+    "potential": "medium",
+    "categories": [
+      "phenomenal_individual",
+      "brand_story"
+    ],
     "format": "documentary",
-    "pitch": null,
-    "comparable_works": []
+    "pitch": "Jeff Bezos's transformation from online bookseller to the world's richest man reveals how Amazon became so embedded in modern life that boycotting it is nearly impossible. A portrait of unprecedented corporate power told through the company's own shareholder letters and the moral compromises of its millions of customers.",
+    "comparable_works": [
+      "The Social Dilemma",
+      "Inside Job",
+      "Steve Jobs"
+    ]
   }
 }

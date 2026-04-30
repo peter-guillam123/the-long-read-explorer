@@ -142,12 +142,12 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
+      "twisty_mystery",
       "david_vs_goliath",
-      "ethical_choice",
-      "twisty_mystery"
+      "ethical_choice"
     ],
     "format": "either",
-    "pitch": "When three-month-old Effie is rushed to hospital with brain injuries, her young parents are arrested for shaken baby syndrome - but the medical evidence dividing courtrooms worldwide means their fate hangs on which expert testifies better.",
+    "pitch": "Parents accused of shaking their baby to death find themselves caught between warring medical experts who can't agree whether the science proving child abuse is real or junk, while children's lives hang in the balance.",
     "comparable_works": [
       "The Staircase",
       "Making a Murderer",

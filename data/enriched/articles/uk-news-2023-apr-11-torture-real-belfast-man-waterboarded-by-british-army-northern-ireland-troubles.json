@@ -96,14 +96,15 @@
     "potential": "high",
     "categories": [
       "david_vs_goliath",
-      "ethical_choice"
+      "history_revisited",
+      "conspiracy"
     ],
     "format": "either",
-    "pitch": "A teenage Belfast chef spends 17 years in prison for murdering a British soldier after confessing under waterboarding torture, then fights the British government for five decades to clear his name.",
+    "pitch": "A Belfast teenager tortured into confessing to murder by British paratroopers in 1972 spends 50 years fighting to clear his name, as the government tries to bury the truth about army brutality during the Troubles.",
     "comparable_works": [
       "In the Name of the Father",
-      "The Confession Killer",
-      "When They See Us"
+      "The Report",
+      "Spotlight"
     ]
   }
 }

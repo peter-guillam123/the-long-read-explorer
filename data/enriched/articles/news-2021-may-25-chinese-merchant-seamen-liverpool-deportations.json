@@ -109,15 +109,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "twisty_mystery",
+      "conspiracy",
+      "history_revisited",
       "david_vs_goliath"
     ],
-    "format": "documentary",
-    "pitch": "The children of Chinese merchant seamen who helped Britain survive World War II uncover a secret government programme that forcibly deported their fathers in 1945-46, leaving families to believe they had been abandoned.",
+    "format": "either",
+    "pitch": "Chinese merchant seamen who kept Britain fed during the war were secretly deported in 1945, torn from their British wives and children without warning. Decades later, their children piece together classified files to uncover the government conspiracy that erased their fathers.",
     "comparable_works": [
-      "The Act of Killing",
-      "Spotlight",
-      "Stories We Tell"
+      "Philomena",
+      "The Post",
+      "Spotlight"
     ]
   }
 }

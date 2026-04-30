@@ -120,16 +120,18 @@
     "power and resistance"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
-      "phenomenal_individual"
+      "phenomenal_individual",
+      "origin_moment",
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "The transformation of Matteo Salvini from regional separatist to Italy's most popular politician, charting how he weaponised social media and anti-immigrant sentiment to drag a moribund party from 4% to kingmaker status in four years.",
+    "pitch": "How a regional Italian separatist transformed himself into Europe's most effective populist, wielding Facebook mastery and anti-immigrant panic to drag his country—and continent—toward the far right.",
     "comparable_works": [
-      "The Great Hack",
+      "The Rise of Jordan Peterson",
       "Get Me Roger Stone",
-      "Putin's Palace"
+      "The Social Dilemma"
     ]
   }
 }

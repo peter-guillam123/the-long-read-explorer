@@ -105,10 +105,11 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
+      "brand_story",
       "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "A group of feminist entrepreneurs take on Tampax's 90-year stranglehold on the global tampon market, using sustainability and body positivity to challenge a corporate giant that has shaped how women think about their periods.",
+    "pitch": "A decades-old tampon empire faces an uprising from feminist startup brands trying to overthrow its grip on billions of customers worldwide. The corporate queen defending her throne versus scrappy revolutionaries armed with organic cotton and progressive messaging.",
     "comparable_works": [
       "The Social Dilemma",
       "Fyre: The Greatest Party That Never Happened"

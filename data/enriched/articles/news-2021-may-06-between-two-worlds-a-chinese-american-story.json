@@ -94,12 +94,15 @@
   ],
   "film_adaptation": {
     "potential": "medium",
-    "categories": [],
-    "format": "documentary",
-    "pitch": "A Chinese-American writer navigates identity and belonging across two countries as geopolitical tensions rise, culminating in her being unable to attend her grandparents' funerals due to pandemic border closures.",
+    "categories": [
+      "phenomenal_individual"
+    ],
+    "format": "either",
+    "pitch": "A Chinese-American writer races against time and deteriorating US-China relations to collect her grandfather's extraordinary story — from illiterate farm boy to Communist soldier to published author — only to find herself trapped between two worlds as borders close and family members die during the pandemic.",
     "comparable_works": [
       "The Farewell",
-      "Minari"
+      "Minari",
+      "Last Days in Vietnam"
     ]
   }
 }

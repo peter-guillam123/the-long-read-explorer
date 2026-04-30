@@ -106,17 +106,17 @@
     "cause and effect"
   ],
   "film_adaptation": {
-    "potential": "high",
+    "potential": "medium",
     "categories": [
       "hidden_world",
       "ethical_choice"
     ],
     "format": "documentary",
-    "pitch": "A radical Ottawa shelter gives free wine to chronic alcoholics every hour, following residents like Irwin Windsor as they navigate a controversial programme that challenges everything society believes about addiction treatment.",
+    "pitch": "Inside Canada's only shelter that gives free wine to homeless alcoholics every hour, following residents and staff as they navigate a radical approach that challenges everything we think we know about addiction treatment.",
     "comparable_works": [
-      "The Opioid Chronicles",
+      "The Anonymous People",
       "Rat Park",
-      "Heroin(e)"
+      "The Business of Recovery"
     ]
   }
 }

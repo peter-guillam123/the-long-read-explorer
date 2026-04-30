@@ -126,14 +126,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "origin_moment"
+      "origin_moment",
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "How three dismissed Labour MPs spent decades building a movement from the margins of British politics, culminating in Jeremy Corbyn's unlikely rise to party leadership and near-victory in 2017.",
+    "pitch": "Three socialist MPs dismissed as irrelevant radicals for decades survived in Westminster's political wilderness to unexpectedly capture Labour's leadership. Their patient activism at empty rallies and forgotten causes built the networks that eventually toppled the party establishment.",
     "comparable_works": [
-      "The Power of Nightmares",
-      "Brexit: The Uncivil War",
-      "The Reagan Show"
+      "The Rise of Jordan Peterson",
+      "Get Me Roger Stone",
+      "Fahrenheit 11/9"
     ]
   }
 }

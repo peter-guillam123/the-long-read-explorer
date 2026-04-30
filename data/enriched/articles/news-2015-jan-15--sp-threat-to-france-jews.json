@@ -141,10 +141,17 @@
     "power and resistance"
   ],
   "film_adaptation": {
-    "potential": "low",
-    "categories": [],
+    "potential": "medium",
+    "categories": [
+      "history_revisited",
+      "closed_community_upheaval"
+    ],
     "format": "documentary",
-    "pitch": null,
-    "comparable_works": []
+    "pitch": "As French Jews emigrate in record numbers following the 2015 Paris attacks, families split between those who stay loyal to the republic and those who abandon their homeland for Israel.",
+    "comparable_works": [
+      "Exodus",
+      "The Sorrow and the Pity",
+      "Minyan in Kaifeng"
+    ]
   }
 }

@@ -123,15 +123,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
-      "phenomenal_individual"
+      "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "British groundskeepers have become football's unlikely stars, with clubs paying millions to poach turf experts whose perfect pitches can determine whether teams win or lose. The story follows these obsessive craftsmen who transformed muddy quagmires into precision surfaces that changed how the beautiful game is played.",
+    "pitch": "British groundskeepers have become football's secret weapon, transforming pitches from muddy quagmires into precision surfaces that changed how the beautiful game is played. From Arsenal's Steve Braddock revolutionising pitch science to Jonathan Calderwood earning superstar treatment at PSG, these turf obsessives wield scissors-sharp attention to detail in pursuit of the perfect playing surface.",
     "comparable_works": [
-      "Senna",
-      "The Last Dance",
-      "Chef's Table"
+      "Moneyball",
+      "The Price of Gold",
+      "Icarus"
     ]
   }
 }

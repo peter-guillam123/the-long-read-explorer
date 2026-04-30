@@ -118,14 +118,15 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
+      "david_vs_goliath",
       "ethical_choice",
-      "david_vs_goliath"
+      "history_revisited"
     ],
     "format": "either",
-    "pitch": "A 15-year-old girl becomes the youngest person on death row after a brutal murder, but her victim's grandson undergoes a profound transformation that leads him to fight for her life. The story follows both the crime that destroyed two families and the unlikely campaign for mercy that emerges from the victim's own relatives.",
+    "pitch": "A 15-year-old girl becomes the youngest person on death row in America after a brutal murder, while the victim's grandson campaigns to save her life against his own family's wishes.",
     "comparable_works": [
-      "Dead Man Walking",
       "Just Mercy",
+      "Dead Man Walking",
       "The Central Park Five"
     ]
   }

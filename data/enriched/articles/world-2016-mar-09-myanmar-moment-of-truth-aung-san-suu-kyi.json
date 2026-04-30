@@ -139,16 +139,17 @@
     "unintended consequences"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
-      "david_vs_goliath",
-      "twisty_mystery"
+      "twisty_mystery",
+      "conspiracy",
+      "david_vs_goliath"
     ],
-    "format": "documentary",
-    "pitch": "As Myanmar's military claims to embrace democracy and transfer power to Aung San Suu Kyi, a brutal double murder of two teachers in a remote village suggests the generals aren't ready to surrender control.",
+    "format": "either",
+    "pitch": "As Myanmar transitions to democracy, a brutal double murder of two teachers in a remote mountain village becomes a test case for whether the military junta will truly cede power or continue to operate with impunity behind civilian facades.",
     "comparable_works": [
       "The Act of Killing",
-      "Winter on Fire",
+      "City of Ghosts",
       "They Shall Not Grow Old"
     ]
   }

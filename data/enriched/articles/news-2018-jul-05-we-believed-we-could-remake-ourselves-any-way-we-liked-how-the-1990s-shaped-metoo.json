@@ -113,10 +113,16 @@
     "unintended consequences"
   ],
   "film_adaptation": {
-    "potential": "low",
-    "categories": [],
+    "potential": "medium",
+    "categories": [
+      "history_revisited"
+    ],
     "format": "documentary",
-    "pitch": null,
-    "comparable_works": []
+    "pitch": "A documentary examining how the optimistic culture of the 1990s — with its promises of female empowerment and endless possibility — inadvertently created conditions that left a generation of women unprepared for sexual predation and harassment.",
+    "comparable_works": [
+      "The Century of the Self",
+      "Liberated: The New Sexual Revolution",
+      "Miss Americana"
+    ]
   }
 }

@@ -129,15 +129,15 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "ethical_choice",
-      "david_vs_goliath"
+      "david_vs_goliath",
+      "history_revisited"
     ],
     "format": "either",
-    "pitch": "Over three days in July 2015, European leaders engage in a 17-hour marathon negotiation to decide whether Greece becomes the first country kicked out of the euro, with Germany's finance minister pushing for expulsion while others fight to prevent the currency union's collapse.",
+    "pitch": "A brutal 72-hour standoff in Brussels where Germany's finance minister tries to expel Greece from the eurozone, forcing a handful of European leaders into overnight negotiations that could destroy the single currency or surrender Greek sovereignty.",
     "comparable_works": [
       "All the President's Men",
       "The Big Short",
-      "Brexit: The Uncivil War"
+      "Darkest Hour"
     ]
   }
 }

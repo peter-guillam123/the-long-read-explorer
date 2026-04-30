@@ -113,15 +113,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "origin_moment",
-      "hidden_world"
+      "brand_story",
+      "origin_moment"
     ],
     "format": "documentary",
-    "pitch": "The story of how Kari Boiler turned a single product placement on Sex and the City into a global luxury industry that transformed modern parenting culture. A tale of one woman's marketing genius and the psychology of status anxiety among new parents.",
+    "pitch": "How a Dutch startup with seven employees created the luxury pram market by getting their buggy onto Sex and the City, turning baby transport into a status symbol worth billions.",
     "comparable_works": [
-      "The Social Network",
-      "Generation Wealth",
-      "Consuming Kids: The Commercialization of Childhood"
+      "The Social Dilemma",
+      "Fyre: The Greatest Party That Never Happened",
+      "Generation Hustle"
     ]
   }
 }

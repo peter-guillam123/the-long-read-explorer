@@ -151,14 +151,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world"
+      "hidden_world",
+      "conspiracy"
     ],
     "format": "documentary",
-    "pitch": "The secret machinations behind Britain's most powerful literary prize, where careful leaks, strategic scandals and backstage politics transform unknown writers into global stars overnight.",
+    "pitch": "Behind the scenes of the Booker Prize's 50-year history of manufactured drama, leaked secrets and carefully orchestrated scandals that turned a literary award into a cultural spectacle.",
     "comparable_works": [
-      "The Chair",
-      "Page One: Inside the New York Times",
-      "Spinning Gold"
+      "The Queen's Gambit",
+      "Tickled",
+      "Fyre: The Greatest Party That Never Happened"
     ]
   }
 }

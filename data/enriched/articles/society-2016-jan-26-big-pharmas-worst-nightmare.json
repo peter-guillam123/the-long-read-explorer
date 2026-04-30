@@ -114,14 +114,15 @@
     "potential": "high",
     "categories": [
       "david_vs_goliath",
-      "phenomenal_individual"
+      "phenomenal_individual",
+      "conspiracy"
     ],
     "format": "either",
-    "pitch": "Patent activist Jamie Love wages a decades-long battle against pharmaceutical giants to make life-saving drugs affordable globally, culminating in a personal fight when his wife needs a cancer drug costing £90,000 per year.",
+    "pitch": "An economist takes on the global pharmaceutical industry in a decades-long battle to break drug patent monopolies, from a secret 2000 meeting that changed AIDS treatment forever to his personal fight when his wife needs a £90,000 cancer drug.",
     "comparable_works": [
       "The Insider",
-      "Erin Brockovich",
-      "Dark Waters"
+      "Dark Waters",
+      "Spotlight"
     ]
   }
 }

@@ -133,17 +133,10 @@
     "canon formation"
   ],
   "film_adaptation": {
-    "potential": "medium",
-    "categories": [
-      "hidden_world",
-      "phenomenal_individual"
-    ],
+    "potential": "low",
+    "categories": [],
     "format": "documentary",
-    "pitch": "Mortician Caitlin Doughty leads a movement to reclaim death from corporate funeral homes, exploring alternative burial practices and death acceptance across cultures while building her 'Order of the Good Death' collective.",
-    "comparable_works": [
-      "The Act of Killing",
-      "Coco",
-      "Six Feet Under"
-    ]
+    "pitch": null,
+    "comparable_works": []
   }
 }

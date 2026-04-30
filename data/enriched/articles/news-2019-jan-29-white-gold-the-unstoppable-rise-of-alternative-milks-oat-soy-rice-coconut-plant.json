@@ -147,15 +147,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "david_vs_goliath",
-      "origin_moment"
+      "brand_story",
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "How a handful of wellness startups toppled the dairy industry's century-long grip on the public imagination, turning oat milk into a cultural phenomenon that sparked shortages across America.",
+    "pitch": "How a handful of Swedish oat milk executives and wellness bloggers dismantled the century-old dairy empire, turning what was once considered fringe hippie food into a $16bn industry that has politicians and farmers scrambling to survive.",
     "comparable_works": [
       "Super Size Me",
-      "Food, Inc.",
-      "The Social Dilemma"
+      "The Corporation",
+      "Food, Inc."
     ]
   }
 }

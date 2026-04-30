@@ -122,13 +122,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world"
+      "hidden_world",
+      "brand_story"
     ],
     "format": "documentary",
-    "pitch": "A multi-generational family business transforms from supplying ice to fishing boats into Britain's dominant packaged ice empire, revealing the surprisingly complex world behind frozen water that appears in everything from corner shops to Glastonbury's Coke bins.",
+    "pitch": "A family business has quietly cornered Britain's ice market, producing five billion cubes a year from a factory in West Yorkshire. When Covid kills the party season, four generations of the Marr family face their biggest threat yet.",
     "comparable_works": [
-      "The Founder",
-      "Fyre: The Greatest Party That Never Happened"
+      "The Last Blockbuster",
+      "Donut King",
+      "Betting on Zero"
     ]
   }
 }

@@ -74,12 +74,12 @@
     "categories": [
       "hidden_world"
     ],
-    "format": "either",
-    "pitch": "A literature graduate turned healthcare assistant navigates 12-hour shifts on an understaffed NHS ward, revealing the human cost of a healthcare system pushed beyond breaking point.",
+    "format": "documentary",
+    "pitch": "A career-changer working as a healthcare assistant on an understaffed NHS ward reveals the daily reality of Britain's health service through one gruelling 12-hour shift caring for elderly patients.",
     "comparable_works": [
-      "I, Daniel Blake",
-      "The English Surgeon",
-      "24 Hours in A&E"
+      "24 Hours in A&E",
+      "An American Nurse",
+      "The Waiting Room"
     ]
   }
 }

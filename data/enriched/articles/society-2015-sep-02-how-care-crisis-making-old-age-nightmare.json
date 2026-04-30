@@ -109,14 +109,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world"
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "Following the daily crisis management at one of Britain's best hospitals as bed shortages force impossible decisions, revealing how austerity has turned healthcare into a zero-sum game between competing services.",
+    "pitch": "Hospital staff at one of Britain's top hospitals fight an impossible daily battle to find beds and care for patients as the NHS and social care system crumbles around them, told through the stories of elderly patients trapped in the chaos.",
     "comparable_works": [
       "24 Hours in A&E",
-      "Hospital",
-      "I, Daniel Blake"
+      "The Hospital",
+      "Sicko"
     ]
   }
 }

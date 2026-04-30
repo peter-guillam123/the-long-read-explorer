@@ -142,14 +142,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "phenomenal_individual"
+      "phenomenal_individual",
+      "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "Jordan Younger built a wellness empire as The Blonde Vegan with 70,000 followers, selling thousands of 'clean eating' programmes — until her own restrictive diet nearly killed her and she had to tell her followers the truth.",
+    "pitch": "Jordan Younger built a wellness empire as The Blonde Vegan, selling 40,000 cleanses to Instagram followers before her 'perfect' diet nearly killed her — and confessing the truth sparked death threats from the clean eating cult she'd helped create.",
     "comparable_works": [
-      "Fyre: The Greatest Party That Never Happened",
+      "Fyre",
       "The Social Dilemma",
-      "Holy Hell"
+      "Fake Famous"
     ]
   }
 }

@@ -103,18 +103,18 @@
     "scale and proportion"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
-      "hidden_world",
+      "survival",
       "visual_spectacle",
-      "survival"
+      "closed_community_upheaval"
     ],
-    "format": "documentary",
-    "pitch": "When a 17,000-tonne oil rig breaks free during a North Sea storm and crashes onto a remote Scottish beach, salvage crews must mount a dangerous operation to remove it while islanders grapple with this industrial giant invading their pristine coastline.",
+    "format": "either",
+    "pitch": "When a massive oil rig breaks free during a North Atlantic storm and crashes onto a remote Scottish island beach, salvage crews must stage a daring operation to remove 17,000 tonnes of steel from one of the world's most beautiful and inaccessible coastlines.",
     "comparable_works": [
-      "Deepwater Horizon",
       "The Perfect Storm",
-      "Free Solo"
+      "Free Solo",
+      "The Impossible"
     ]
   }
 }

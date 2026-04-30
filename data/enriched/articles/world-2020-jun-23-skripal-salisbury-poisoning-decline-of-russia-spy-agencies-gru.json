@@ -132,14 +132,14 @@
     "categories": [
       "forensic_chase",
       "espionage",
-      "twisty_mystery"
+      "phenomenal_individual"
     ],
-    "format": "documentary",
-    "pitch": "How a stay-at-home dad armed only with Google Earth and social media exposed the identities of Russian assassins after the Salisbury poisoning, embarrassing Putin's spy agencies through open-source detective work from his sofa.",
+    "format": "either",
+    "pitch": "A nerdy gamer turned open-source investigator uses Google Earth and social media to unmask Russian assassins who poisoned a spy in Salisbury, exposing the decline of Putin's once-feared intelligence agencies through digital detective work conducted from a sofa in the Midlands.",
     "comparable_works": [
+      "The Social Dilemma",
       "Don't F**k with Cats",
-      "Icarus",
-      "The Perfect Weapon"
+      "Icarus"
     ]
   }
 }

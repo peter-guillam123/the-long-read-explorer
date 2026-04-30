@@ -115,15 +115,15 @@
     "potential": "high",
     "categories": [
       "twisty_mystery",
-      "closed_community_upheaval",
-      "heist_con"
+      "conspiracy",
+      "closed_community_upheaval"
     ],
     "format": "either",
-    "pitch": "A British governor and police chief watch in real time as the newly elected premier of a tiny Caribbean territory transforms from anti-corruption crusader to the centre of an international narcotrafficking scandal. Set against the backdrop of Hurricane Irma's devastation and the murky world of offshore finance, the story follows their mounting suspicions as Fahie demands armed guards and dismantles institutional safeguards.",
+    "pitch": "A newly elected Caribbean premier demands armed guards, then vanishes into a web of narcotrafficking that brings down his government and exposes how a tiny British territory became a crossroads for international crime.",
     "comparable_works": [
       "McMafia",
-      "The Laundromat",
-      "Ozark"
+      "The Night Manager",
+      "Narcos"
     ]
   }
 }

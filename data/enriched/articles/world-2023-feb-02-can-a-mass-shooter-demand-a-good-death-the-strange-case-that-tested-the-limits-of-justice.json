@@ -113,15 +113,15 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "ethical_choice",
-      "david_vs_goliath"
+      "twisty_mystery",
+      "ethical_choice"
     ],
     "format": "either",
-    "pitch": "A workplace shooter survives his attack and demands the right to die, forcing his victims to argue for the life of the man who tried to kill them. The case exposes the collision between justice, mercy and medical ethics when traditional punishment becomes impossible.",
+    "pitch": "A Romanian security guard shoots four colleagues in Spain, then fights in court for his own death while his surviving victims argue to keep him alive. A case that upends every assumption about justice and forgiveness.",
     "comparable_works": [
       "The Act of Killing",
       "Dear Zachary",
-      "Making a Murderer"
+      "Spotlight"
     ]
   }
 }

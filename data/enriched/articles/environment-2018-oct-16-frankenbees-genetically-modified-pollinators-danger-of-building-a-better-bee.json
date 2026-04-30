@@ -98,14 +98,15 @@
     "potential": "medium",
     "categories": [
       "david_vs_goliath",
-      "hidden_world"
+      "ethical_choice",
+      "conspiracy"
     ],
     "format": "documentary",
-    "pitch": "German beekeeper Walter Haefeker fights a two-front war against pesticide giants and genetic engineers, as scientists in Düsseldorf create the world's first genetically modified bees in a windowless lab.",
+    "pitch": "A German beekeeper battles pesticide giants and now faces an even greater threat: scientists creating genetically modified 'frankenbees' that could destroy traditional honeybee strains forever.",
     "comparable_works": [
-      "Food, Inc.",
-      "The World According to Monsanto",
-      "Dark Waters"
+      "Dark Waters",
+      "The Corporation",
+      "Food, Inc."
     ]
   }
 }

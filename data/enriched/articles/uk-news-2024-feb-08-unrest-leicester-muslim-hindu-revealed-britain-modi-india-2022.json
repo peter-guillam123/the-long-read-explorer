@@ -111,14 +111,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "closed_community_upheaval"
+      "closed_community_upheaval",
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "How a weekend of religious violence in Leicester exposed the fault lines of modern Britain, as Indian nationalist politics collided with economic decline in one of the country's most diverse cities.",
+    "pitch": "When Hindu and Muslim communities clashed in Leicester's streets in 2022, the violence lasted just one weekend but revealed how Modi's nationalist politics had crossed continents to reshape Britain's most diverse city.",
     "comparable_works": [
-      "Four Lions",
-      "This Is England",
-      "The Last Dance"
+      "LA 92",
+      "Let It Fall: Los Angeles 1982-1992",
+      "Five Came Back"
     ]
   }
 }

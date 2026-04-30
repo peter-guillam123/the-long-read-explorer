@@ -108,11 +108,10 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "phenomenal_individual",
-      "origin_moment"
+      "phenomenal_individual"
     ],
     "format": "documentary",
-    "pitch": "The rise and spectacular fall of productivity guru Merlin Mann, who created the cult-like 'Inbox Zero' movement before publicly abandoning it all when he realised he was missing his daughter's childhood to write about time management.",
+    "pitch": "The rise and fall of Merlin Mann, who created a Google cult around email management before abandoning his productivity empire in a crisis of conscience about missing his daughter's childhood to write about time management.",
     "comparable_works": [
       "The Social Dilemma",
       "Fyre: The Greatest Party That Never Happened"

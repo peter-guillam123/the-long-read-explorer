@@ -140,16 +140,17 @@
     "tradition vs innovation"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
       "origin_moment",
+      "phenomenal_individual",
       "david_vs_goliath"
     ],
-    "format": "documentary",
-    "pitch": "A charismatic academic with a ponytail and pierced eyebrow transforms from teaching Dead Poets Society-style classes to leading a revolutionary political movement that threatens Spain's two-party system in just 15 months.",
+    "format": "either",
+    "pitch": "A radical university lecturer with a ponytail transforms from teaching Dead Poets Society stunts to leading Spain's fastest-rising political party, threatening to topple the two-party system that has ruled since 1982.",
     "comparable_works": [
       "The Social Network",
-      "Occupy: The Movie",
+      "Vice",
       "All the President's Men"
     ]
   }

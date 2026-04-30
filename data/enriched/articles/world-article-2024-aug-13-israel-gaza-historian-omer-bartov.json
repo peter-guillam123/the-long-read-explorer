@@ -106,10 +106,12 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "ethical_choice"
+      "phenomenal_individual",
+      "ethical_choice",
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "A genocide historian and former IDF soldier returns to Israel after October 7th to find a country he no longer recognises, confronting far-right student protesters and grappling with his warnings about military indoctrination coming true.",
+    "pitch": "A scholar of genocide and former Israeli soldier returns to a transformed country after October 7th, confronting far-right students and a society he no longer recognises.",
     "comparable_works": [
       "The Act of Killing",
       "Waltz with Bashir",

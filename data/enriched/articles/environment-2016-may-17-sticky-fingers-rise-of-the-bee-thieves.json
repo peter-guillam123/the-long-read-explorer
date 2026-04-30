@@ -106,15 +106,16 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
+      "twisty_mystery",
       "hidden_world",
       "heist_con"
     ],
-    "format": "documentary",
-    "pitch": "Inside California's billion-dollar beekeeping industry, where desperate apiarists turn to nighttime hive theft to survive an economic boom that's pricing them out of their own trade.",
+    "format": "either",
+    "pitch": "In California's booming bee industry, where hives rent for $180 each during almond pollination season, desperate beekeepers turn to theft in coordinated nighttime raids across the vast Central Valley.",
     "comparable_works": [
       "American Honey",
-      "Fyre: The Greatest Party That Never Happened",
-      "Tiger King"
+      "Hell or High Water",
+      "The Truffle Hunters"
     ]
   }
 }

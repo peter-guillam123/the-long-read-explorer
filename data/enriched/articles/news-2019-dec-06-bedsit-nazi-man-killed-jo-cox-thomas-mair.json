@@ -120,16 +120,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "twisty_mystery",
+      "phenomenal_individual",
       "forensic_chase",
-      "closed_community_upheaval"
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "An investigation into Thomas Mair, the solitary man who murdered MP Jo Cox in 2016, revealing how a silent extremist planned his attack through library computers while leaving behind only slogans and unanswered questions about his radicalisation.",
+    "pitch": "An investigation into Thomas Mair, the silent assassin who murdered MP Jo Cox in broad daylight then refused to explain why, exploring how a reclusive library user became Britain's first far-right political terrorist.",
     "comparable_works": [
-      "Mindhunter",
-      "Don't F**k with Cats",
-      "The Act of Killing"
+      "The Act of Killing",
+      "22 July",
+      "Mindhunter"
     ]
   }
 }

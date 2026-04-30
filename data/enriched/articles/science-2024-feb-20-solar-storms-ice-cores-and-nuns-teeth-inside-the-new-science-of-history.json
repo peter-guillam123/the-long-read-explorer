@@ -122,17 +122,10 @@
     "boundary crossing"
   ],
   "film_adaptation": {
-    "potential": "medium",
-    "categories": [
-      "forensic_chase",
-      "twisty_mystery"
-    ],
+    "potential": "low",
+    "categories": [],
     "format": "documentary",
-    "pitch": "Scientists use cutting-edge forensics to solve ancient mysteries, from proving Herodotus right about Scythian human-skin quivers to tracking a Bronze Age girl's journey across Europe through her bones.",
-    "comparable_works": [
-      "Time Team",
-      "Secrets of the Dead",
-      "Ancient Apocalypse"
-    ]
+    "pitch": null,
+    "comparable_works": []
   }
 }

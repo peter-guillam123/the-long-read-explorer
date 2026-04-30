@@ -132,16 +132,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "twisty_mystery",
+      "conspiracy",
       "david_vs_goliath",
-      "espionage"
+      "forensic_chase"
     ],
     "format": "documentary",
-    "pitch": "A human rights activist discovers his laptop was hacked for nearly two years to plant evidence of a plot to assassinate India's prime minister — part of an elaborate state conspiracy to frame 16 dissidents using military-grade spyware.",
+    "pitch": "Sixteen human rights activists are framed for plotting to assassinate India's prime minister through an elaborate digital conspiracy involving planted evidence, military-grade spyware and a coordinated campaign to silence critics of Modi's government. A forensic investigation by American digital experts unravels years of sophisticated hacking that reveals how a democracy weaponises anti-terror laws against its own citizens.",
     "comparable_works": [
-      "The Dissident",
-      "Citizenfour",
-      "Icarus"
+      "The Great Hack",
+      "Icarus",
+      "Spotlight"
     ]
   }
 }

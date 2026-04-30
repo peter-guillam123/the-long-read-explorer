@@ -131,14 +131,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "origin_moment"
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "The inside story of how New Labour's immigration miscalculations reshaped British politics, told through the key ministers and civil servants who lived through the chaos as asylum numbers surged and EU enlargement brought unexpected consequences.",
+    "pitch": "The untold story of how New Labour's miscalculation on EU enlargement accidentally quadrupled UK immigration and reshaped British politics forever — told through the civil servants, ministers and advisers who lived through the crisis.",
     "comparable_works": [
-      "The Blair Decade",
+      "The Rise and Fall of New Labour",
       "Brexit: The Uncivil War",
-      "Inside Obama's White House"
+      "The Blair Years"
     ]
   }
 }

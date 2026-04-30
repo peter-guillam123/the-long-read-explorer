@@ -105,14 +105,14 @@
     "categories": [
       "closed_community_upheaval",
       "david_vs_goliath",
-      "ethical_choice"
+      "history_revisited"
     ],
-    "format": "either",
-    "pitch": "A 19-year-old woman's rape allegation against two Ireland rugby stars divides a nation, revealing deep fractures around consent, celebrity and justice in the #MeToo era. The trial becomes a battleground where intimate WhatsApp messages and bloodied underwear become public evidence in a case that grips Ireland for nine weeks.",
+    "format": "documentary",
+    "pitch": "A young woman's rape allegation against prominent rugby players splits Ireland along lines of class, gender and belief, revealing how a single courtroom drama can expose the fault lines of an entire society.",
     "comparable_works": [
-      "The Keepers",
-      "I Am a Killer",
-      "When They See Us"
+      "The Staircase",
+      "Making a Murderer",
+      "Allen v. Farrow"
     ]
   }
 }

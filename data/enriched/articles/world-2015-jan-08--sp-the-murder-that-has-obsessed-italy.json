@@ -111,16 +111,15 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "forensic_chase",
       "twisty_mystery",
-      "closed_community_upheaval"
+      "forensic_chase"
     ],
     "format": "either",
-    "pitch": "A 13-year-old gymnast vanishes from a quiet Italian town, launching one of the country's most sophisticated DNA investigations as magistrate Letizia Ruggeri hunts for 'Unknown 1' — a killer whose genetic signature is the only clue in a case that has gripped Italy for years.",
+    "pitch": "When 13-year-old Yara Gambirasio disappears from a small Italian town in 2010, investigators launch one of the most sophisticated DNA hunts in European history, testing thousands of suspects to find 'Unknown 1' — the killer whose genetic signature was left at the crime scene.",
     "comparable_works": [
-      "Memories of Murder",
-      "The Disappearance of Madeleine McCann",
-      "Zodiac"
+      "The Jinx",
+      "Making a Murderer",
+      "Paradise Lost"
     ]
   }
 }

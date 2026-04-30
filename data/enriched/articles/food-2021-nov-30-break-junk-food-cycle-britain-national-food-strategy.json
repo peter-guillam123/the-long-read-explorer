@@ -113,16 +113,10 @@
     "power and resistance"
   ],
   "film_adaptation": {
-    "potential": "medium",
-    "categories": [
-      "david_vs_goliath"
-    ],
+    "potential": "low",
+    "categories": [],
     "format": "documentary",
-    "pitch": "Henry Dimbleby spends three years crafting Britain's most ambitious food policy reform in decades, only to watch Boris Johnson dismiss it with a single soundbite about hard-working taxpayers.",
-    "comparable_works": [
-      "Super Size Me",
-      "Food, Inc.",
-      "The Men Who Made Us Fat"
-    ]
+    "pitch": null,
+    "comparable_works": []
   }
 }

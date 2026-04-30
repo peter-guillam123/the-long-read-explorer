@@ -133,14 +133,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "origin_moment"
+      "conspiracy",
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "How the Brexit campaign became the first major political victory of the post-truth era, with strategists openly admitting they knew facts wouldn't work and chose American-style emotional manipulation instead.",
+    "pitch": "How a coordinated campaign of disinformation and institutional failure led to Brexit, told through the architects of post-truth politics who openly admit they knew facts wouldn't win the day.",
     "comparable_works": [
       "The Great Hack",
       "Brexit: The Uncivil War",
-      "The Social Dilemma"
+      "Active Measures"
     ]
   }
 }

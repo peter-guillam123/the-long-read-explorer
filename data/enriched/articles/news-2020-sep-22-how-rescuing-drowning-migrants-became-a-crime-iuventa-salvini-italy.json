@@ -112,16 +112,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
+      "conspiracy",
       "david_vs_goliath",
-      "twisty_mystery",
-      "ethical_choice"
+      "whistleblower"
     ],
     "format": "documentary",
-    "pitch": "Young German volunteers who saved 14,000 migrants from drowning find themselves facing 20 years in prison, surveilled and framed by a conspiracy involving far-right politicians and private security firms.",
+    "pitch": "Young German volunteers who rescued 14,000 migrants from drowning face 20 years in prison after investigators allegedly conspired with far-right politicians to frame them as smuggler collaborators. A surveillance operation involving hidden recording devices and a private security firm transforms humanitarian heroes into criminal suspects.",
     "comparable_works": [
-      "The Cove",
-      "An Inconvenient Truth",
-      "Dark Waters"
+      "The Act of Killing",
+      "Icarus",
+      "All the President's Men"
     ]
   }
 }

@@ -104,15 +104,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
-      "phenomenal_individual"
+      "brand_story",
+      "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "Inside the secretive world of Guinness World Records, where ordinary people push their bodies and minds to extraordinary limits for fleeting moments of recognition, whilst a multi-million pound business decides which human achievements deserve immortality.",
+    "pitch": "Inside Guinness World Records as it transforms from a quirky British institution into a global business empire, following the eccentric characters who chase records and the company executives trying to monetise humanity's strangest obsessions.",
     "comparable_works": [
-      "Spellbound",
-      "King of Kong: A Fistful of Quarters",
-      "Weird: The Al Yankovic Story"
+      "The Social Dilemma",
+      "Fyre: The Greatest Party That Never Happened",
+      "Tiger King"
     ]
   }
 }

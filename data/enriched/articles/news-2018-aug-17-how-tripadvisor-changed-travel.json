@@ -111,14 +111,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "origin_moment"
+      "brand_story"
     ],
     "format": "documentary",
-    "pitch": "The story of how TripAdvisor's founders accidentally created a monster that gave every traveller the power to destroy businesses with a single review, transforming the hospitality industry and pioneering the problems now plaguing all tech giants.",
+    "pitch": "How a simple travel review website became so powerful it could destroy businesses overnight, then found itself drowning in the same fake news crisis that brought down Facebook and Twitter.",
     "comparable_works": [
-      "The Social Network",
-      "Fyre: The Greatest Party That Never Happened",
-      "The Great Hack"
+      "The Social Dilemma",
+      "The Great Hack",
+      "Terms and Conditions May Apply"
     ]
   }
 }

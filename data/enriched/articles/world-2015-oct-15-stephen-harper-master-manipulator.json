@@ -119,15 +119,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "twisty_mystery",
-      "heist_con"
+      "conspiracy",
+      "forensic_chase"
     ],
     "format": "documentary",
-    "pitch": "A master political manipulator uses dark arts including electoral fraud and voter suppression to win four Canadian elections, while investigators struggle to prove a conspiracy that reaches from robocalls to the Prime Minister's Office.",
+    "pitch": "A decade-long investigation into how Stephen Harper's Conservative party allegedly orchestrated a sophisticated election fraud scheme across Canada, leaving only one scapegoat to take the fall while the real architects escaped justice.",
     "comparable_works": [
       "All the President's Men",
-      "The Great Hack",
-      "Dirty Money"
+      "Dirty Tricks",
+      "The Scheme"
     ]
   }
 }

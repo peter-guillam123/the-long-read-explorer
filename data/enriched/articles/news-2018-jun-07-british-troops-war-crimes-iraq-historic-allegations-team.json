@@ -130,15 +130,16 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
+      "conspiracy",
       "david_vs_goliath",
       "whistleblower"
     ],
     "format": "documentary",
-    "pitch": "Human rights lawyer Phil Shiner takes on the British government to investigate alleged war crimes in Iraq, only to see his work discredited and the entire investigation shut down without a single prosecution.",
+    "pitch": "Phil Shiner, a human rights lawyer, takes on the British military establishment to investigate war crimes in Iraq, only to watch his crusade collapse amid government scandal and his own downfall.",
     "comparable_works": [
       "The Report",
       "Dark Waters",
-      "Spotlight"
+      "Official Secrets"
     ]
   }
 }

@@ -128,15 +128,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "phenomenal_individual",
-      "heist_con"
+      "history_revisited",
+      "phenomenal_individual"
     ],
     "format": "either",
-    "pitch": "Robert Clive, an unstable sociopath working for a trading company, orchestrates history's greatest corporate coup by conquering most of India with a skeleton staff of 35 employees and an army of mercenaries. The story of how a private corporation became more powerful than nations, told through the rise and fall of the man who pulled off the ultimate heist.",
+    "pitch": "Robert Clive, an unstable sociopath working for a private company, conquered most of India in less than 50 years through treachery and corporate violence, amassing personal wealth that made him the richest self-made man in Europe before dying by suicide.",
     "comparable_works": [
-      "The Big Short",
       "There Will Be Blood",
-      "The Treasure of the Sierra Madre"
+      "The Last Samurai",
+      "The Man Who Would Be King"
     ]
   }
 }

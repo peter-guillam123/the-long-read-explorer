@@ -84,16 +84,17 @@
     "the role of chance"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
-      "survival"
+      "survival",
+      "ethical_choice"
     ],
     "format": "either",
-    "pitch": "A woman spends 88 days completely bedridden with a 1% chance of carrying her baby to term, fighting against medical odds while her body and mind deteriorate in isolation.",
+    "pitch": "A pregnant woman faces 88 days of complete bed rest with a 1% chance of saving her baby, trapped between medical necessity and the psychological torture of absolute stillness.",
     "comparable_works": [
-      "Room",
       "127 Hours",
-      "Pieces of a Woman"
+      "Room",
+      "Unbreakable Kimmy Schmidt"
     ]
   }
 }

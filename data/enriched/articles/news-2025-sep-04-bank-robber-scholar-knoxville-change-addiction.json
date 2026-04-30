@@ -99,15 +99,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
+      "phenomenal_individual",
       "heist_con",
-      "phenomenal_individual"
+      "david_vs_goliath"
     ],
     "format": "either",
-    "pitch": "A philosophy-obsessed heroin addict robs banks to fund her habit, then transforms herself from federal prisoner to Johns Hopkins professor while challenging everything we think we know about addiction.",
+    "pitch": "A teenage heroin addict who robbed banks to fund her habit becomes a Johns Hopkins professor challenging the medical establishment's view of addiction. Her journey from federal prison to academia, fuelled by a belief that addiction is choice rather than disease, puts her at odds with the treatment industry she once inhabited.",
     "comparable_works": [
       "I, Tonya",
       "Can You Ever Forgive Me?",
-      "Queen's Gambit"
+      "The Big Short"
     ]
   }
 }

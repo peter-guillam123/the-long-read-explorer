@@ -100,14 +100,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "david_vs_goliath",
-      "hidden_world"
+      "brand_story",
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "The unlikely corporate war between scrappy hand dryer manufacturers and Big Towel—a multi-billion dollar industry using dubious science and fear-mongering to protect its bathroom empire.",
+    "pitch": "The corporate war between Dyson and Big Towel over bathroom supremacy, fought through dodgy studies, viral health scares and millions in lost revenue as hand dryers threaten the century-old paper towel empire.",
     "comparable_works": [
-      "The Men Who Built America",
-      "Dirty Money",
+      "The Cola Wars",
+      "Pepsi, Where's My Jet?",
       "McMillions"
     ]
   }

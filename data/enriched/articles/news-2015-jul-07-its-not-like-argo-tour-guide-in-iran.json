@@ -111,15 +111,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
-      "visual_spectacle"
+      "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "A tour group of western tourists navigates Iran during nuclear negotiations in 2015, revealing the gap between perception and reality in a country emerging from isolation.",
+    "pitch": "A western tour guide navigates the complexities of bringing curious tourists through Iran at a pivotal moment in the country's history, revealing the gap between western perceptions and Iranian reality.",
     "comparable_works": [
-      "The Impossibly True Adventures of Three Ordinary Britons in North Korea",
-      "Borat",
-      "An Idiot Abroad"
+      "The Grand Tour",
+      "An Idiot Abroad",
+      "Long Way Round"
     ]
   }
 }

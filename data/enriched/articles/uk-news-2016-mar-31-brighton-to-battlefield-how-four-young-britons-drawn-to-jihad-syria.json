@@ -124,14 +124,14 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "hidden_world",
-      "ethical_choice"
+      "david_vs_goliath",
+      "closed_community_upheaval"
     ],
-    "format": "either",
-    "pitch": "Four Brighton teenagers who made rap music and anti-racism theatre are drawn into jihad after sustained racist attacks and police indifference. Three die in Syria, one survives to tell their story.",
+    "format": "documentary",
+    "pitch": "Four creative teenagers from Brighton — a playwright, rappers, footballers — are driven from their liberal seaside home to Syrian battlefields after sustained racist attacks and institutional failures tear apart their lives.",
     "comparable_works": [
       "Four Lions",
-      "The Impossible",
+      "The Jihadis Next Door",
       "My Son the Jihadi"
     ]
   }

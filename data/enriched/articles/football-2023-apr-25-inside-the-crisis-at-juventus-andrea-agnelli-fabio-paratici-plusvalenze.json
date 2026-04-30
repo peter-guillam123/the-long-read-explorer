@@ -142,15 +142,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
-      "ethical_choice"
+      "conspiracy",
+      "brand_story"
     ],
     "format": "documentary",
-    "pitch": "The rise and fall of Andrea Agnelli at Juventus, told through the insider who said 'I feel like I'm selling my soul' — a story of how football's financial arms race corrupted Italy's most glamorous club.",
+    "pitch": "The spectacular downfall of Italy's most powerful football dynasty, told through the Agnelli family's century-long grip on Juventus and the financial deceptions that finally brought them crashing down.",
     "comparable_works": [
       "Icarus",
       "The Last Dance",
-      "FIFA Uncovered"
+      "Bad Sport"
     ]
   }
 }

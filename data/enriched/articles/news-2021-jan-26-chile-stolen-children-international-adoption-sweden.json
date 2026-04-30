@@ -105,16 +105,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "twisty_mystery",
+      "conspiracy",
       "david_vs_goliath",
-      "forensic_chase"
+      "history_revisited"
     ],
-    "format": "documentary",
-    "pitch": "A Swedish adoptee discovers her birth mother claims she was stolen as a baby, unraveling a systematic scheme where Chile's dictatorship sold thousands of indigenous children to wealthy Western families.",
+    "format": "either",
+    "pitch": "A Swedish-Chilean adoptee discovers she was stolen as a baby in a state-sanctioned scheme that saw thousands of indigenous children trafficked from Pinochet's Chile to European families. Her search for the truth exposes a criminal network of doctors, judges and officials who turned maternity wards into adoption mills.",
     "comparable_works": [
-      "The Trials of Gabriel Fernandez",
-      "Abducted in Plain Sight",
-      "Three Identical Strangers"
+      "Philomena",
+      "The Magdalene Sisters",
+      "Missing"
     ]
   }
 }

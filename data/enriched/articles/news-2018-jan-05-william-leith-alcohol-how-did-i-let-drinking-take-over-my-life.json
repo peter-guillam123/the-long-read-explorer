@@ -81,13 +81,15 @@
   ],
   "film_adaptation": {
     "potential": "medium",
-    "categories": [],
+    "categories": [
+      "phenomenal_individual"
+    ],
     "format": "documentary",
-    "pitch": "A writer chronicles his decade-long cycle of sobriety and relapse, examining the neurological and psychological grip alcohol had on his life through interviews with addiction experts and unflinching personal testimony.",
+    "pitch": "A writer examines his decade-long cycle of sobriety and relapse, spending four months sober each year before returning to destructive drinking, until he finally breaks free after 10 years of this ritual.",
     "comparable_works": [
-      "Everything Must Go",
-      "Smashed",
-      "When a Man Falls in the Forest"
+      "My Name Was Bette: The Life and Death of an Alcoholic",
+      "Rain in My Heart",
+      "The Anonymous People"
     ]
   }
 }

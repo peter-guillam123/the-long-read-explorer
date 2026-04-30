@@ -114,14 +114,14 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "ethical_choice",
-      "david_vs_goliath",
+      "conspiracy",
+      "brand_story",
       "whistleblower"
     ],
     "format": "either",
-    "pitch": "A French cement executive pays millions to Islamic State to keep his Syrian factory running, while back in Paris his colleagues try to hide their complicity in funding the world's most notorious terrorist group. The case could become the first successful prosecution of a corporation for crimes against humanity.",
+    "pitch": "French cement giant Lafarge secretly paid millions to ISIS to keep its Syrian factory running during the civil war, becoming the first corporation ever prosecuted for supporting terrorism. A corporate thriller about how a multinational optimised for terrorists while executives in Paris tried to hide the evidence.",
     "comparable_works": [
-      "The Report",
+      "The Corporation",
       "Dark Waters",
       "Official Secrets"
     ]

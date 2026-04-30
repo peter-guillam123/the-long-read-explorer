@@ -112,14 +112,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "origin_moment"
+      "david_vs_goliath",
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "Behind closed doors at the Federal Reserve, European Central Bank and Bank of England, a small group of central bankers made unprecedented decisions in March 2020 that prevented global financial collapse while the world focused on hospital wards.",
+    "pitch": "Central bankers Jerome Powell, Christine Lagarde and Andrew Bailey race against time in March 2020 to prevent global financial collapse as the pandemic triggers the worst market panic since 2008.",
     "comparable_works": [
+      "Too Big to Fail",
       "Inside Job",
-      "The Big Short",
-      "Too Big to Fail"
+      "The Big Short"
     ]
   }
 }

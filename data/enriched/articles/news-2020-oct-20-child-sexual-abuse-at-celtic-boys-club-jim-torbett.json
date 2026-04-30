@@ -101,15 +101,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "david_vs_goliath",
-      "whistleblower"
+      "conspiracy",
+      "whistleblower",
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "Survivors of decades-long sexual abuse at Celtic Boys Club break their silence to challenge one of Scotland's most powerful football institutions, as they pursue a civil case against a club they claim knew about the predators in its ranks.",
+    "pitch": "Survivors of decades-long sexual abuse at Scotland's most prestigious youth football club break their silence, alleging Celtic's leadership knew about predators in their ranks and did nothing to stop them.",
     "comparable_works": [
       "Spotlight",
-      "An Open Secret",
-      "Leaving Neverland"
+      "Leaving Neverland",
+      "The Keepers"
     ]
   }
 }

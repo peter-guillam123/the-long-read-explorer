@@ -139,18 +139,18 @@
     "decline and fall"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
       "twisty_mystery",
-      "hidden_world",
-      "closed_community_upheaval"
+      "closed_community_upheaval",
+      "architecture"
     ],
     "format": "documentary",
-    "pitch": "When teenage remains are found near Italy's most notorious immigrant tower block, the discovery exposes how prejudice and social breakdown complicate the search for justice in a building that has become a symbol of modern Italy's struggles with immigration.",
+    "pitch": "When teenage remains are found near Italy's most notorious immigrant tower block, the investigation reveals how a utopian 1960s seaside dream became a lawless vertical city that Italian society would rather ignore.",
     "comparable_works": [
       "Gomorrah",
-      "The Staircase",
-      "Tower Block of Commons"
+      "Tower",
+      "The Staircase"
     ]
   }
 }

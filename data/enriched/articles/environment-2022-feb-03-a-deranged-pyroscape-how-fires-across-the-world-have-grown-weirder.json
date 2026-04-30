@@ -140,16 +140,10 @@
     "power and resistance"
   ],
   "film_adaptation": {
-    "potential": "medium",
-    "categories": [
-      "visual_spectacle"
-    ],
+    "potential": "low",
+    "categories": [],
     "format": "documentary",
-    "pitch": "Following indigenous fire practitioners like Victor Steffensen and Aboriginal elders as they demonstrate ancient burning techniques across Australia, contrasting their careful land management with the apocalyptic megafires that now devastate the continent.",
-    "comparable_works": [
-      "An Inconvenient Truth",
-      "Our Planet",
-      "The Age of Stupid"
-    ]
+    "pitch": null,
+    "comparable_works": []
   }
 }

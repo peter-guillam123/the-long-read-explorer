@@ -147,15 +147,10 @@
     "unintended consequences"
   ],
   "film_adaptation": {
-    "potential": "medium",
-    "categories": [
-      "ethical_choice"
-    ],
+    "potential": "low",
+    "categories": [],
     "format": "documentary",
-    "pitch": "A portrait of Keir Starmer's contradictory political evolution, from radical human rights lawyer defending peace activists to prime minister whose government disappoints the very advocates he once championed.",
-    "comparable_works": [
-      "The Fog of War",
-      "Going Clear: Scientology and the Prison of Belief"
-    ]
+    "pitch": null,
+    "comparable_works": []
   }
 }

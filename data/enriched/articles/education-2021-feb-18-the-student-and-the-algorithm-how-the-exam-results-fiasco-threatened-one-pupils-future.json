@@ -88,14 +88,15 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "david_vs_goliath"
+      "david_vs_goliath",
+      "ethical_choice"
     ],
     "format": "either",
-    "pitch": "A working-class Black teenager from Croydon fights to salvage his dream of studying architecture when a government algorithm overwrites years of sacrifice and hard work. His personal story becomes the human face of the 2020 exam results scandal that affected hundreds of thousands of students.",
+    "pitch": "A working-class teenager from Croydon fights to overturn an algorithm that crushed his architecture dreams, becoming the human face of Britain's 2020 exam results scandal.",
     "comparable_works": [
       "I, Daniel Blake",
-      "Sorry We Missed You",
-      "The Pursuit of Happyness"
+      "The Theory of Everything",
+      "Attack the Block"
     ]
   }
 }

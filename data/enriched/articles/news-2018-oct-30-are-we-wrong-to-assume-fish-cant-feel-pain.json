@@ -121,17 +121,10 @@
     "boundary crossing"
   ],
   "film_adaptation": {
-    "potential": "medium",
-    "categories": [
-      "ethical_choice",
-      "visual_spectacle"
-    ],
+    "potential": "low",
+    "categories": [],
     "format": "documentary",
-    "pitch": "A marine biologist and lifelong angler confronts mounting scientific evidence that fish feel pain and fear, forcing him to question everything about humanity's relationship with the ocean's most exploited creatures.",
-    "comparable_works": [
-      "My Octopus Teacher",
-      "Seaspiracy",
-      "The Cove"
-    ]
+    "pitch": null,
+    "comparable_works": []
   }
 }

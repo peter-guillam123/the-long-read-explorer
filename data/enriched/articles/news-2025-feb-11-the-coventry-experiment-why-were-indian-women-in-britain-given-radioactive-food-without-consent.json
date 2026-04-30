@@ -112,14 +112,14 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "david_vs_goliath",
-      "twisty_mystery",
-      "whistleblower"
+      "conspiracy",
+      "history_revisited",
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "A postdoctoral researcher discovers that 21 Indian women in 1960s Coventry were secretly fed radioactive chapatis, then races to find the surviving families while uncovering decades of institutional cover-up and the women's own buried memories.",
+    "pitch": "A researcher discovers that 21 Indian women in 1960s Coventry were secretly fed radioactive chapatis in medical experiments, then sets out to find the survivors and their families who were never told what happened to them.",
     "comparable_works": [
-      "The Radium Girls",
+      "The Tuskegee Experiments",
       "Dark Waters",
       "Spotlight"
     ]

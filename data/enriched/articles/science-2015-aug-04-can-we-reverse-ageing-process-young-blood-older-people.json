@@ -116,15 +116,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "ethical_choice",
-      "visual_spectacle"
+      "phenomenal_individual",
+      "ethical_choice"
     ],
     "format": "documentary",
-    "pitch": "A Stanford neuroscientist launches the first human trial of young blood transfusions for Alzheimer's patients, based on experiments showing old mice regaining brain function when given young blood.",
+    "pitch": "A Stanford neuroscientist races to test whether young blood can reverse ageing in humans, taking his research from remarkable mouse experiments to the first clinical trial on Alzheimer's patients.",
     "comparable_works": [
-      "In Vitro",
-      "The Immortalists",
-      "Icarus"
+      "The Theory of Everything",
+      "A Beautiful Mind",
+      "Forks Over Knives"
     ]
   }
 }

@@ -112,16 +112,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "david_vs_goliath",
       "ethical_choice",
+      "david_vs_goliath",
       "closed_community_upheaval"
     ],
     "format": "either",
-    "pitch": "Three teenage sisters kill their abusive father in a Moscow apartment, sparking a national debate that splits Russia between those who see them as heroes fighting patriarchal oppression and those who view them as cold-blooded murderers.",
+    "pitch": "Three teenage sisters in Moscow kill their sexually abusive father after years of terror, sparking a national debate about domestic violence that splits Russia between feminist activists and Orthodox traditionalists.",
     "comparable_works": [
-      "The Staircase",
-      "Making a Murderer",
-      "I, Tonya"
+      "Monster",
+      "The Burning Bed",
+      "Three Identical Strangers"
     ]
   }
 }

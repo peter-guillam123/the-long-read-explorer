@@ -115,16 +115,15 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "survival",
-      "visual_spectacle",
+      "phenomenal_individual",
       "closed_community_upheaval"
     ],
     "format": "documentary",
-    "pitch": "A talented young writer's suicide in besieged Gaza exposes a mental health crisis as Palestinians turn to self-destruction after a decade trapped behind walls with no hope of escape.",
+    "pitch": "After a gifted young Palestinian writer kills himself in besieged Gaza, his death becomes a flashpoint in a mental health epidemic as families grapple with whether suicide can be martyrdom.",
     "comparable_works": [
       "5 Broken Cameras",
-      "The Square",
-      "For Sama"
+      "The Act of Killing",
+      "Waltz with Bashir"
     ]
   }
 }

@@ -117,15 +117,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
+      "phenomenal_individual",
       "david_vs_goliath",
-      "hidden_world"
+      "closed_community_upheaval"
     ],
     "format": "either",
-    "pitch": "A transgender woman in Malawi becomes an unwitting symbol of LGBT rights across Africa after her public engagement ceremony lands her in prison with 14 years hard labour. Now in exile in South Africa, she faces violence and poverty while international activists claim victory in a battle she never chose to fight.",
+    "pitch": "A transgender woman in rural Malawi holds the country's first public same-sex engagement ceremony, sparking international headlines and a five-month imprisonment that forces her into South African exile.",
     "comparable_works": [
-      "Boys Don't Cry",
       "The Danish Girl",
-      "How to Survive a Plague"
+      "Milk",
+      "Free CeCe"
     ]
   }
 }

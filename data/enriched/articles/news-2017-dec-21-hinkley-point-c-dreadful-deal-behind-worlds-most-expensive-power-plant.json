@@ -148,14 +148,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
+      "conspiracy",
       "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "How decades of political decisions and corporate lobbying led Britain into the world's most expensive power plant deal, leaving future generations to pay billions for French nuclear ambitions while renewable energy makes the project obsolete.",
+    "pitch": "How decades of lobbying, broken promises and questionable deals led Britain into building the world's most expensive power plant—a £20bn nuclear reactor that may never work, paid for by future pensioners to benefit the French nuclear industry.",
     "comparable_works": [
-      "The Big Short",
-      "Enron: The Smartest Guys in the Room",
-      "Inside Job"
+      "The China Syndrome",
+      "Inside Job",
+      "An Inconvenient Truth"
     ]
   }
 }

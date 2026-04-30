@@ -135,10 +135,17 @@
     "transmission of knowledge"
   ],
   "film_adaptation": {
-    "potential": "low",
-    "categories": [],
+    "potential": "medium",
+    "categories": [
+      "origin_moment",
+      "history_revisited"
+    ],
     "format": "documentary",
-    "pitch": null,
-    "comparable_works": []
+    "pitch": "How a fringe political idea migrated from the wilderness to mainstream British politics over two decades, told through the politicians, backroom meetings and pivotal moments that brought Brexit from impossible to inevitable.",
+    "comparable_works": [
+      "The Rise and Fall of the Third Reich",
+      "All the President's Men",
+      "Brexit: The Uncivil War"
+    ]
   }
 }

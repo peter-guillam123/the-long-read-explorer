@@ -133,17 +133,17 @@
     "origins and foundations"
   ],
   "film_adaptation": {
-    "potential": "high",
+    "potential": "medium",
     "categories": [
       "phenomenal_individual",
       "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "A former history teacher uses Nazi-era rhetoric to transform Germany's far-right party into a genuine threat to democracy, culminating in a criminal trial that tests the limits of free speech in post-war Germany.",
+    "pitch": "A former history teacher's criminal trial for using Nazi slogans becomes a test case for the boundaries of free speech in modern Germany, as the country's most influential far-right politician faces prison.",
     "comparable_works": [
-      "The Rise of Jordan Peterson",
-      "Get Me Roger Stone",
-      "Bad Faith"
+      "The Act of Killing",
+      "The Family",
+      "Alt-Right: Age of Rage"
     ]
   }
 }

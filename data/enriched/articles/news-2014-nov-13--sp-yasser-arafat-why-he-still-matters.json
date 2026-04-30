@@ -127,14 +127,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "phenomenal_individual"
+      "phenomenal_individual",
+      "history_revisited"
     ],
     "format": "either",
-    "pitch": "The unlikely rise of Yasser Arafat from physically unimpressive outsider to the singular leader who transformed Palestinian politics for five decades, told through the contradictions of a man who survived 13 assassination attempts yet could be charming one moment and ruthlessly manipulative the next.",
+    "pitch": "The unlikely rise and complex legacy of Yasser Arafat, a physically unimpressive man who transformed Palestinian politics through sheer force of will, political cunning and an almost pathological work ethic that kept him awake until dawn for five decades.",
     "comparable_works": [
       "The Last King of Scotland",
       "Vice",
-      "Gandhi"
+      "Nixon"
     ]
   }
 }

@@ -151,14 +151,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world"
+      "hidden_world",
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "The story of how Nigerian footballers became cultural touchstones for a displaced diaspora community in London, told through one family's journey from civil war to council flats to finding belonging through the Super Eagles.",
+    "pitch": "Nigerian immigrants who fled civil war and economic collapse in the 1980s built invisible communities across London, finding their first glimpse of mainstream recognition through footballers like Nwankwo Kanu and Jay-Jay Okocha playing for Arsenal and Chelsea.",
     "comparable_works": [
       "The English Game",
-      "Next Goal Wins",
-      "All or Nothing"
+      "City of God",
+      "Fire in Babylon"
     ]
   }
 }

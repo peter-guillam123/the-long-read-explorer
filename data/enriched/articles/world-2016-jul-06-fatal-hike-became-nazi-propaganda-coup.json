@@ -128,15 +128,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "survival",
-      "closed_community_upheaval"
+      "history_revisited",
+      "conspiracy",
+      "survival"
     ],
     "format": "either",
-    "pitch": "In 1936, an ill-prepared school hiking trip in the Black Forest ends in tragedy when five boys freeze to death, only for Nazi propagandists to transform the rescue effort into a spectacular diplomatic coup that exploits both the dead children and their grieving families.",
+    "pitch": "A school hiking trip in 1936 becomes a deadly disaster in the Black Forest, then transforms into Nazi propaganda as Hitler Youth members stage elaborate ceremonies over the British boys' coffins. The tragedy exposes how the Third Reich weaponised even genuine acts of German compassion for political gain.",
     "comparable_works": [
-      "The Impossible",
-      "Munich",
-      "Touching the Void"
+      "They Shall Not Grow Old",
+      "The Act of Killing",
+      "Darkest Hour"
     ]
   }
 }

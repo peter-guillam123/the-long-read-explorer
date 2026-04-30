@@ -148,14 +148,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "origin_moment"
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "A century after the Balfour Declaration promised a Jewish homeland in Palestine, Israelis celebrate while Palestinians protest as both sides battle over the legacy of 67 words that shaped the modern Middle East.",
+    "pitch": "Two peoples battle over the legacy of a 67-word British letter from 1917 that promised Jews a homeland in Palestine, as its centenary forces a reckoning with competing claims to justice and victimhood.",
     "comparable_works": [
-      "Five Broken Cameras",
-      "The Gatekeepers",
-      "Promises"
+      "The Act of Killing",
+      "Waltz with Bashir",
+      "Five Broken Cameras"
     ]
   }
 }

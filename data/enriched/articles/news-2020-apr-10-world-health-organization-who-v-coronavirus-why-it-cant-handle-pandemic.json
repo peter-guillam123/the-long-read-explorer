@@ -146,14 +146,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "david_vs_goliath"
+      "david_vs_goliath",
+      "whistleblower"
     ],
     "format": "documentary",
-    "pitch": "The story of how Gro Harlem Brundtland transformed the World Health Organization during the SARS crisis, wielding authority she didn't officially have to strongarm China and other nations into compliance, only for her legacy to crumble during Covid-19 as the WHO found itself powerless against Trump and nationalist governments.",
+    "pitch": "How the World Health Organisation went from powerless bureaucracy to global authority during the SARS crisis, only to find itself neutered again when the world needed it most during Covid-19.",
     "comparable_works": [
       "The Fog of War",
       "Inside Job",
-      "13th"
+      "All the President's Men"
     ]
   }
 }

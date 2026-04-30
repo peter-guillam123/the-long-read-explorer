@@ -120,10 +120,16 @@
     "individual vs collective"
   ],
   "film_adaptation": {
-    "potential": "low",
-    "categories": [],
+    "potential": "medium",
+    "categories": [
+      "conspiracy"
+    ],
     "format": "documentary",
-    "pitch": null,
-    "comparable_works": []
+    "pitch": "How organised climate denial transformed American politics, following the money and strategy behind a decades-long campaign to turn scientific consensus into partisan battleground.",
+    "comparable_works": [
+      "Merchants of Doubt",
+      "The Social Dilemma",
+      "Dark Money"
+    ]
   }
 }

@@ -112,17 +112,18 @@
     "individual vs collective"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
+      "phenomenal_individual",
       "hidden_world",
       "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "A retired teacher races against time to document Hawaii Sign Language before it dies with her, fighting scepticism from her own deaf community and the unstoppable march of American Sign Language.",
+    "pitch": "Linda Lambrecht discovers a previously unknown sign language hiding in plain sight in Honolulu, then races against time to document it before the last handful of signers die and it vanishes forever.",
     "comparable_works": [
-      "The Last Speakers",
-      "In Pursuit of Silence",
-      "Sound and Fury"
+      "The Act of Killing",
+      "Searching for Sugar Man",
+      "Won't You Be My Neighbor?"
     ]
   }
 }

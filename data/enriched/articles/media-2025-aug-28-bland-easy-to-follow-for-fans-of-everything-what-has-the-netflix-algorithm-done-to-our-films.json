@@ -161,13 +161,13 @@
     "potential": "medium",
     "categories": [
       "hidden_world",
-      "origin_moment"
+      "brand_story"
     ],
     "format": "documentary",
-    "pitch": "The story of Todd Yellin, a filmmaker turned Netflix executive who created the algorithm that reshaped how the world watches movies, charting the hidden transformation of cinema from art to data.",
+    "pitch": "Inside Netflix's black box of data scientists and algorithm designers who redefined how films are classified and recommended, revealing how a streaming company's pursuit of viewer engagement reshaped cinema itself.",
     "comparable_works": [
-      "The Social Network",
-      "Privacy Uprising",
+      "The Social Dilemma",
+      "Fyre: The Greatest Party That Never Happened",
       "The Great Hack"
     ]
   }

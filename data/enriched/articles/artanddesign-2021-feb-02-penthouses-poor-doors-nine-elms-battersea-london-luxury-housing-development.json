@@ -96,14 +96,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "david_vs_goliath",
-      "hidden_world"
+      "architecture",
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "Residents of London's most expensive new district fight against a housing system that literally builds segregation into the architecture, where poor doors and sky pools create a physical apartheid between the wealthy and everyone else.",
+    "pitch": "Residents trapped behind 'poor doors' in London's luxury development fight systematic exclusion while foreign investors' empty flats turn Europe's biggest regeneration project into a social apartheid experiment.",
     "comparable_works": [
       "High-Rise",
-      "The China Hustle",
+      "The Act of Killing",
       "Push"
     ]
   }

@@ -96,13 +96,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "forensic_chase"
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "A woman discovers an unmarked grave on her property belongs to Nancy Ann Harris, who died from abortion in 1876, launching an investigation that reveals how America's acceptance of abortion transformed into criminalisation.",
+    "pitch": "A writer discovers that a woman buried on her Wisconsin property died from her tenth abortion in 1876, revealing how abortion was widely accepted in 19th-century America before organised medicine and racial anxieties transformed it into a crime.",
     "comparable_works": [
       "The Keepers",
-      "Who Killed Garrett Phillips?"
+      "Who Killed the Electric Car?",
+      "13th"
     ]
   }
 }

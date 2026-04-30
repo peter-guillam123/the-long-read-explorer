@@ -87,10 +87,11 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "origin_moment"
+      "origin_moment",
+      "ethical_choice"
     ],
     "format": "documentary",
-    "pitch": "A career-changing writer becomes a teacher just as AI chatbots arrive in classrooms, capturing the first generation of educators grappling with technology that could fundamentally reshape how we learn to read and write.",
+    "pitch": "A veteran freelance writer becomes a first-time teacher at 39, wrestling with how artificial intelligence is reshaping education and whether traditional classroom magic can survive the chatbot revolution.",
     "comparable_works": [
       "Waiting for Superman",
       "Most Likely to Succeed",

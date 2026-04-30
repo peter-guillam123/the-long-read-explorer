@@ -93,14 +93,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "david_vs_goliath"
+      "closed_community_upheaval"
     ],
     "format": "documentary",
-    "pitch": "Ordinary Chinese investors — farmers, housewives, pensioners — bet their life savings on a government-backed stock market boom, only to watch it collapse when the Communist Party's promises prove hollow.",
+    "pitch": "The story of how 200 million ordinary Chinese citizens lost their life savings when the government-backed stock bubble burst in 2015, told through the voices of farmers, housewives and pensioners who believed the Communist Party's promise that shares were a risk-free path to the Chinese dream.",
     "comparable_works": [
-      "The China Hustle",
-      "Inside Job",
-      "Enron: The Smartest Guys in the Room"
+      "The Big Short",
+      "Enron: The Smartest Guys in the Room",
+      "Inside Job"
     ]
   }
 }

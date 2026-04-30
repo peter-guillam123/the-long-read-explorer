@@ -120,14 +120,14 @@
     "potential": "medium",
     "categories": [
       "david_vs_goliath",
-      "whistleblower"
+      "closed_community_upheaval"
     ],
-    "format": "documentary",
-    "pitch": "An idealistic working-class academic launches Britain's first innocence project to free the wrongfully convicted, but his crusade against a broken justice system fractures his movement and destroys relationships along the way.",
+    "format": "either",
+    "pitch": "A working-class academic launches Britain's first innocence project to free the wrongly convicted, but his revolutionary movement fractures as idealism collides with institutional resistance and internal conflict.",
     "comparable_works": [
-      "The Staircase",
-      "Making a Murderer",
-      "West of Memphis"
+      "The Paper",
+      "Dark Waters",
+      "Spotlight"
     ]
   }
 }

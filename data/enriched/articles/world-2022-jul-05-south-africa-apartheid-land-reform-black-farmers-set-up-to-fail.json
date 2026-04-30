@@ -105,15 +105,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "david_vs_goliath",
-      "ethical_choice"
+      "history_revisited",
+      "conspiracy"
     ],
     "format": "documentary",
-    "pitch": "Black South African farmers inherit mechanised farms from their former white oppressors, only to discover they've been set up to fail by a system that gave them the land but none of the resources to work it.",
+    "pitch": "Black farmers in post-apartheid South Africa were set up to fail by a land reform programme that gave them farms without the resources or knowledge to run them, while the ANC government made promises it knew were impossible to keep.",
     "comparable_works": [
-      "The Act of Killing",
       "13th",
-      "Fire at Sea"
+      "The Act of Killing",
+      "Won't You Be My Neighbor?"
     ]
   }
 }

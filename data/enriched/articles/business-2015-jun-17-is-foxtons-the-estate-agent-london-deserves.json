@@ -99,14 +99,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world"
+      "brand_story",
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "Inside London's most notorious estate agency, where aggressive young negotiators in company Minis push property deals while protesters smash their windows and a class action lawsuit threatens to bring down their empire.",
+    "pitch": "The rise of London's most hated estate agent, from Margaret Thatcher's property boom to gentrification flashpoint, told through the protests, broken windows and class warfare that follow wherever Foxtons plants its acid-yellow signs.",
     "comparable_works": [
-      "The Wolf of Wall Street",
-      "Boiler Room",
-      "99 Homes"
+      "The Corporation",
+      "Inside Job",
+      "McMillions"
     ]
   }
 }

@@ -118,15 +118,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "visual_spectacle",
-      "david_vs_goliath"
+      "brand_story",
+      "conspiracy"
     ],
     "format": "documentary",
-    "pitch": "The story of how a single corporate decision in 1995 — Unilever's worldwide switch from trans fats to palm oil — triggered an environmental catastrophe that's now destroying Indonesian rainforests and driving orangutans to extinction.",
+    "pitch": "The untold story of how a 1995 corporate decision by Unilever to eliminate trans fats secretly embedded palm oil into everything we consume, triggering a global environmental catastrophe that continues today.",
     "comparable_works": [
       "The Corporation",
-      "An Inconvenient Truth",
-      "The Age of Stupid"
+      "Super Size Me",
+      "An Inconvenient Truth"
     ]
   }
 }

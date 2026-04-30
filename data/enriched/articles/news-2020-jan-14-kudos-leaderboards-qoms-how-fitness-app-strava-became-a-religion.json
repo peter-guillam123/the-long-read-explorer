@@ -108,17 +108,10 @@
     "power and resistance"
   ],
   "film_adaptation": {
-    "potential": "medium",
-    "categories": [
-      "hidden_world",
-      "origin_moment"
-    ],
+    "potential": "low",
+    "categories": [],
     "format": "documentary",
-    "pitch": "The story of how two Harvard rowers built Strava into a digital religion that now dictates the exercise habits of 49 million people worldwide. From fell runners in Yorkshire to Tour de France cyclists, the app has created a new form of athletic obsession built on data, competition and virtual community.",
-    "comparable_works": [
-      "The Social Network",
-      "WeWork: Or the Making and Breaking of a $47 Billion Unicorn",
-      "Fyre: The Greatest Party That Never Happened"
-    ]
+    "pitch": null,
+    "comparable_works": []
   }
 }

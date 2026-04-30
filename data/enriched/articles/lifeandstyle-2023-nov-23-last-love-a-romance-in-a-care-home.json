@@ -115,14 +115,14 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "hidden_world"
+      "closed_community_upheaval"
     ],
     "format": "either",
-    "pitch": "An unlikely love story unfolds between two residents in their late seventies at a small care home near Portsmouth, as Mary and Derek discover passion and intimacy in a place most people see as life's final waiting room.",
+    "pitch": "When Mary and Derek fall deeply in love at 80 in a Portsmouth care home, their romance challenges everything residents and staff thought they knew about ageing, sexuality and what's possible in the final chapter of life.",
     "comparable_works": [
-      "The Best Exotic Marigold Hotel",
-      "Still Alice",
-      "45 Years"
+      "The Notebook",
+      "45 Years",
+      "Still Alice"
     ]
   }
 }

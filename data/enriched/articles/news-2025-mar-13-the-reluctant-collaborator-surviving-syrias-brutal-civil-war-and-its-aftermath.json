@@ -98,14 +98,15 @@
     "potential": "high",
     "categories": [
       "ethical_choice",
-      "survival"
+      "survival",
+      "history_revisited"
     ],
     "format": "either",
-    "pitch": "A Syrian teenager forced to choose between torture in Assad's prisons or fighting for the regime that brutalised him must navigate 14 years of impossible moral compromises to survive.",
+    "pitch": "A teenage Syrian boy is forced to choose between torture in Assad's prisons or joining the regime forces besieging his own people. Based on real testimony from Syria's civil war, it follows his 14-year struggle to survive in a system designed to break him.",
     "comparable_works": [
+      "The Kite Runner",
       "Son of Saul",
-      "The Pianist",
-      "They Shall Not Grow Old"
+      "City of God"
     ]
   }
 }

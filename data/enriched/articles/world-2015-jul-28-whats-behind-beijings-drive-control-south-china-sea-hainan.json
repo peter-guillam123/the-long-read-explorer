@@ -104,15 +104,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "visual_spectacle",
-      "david_vs_goliath"
+      "david_vs_goliath",
+      "visual_spectacle"
     ],
     "format": "documentary",
-    "pitch": "China's unprecedented construction of artificial islands in the South China Sea, captured through dramatic aerial footage of massive dredging operations, as smaller nations struggle to resist Beijing's maritime expansion.",
+    "pitch": "China's transformation of tiny coral reefs into military islands confronts the US and its allies in a high-stakes standoff over control of the world's busiest shipping lanes. The story follows the dramatic escalation from underwater rocks to full military bases, told through surveillance footage, naval encounters, and the strategic chess match playing out across 1.35 million square miles of contested sea.",
     "comparable_works": [
       "The Coming War on China",
-      "Icarus",
-      "Free Solo"
+      "Free Solo",
+      "They Shall Not Grow Old"
     ]
   }
 }

@@ -151,10 +151,17 @@
     "unintended consequences"
   ],
   "film_adaptation": {
-    "potential": "low",
-    "categories": [],
+    "potential": "high",
+    "categories": [
+      "phenomenal_individual",
+      "survival"
+    ],
     "format": "documentary",
-    "pitch": null,
-    "comparable_works": []
+    "pitch": "Paul Alexander, 74, is one of the last people in the world still living in an iron lung after contracting polio as a child. Having survived one deadly outbreak, he now faces another pandemic that could kill him.",
+    "comparable_works": [
+      "My Octopus Teacher",
+      "The Theory of Everything",
+      "Crip Camp"
+    ]
   }
 }

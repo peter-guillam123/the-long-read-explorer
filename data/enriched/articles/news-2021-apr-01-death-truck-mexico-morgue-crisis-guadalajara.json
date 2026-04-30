@@ -95,15 +95,15 @@
     "potential": "high",
     "categories": [
       "twisty_mystery",
-      "ethical_choice",
-      "whistleblower"
+      "conspiracy",
+      "david_vs_goliath"
     ],
-    "format": "either",
-    "pitch": "A forensic scientist trying to solve Mexico's morgue crisis watches his makeshift solution spiral into public scandal, then sees his own daughter disappear after he challenges the authorities.",
+    "format": "documentary",
+    "pitch": "A Mexican forensics director's attempt to solve his state's morgue crisis leads to 273 decomposing bodies abandoned in a truck container, while his own daughter disappears after he challenges the government's handling of a high-profile murder case.",
     "comparable_works": [
-      "Spotlight",
-      "The Insider",
-      "Sicario"
+      "Icarus",
+      "The Act of Killing",
+      "Cartel Land"
     ]
   }
 }

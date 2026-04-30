@@ -100,14 +100,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "david_vs_goliath"
+      "david_vs_goliath",
+      "phenomenal_individual",
+      "ethical_choice"
     ],
     "format": "either",
-    "pitch": "A man spends 34 years in prison for burning church curtains worth £1,270 — twice as long as the average murderer — while his solicitor wages a decades-long battle against a system that forgot how to let him go.",
+    "pitch": "A man spends 34 years in prison for setting curtains on fire in an empty church, becoming a test case for how Britain's justice system treats the vulnerable and mentally ill. His solicitor fights for decades to free him while he repeatedly sabotages his own chances of release.",
     "comparable_works": [
-      "The Shawshank Redemption",
-      "I, Daniel Blake",
-      "In the Name of the Father"
+      "Just Mercy",
+      "The Trials of Gabriel Fernandez",
+      "Making a Murderer"
     ]
   }
 }

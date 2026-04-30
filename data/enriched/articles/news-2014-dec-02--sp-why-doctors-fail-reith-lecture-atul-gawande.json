@@ -125,17 +125,10 @@
     "measurement and precision"
   ],
   "film_adaptation": {
-    "potential": "medium",
-    "categories": [
-      "hidden_world",
-      "ethical_choice"
-    ],
+    "potential": "low",
+    "categories": [],
     "format": "documentary",
-    "pitch": "A surgeon and writer examines medicine's culture of infallibility through personal stories and systematic failures, revealing how doctors' inability to admit mistakes puts patients at risk.",
-    "comparable_works": [
-      "The Knick",
-      "Being Mortal",
-      "Do No Harm"
-    ]
+    "pitch": null,
+    "comparable_works": []
   }
 }

@@ -147,10 +147,11 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "david_vs_goliath"
+      "david_vs_goliath",
+      "conspiracy"
     ],
     "format": "documentary",
-    "pitch": "After Haiti's 2010 earthquake, Bill and Hillary Clinton promise to rebuild the country through a $300m industrial park and new port, but their neoliberal aid model becomes another chapter in Haiti's long history of failed foreign intervention.",
+    "pitch": "After Haiti's 2010 earthquake, the Clintons promised to rebuild the country through a $300m industrial park and new port, but the project became a symbol of how American aid serves American interests rather than the people it claims to help.",
     "comparable_works": [
       "The Act of Killing",
       "13th",

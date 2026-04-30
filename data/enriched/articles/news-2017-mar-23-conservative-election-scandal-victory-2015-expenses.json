@@ -117,15 +117,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "twisty_mystery",
-      "david_vs_goliath"
+      "conspiracy",
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "Channel 4 journalists uncover how the Conservatives may have stolen the 2015 election through illegal spending, leading to 20 MPs facing criminal investigation. The untold story of how small-scale rule-breaking in marginal seats potentially changed the course of Brexit and British politics.",
+    "pitch": "The 2015 Conservative election victory that changed British politics forever may have been won through illegal spending breaches, with 20 MPs now under criminal investigation for what could be the largest electoral fraud in modern British history.",
     "comparable_works": [
-      "All the President's Men",
-      "Spotlight",
-      "Brexit: The Uncivil War"
+      "Brexit: The Uncivil War",
+      "The Great Hack",
+      "All the President's Men"
     ]
   }
 }

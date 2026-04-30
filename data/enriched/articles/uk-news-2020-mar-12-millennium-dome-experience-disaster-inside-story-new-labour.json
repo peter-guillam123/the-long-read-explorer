@@ -134,15 +134,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "visual_spectacle",
-      "origin_moment"
+      "brand_story",
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "The chaotic opening night of the Millennium Dome reveals how Britain's most ambitious celebration became a national embarrassment despite pulling off an extraordinary feat of construction and design.",
+    "pitch": "The inside story of how New Labour's flagship millennium project became a national punchline before it even opened, told through the people who built it and the chaotic opening night that cemented its reputation.",
     "comparable_works": [
-      "The Movies That Made Us",
       "Fyre: The Greatest Party That Never Happened",
-      "McMillions"
+      "The Movies That Made Us",
+      "Very British Problems"
     ]
   }
 }

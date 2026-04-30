@@ -110,14 +110,15 @@
     "potential": "medium",
     "categories": [
       "hidden_world",
-      "ethical_choice"
+      "david_vs_goliath",
+      "architecture"
     ],
     "format": "documentary",
-    "pitch": "Inside Britain's most secret military operation: the crews who patrol the oceans with enough nuclear firepower to end civilisation, while politicians debate whether their £167 billion replacement will survive Scottish independence.",
+    "pitch": "The secret world of Britain's nuclear submarine crews and the communities that sustain them, as Scotland's independence movement threatens to tear apart a 50-year-old military operation that costs £167 billion and employs thousands.",
     "comparable_works": [
       "The Act of Killing",
-      "Restrepo",
-      "Icarus"
+      "County Lines",
+      "Welcome to Chechnya"
     ]
   }
 }

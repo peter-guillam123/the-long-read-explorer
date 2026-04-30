@@ -94,15 +94,16 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
-      "forensic_chase"
+      "twisty_mystery",
+      "forensic_chase",
+      "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "A New Zealand geochemist uses atomic fingerprints to expose massive supply chain fraud, from fake Egyptian cotton that destroyed a billion-dollar company to counterfeit beef flooding Chinese supermarkets.",
+    "pitch": "A New Zealand scientist uses atomic-level detective work to expose global supply chain fraud, from Egyptian cotton scandals to fake beef, revealing how modern commerce depends on lies that can be caught in the elements themselves.",
     "comparable_works": [
-      "The Counterfeiters",
-      "Fyre: The Greatest Party That Never Happened",
-      "American Factory"
+      "The Insider",
+      "Dark Waters",
+      "Citizenfour"
     ]
   }
 }

@@ -92,14 +92,15 @@
     "potential": "high",
     "categories": [
       "hidden_world",
-      "survival"
+      "survival",
+      "phenomenal_individual"
     ],
     "format": "either",
-    "pitch": "A homeless man secretly builds an elaborate underground bunker beneath Hampstead Heath and lives there undetected for two years, creating an invisible life in one of London's most public spaces.",
+    "pitch": "A homeless man builds an elaborate underground bunker beneath Hampstead Heath and lives there undetected for two years, navigating London's invisible housing crisis with extraordinary ingenuity before his secret world is discovered.",
     "comparable_works": [
+      "Nomadland",
       "Underground",
-      "Mole Man",
-      "Into the Wild"
+      "Mole Man"
     ]
   }
 }

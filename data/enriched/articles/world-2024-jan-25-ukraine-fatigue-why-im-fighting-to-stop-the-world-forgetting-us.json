@@ -96,10 +96,11 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "david_vs_goliath"
+      "david_vs_goliath",
+      "phenomenal_individual"
     ],
     "format": "documentary",
-    "pitch": "A Ukrainian academic who lost her brother in the 2017 conflict becomes an unlikely voice fighting 'Ukraine fatigue' in Western capitals, navigating grief and frustration as international attention wanes during the full-scale war.",
+    "pitch": "A Ukrainian academic whose brother was killed fighting Russia travels the world trying to prevent 'Ukraine fatigue' from ending international support for the war.",
     "comparable_works": [
       "Winter on Fire",
       "The Act of Killing",

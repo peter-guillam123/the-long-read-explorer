@@ -88,15 +88,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
+      "hidden_world",
       "ethical_choice",
-      "survival"
+      "history_revisited"
     ],
     "format": "either",
-    "pitch": "A Guardian correspondent embedded with Iraqi forces during the final push to liberate Mosul witnesses the systematic execution of prisoners and civilians by the same soldiers meant to be their liberators.",
+    "pitch": "An embedded journalist follows Iraqi soldiers through the final assault on ISIS in Mosul, only to witness the systematic execution of prisoners and civilians in the aftermath of liberation.",
     "comparable_works": [
       "They Shall Not Grow Old",
       "Restrepo",
-      "The Hurt Locker"
+      "The Act of Killing"
     ]
   }
 }

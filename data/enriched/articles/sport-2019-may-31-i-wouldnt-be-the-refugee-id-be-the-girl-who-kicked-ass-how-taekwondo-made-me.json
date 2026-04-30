@@ -102,14 +102,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world"
+      "phenomenal_individual"
     ],
     "format": "either",
-    "pitch": "A teenage refugee in Oklahoma discovers that mastering taekwondo might be her unlikely ticket to Harvard, navigating family resistance and cultural identity while training in a makeshift Christian martial arts academy.",
+    "pitch": "A teenage Iranian refugee in 1990s Oklahoma uses taekwondo to escape her circumstances and reach Harvard, navigating cultural expectations and family resistance while finding her identity through martial arts.",
     "comparable_works": [
       "The Karate Kid",
       "Bend It Like Beckham",
-      "Minari"
+      "Whip It"
     ]
   }
 }

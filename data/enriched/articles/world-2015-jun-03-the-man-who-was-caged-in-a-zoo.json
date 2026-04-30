@@ -120,15 +120,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "david_vs_goliath",
-      "ethical_choice"
+      "phenomenal_individual",
+      "history_revisited",
+      "david_vs_goliath"
     ],
     "format": "either",
-    "pitch": "In 1906, a group of black ministers battle New York's scientific establishment to free Ota Benga, a young Congolese man exhibited in the Bronx Zoo's monkey house. The campaign exposes the institutional racism underpinning American science and society in the supposed age of enlightenment.",
+    "pitch": "In 1904, Ota Benga was kidnapped from Congo and exhibited in the Bronx Zoo's monkey house while black ministers fought a wall of white indifference to secure his freedom. The shameful spectacle reveals how scientific racism operated at the highest levels of American society.",
     "comparable_works": [
       "12 Years a Slave",
-      "Amistad",
-      "Spotlight"
+      "The Birth of a Nation (2016)",
+      "Fruitvale Station"
     ]
   }
 }

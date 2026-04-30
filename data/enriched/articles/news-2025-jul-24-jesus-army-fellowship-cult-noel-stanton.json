@@ -97,15 +97,15 @@
     "potential": "high",
     "categories": [
       "hidden_world",
-      "whistleblower",
-      "closed_community_upheaval"
+      "conspiracy",
+      "whistleblower"
     ],
-    "format": "either",
-    "pitch": "A woman who grew up inside the Jesus Fellowship — a British religious cult that operated in plain sight for decades — returns as an adult to expose the systematic abuse that destroyed hundreds of lives.",
+    "format": "documentary",
+    "pitch": "A woman who escaped a British religious cult as an adult returns to expose decades of systematic abuse hidden behind the Jesus Army's charitable facade. The investigation reveals how a charismatic pastor built a financial empire while destroying families, operating in plain sight across rural England for over 40 years.",
     "comparable_works": [
       "Wild Wild Country",
       "The Keepers",
-      "Unorthodox"
+      "Going Clear: Scientology and the Prison of Belief"
     ]
   }
 }

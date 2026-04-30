@@ -102,16 +102,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "hidden_world",
-      "david_vs_goliath",
-      "espionage"
+      "phenomenal_individual",
+      "forensic_chase",
+      "whistleblower"
     ],
-    "format": "either",
-    "pitch": "Syrian investigators risk execution to smuggle government documents across ISIS checkpoints, building war crimes cases against Assad's regime that may never see a courtroom. A story of evidence hunters working in the world's most dangerous places to preserve truth for a justice that remains uncertain.",
+    "format": "documentary",
+    "pitch": "Syrian lawyer Adel leads a team of investigators who risk death smuggling government documents out of ISIS-controlled territory, building a case for war crimes prosecutions against Assad's regime that may never see a courtroom.",
     "comparable_works": [
-      "The Report",
-      "Dark Waters",
-      "Official Secrets"
+      "The Act of Killing",
+      "City of Ghosts",
+      "For Sama"
     ]
   }
 }

@@ -120,15 +120,14 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "phenomenal_individual",
-      "hidden_world"
+      "phenomenal_individual"
     ],
-    "format": "either",
-    "pitch": "Phil Taylor, the greatest darts player who ever lived, faces his final world championship at 54 as his eyesight fails, his mother dies, and the working-class sport that made him prepares for life without its king.",
+    "format": "documentary",
+    "pitch": "Phil Taylor, the greatest darts player ever, refuses to retire despite his declining powers, exploring whether Britain's most unlikely sporting genius needs the game more than it needs him.",
     "comparable_works": [
-      "The Last Dance",
       "Senna",
-      "The Wrestler"
+      "The Last Dance",
+      "Free Solo"
     ]
   }
 }

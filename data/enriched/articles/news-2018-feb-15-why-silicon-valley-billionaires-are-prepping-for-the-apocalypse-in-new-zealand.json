@@ -125,15 +125,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
-      "visual_spectacle"
+      "conspiracy",
+      "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "Silicon Valley billionaires build apocalypse bunkers in New Zealand, guided by an obscure libertarian manifesto that prophesies the collapse of democracy and the rise of a techno-elite ruling class.",
+    "pitch": "Tech billionaires like Peter Thiel are secretly buying citizenship and building apocalypse bunkers in New Zealand, following an extreme libertarian manifesto that envisions the collapse of democracy and the rise of a 'cognitive elite'.",
     "comparable_works": [
       "The Social Dilemma",
-      "Doomsday Preppers",
-      "Wild Wild Country"
+      "Generation Wealth",
+      "Dark Money"
     ]
   }
 }

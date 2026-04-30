@@ -117,15 +117,16 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
+      "conspiracy",
       "david_vs_goliath",
       "whistleblower"
     ],
     "format": "documentary",
-    "pitch": "Bereaved Grenfell families pursue accountability through a four-year public inquiry, watching corporate executives dodge responsibility for the fire that killed 72 people in a system designed to obscure blame.",
+    "pitch": "The four-year Grenfell inquiry reveals how a merry-go-round of buck-passing between 27 companies and eight public bodies obscured responsibility for 72 deaths. Survivors and bereaved families watch as witness after witness claims ignorance and points fingers elsewhere.",
     "comparable_works": [
-      "The Staircase",
+      "The Act of Killing",
       "Spotlight",
-      "Icarus"
+      "An Inconvenient Truth"
     ]
   }
 }

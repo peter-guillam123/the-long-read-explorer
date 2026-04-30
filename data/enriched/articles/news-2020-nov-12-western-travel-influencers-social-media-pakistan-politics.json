@@ -124,15 +124,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
-      "twisty_mystery"
+      "conspiracy",
+      "phenomenal_individual"
     ],
     "format": "documentary",
-    "pitch": "How a small group of western travel influencers became pawns in Pakistan's military propaganda machine, culminating in an American blogger's explosive rape allegations that exposed the country's information warfare tactics.",
+    "pitch": "An American travel blogger becomes a YouTube star promoting Pakistan's beauty, then explodes into scandal when she accuses opposition politicians of rape — revealing how the military may be using western influencers to reshape the country's image.",
     "comparable_works": [
-      "The Great Hack",
-      "Operation Varsity Blues",
-      "Bad Vegan"
+      "The Act of Killing",
+      "Welcome to Chechnya",
+      "Icarus"
     ]
   }
 }

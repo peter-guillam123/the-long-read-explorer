@@ -126,14 +126,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "phenomenal_individual"
+      "phenomenal_individual",
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "At 85, Kenyan literary giant Ngũgĩ wa Thiong'o reflects on a life that spans colonial rule, independence struggles, imprisonment for his writing, and decades of exile, all while fighting to decolonise African literature from his California home.",
+    "pitch": "At 85, Kenyan writer Ngũgĩ wa Thiong'o reflects on a life that spans from colonial rule through independence to exile, his novels serving as weapons against oppression while he revolutionised African literature by abandoning English for his native Gĩkũyũ.",
     "comparable_works": [
-      "Won't You Be My Neighbor?",
-      "American Masters",
-      "The Act of Killing"
+      "Maya Angelou: And Still I Rise",
+      "The Act of Killing",
+      "Amandla! A Revolution in Four-Part Harmony"
     ]
   }
 }

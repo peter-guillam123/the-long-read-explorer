@@ -140,15 +140,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "phenomenal_individual",
-      "hidden_world"
+      "forensic_chase",
+      "history_revisited"
     ],
-    "format": "either",
-    "pitch": "The rise and fall of El Chapo reveals how capturing the world's most notorious drug lord only proved that kingpins are disposable in a cartel system that has evolved far beyond any single leader.",
+    "format": "documentary",
+    "pitch": "The capture and trial of El Chapo exposes the futility of America's kingpin strategy, revealing how taking down drug lords only spawns more violence and fragmentation in Mexico's cartel wars.",
     "comparable_works": [
       "Narcos",
-      "El Chapo (Netflix)",
-      "McMafia"
+      "McMillion$",
+      "The Jinx"
     ]
   }
 }

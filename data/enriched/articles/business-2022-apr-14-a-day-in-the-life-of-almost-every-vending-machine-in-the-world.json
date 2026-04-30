@@ -112,14 +112,13 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
-      "phenomenal_individual"
+      "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "Johnny Brod and his family run Britain's second-largest vending machine empire from Manchester, battling corporate giants while obsessively tracking every snack purchase across their 2,800 machines in real-time.",
+    "pitch": "Following the Broderick family's vending empire through a single day reveals the hidden ecosystem of automated commerce — from midnight airport sales tracked in real-time to the global battle for prime machine placement.",
     "comparable_works": [
-      "The Founder",
-      "Fyre: The Greatest Party That Never Happened"
+      "The Toys That Made Us",
+      "King of Kong: A Fistful of Quarters"
     ]
   }
 }

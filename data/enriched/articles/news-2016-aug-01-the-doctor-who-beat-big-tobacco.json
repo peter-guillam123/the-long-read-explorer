@@ -107,14 +107,15 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
+      "phenomenal_individual",
       "david_vs_goliath",
-      "phenomenal_individual"
+      "whistleblower"
     ],
     "format": "either",
-    "pitch": "An oncologist treating dying cancer patients discovers her pension fund is investing in the tobacco companies killing them, then takes on a global industry worth billions. Her campaign against tobacco divestment grows from a chance conversation in a hospital cafeteria to persuading the world's second-largest insurer to dump €1.8bn in tobacco holdings.",
+    "pitch": "An oncologist discovers her pension fund invests in the tobacco companies killing her cancer patients, then wages a six-year campaign that brings down €1.8bn of tobacco investments worldwide.",
     "comparable_works": [
-      "Erin Brockovich",
       "The Insider",
+      "Dark Waters",
       "Spotlight"
     ]
   }

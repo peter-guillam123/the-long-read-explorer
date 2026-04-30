@@ -85,10 +85,16 @@
     "power and resistance"
   ],
   "film_adaptation": {
-    "potential": "low",
-    "categories": [],
+    "potential": "medium",
+    "categories": [
+      "david_vs_goliath"
+    ],
     "format": "documentary",
-    "pitch": null,
-    "comparable_works": []
+    "pitch": "A small Edinburgh GP practice races to vaccinate their most vulnerable patients while battling two shadow pandemics — undiagnosed disease and a mental health crisis — during the chaotic early months of vaccine rollout.",
+    "comparable_works": [
+      "24/7: NHS",
+      "The First Wave",
+      "Holding the Fort"
+    ]
   }
 }

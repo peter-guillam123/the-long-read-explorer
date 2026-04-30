@@ -126,14 +126,15 @@
     "potential": "high",
     "categories": [
       "phenomenal_individual",
-      "david_vs_goliath"
+      "conspiracy",
+      "closed_community_upheaval"
     ],
     "format": "either",
-    "pitch": "Grace Mugabe transforms from demure first lady to ruthless political player, racing against time to secure power before her 91-year-old dictator husband dies and leaves her vulnerable to revenge from enemies across Zimbabwe.",
+    "pitch": "Grace Mugabe transforms from decorative first lady to ruthless political player, orchestrating the downfall of rivals as she races to secure power before her 91-year-old dictator husband dies. A woman from a rural village attempts the ultimate political heist in Zimbabwe's paranoid ruling elite.",
     "comparable_works": [
-      "The Iron Lady",
-      "House of Cards",
-      "The Crown"
+      "The Last King of Scotland",
+      "Vice",
+      "All the President's Men"
     ]
   }
 }

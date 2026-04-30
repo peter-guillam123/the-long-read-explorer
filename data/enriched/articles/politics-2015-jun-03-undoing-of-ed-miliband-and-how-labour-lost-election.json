@@ -136,17 +136,16 @@
     "unintended consequences"
   ],
   "film_adaptation": {
-    "potential": "high",
+    "potential": "medium",
     "categories": [
-      "origin_moment",
-      "closed_community_upheaval"
+      "history_revisited"
     ],
-    "format": "either",
-    "pitch": "Inside the final months of Ed Miliband's leadership as Labour crashes from believing they're about to take power to their worst defeat in decades. A political thriller built around a forgotten speech, warring advisers and the moment when everything falls apart.",
+    "format": "documentary",
+    "pitch": "The inside story of Labour's 2015 election defeat, told through the forgotten speech that symbolised a party's inability to defend its economic record and the advisers who watched it all fall apart.",
     "comparable_works": [
-      "The Thick of It",
-      "All the President's Men",
-      "The Final Days"
+      "The War Room",
+      "Our Brand Is Crisis",
+      "Brexit: The Uncivil War"
     ]
   }
 }

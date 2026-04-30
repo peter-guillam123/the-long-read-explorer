@@ -105,16 +105,10 @@
     "power and resistance"
   ],
   "film_adaptation": {
-    "potential": "medium",
-    "categories": [
-      "origin_moment"
-    ],
+    "potential": "low",
+    "categories": [],
     "format": "documentary",
-    "pitch": "A behind-the-scenes chronicle of the 2017 election night that shattered political assumptions, following journalists, politicians and activists as they witness Jeremy Corbyn's unexpected surge destroy the rulebook of British politics in real time.",
-    "comparable_works": [
-      "The War Room",
-      "Brexit: The Uncivil War",
-      "All the President's Men"
-    ]
+    "pitch": null,
+    "comparable_works": []
   }
 }

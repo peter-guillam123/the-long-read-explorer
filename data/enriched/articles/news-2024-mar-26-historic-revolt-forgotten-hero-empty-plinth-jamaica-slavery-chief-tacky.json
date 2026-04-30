@@ -124,13 +124,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "ethical_choice"
+      "history_revisited",
+      "phenomenal_individual"
     ],
-    "format": "documentary",
-    "pitch": "A Harvard historian who wrote about an 18th-century Jamaican slave revolt finds himself uncomfortably at the centre of a campaign to make its leader a national hero, forcing him to confront questions about who owns history and his role as an outsider in another nation's memory.",
+    "format": "either",
+    "pitch": "A Harvard historian travels to Jamaica to celebrate a forgotten slave rebellion leader he wrote about, only to discover his academic work has been co-opted into a complex national identity campaign he doesn't fully understand or control.",
     "comparable_works": [
       "The Act of Killing",
-      "Stories We Tell"
+      "Stories We Tell",
+      "Won't You Be My Neighbor?"
     ]
   }
 }

@@ -126,15 +126,15 @@
     "potential": "high",
     "categories": [
       "twisty_mystery",
-      "forensic_chase",
-      "espionage"
+      "espionage",
+      "forensic_chase"
     ],
     "format": "either",
-    "pitch": "A former Russian spy, fatally poisoned with radioactive tea in a London hotel, works with Scotland Yard detectives from his deathbed to solve his own murder and trace the weapon back to the Kremlin. The investigation unfolds through CCTV footage that captures every movement of his would-be assassins in their bungled attempts to kill him.",
+    "pitch": "A dying Russian spy uses his final days to solve his own murder, working with Scotland Yard to trace radioactive evidence back through London's CCTV network to his former KGB colleagues.",
     "comparable_works": [
+      "The Spy Who Came In from the Cold",
       "Tinker Tailor Soldier Spy",
-      "The Poisoning of Alexander Litvinenko",
-      "The Spy Who Came In from the Cold"
+      "Icarus"
     ]
   }
 }

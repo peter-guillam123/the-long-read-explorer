@@ -130,16 +130,18 @@
     "decline and fall"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
-      "phenomenal_individual"
+      "brand_story",
+      "phenomenal_individual",
+      "history_revisited"
     ],
     "format": "either",
-    "pitch": "A charismatic politician's meteoric rise from dismissed lightweight to global superstar through masterful image management, and the inevitable collision between brand and reality that threatens to destroy everything he built.",
+    "pitch": "Justin Trudeau's rise from political lightweight to global superstar through calculated spectacle — beginning with a boxing match that changed his image — only to watch his carefully crafted brand unravel in office.",
     "comparable_works": [
-      "The Crown",
-      "Vice",
-      "All the President's Men"
+      "The Social Network",
+      "All the President's Men",
+      "Vice"
     ]
   }
 }

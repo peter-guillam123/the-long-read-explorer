@@ -116,15 +116,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
-      "phenomenal_individual"
+      "phenomenal_individual",
+      "brand_story"
     ],
     "format": "documentary",
-    "pitch": "Ben Wilson, the man behind Durex condoms, leads a crusade to make the world's most unsexy product sexy, travelling from Bangkok factories to corporate boardrooms while personally testing every product and collecting vintage condoms on eBay.",
+    "pitch": "Ben Wilson, Durex's global condom chief, travels the world on an obsessive mission to make the least sexy product imaginable into something people actually want to use, chewing flavoured condoms and staging banana-tasting sessions for corporate executives.",
     "comparable_works": [
-      "The Minimalists: Less Is Now",
-      "Dior and I",
-      "Jiro Dreams of Sushi"
+      "The Men Who Stare at Goats",
+      "Super Size Me",
+      "Fyre"
     ]
   }
 }

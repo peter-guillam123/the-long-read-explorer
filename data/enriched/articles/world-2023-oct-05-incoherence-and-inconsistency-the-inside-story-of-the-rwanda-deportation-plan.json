@@ -131,14 +131,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "whistleblower"
+      "conspiracy",
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "Civil servants repeatedly warned ministers that Rwanda was unsafe for asylum seekers, but political pressure overrode expert advice, leading to an expensive policy doomed to fail from the start.",
+    "pitch": "The inside story of how Britain's Rwanda deportation scheme unravelled in real time, following asylum seekers like Hamza fighting for their lives while civil servants warned ministers the policy would fail from the start.",
     "comparable_works": [
-      "The Report",
-      "Brexit: The Uncivil War",
-      "Official Secrets"
+      "The Act of Killing",
+      "Immigration Nation",
+      "The Insider"
     ]
   }
 }

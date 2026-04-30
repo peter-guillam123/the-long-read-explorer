@@ -114,16 +114,10 @@
     "cause and effect"
   ],
   "film_adaptation": {
-    "potential": "medium",
-    "categories": [
-      "david_vs_goliath"
-    ],
+    "potential": "low",
+    "categories": [],
     "format": "documentary",
-    "pitch": "Students across Britain battle universities and a broken system as mental health crises reach epidemic levels, following activists like Ruth Day who was suspended for demanding better support after classmates took their own lives.",
-    "comparable_works": [
-      "The Ivory Tower",
-      "Student Debt Crisis",
-      "Tower"
-    ]
+    "pitch": null,
+    "comparable_works": []
   }
 }

@@ -117,16 +117,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
+      "conspiracy",
       "whistleblower",
-      "david_vs_goliath",
       "ethical_choice"
     ],
     "format": "either",
-    "pitch": "A Colombian general becomes a national hero for defeating guerrillas, but families of the victims discover thousands of his 'enemy kills' were actually innocent civilians murdered for military bonuses and holiday leave. As war crimes prosecutors close in, the trial threatens to expose how an entire government turned mass murder into a career incentive scheme.",
+    "pitch": "A decorated Colombian general who saved his country from guerrillas faces trial for war crimes after his army murdered thousands of innocent civilians to boost body counts and earn holiday leave.",
     "comparable_works": [
       "The Act of Killing",
-      "Official Secrets",
-      "The Report"
+      "Dark Waters",
+      "Official Secrets"
     ]
   }
 }

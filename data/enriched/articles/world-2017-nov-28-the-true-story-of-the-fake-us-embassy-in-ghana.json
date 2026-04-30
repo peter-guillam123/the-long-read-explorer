@@ -115,14 +115,15 @@
     "potential": "high",
     "categories": [
       "twisty_mystery",
-      "heist_con"
+      "heist_con",
+      "conspiracy"
     ],
     "format": "either",
-    "pitch": "When a story about a fake US embassy in Ghana goes viral worldwide, a Ghanaian detective discovers the elaborate hoax was not what it seemed—and that the real deception may be coming from an unexpected source.",
+    "pitch": "When a story breaks about a fake US embassy in Ghana issuing fraudulent visas for a decade, a local police chief investigates — only to discover the entire international news story was itself fabricated by American officials.",
     "comparable_works": [
       "The Tinder Swindler",
       "American Hustle",
-      "The Act of Killing"
+      "Argo"
     ]
   }
 }

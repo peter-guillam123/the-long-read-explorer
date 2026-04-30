@@ -118,15 +118,15 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "closed_community_upheaval",
+      "history_revisited",
       "ethical_choice"
     ],
     "format": "either",
-    "pitch": "An Israeli and Palestinian teenager meet at an American peace camp in the 1990s and forge an unlikely friendship across enemy lines, until one is killed and the other must reconcile his grief with the collapse of everything they believed possible.",
+    "pitch": "An Israeli and Palestinian teenager meet at a 1990s peace camp and forge an unlikely friendship, only for the Palestinian boy to be killed by Israeli police years later, shattering his friend's faith in reconciliation.",
     "comparable_works": [
-      "The Other Side of Heaven",
-      "Promises",
-      "5 Broken Cameras"
+      "The Boys in the Band",
+      "My Name is Asher Lev",
+      "Paradise Now"
     ]
   }
 }

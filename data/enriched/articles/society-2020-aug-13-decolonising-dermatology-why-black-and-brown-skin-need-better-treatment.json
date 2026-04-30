@@ -136,13 +136,13 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
+      "hidden_world",
       "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "A British doctor of colour discovers his medical training left him unable to diagnose common skin conditions in black patients, exposing how centuries of racial bias became embedded in modern medicine.",
+    "pitch": "A doctor of colour discovers how medical training's focus on white skin leaves patients with darker skin misdiagnosed and endangered, then fights to change centuries of institutional bias in healthcare.",
     "comparable_works": [
       "The Bleeding Edge",
-      "Fire in the Blood",
       "What the Health"
     ]
   }

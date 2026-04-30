@@ -123,15 +123,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
-      "origin_moment"
+      "brand_story",
+      "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "The unlikely story of how a 43p sandwich in a Marks & Spencer stockroom launched Britain's £8bn food revolution, told through the obsessive engineers who turned leftovers into a national addiction.",
+    "pitch": "How a simple idea to sell pre-made sandwiches at Marks & Spencer in 1980 accidentally created Britain's £8bn food empire and fundamentally changed how an entire nation eats.",
     "comparable_works": [
-      "The Founder",
+      "The Men Who Made Us Fat",
       "Super Size Me",
-      "Jiro Dreams of Sushi"
+      "Food, Inc."
     ]
   }
 }

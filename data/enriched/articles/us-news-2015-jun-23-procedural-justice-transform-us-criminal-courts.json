@@ -105,17 +105,17 @@
     "unintended consequences"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
       "phenomenal_individual",
       "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "Judge Victoria Pratt transforms a broken Newark municipal court by treating defendants with dignity, asking them to write essays about their dreams and applauding their progress — a radical experiment in procedural justice that challenges how America delivers punishment.",
+    "pitch": "Judge Victoria Pratt transforms Newark's municipal court by treating defendants with dignity rather than contempt, asking them about their dreams and applauding their progress. Her radical approach of procedural justice challenges the entire American criminal justice system.",
     "comparable_works": [
       "Won't You Be My Neighbor?",
-      "The Good Nurse",
-      "13th"
+      "The Good Cop",
+      "Street Fight"
     ]
   }
 }

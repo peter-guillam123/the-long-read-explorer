@@ -121,15 +121,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "twisty_mystery",
-      "hidden_world"
+      "conspiracy",
+      "forensic_chase"
     ],
     "format": "documentary",
-    "pitch": "An investigation into how billions in Russian wealth secretly flows through London's financial system, following the money from Moscow oligarchs to Kensington mansions while politicians and bankers turn a blind eye.",
+    "pitch": "A journalist's investigation into how Britain became the world's washing machine for Russian dirty money, following the paper trail from Moscow oligarchs to London mansions while politicians who welcomed the cash for decades suddenly scramble to understand what they've unleashed.",
     "comparable_works": [
       "The Laundromat",
-      "Icarus",
-      "McMafia"
+      "McMafia",
+      "Icarus"
     ]
   }
 }

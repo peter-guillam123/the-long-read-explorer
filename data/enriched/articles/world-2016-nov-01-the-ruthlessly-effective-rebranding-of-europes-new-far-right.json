@@ -132,10 +132,16 @@
     "unintended consequences"
   ],
   "film_adaptation": {
-    "potential": "low",
-    "categories": [],
+    "potential": "medium",
+    "categories": [
+      "history_revisited"
+    ],
     "format": "documentary",
-    "pitch": null,
-    "comparable_works": []
+    "pitch": "How Europe's far-right parties shed their Nazi baggage and stole progressive causes to win power, told through the rise of figures like Marine Le Pen and Geert Wilders from 2002 onwards.",
+    "comparable_works": [
+      "The Rise of the Nazis",
+      "Brexit: The Uncivil War",
+      "Putin's Russia"
+    ]
   }
 }

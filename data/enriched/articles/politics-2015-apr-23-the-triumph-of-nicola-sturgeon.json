@@ -125,14 +125,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "phenomenal_individual"
+      "phenomenal_individual",
+      "origin_moment"
     ],
-    "format": "documentary",
-    "pitch": "The meteoric rise of Nicola Sturgeon from small-town council house to Scotland's most popular politician, transforming the SNP into a mass movement and reshaping British politics.",
+    "format": "either",
+    "pitch": "A working-class woman from a former mining village becomes Scotland's most popular politician and threatens to break up the United Kingdom, transforming from small-town councillor to the figure who could end 300 years of union.",
     "comparable_works": [
-      "The Crown",
+      "The Iron Lady",
       "Vice",
-      "All the President's Men"
+      "The Crown"
     ]
   }
 }

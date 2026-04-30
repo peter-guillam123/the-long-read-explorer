@@ -114,15 +114,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
+      "david_vs_goliath",
       "origin_moment",
-      "david_vs_goliath"
+      "closed_community_upheaval"
     ],
-    "format": "documentary",
-    "pitch": "A brutal sexual assault case in Spain becomes the catalyst for both a massive feminist movement and the rise of the far-right, showing how a single court verdict can fracture a nation. The film follows the two-year journey from crime to trial to verdict, revealing how the 'wolf pack' case transformed Spanish politics.",
+    "format": "either",
+    "pitch": "A brutal sexual assault case in Pamplona splits Spain down the middle, triggering the country's largest feminist movement while simultaneously fuelling the rise of its first far-right party since Franco.",
     "comparable_works": [
       "The Square",
-      "Collective",
-      "On the Record"
+      "Bombshell",
+      "Spotlight"
     ]
   }
 }

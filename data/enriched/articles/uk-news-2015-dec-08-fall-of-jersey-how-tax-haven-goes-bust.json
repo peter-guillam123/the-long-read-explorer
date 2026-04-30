@@ -93,15 +93,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
-      "whistleblower"
+      "whistleblower",
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "A Jersey insider becomes a whistleblower as his island paradise transforms into a global money-laundering hub, then watches it all collapse in spectacular fashion. The rise and fall of a tax haven told through the eyes of the man who helped build it, then tried to tear it down.",
+    "pitch": "John Christensen, an insider who helped build Jersey's offshore finance industry, turns against his own creation as the tax haven collapses under the weight of its economic model.",
     "comparable_works": [
-      "The Laundromat",
-      "Dirty Money",
-      "McMillion$"
+      "The Big Short",
+      "Inside Job",
+      "The Spider's Web: Britain's Second Empire"
     ]
   }
 }

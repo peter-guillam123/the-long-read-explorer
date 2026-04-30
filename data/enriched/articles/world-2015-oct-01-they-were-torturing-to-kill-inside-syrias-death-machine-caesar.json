@@ -93,15 +93,15 @@
     "potential": "high",
     "categories": [
       "whistleblower",
-      "david_vs_goliath",
+      "phenomenal_individual",
       "ethical_choice"
     ],
-    "format": "documentary",
-    "pitch": "A Syrian military photographer risks his life for two years to smuggle thousands of images documenting systematic torture and murder in Assad's prisons, creating the most damning evidence of state-sponsored atrocities in modern history.",
+    "format": "either",
+    "pitch": "A Syrian military photographer secretly copies thousands of photos documenting state torture deaths, risking his life for two years to smuggle evidence of Assad's systematic killing machine to the outside world.",
     "comparable_works": [
-      "The Act of Killing",
-      "Icarus",
-      "The Report"
+      "The Report",
+      "Official Secrets",
+      "Dark Waters"
     ]
   }
 }

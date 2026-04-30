@@ -111,10 +111,17 @@
     "individual vs collective"
   ],
   "film_adaptation": {
-    "potential": "low",
-    "categories": [],
+    "potential": "medium",
+    "categories": [
+      "architecture",
+      "closed_community_upheaval"
+    ],
     "format": "documentary",
-    "pitch": null,
-    "comparable_works": []
+    "pitch": "As Sheffield's beloved John Lewis store closes after 58 years, the city grapples with what to do with the empty building at its heart, becoming a test case for the future of British urban centres in the post-shopping age.",
+    "comparable_works": [
+      "The Pruitt-Igoe Myth",
+      "Detropia",
+      "Life and Death of a Porno Gang"
+    ]
   }
 }

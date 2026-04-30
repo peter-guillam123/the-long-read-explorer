@@ -117,16 +117,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "hidden_world",
+      "conspiracy",
       "closed_community_upheaval",
-      "whistleblower"
+      "hidden_world"
     ],
-    "format": "documentary",
-    "pitch": "The Nobel Prize in Literature is cancelled for the first time in 70 years after sexual assault allegations and corruption tear apart Sweden's most secretive cultural institution. A handful of women bring down an elite academy that thought itself untouchable, exposing the rotten culture behind one of the world's most prestigious prizes.",
+    "format": "either",
+    "pitch": "The Nobel Prize in Literature is cancelled for the first time in history after sexual assault allegations against a Swedish Academy insider expose decades of corruption, leaked winners, and macho power games within one of the world's most prestigious cultural institutions. A hermetic literary elite implodes in real time as powerful men protect each other while the entire credibility of global literary culture hangs in the balance.",
     "comparable_works": [
       "Spotlight",
-      "The Square",
-      "Bombshell"
+      "The Crown",
+      "Tiger King"
     ]
   }
 }

@@ -116,14 +116,15 @@
     "potential": "high",
     "categories": [
       "phenomenal_individual",
+      "history_revisited",
       "survival"
     ],
     "format": "either",
-    "pitch": "Vişinel Balan transforms from a sickly child abandoned to Romania's brutal state orphanages under Ceauşescu into a successful lawyer and NGO founder, carrying the invisible scars of institutional abuse while helping other children escape the same system.",
+    "pitch": "A Romanian orphan abandoned under Ceaușescu's brutal population policies survives institutional abuse to become a lawyer and activist, returning to help other children still trapped in the system he escaped.",
     "comparable_works": [
       "Lion",
-      "Boy A",
-      "The Pursuit of Happyness"
+      "The Pursuit of Happyness",
+      "Children Underground"
     ]
   }
 }

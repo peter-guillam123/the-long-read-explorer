@@ -118,15 +118,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
-      "david_vs_goliath"
+      "david_vs_goliath",
+      "twisty_mystery"
     ],
     "format": "documentary",
-    "pitch": "As Britain's criminal justice system crumbles, a parallel world of private prosecutors emerges where victims pay tens of thousands for justice the state won't provide. Four women who pooled their money to prosecute a fraudster reveal how justice has become a luxury good.",
+    "pitch": "Four women discover their charismatic ex-boyfriend has conned them out of £46,000, and when police dismiss their case, they band together to fund their own private prosecution in a parallel justice system most people don't know exists.",
     "comparable_works": [
       "The Tinder Swindler",
-      "Dirty Money",
-      "McMillion$"
+      "Dirty John"
     ]
   }
 }

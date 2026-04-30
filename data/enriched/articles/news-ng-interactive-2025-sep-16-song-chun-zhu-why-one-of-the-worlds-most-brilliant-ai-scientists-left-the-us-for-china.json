@@ -124,15 +124,15 @@
     "potential": "high",
     "categories": [
       "phenomenal_individual",
-      "espionage",
-      "ethical_choice"
+      "david_vs_goliath",
+      "origin_moment"
     ],
     "format": "either",
-    "pitch": "One of the world's leading AI scientists abandons his American life to return to China, where he now races to build artificial general intelligence that could determine which superpower dominates the future.",
+    "pitch": "A brilliant AI scientist abandons his American dream and returns to China with state backing to challenge Silicon Valley's approach to artificial intelligence, potentially reshaping the global technology race.",
     "comparable_works": [
+      "The Social Network",
       "Oppenheimer",
-      "The Imitation Game",
-      "A Beautiful Mind"
+      "AlphaGo"
     ]
   }
 }

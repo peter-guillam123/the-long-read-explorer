@@ -77,14 +77,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
-      "david_vs_goliath"
+      "phenomenal_individual",
+      "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "An academic turned asylum seeker documents the hidden world of indefinite detention centres, where people disappear into Britain's immigration system without trial or time limit.",
+    "pitch": "A scholar and human rights activist survives massacre and persecution in his home country, only to disappear into Britain's indefinite detention system where he witnesses systematic cruelty hidden from public view.",
     "comparable_works": [
-      "I, Daniel Blake",
       "The Act of Killing",
+      "For Sama",
       "Fire at Sea"
     ]
   }

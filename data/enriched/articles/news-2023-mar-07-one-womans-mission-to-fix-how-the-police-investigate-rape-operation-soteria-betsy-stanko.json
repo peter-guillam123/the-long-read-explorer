@@ -121,15 +121,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
+      "phenomenal_individual",
       "david_vs_goliath",
       "whistleblower"
     ],
     "format": "documentary",
-    "pitch": "A 72-year-old American criminologist leads an unprecedented investigation into the Metropolitan Police's catastrophic failures in rape cases, armed with a £6.6m budget and access to everything. But her team's explosive findings threaten to expose decades of institutional cover-ups and corruption at the highest levels.",
+    "pitch": "Criminologist Betsy Stanko gets unprecedented access to police files across England and Wales to investigate why rape conviction rates have collapsed to below 2%, uncovering institutional failures and confronting senior officers who dismiss rape as 'regretful sex'.",
     "comparable_works": [
       "Spotlight",
       "Dark Waters",
-      "The Report"
+      "She Said"
     ]
   }
 }

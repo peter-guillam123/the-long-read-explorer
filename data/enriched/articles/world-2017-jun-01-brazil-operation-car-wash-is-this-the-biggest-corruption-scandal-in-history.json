@@ -106,12 +106,12 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "twisty_mystery",
+      "conspiracy",
       "david_vs_goliath",
-      "whistleblower"
+      "forensic_chase"
     ],
     "format": "either",
-    "pitch": "A small-town judge and veteran cop take on Brazil's entire political establishment in Operation Car Wash, using plea bargaining and preventive detention to unravel a $5bn corruption network that reaches from Petrobras boardrooms to the presidential palace.",
+    "pitch": "A small team of Brazilian prosecutors and police uncover a $5bn corruption network that topples governments and imprisons billionaires, turning a money laundering investigation into the biggest political scandal in history.",
     "comparable_works": [
       "All the President's Men",
       "Spotlight",

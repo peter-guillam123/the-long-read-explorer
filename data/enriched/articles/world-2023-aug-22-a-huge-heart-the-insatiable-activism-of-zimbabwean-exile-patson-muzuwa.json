@@ -100,14 +100,15 @@
     "potential": "high",
     "categories": [
       "phenomenal_individual",
-      "david_vs_goliath"
+      "david_vs_goliath",
+      "hidden_world"
     ],
-    "format": "documentary",
-    "pitch": "A Zimbabwean activist's decades-long fight against Mugabe's regime takes him from protest leader in Harare's townships to exile organising resistance from a London bedsit, ending up isolated in a Durham care home still dreaming of liberation.",
+    "format": "either",
+    "pitch": "A Zimbabwean opposition activist flees Mugabe's regime to London, where he builds an exile community and continues his resistance from a Bermondsey terrace house, only to end up alone in a Durham care home decades later.",
     "comparable_works": [
       "The Act of Killing",
-      "Citizenfour",
-      "They Shall Not Grow Old"
+      "Icarus",
+      "Human Flow"
     ]
   }
 }

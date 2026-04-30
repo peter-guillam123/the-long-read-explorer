@@ -132,14 +132,14 @@
     "potential": "high",
     "categories": [
       "forensic_chase",
-      "twisty_mystery",
-      "espionage"
+      "hidden_world",
+      "conspiracy"
     ],
     "format": "either",
-    "pitch": "The 14-year cat-and-mouse hunt for Europe's most wanted war criminal, from his luxurious hideouts in Yugoslav army resorts to a squalid apartment where he was finally cornered.",
+    "pitch": "The 14-year manhunt for Europe's most wanted war criminal, told through the network of military protectors, safe houses and family loyalty that kept Ratko Mladić hidden in plain sight across post-war Serbia.",
     "comparable_works": [
-      "Manhunt: Unabomber",
       "The Act of Killing",
+      "Manhunt: Unabomber",
       "Zero Dark Thirty"
     ]
   }

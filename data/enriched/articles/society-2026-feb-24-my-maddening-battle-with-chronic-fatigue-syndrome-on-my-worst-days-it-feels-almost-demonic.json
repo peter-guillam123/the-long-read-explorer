@@ -92,13 +92,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "survival"
+      "david_vs_goliath"
     ],
-    "format": "documentary",
-    "pitch": "A woman endures decades of medical dismissal and misdiagnosis before finding treatment for chronic fatigue syndrome through unconventional 'brain retraining' therapy.",
+    "format": "either",
+    "pitch": "A woman spends decades battling a mysterious illness that doctors refuse to acknowledge, finally finding an experimental treatment that asks her to retrain her own brain.",
     "comparable_works": [
       "Unrest",
-      "The Mystery of Chi"
+      "Brain on Fire",
+      "The Theory of Everything"
     ]
   }
 }

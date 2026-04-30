@@ -124,18 +124,18 @@
     "unintended consequences"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
       "phenomenal_individual",
       "origin_moment",
       "hidden_world"
     ],
     "format": "either",
-    "pitch": "The untold story of Nicholas Saunders, a wealthy rebel who transformed British food culture by creating Monmouth Coffee and Neal's Yard Dairy from a Covent Garden warehouse, driven by his obsession with making information free and circumventing official systems.",
+    "pitch": "The untold story of Nicholas Saunders, a wealthy counterculture maverick who single-handedly transformed British food culture by creating Monmouth Coffee and Neal's Yard Dairy from a Covent Garden warehouse, driven by an obsession with making information free and proving that 'anyone can do it'.",
     "comparable_works": [
-      "The Founder",
-      "Steve Jobs",
-      "Bohemian Rhapsody"
+      "The Social Network",
+      "Chef's Table",
+      "Jeremiah Tower: The Last Magnificent"
     ]
   }
 }

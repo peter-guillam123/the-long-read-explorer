@@ -158,10 +158,18 @@
     "unintended consequences"
   ],
   "film_adaptation": {
-    "potential": "low",
-    "categories": [],
-    "format": "documentary",
-    "pitch": null,
-    "comparable_works": []
+    "potential": "medium",
+    "categories": [
+      "twisty_mystery",
+      "conspiracy",
+      "ethical_choice"
+    ],
+    "format": "either",
+    "pitch": "Scientists race to build the perfect lie detector using AI and brain scans, while a parallel investigation reveals how flawed polygraph technology has already destroyed lives across decades of misuse.",
+    "comparable_works": [
+      "The Social Dilemma",
+      "Theranos: The Dropout",
+      "Black Mirror"
+    ]
   }
 }

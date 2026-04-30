@@ -123,12 +123,13 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "david_vs_goliath"
+      "david_vs_goliath",
+      "origin_moment"
     ],
     "format": "documentary",
-    "pitch": "Young Iranian protesters face down a regime willing to kill its own people, as a leaderless movement sparked by Mahsa Amini's death evolves from hopeful demonstrations into an increasingly violent cycle of repression and resistance.",
+    "pitch": "Young Iranian protesters risk execution to challenge a theocratic regime that has survived decades of opposition, as a leaderless movement sparked by Mahsa Amini's death enters its most dangerous phase.",
     "comparable_works": [
-      "Winter on Fire",
+      "Winter on Fire: Ukraine's Fight for Freedom",
       "The Square",
       "For Sama"
     ]

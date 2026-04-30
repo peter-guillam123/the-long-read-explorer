@@ -119,12 +119,13 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "phenomenal_individual"
+      "brand_story",
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "Mickey Drexler turned a failing denim retailer into a global fashion empire, then watched from the sidelines as Gap lost its identity and struggled to survive in the age of fast fashion and social media influencers.",
+    "pitch": "How Mickey Drexler transformed Gap from a failing record-and-jeans shop into a global fashion empire in the 1980s, only to watch the brand lose its identity completely in the social media age.",
     "comparable_works": [
-      "The Last Blockbuster",
+      "The Rise and Fall of WeWork",
       "McMillions",
       "Fyre: The Greatest Party That Never Happened"
     ]

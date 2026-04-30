@@ -118,17 +118,17 @@
     "transmission of knowledge"
   ],
   "film_adaptation": {
-    "potential": "high",
+    "potential": "medium",
     "categories": [
       "phenomenal_individual",
-      "hidden_world"
+      "origin_moment"
     ],
     "format": "documentary",
-    "pitch": "The redemption arc of Steve Albini, the legendary punk producer who shaped underground music for decades before publicly confronting his own toxic behaviour. A portrait of artistic integrity wrestling with personal accountability in a scene that prized provocation above all else.",
+    "pitch": "The transformation of Steve Albini from punk rock's most notorious provocateur to its unlikely voice of conscience, tracking how the underground scene's most principled practitioner confronted his own ugly past.",
     "comparable_works": [
       "Kurt Cobain: Montage of Heck",
-      "The Defiant Ones",
-      "American Factory"
+      "Hype!",
+      "American Hardcore"
     ]
   }
 }

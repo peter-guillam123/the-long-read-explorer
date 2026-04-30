@@ -125,14 +125,15 @@
     "potential": "high",
     "categories": [
       "hidden_world",
-      "twisty_mystery"
+      "twisty_mystery",
+      "conspiracy"
     ],
     "format": "either",
-    "pitch": "When Raffaello Bucci, a ticket tout who rose through the ranks of Juventus's ultra fanatics, kills himself after police questioning, investigators uncover how Italy's most dangerous football firms became fronts for organised crime. A journey into the quasi-military world of the ultras reveals a web of violence, corruption and business deals that reaches from the terraces to the boardroom.",
+    "pitch": "A ticket tout's death exposes the shadowy world of Italian football ultras, where hardcore fans have evolved into quasi-military organisations with mafia connections that control stadiums and manipulate the beautiful game.",
     "comparable_works": [
       "Gomorrah",
       "McMafia",
-      "The Two Escobars"
+      "Icarus"
     ]
   }
 }

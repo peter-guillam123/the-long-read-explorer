@@ -127,15 +127,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "phenomenal_individual",
-      "hidden_world"
+      "brand_story",
+      "history_revisited"
     ],
-    "format": "documentary",
-    "pitch": "How two small-time East End criminals became Britain's most famous gangsters through pure self-promotion, turning media manipulation and celebrity cultivation into their most successful crime.",
+    "format": "either",
+    "pitch": "How two small-time East End gangsters in 1960s London deliberately cultivated their own celebrity through fashion photography and media manipulation, turning their criminal incompetence into an enduring cultural brand that outlasted their actual crimes.",
     "comparable_works": [
-      "The Jinx",
-      "McMillions",
-      "Tiger King"
+      "The Krays (1990)",
+      "Legend (2015)",
+      "McMillions"
     ]
   }
 }

@@ -73,17 +73,17 @@
     "boundary crossing"
   ],
   "film_adaptation": {
-    "potential": "high",
+    "potential": "medium",
     "categories": [
       "survival",
       "david_vs_goliath"
     ],
-    "format": "either",
-    "pitch": "A documentary photographer's violent assault in post-revolution Cairo becomes a catalyst for confronting how the justice system fails victims, as she transforms from survivor to advocate through the power of bearing witness.",
+    "format": "documentary",
+    "pitch": "A documentary photographer's brutal assault in post-revolution Cairo becomes a public act of defiance when she posts her injuries online, challenging how society responds to violence against women.",
     "comparable_works": [
-      "I May Destroy You",
-      "Unbelievable",
-      "The Assault"
+      "The Square",
+      "I Am Not Your Negro",
+      "The Invisible War"
     ]
   }
 }

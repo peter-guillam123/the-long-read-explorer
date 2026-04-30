@@ -112,15 +112,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "forensic_chase",
+      "twisty_mystery",
       "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "British investigators promise to help Ukraine recover billions stolen by its corrupt ex-president, but their first high-profile case — freezing $23 million linked to an oligarch — collapses when a judge rules they built it on 'conjecture and suspicion'.",
+    "pitch": "How Britain's first high-profile attempt to recover stolen Ukrainian assets collapsed when a judge ruled investigators had built their case on 'conjecture and suspicion', undermining international anti-corruption efforts.",
     "comparable_works": [
       "The Laundromat",
-      "Icarus",
-      "McMillion$"
+      "McMafia"
     ]
   }
 }

@@ -109,18 +109,17 @@
     "genius and collaboration"
   ],
   "film_adaptation": {
-    "potential": "high",
+    "potential": "medium",
     "categories": [
       "phenomenal_individual",
-      "hidden_world",
       "origin_moment"
     ],
     "format": "documentary",
-    "pitch": "A 27-year-old YouTube creator has amassed 400 million subscribers through increasingly extreme stunts that cost millions to produce, becoming arguably the world's most influential entertainer while reshaping how attention works in the digital age.",
+    "pitch": "A portrait of Jimmy Donaldson's rise from a 13-year-old counting to 100,000 in his bedroom to becoming YouTube's biggest star, exploring what his algorithmically-optimised content empire reveals about modern attention and entertainment.",
     "comparable_works": [
-      "The Social Network",
+      "The Social Dilemma",
       "Fyre: The Greatest Party That Never Happened",
-      "Won't You Be My Neighbor?"
+      "WeWork: Or the Making and Breaking of a $47 Billion Unicorn"
     ]
   }
 }

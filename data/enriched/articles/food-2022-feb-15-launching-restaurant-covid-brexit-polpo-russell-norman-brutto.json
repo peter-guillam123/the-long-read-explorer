@@ -87,11 +87,11 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
-      "survival"
+      "survival",
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "Russell Norman attempts to launch his new restaurant Brutto during the worst crisis in hospitality history, battling supply chain chaos, staff shortages and the ghost of his failed empire just yards from his door.",
+    "pitch": "Russell Norman attempts to open a traditional Italian restaurant in post-Brexit, pandemic London as supply chains collapse around him and the ghost of his failed empire haunts the streets outside.",
     "comparable_works": [
       "Chef's Table",
       "Boiling Point",

@@ -103,17 +103,18 @@
     "canon formation"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
-      "hidden_world",
-      "origin_moment"
+      "origin_moment",
+      "phenomenal_individual",
+      "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "The rise of CasaPound, Italy's hipster fascist movement that occupied a building in Rome and spent 15 years making Mussolini cool again through rock concerts, cultural centres and clever media manipulation.",
+    "pitch": "The rise of CasaPound, a hipster fascist movement that occupied a building in Rome and spent 15 years mainstreaming Mussolini through rock music, creative stunts and cultural rebellion. A charismatic punk rocker transforms from drinking club organiser to the architect of Italy's modern far-right revival.",
     "comparable_works": [
-      "American History X",
-      "The Rise of the Murdoch Dynasty",
-      "Wild Wild Country"
+      "The Act of Killing",
+      "This Is England",
+      "American History X"
     ]
   }
 }

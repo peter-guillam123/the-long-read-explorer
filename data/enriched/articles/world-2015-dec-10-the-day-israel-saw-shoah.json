@@ -131,15 +131,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "origin_moment",
-      "closed_community_upheaval"
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "The untold story of June 1986, when Israel's entire political leadership gathered in one cinema for nine hours to watch the Holocaust documentary Shoah - a day that crystallised the nation's complex relationship with its founding trauma.",
+    "pitch": "The untold story of the day Israel's entire political leadership gathered in one cinema to watch Shoah, revealing how a nine-hour Holocaust documentary became a mirror for the country's unresolved trauma and political identity.",
     "comparable_works": [
       "Shoah",
       "The Act of Killing",
-      "Won't You Be My Neighbor?"
+      "Night and Fog"
     ]
   }
 }

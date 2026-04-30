@@ -123,14 +123,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "phenomenal_individual"
+      "phenomenal_individual",
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "Psychiatrist Vikram Patel travels from London to Zimbabwe expecting to prove depression is a western disease, only to discover it everywhere — then pioneers a global movement training grandmothers and ordinary people to treat mental illness where no doctors exist.",
+    "pitch": "Psychiatrist Vikram Patel discovers depression affects people in poor countries just as much as rich ones, then pioneers a radical solution using grandmothers and lay counsellors to treat mental illness across Africa and Asia.",
     "comparable_works": [
       "The Act of Killing",
-      "Won't You Be My Neighbor?",
-      "Free Solo"
+      "Fire of Love",
+      "Won't You Be My Neighbor?"
     ]
   }
 }

@@ -104,14 +104,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "phenomenal_individual"
+      "phenomenal_individual",
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "Martin Lewis built a multimillion-pound empire by becoming Britain's most trusted financial adviser, but his obsessive pursuit of 'financial justice' raises questions about whether individual consumer tips can fix systemic inequality.",
+    "pitch": "Martin Lewis built a £87m empire teaching Britain to save money, becoming the country's most trusted public figure. But as inequality widens and corporations grow more predatory, can one man's modest suggestions actually challenge the system or just help people survive it?",
     "comparable_works": [
-      "The Corporation",
-      "Michael Moore documentaries",
-      "Won't You Be My Neighbor?"
+      "The Social Dilemma",
+      "Super Size Me",
+      "An Inconvenient Truth"
     ]
   }
 }

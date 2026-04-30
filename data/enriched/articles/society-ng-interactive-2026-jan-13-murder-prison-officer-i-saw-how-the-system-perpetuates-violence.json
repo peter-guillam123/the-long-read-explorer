@@ -89,16 +89,16 @@
     "power and resistance"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
       "hidden_world",
       "whistleblower"
     ],
-    "format": "documentary",
-    "pitch": "A former prison officer exposes the reality behind rising violence in UK prisons, revealing how overcrowding and understaffing have made murder routine in a system meant to rehabilitate.",
+    "format": "either",
+    "pitch": "A former prison officer reveals how Britain's overcrowded jails have become killing grounds, taking viewers inside a system where violence has spiralled from rare to routine and staff are left traumatised by murders they couldn't prevent.",
     "comparable_works": [
-      "The Thin Blue Line",
-      "13th",
+      "Scum",
+      "The Night Of",
       "Time"
     ]
   }

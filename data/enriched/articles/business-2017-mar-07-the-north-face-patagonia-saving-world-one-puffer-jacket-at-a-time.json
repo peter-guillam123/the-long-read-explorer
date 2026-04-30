@@ -130,14 +130,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "origin_moment",
-      "ethical_choice"
+      "brand_story",
+      "phenomenal_individual"
     ],
     "format": "documentary",
-    "pitch": "Two childhood friends create rival outdoor clothing empires that transform wilderness culture into mass consumption, then face a reckoning when one abandons business entirely to become a conservationist while the other continues building a corporate machine.",
+    "pitch": "Two legendary outdoor gear founders navigate the paradox of selling wilderness dreams to urban consumers while their friendship fractures over competing visions of corporate responsibility and environmental activism.",
     "comparable_works": [
-      "The Social Network",
-      "Won't You Be My Neighbor?"
+      "The Corporation",
+      "McMillions",
+      "Fyre: The Greatest Party That Never Happened"
     ]
   }
 }

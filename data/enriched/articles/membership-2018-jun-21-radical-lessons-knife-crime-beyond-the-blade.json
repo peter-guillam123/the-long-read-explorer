@@ -131,14 +131,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world"
+      "hidden_world",
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "Follow the youth workers at Redthread who intercept stabbed teenagers in hospital emergency wards during their most vulnerable 'teachable moments', revealing the human stories behind Britain's knife crime statistics.",
+    "pitch": "Youth workers at King's College Hospital have seconds to reach stabbing victims in their most vulnerable moment, racing against time to break cycles of violence through practical help and human connection.",
     "comparable_works": [
       "The Work",
-      "Hometown's in Alabama",
-      "Last Chance U"
+      "Life and Death Row",
+      "24 Hours in A&E"
     ]
   }
 }

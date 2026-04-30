@@ -99,16 +99,16 @@
     "boundary crossing"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
       "hidden_world",
       "phenomenal_individual"
     ],
     "format": "documentary",
-    "pitch": "Ben Giles built Britain's largest extreme cleaning empire from a bathtub full of human waste, becoming the go-to man for theatre blood spills, whale carcasses and crime scenes that would make most people run.",
+    "pitch": "Ben Giles built Britain's largest extreme cleaning empire from a bathtub full of human waste to whale carcasses and murder scenes, creating a 600-strong army of cleaners who tackle the messes society can't bear to see.",
     "comparable_works": [
-      "Dirty Jobs",
-      "The Cleaners",
+      "Dirty Money",
+      "The Kings of Con",
       "American Factory"
     ]
   }

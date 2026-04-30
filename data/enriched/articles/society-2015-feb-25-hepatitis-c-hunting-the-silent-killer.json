@@ -102,14 +102,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "david_vs_goliath"
+      "david_vs_goliath",
+      "forensic_chase"
     ],
     "format": "documentary",
-    "pitch": "A London doctor races to find hundreds of thousands of undiagnosed hepatitis C carriers who don't know they're infected, armed with a miracle cure but blocked by politics, economics and public apathy.",
+    "pitch": "Dr Chloe Orkin leads a groundbreaking screening project across British hospitals to hunt down the 100,000 people unknowingly carrying a 'silent killer' virus that finally has a cure.",
     "comparable_works": [
       "Contagion",
       "Fire in the Blood",
-      "An Inconvenient Truth"
+      "How to Survive a Plague"
     ]
   }
 }

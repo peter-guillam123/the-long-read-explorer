@@ -113,17 +113,18 @@
     "transmission of knowledge"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
       "david_vs_goliath",
+      "history_revisited",
       "ethical_choice"
     ],
     "format": "either",
-    "pitch": "A Greek finance minister attempts to negotiate his country's way out of economic catastrophe while confronting the echoes of his uncle's resistance to dictatorship 50 years earlier.",
+    "pitch": "A former Greek finance minister's five-month battle against the European establishment to save his bankrupt country, framed by childhood memories of his uncle's resistance to military dictatorship and the family's secret radio vigils under a red blanket.",
     "comparable_works": [
       "The Big Short",
       "All the President's Men",
-      "Z"
+      "Inside Job"
     ]
   }
 }

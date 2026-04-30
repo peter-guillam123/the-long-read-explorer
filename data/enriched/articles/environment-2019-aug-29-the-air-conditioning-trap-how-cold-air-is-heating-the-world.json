@@ -127,16 +127,10 @@
     "utopia and dystopia"
   ],
   "film_adaptation": {
-    "potential": "medium",
-    "categories": [
-      "origin_moment"
-    ],
+    "potential": "low",
+    "categories": [],
     "format": "documentary",
-    "pitch": "How Willis Carrier's 1902 invention to fix a Brooklyn printing problem accidentally created the modern world, then trapped us in a climate feedback loop that threatens civilisation itself.",
-    "comparable_works": [
-      "An Inconvenient Truth",
-      "The Century of the Self",
-      "Freakonomics"
-    ]
+    "pitch": null,
+    "comparable_works": []
   }
 }

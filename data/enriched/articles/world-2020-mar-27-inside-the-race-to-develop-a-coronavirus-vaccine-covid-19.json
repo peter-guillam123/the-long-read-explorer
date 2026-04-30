@@ -94,15 +94,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
-      "ethical_choice"
+      "phenomenal_individual",
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "A Canadian scientist races to develop a coronavirus vaccine in the early months of the pandemic, self-isolating to protect his team while navigating untested genetic technology that could reshape how we fight future diseases.",
+    "pitch": "A small-scale Cambridge scientist races against pharmaceutical giants and time itself to develop a coronavirus vaccine, risking isolation and personal sacrifice in humanity's most urgent medical quest.",
     "comparable_works": [
       "Contagion",
-      "The Hot Zone",
-      "Pandemic: How to Prevent an Outbreak"
+      "The Social Dilemma",
+      "Fire of Love"
     ]
   }
 }

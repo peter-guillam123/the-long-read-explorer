@@ -108,14 +108,15 @@
     "potential": "high",
     "categories": [
       "david_vs_goliath",
+      "origin_moment",
       "survival"
     ],
     "format": "documentary",
-    "pitch": "Grenfell survivors turn grief into activism, challenging government inaction and fighting for housing reform while wrestling with their own trauma. A group of marginalised council tenants penetrate the corridors of power, reaching Downing Street to confront the prime minister about the disaster that claimed 72 lives.",
+    "pitch": "Grenfell Tower survivors transform their grief into Britain's most influential tenants' rights campaign, battling government indifference while wrestling with trauma and the weight of representing millions of renters across the country.",
     "comparable_works": [
       "The Act of Killing",
-      "Fire at Sea",
-      "American Factory"
+      "Collective",
+      "Fire at Sea"
     ]
   }
 }

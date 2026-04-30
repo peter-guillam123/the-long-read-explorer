@@ -135,14 +135,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
+      "history_revisited",
       "ethical_choice"
     ],
     "format": "either",
-    "pitch": "Idealistic volunteers who fought fascism in 1930s Spain face impossible choices when their anti-fascist convictions later require them to build authoritarian regimes in Eastern Europe.",
+    "pitch": "International Brigade volunteers who fought fascism in 1930s Spain later became architects of communist repression across Eastern Europe, founding the Stasi and ruling as iron curtain prime ministers. The story follows these idealistic anti-fascists through their moral transformation from freedom fighters to freedom suppressors.",
     "comparable_works": [
       "The Lives of Others",
-      "For Whom the Bell Tolls",
-      "They Shall Not Grow Old"
+      "Apocalypse Now",
+      "The Pianist"
     ]
   }
 }

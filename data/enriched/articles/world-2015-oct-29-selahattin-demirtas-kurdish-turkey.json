@@ -115,16 +115,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "david_vs_goliath",
       "phenomenal_individual",
+      "david_vs_goliath",
       "ethical_choice"
     ],
-    "format": "documentary",
-    "pitch": "Selahattin Demirtaş, a Kurdish politician whose brother joined the armed PKK insurgency, attempts to bridge Turkey's ethnic divide through peaceful politics while navigating between ballot box and bomb as his country slides toward civil war.",
+    "format": "either",
+    "pitch": "A charismatic Kurdish politician caught between bomb and ballot box tries to prevent Turkey sliding into civil war while his own brother fights as a PKK guerrilla. Set against the backdrop of a crucial election that could determine whether Turks and Kurds can live in peace.",
     "comparable_works": [
-      "The Square",
-      "Winter on Fire",
-      "City of Ghosts"
+      "The Battle of Chile",
+      "All the President's Men",
+      "Z"
     ]
   }
 }

@@ -100,14 +100,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world"
+      "phenomenal_individual",
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "A behind-the-scenes look at how Marine Le Pen weaponised media coverage to transform France's far-right from political pariahs into mainstream contenders, told through the cat-and-mouse game between Le Pen and the journalists covering her rise.",
+    "pitch": "Marine Le Pen's methodical campaign to normalise France's far-right through media manipulation, told through her cat-and-mouse relationship with the journalists trying to cover her without becoming part of her story.",
     "comparable_works": [
       "The Great Hack",
-      "All the President's Men",
-      "Citizenfour"
+      "Get Me Roger Stone",
+      "All the President's Men"
     ]
   }
 }

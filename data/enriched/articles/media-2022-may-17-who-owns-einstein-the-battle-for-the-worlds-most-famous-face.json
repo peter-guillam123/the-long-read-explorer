@@ -116,14 +116,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
+      "brand_story",
       "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "A university uses aggressive legal tactics to control Einstein's image decades after his death, generating millions while crushing small businesses and publishers who dare use the physicist's likeness without permission.",
+    "pitch": "How a California university has made £250 million aggressively licensing Einstein's image posthumously, turning the pacifist physicist into a corporate brand while crushing small businesses and publishers who dare use his likeness without permission.",
     "comparable_works": [
       "The Act of Killing",
-      "Spotlight",
-      "Dark Waters"
+      "Blackfish",
+      "Super Size Me"
     ]
   }
 }

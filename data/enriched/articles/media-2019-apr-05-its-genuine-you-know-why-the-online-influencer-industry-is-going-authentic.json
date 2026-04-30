@@ -145,14 +145,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world"
+      "hidden_world",
+      "brand_story"
     ],
     "format": "documentary",
-    "pitch": "An intimate portrait of influencers and their handlers navigating an industry crisis as scandals force them to reinvent 'authenticity' for millions of followers while struggling with the relentless demands of content creation.",
+    "pitch": "Inside the billion-pound influencer industry as it desperately reinvents itself after scandals like Fyre Festival, following talent agencies and their stars as they pivot from fake glamour to performed authenticity.",
     "comparable_works": [
-      "The Social Dilemma",
       "Fyre: The Greatest Party That Never Happened",
-      "Fake Famous"
+      "The Social Dilemma",
+      "Generation Wealth"
     ]
   }
 }

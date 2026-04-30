@@ -110,12 +110,12 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
+      "twisty_mystery",
       "david_vs_goliath",
-      "forensic_chase",
-      "ethical_choice"
+      "forensic_chase"
     ],
     "format": "either",
-    "pitch": "A death row inmate's final appeal against his murder conviction rests on proving that the key witness testimony came from discredited hypnosis techniques. His lawyer races against the execution date to overturn decades of accepted forensic practice.",
+    "pitch": "A death row inmate races against his execution date to prove that the key witness against him was hypnotised by police — part of a nationwide fight to expose forensic hypnosis as junk science that has sent innocent people to their deaths.",
     "comparable_works": [
       "The Thin Blue Line",
       "Just Mercy",

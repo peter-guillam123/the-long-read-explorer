@@ -136,10 +136,16 @@
     "center vs periphery"
   ],
   "film_adaptation": {
-    "potential": "low",
-    "categories": [],
+    "potential": "medium",
+    "categories": [
+      "history_revisited"
+    ],
     "format": "documentary",
-    "pitch": null,
-    "comparable_works": []
+    "pitch": "How a single microphone gaffe by Gordon Brown in 2010 crystallised two decades of toxic immigration politics, tracing the media narratives and policy decisions that transformed public opinion from 3% to 48% citing immigration as a key concern.",
+    "comparable_works": [
+      "The Century of the Self",
+      "HyperNormalisation",
+      "Get Me Roger Stone"
+    ]
   }
 }

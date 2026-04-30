@@ -136,16 +136,10 @@
     "transmission of knowledge"
   ],
   "film_adaptation": {
-    "potential": "medium",
-    "categories": [
-      "hidden_world"
-    ],
+    "potential": "low",
+    "categories": [],
     "format": "documentary",
-    "pitch": "A portrait of French haute cuisine's decline and rebirth, following traditionalist chefs attempting to revive the country's culinary reputation while navigating the tension between heritage and innovation.",
-    "comparable_works": [
-      "Chef's Table",
-      "Jiro Dreams of Sushi",
-      "Burnt"
-    ]
+    "pitch": null,
+    "comparable_works": []
   }
 }

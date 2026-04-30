@@ -103,15 +103,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
+      "david_vs_goliath",
       "phenomenal_individual"
     ],
     "format": "documentary",
-    "pitch": "A Welsh council worker wages a solitary, near-obsessive 18-year war against an indestructible plant that has spawned a cottage industry of specialist lawyers, triggered £200,000 court cases, and cost the Olympics £70m to clear.",
+    "pitch": "A Welsh botanist wages an 18-year war against an unstoppable plant that's devaluing British homes by £20bn, while homeowners sue each other and lawyers become 'wheelbarrow chasers' in the botanical battlefield.",
     "comparable_works": [
-      "The Mole Agent",
-      "My Octopus Teacher",
-      "Weeds (TV series)"
+      "The Cove",
+      "Blackfish",
+      "My Octopus Teacher"
     ]
   }
 }

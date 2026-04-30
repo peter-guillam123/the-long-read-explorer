@@ -125,17 +125,18 @@
     "decline and fall"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
+      "conspiracy",
       "david_vs_goliath",
-      "whistleblower"
+      "history_revisited"
     ],
-    "format": "documentary",
-    "pitch": "The brutal 1984 police violence against striking miners at Orgreave that went unpunished, creating the culture that led to the Hillsborough disaster five years later where 96 football fans died unlawfully.",
+    "format": "either",
+    "pitch": "The 1984 Battle of Orgreave saw police brutally assault striking miners, then fabricate evidence to prosecute them — five years later, the same force's culture of lies and violence killed 96 football fans at Hillsborough. A decades-long cover-up connects two of Britain's worst institutional scandals.",
     "comparable_works": [
-      "The Miners' Strike",
-      "Hillsborough",
-      "When They See Us"
+      "The Hillsborough",
+      "Spotlight",
+      "Official Secrets"
     ]
   }
 }

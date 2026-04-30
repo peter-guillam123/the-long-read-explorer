@@ -100,14 +100,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "david_vs_goliath",
-      "closed_community_upheaval"
+      "conspiracy",
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "An academic takes on a mining company and local politicians pushing Britain's first new coalmine in 30 years, as a post-industrial Cumbrian community splits between jobs and climate action.",
+    "pitch": "An academic discovers that a remote Cumbrian community and local politicians have been persuaded to support Britain's first new coalmine in 30 years through carefully orchestrated PR claiming it will actually help fight climate change.",
     "comparable_works": [
-      "Dark Waters",
-      "Erin Brockovich"
+      "The Age of Stupid",
+      "An Inconvenient Truth",
+      "Dark Waters"
     ]
   }
 }

@@ -91,11 +91,12 @@
     "categories": [
       "phenomenal_individual"
     ],
-    "format": "documentary",
-    "pitch": "A young man's journey from near-death to bionic enhancement, exploring how cutting-edge prosthetics are transforming disability from limitation into superhuman possibility.",
+    "format": "either",
+    "pitch": "A young man's journey from near-death as a baby to becoming a pioneer of bionic prosthetics, exploring how cutting-edge technology is reshaping what it means to be disabled in the 21st century.",
     "comparable_works": [
-      "Crip Camp",
-      "The Theory of Everything"
+      "The Theory of Everything",
+      "My Left Foot",
+      "Breathe"
     ]
   }
 }

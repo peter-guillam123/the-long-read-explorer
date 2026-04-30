@@ -94,15 +94,15 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "survival",
-      "ethical_choice"
+      "ethical_choice",
+      "survival"
     ],
-    "format": "documentary",
-    "pitch": "A 22-year-old Dutch woman changes her mind at the very last moment before legal euthanasia, then must rebuild a life she had already said goodbye to. The film follows her 18-month journey from the hospice bed where she called off her death to finding reasons to stay alive.",
+    "format": "either",
+    "pitch": "A 22-year-old Dutch woman changes her mind about legal euthanasia at the last moment, then must rebuild a life she had already said goodbye to. Her story follows the aftermath of choosing to live when dying was the plan.",
     "comparable_works": [
-      "The Act of Killing",
-      "Cameraperson",
-      "What's Love Got to Do with It"
+      "Me Before You",
+      "The Bridge",
+      "Crisis Hotline: Veterans Press 1"
     ]
   }
 }

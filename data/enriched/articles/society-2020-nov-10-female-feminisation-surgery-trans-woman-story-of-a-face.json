@@ -95,16 +95,16 @@
     "freedom vs control"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
-      "hidden_world"
+      "phenomenal_individual"
     ],
     "format": "documentary",
-    "pitch": "A trans woman's journey through facial feminisation surgery reveals the hidden medical world where faces are reconstructed to align identity with appearance, following her from consultation to recovery.",
+    "pitch": "Following a trans woman through facial feminisation surgery — from her childhood dreams of shapeshifting to the operating theatre where she hopes to finally see herself as she always imagined.",
     "comparable_works": [
       "Disclosure",
       "A Fantastic Woman",
-      "The Danish Girl"
+      "Paris Is Burning"
     ]
   }
 }

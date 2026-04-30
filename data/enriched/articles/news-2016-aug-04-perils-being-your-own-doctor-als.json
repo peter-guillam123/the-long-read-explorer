@@ -89,14 +89,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "survival"
+      "phenomenal_individual",
+      "ethical_choice"
     ],
-    "format": "either",
-    "pitch": "An emergency doctor becomes convinced he has ALS and descends into medical paranoia, consulting specialist after specialist who insist he's healthy while his obsession threatens to destroy his family and career.",
+    "format": "fiction",
+    "pitch": "An emergency room doctor becomes convinced he has ALS and spirals into obsessive self-diagnosis, unable to accept multiple specialists' assurances that he's perfectly healthy. His medical knowledge becomes his curse as he descends deeper into hypochondriacal terror.",
     "comparable_works": [
-      "A Beautiful Mind",
-      "The Machinist",
-      "Side Effects"
+      "Side Effects",
+      "The Doctor",
+      "A Beautiful Mind"
     ]
   }
 }

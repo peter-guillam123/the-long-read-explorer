@@ -115,17 +115,18 @@
     "power and resistance"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
       "hidden_world",
-      "survival"
+      "survival",
+      "ethical_choice"
     ],
-    "format": "documentary",
-    "pitch": "Following women who face the desperate decision to abandon their babies, exploring the network of 'baby windows' and support systems across Europe that offer anonymous alternatives to unsafe abandonment.",
+    "format": "either",
+    "pitch": "A homeless woman discovers she's pregnant and finds refuge through a network of anonymous 'baby windows' across Europe, revealing a hidden system where desperate mothers can abandon newborns safely while grappling with impossible choices about motherhood, survival and human dignity.",
     "comparable_works": [
-      "Vera Dreams of the Sea",
-      "Strong Island",
-      "Hoop Dreams"
+      "Nomadland",
+      "Room",
+      "Juno"
     ]
   }
 }

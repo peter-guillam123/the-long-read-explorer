@@ -102,13 +102,14 @@
     "potential": "high",
     "categories": [
       "david_vs_goliath",
-      "forensic_chase"
+      "phenomenal_individual",
+      "conspiracy"
     ],
     "format": "documentary",
-    "pitch": "Two retired neighbours — an academic and a detective — use machine learning and freedom of information requests to expose massive illegal sewage dumping that's killing Britain's rivers while regulators turn a blind eye.",
+    "pitch": "Two retired neighbours in the Cotswolds use machine learning software and detective work to expose how water companies have been illegally dumping sewage into Britain's rivers for years while regulators turned a blind eye.",
     "comparable_works": [
+      "Dark Waters",
       "Erin Brockovich",
-      "Spotlight",
       "The China Syndrome"
     ]
   }

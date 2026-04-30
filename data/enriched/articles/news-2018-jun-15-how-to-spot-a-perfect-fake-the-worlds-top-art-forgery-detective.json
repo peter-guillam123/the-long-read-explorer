@@ -146,18 +146,18 @@
     "unintended consequences"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
-      "phenomenal_individual",
       "forensic_chase",
-      "hidden_world"
+      "hidden_world",
+      "heist_con"
     ],
-    "format": "documentary",
-    "pitch": "James Martin, the art world's top forensic detective, uses cutting-edge science to expose million-pound forgeries that have fooled museums and auction houses for decades. His acquisition by Sotheby's marks a new front in the arms race between increasingly sophisticated forgers and the institutions trying to stop them.",
+    "format": "either",
+    "pitch": "James Martin, art forgery detective at Sotheby's, races to unmask a network of near-perfect fakes worth £179m that fooled the world's top museums and auction houses. As forgers get better and the stakes reach hundreds of millions, Martin becomes the last line of defence in an escalating cat-and-mouse game.",
     "comparable_works": [
-      "The Forger's Masterclass",
+      "The Real Thing",
       "Made You Look: A True Story About Fake Art",
-      "Fake or Fortune?"
+      "The Thomas Crown Affair"
     ]
   }
 }

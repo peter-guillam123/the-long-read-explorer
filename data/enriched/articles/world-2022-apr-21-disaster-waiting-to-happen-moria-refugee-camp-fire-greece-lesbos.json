@@ -100,15 +100,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "twisty_mystery",
-      "david_vs_goliath"
+      "conspiracy",
+      "david_vs_goliath",
+      "whistleblower"
     ],
     "format": "documentary",
-    "pitch": "Six young Afghan refugees are arrested for burning down Europe's most notorious migrant camp, but as lawyers dig deeper, the case against them unravels — revealing how Europe criminalises the very people it claims to protect.",
+    "pitch": "Six young Afghan refugees are scapegoated for burning down Europe's most notorious migrant camp, as activists and lawyers fight to expose how EU policies created the disaster they're being blamed for.",
     "comparable_works": [
-      "The Staircase",
-      "When They See Us",
-      "Fire at Sea"
+      "The Act of Killing",
+      "Fire at Sea",
+      "For Sama"
     ]
   }
 }

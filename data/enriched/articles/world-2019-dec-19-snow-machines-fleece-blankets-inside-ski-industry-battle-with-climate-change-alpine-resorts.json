@@ -124,14 +124,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
+      "david_vs_goliath",
       "visual_spectacle"
     ],
     "format": "documentary",
-    "pitch": "Pierre Mattis runs a snow-making empire from a bunker carved into the Alps, commanding an army of cannons that fire artificial snow at 250km/h to keep Val d'Isère alive as climate change kills the ski industry around him.",
+    "pitch": "As climate change destroys the Alps' natural snow, a French ski engineer builds an underground snow factory to save his resort, while hundreds of other ski towns across the mountains are abandoned to bankruptcy and empty chairlifts swaying in the wind.",
     "comparable_works": [
       "An Inconvenient Truth",
-      "The Last Mountain",
+      "The Age of Stupid",
       "Chasing Ice"
     ]
   }

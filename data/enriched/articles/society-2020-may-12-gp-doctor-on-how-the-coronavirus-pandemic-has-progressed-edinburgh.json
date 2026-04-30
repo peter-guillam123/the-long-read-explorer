@@ -78,16 +78,10 @@
     "unintended consequences"
   ],
   "film_adaptation": {
-    "potential": "medium",
-    "categories": [
-      "hidden_world"
-    ],
+    "potential": "low",
+    "categories": [],
     "format": "documentary",
-    "pitch": "A frontline GP documents how the pandemic transformed everyday medicine in Edinburgh, from emptied consulting rooms to Covid hubs where doctors treat patients while staying as far away as possible.",
-    "comparable_works": [
-      "24 Hours in A&E",
-      "Hospital",
-      "The First Wave"
-    ]
+    "pitch": null,
+    "comparable_works": []
   }
 }

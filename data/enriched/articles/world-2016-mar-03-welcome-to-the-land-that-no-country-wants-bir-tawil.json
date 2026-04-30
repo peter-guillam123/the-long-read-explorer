@@ -97,16 +97,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "visual_spectacle",
       "heist_con",
-      "twisty_mystery"
+      "visual_spectacle",
+      "david_vs_goliath"
     ],
-    "format": "documentary",
-    "pitch": "Two journalists attempt to claim the last unclaimed territory on Earth—an 800-square-mile desert no-man's land between Egypt and Sudan—only to discover they're not the first, and that claiming a country is messier than Google Maps suggests.",
+    "format": "either",
+    "pitch": "Two friends attempt to claim the last unclaimed territory on earth — an inhospitable desert wasteland between Egypt and Sudan — only to discover that another eccentric American father has beaten them to it in his quest to make his daughter a princess.",
     "comparable_works": [
-      "The Act of Killing",
-      "Grizzly Man",
-      "My Octopus Teacher"
+      "The Men Who Stare at Goats",
+      "Gringo: The Dangerous Life of John McAfee",
+      "Werner Herzog's documentaries"
     ]
   }
 }

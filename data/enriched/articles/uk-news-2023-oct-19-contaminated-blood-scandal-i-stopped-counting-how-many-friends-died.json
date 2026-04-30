@@ -118,15 +118,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
+      "conspiracy",
       "david_vs_goliath",
       "whistleblower"
     ],
     "format": "documentary",
-    "pitch": "A haemophiliac law lecturer infected with HIV and hepatitis C fights for decades to expose how the NHS knowingly gave patients contaminated blood, then covered it up for 40 years.",
+    "pitch": "A haemophiliac law lecturer leads a decades-long fight to expose how the NHS knowingly infected thousands with HIV and hepatitis C through contaminated blood, then covered it up for 30 years.",
     "comparable_works": [
-      "The Insider",
       "Spotlight",
-      "Fire in the Blood"
+      "Dark Waters",
+      "The Insider"
     ]
   }
 }

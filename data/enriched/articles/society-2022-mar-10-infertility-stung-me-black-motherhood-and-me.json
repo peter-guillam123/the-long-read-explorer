@@ -100,14 +100,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "ethical_choice"
+      "phenomenal_individual"
     ],
     "format": "documentary",
-    "pitch": "A Black academic in Berlin documents her gruelling 15-month IVF journey, questioning whether to bring a Black child into a hostile world while confronting the reproductive struggles that previous generations of women in her family never had the privilege to face.",
+    "pitch": "A Black American academic living in Berlin undergoes five rounds of IVF while grappling with questions of Black motherhood, identity and belonging in a foreign country during the global racial reckoning of 2020-2021.",
     "comparable_works": [
       "Private Life",
-      "One Child Nation",
-      "Seeking Sister Wife"
+      "Vegas Baby",
+      "Expecting"
     ]
   }
 }

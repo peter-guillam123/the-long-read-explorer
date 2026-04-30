@@ -123,16 +123,17 @@
     "transmission of knowledge"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
+      "history_revisited",
       "closed_community_upheaval"
     ],
     "format": "documentary",
-    "pitch": "For 12 years, activists in Monroe, Georgia have re-enacted the 1946 lynching of four black Americans at the exact spot where it happened, creating America's only ongoing memorial to lynching victims.",
+    "pitch": "For twelve years, activists in Monroe, Georgia have annually re-enacted the 1946 lynching of four black Americans at the exact spot where it happened, creating America's only living memorial to racist violence while the killers' identities remain hidden in plain sight.",
     "comparable_works": [
       "13th",
-      "When They See Us",
-      "The Central Park Five"
+      "The Act of Killing",
+      "When They See Us"
     ]
   }
 }

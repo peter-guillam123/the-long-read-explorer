@@ -79,10 +79,11 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world"
+      "origin_moment",
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "A GP's real-time account of the early weeks of Covid-19, from dismissive health bulletins in January to the chaotic scramble for masks and testing as the pandemic takes hold.",
+    "pitch": "A Scottish GP's real-time diary of the first months of COVID-19, capturing the moment everything changed from initial dismissal to mounting dread as the pandemic consumed the world.",
     "comparable_works": [
       "Contagion",
       "76 Days",

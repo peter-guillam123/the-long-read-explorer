@@ -122,13 +122,15 @@
   ],
   "film_adaptation": {
     "potential": "medium",
-    "categories": [],
+    "categories": [
+      "history_revisited"
+    ],
     "format": "documentary",
-    "pitch": "A man learns Welsh to connect with his dying mother and grandmother's language, racing against time as the last generation of native speakers in his family ages. His journey becomes a meditation on heritage, loss and what we inherit when we can't speak our ancestors' tongue.",
+    "pitch": "A middle-aged man embarks on a journey to learn Welsh, the language violently suppressed for generations, in order to connect with his dying mother and recover his family's lost cultural identity.",
     "comparable_works": [
-      "My Octopus Teacher",
-      "The Last Speakers",
-      "Summer of Soul"
+      "Stories We Tell",
+      "Searching for Sugar Man",
+      "The Act of Killing"
     ]
   }
 }

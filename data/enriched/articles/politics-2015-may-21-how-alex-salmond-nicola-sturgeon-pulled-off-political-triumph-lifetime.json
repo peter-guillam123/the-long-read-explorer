@@ -110,14 +110,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "phenomenal_individual"
+      "origin_moment"
     ],
     "format": "documentary",
-    "pitch": "How Alex Salmond transformed Scottish politics from the margins to dominance, using tactical brilliance and narrative mastery to rewrite the story of a nation. The architect of the SNP's rise from 6 to 56 MPs reveals the mechanics of political reinvention.",
+    "pitch": "How Alex Salmond and Nicola Sturgeon engineered one of the most dramatic political transformations in modern British history, taking the SNP from 6 to 56 seats through masterful narrative control and strategic reinvention.",
     "comparable_works": [
-      "The Rise and Fall of Alex Salmond",
-      "All the President's Men",
-      "The War Room"
+      "The Rise and Fall of Boris Johnson",
+      "Brexit: The Uncivil War",
+      "The Blair Years"
     ]
   }
 }

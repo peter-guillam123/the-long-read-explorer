@@ -111,14 +111,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world"
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "A former Taliban fighter turned police chief navigates the contradictions of governing a once-liberal Afghan city, revealing how corruption paved the way for the movement's return to power.",
+    "pitch": "A former Taliban fighter turned police chief navigates the collapse of Afghanistan's corrupt warlord system and the movement's return to power in the country's most liberal city.",
     "comparable_works": [
-      "Of Fathers and Sons",
       "The Act of Killing",
-      "Restrepo"
+      "Of Fathers and Sons",
+      "Last Men in Aleppo"
     ]
   }
 }

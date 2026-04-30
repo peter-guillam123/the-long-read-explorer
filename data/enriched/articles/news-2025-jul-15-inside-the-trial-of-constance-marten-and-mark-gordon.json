@@ -111,14 +111,15 @@
     "potential": "high",
     "categories": [
       "twisty_mystery",
+      "forensic_chase",
       "phenomenal_individual"
     ],
     "format": "either",
-    "pitch": "An aristocrat's daughter and her ex-convict partner go on the run with their newborn baby to evade social services, leading to a national manhunt and a trial for the child's death. The case exposes the collision between privilege and desperation, with a courtroom battle that becomes as much about control as culpability.",
+    "pitch": "An aristocrat's daughter and her convicted partner go on the run across Britain with their newborn baby to evade social services, leading to a national manhunt and a courtroom battle over whether love and neglect can coexist.",
     "comparable_works": [
-      "Gone Girl",
+      "The Staircase",
       "Making a Murderer",
-      "The Crown"
+      "Gone Girl"
     ]
   }
 }

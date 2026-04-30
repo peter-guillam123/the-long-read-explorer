@@ -106,14 +106,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
+      "brand_story",
       "david_vs_goliath"
     ],
-    "format": "documentary",
-    "pitch": "Winston Churchill's grandson takes on the job of rescuing Britain's most hated outsourcing company after a massive billing scandal brings it to the brink of collapse. Can establishment pedigree and old-fashioned duty save a firm that became the poster child for everything wrong with privatised public services?",
+    "format": "either",
+    "pitch": "Winston Churchill's grandson takes on the impossible task of saving Britain's most hated outsourcing company after it's caught billing the government for monitoring dead people and prisoners who never existed.",
     "comparable_works": [
-      "The Corporation",
-      "Inside Job",
-      "Going Clear"
+      "The Big Short",
+      "Thank You for Smoking",
+      "Vice"
     ]
   }
 }

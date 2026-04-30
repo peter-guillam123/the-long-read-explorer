@@ -112,15 +112,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "phenomenal_individual",
-      "hidden_world"
+      "brand_story",
+      "phenomenal_individual"
     ],
-    "format": "either",
-    "pitch": "Two 24-year-olds build Britain's fastest-growing drinks company through outrageous marketing stunts and genuine brewing obsession, dividing opinion as they revolutionise beer culture from a Scottish fishing port.",
+    "format": "documentary",
+    "pitch": "Two twenty-something Scots build Britain's fastest-growing drinks company through a decade of increasingly outrageous stunts, from beer stuffed in dead squirrels to tanks down Camden High Street, proving that authentic rebellion can be the ultimate marketing strategy.",
     "comparable_works": [
-      "The Social Network",
-      "Super Size Me",
-      "Blackfish"
+      "The Social Dilemma",
+      "Fyre: The Greatest Party That Never Happened",
+      "McMillions"
     ]
   }
 }

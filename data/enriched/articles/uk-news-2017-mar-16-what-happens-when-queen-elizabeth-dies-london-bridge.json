@@ -126,14 +126,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world"
+      "hidden_world",
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "Behind-the-scenes access to the secret machinery of state protocol as Britain prepares for the end of the longest reign in its history, revealing the intricate plans and psychological weight of a moment that will reshape a nation's identity.",
+    "pitch": "The secret machinery behind Britain's most rehearsed moment that will never come — the death of Elizabeth II and the constitutional, media and psychological reckoning that follows.",
     "comparable_works": [
       "The Crown",
-      "The Last Days of the Soviet Union",
-      "Charles: The Coronation"
+      "Tickled",
+      "The Act of Killing"
     ]
   }
 }

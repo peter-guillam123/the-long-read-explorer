@@ -120,13 +120,13 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world"
+      "closed_community_upheaval"
     ],
     "format": "documentary",
-    "pitch": "Syrian refugee women in Beirut use a cooking class to bridge sectarian divides, sharing closely guarded recipes as they process trauma and preserve a culture being destroyed by war.",
+    "pitch": "Syrian refugee women from different sects and regions bond over traditional recipes in a Beirut cooking programme, their kitchen rivalries and secret ingredients revealing the fractures and resilience of a culture in exile.",
     "comparable_works": [
-      "City of Ghosts",
       "For Sama",
+      "City of Ghosts",
       "The Cave"
     ]
   }

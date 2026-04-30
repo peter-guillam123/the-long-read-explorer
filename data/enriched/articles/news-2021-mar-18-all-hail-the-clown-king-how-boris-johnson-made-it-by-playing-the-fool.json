@@ -95,10 +95,17 @@
     "performance and authenticity"
   ],
   "film_adaptation": {
-    "potential": "low",
-    "categories": [],
-    "format": "documentary",
-    "pitch": null,
-    "comparable_works": []
+    "potential": "medium",
+    "categories": [
+      "phenomenal_individual",
+      "history_revisited"
+    ],
+    "format": "either",
+    "pitch": "How Boris Johnson weaponised the ancient archetype of the fool to reach Downing Street, transforming buffoonery into Britain's most effective political strategy.",
+    "comparable_works": [
+      "Vice",
+      "The King's Speech",
+      "All the President's Men"
+    ]
   }
 }

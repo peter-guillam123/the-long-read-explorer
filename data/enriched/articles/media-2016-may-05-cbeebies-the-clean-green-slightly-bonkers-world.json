@@ -94,16 +94,10 @@
     "unintended consequences"
   ],
   "film_adaptation": {
-    "potential": "medium",
-    "categories": [
-      "hidden_world"
-    ],
+    "potential": "low",
+    "categories": [],
     "format": "documentary",
-    "pitch": "A behind-the-scenes look at the people who create and inhabit the seemingly innocent world of CBeebies, exploring how Britain's most watched children's channel has become a cultural force that shapes both childhood and parenthood.",
-    "comparable_works": [
-      "Won't You Be My Neighbor?",
-      "Blackfish",
-      "The Act of Killing"
-    ]
+    "pitch": null,
+    "comparable_works": []
   }
 }

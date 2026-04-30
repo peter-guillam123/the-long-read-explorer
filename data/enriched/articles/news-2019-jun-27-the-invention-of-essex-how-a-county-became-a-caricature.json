@@ -154,14 +154,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
+      "history_revisited",
       "origin_moment"
     ],
     "format": "documentary",
-    "pitch": "How a working-class county became Britain's most mocked place, from post-war new towns built for bombed-out Londoners to the birthplace of Essex Man and global reality TV stereotype.",
+    "pitch": "How a working-class county became Britain's most mocked place, from the invention of 'Essex Man' in the 1980s to reality TV stereotypes that spread globally — revealing how political myths about 'real people' are manufactured.",
     "comparable_works": [
       "The Century of the Self",
-      "Hypernormalisation",
-      "The Power of Nightmares"
+      "HyperNormalisation",
+      "Get Me Roger Stone"
     ]
   }
 }

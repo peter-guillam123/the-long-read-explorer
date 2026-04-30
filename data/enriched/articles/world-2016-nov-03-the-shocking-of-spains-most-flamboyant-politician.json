@@ -118,15 +118,15 @@
     "potential": "high",
     "categories": [
       "twisty_mystery",
-      "closed_community_upheaval",
-      "forensic_chase"
+      "conspiracy",
+      "closed_community_upheaval"
     ],
     "format": "either",
-    "pitch": "When Spain's most hated politician is gunned down in broad daylight, the investigation reveals the killer is the wife of the local police chief—and uncovers a web of corruption and revenge in a small provincial city.",
+    "pitch": "The assassination of Spain's most powerful and corrupt female politician turns into a labyrinthine investigation revealing that the killer was the wife of the local police chief, exposing a web of institutional corruption in a provincial Spanish city.",
     "comparable_works": [
-      "Broadchurch",
-      "The Undoing",
-      "Mare of Easttown"
+      "Spotlight",
+      "The Jinx",
+      "Fargo"
     ]
   }
 }

@@ -122,15 +122,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "david_vs_goliath",
-      "closed_community_upheaval"
+      "conspiracy",
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "Climate campaigners battle well-funded 'inactivists' trying to derail net-zero policies, with a Kent airport becoming the unlikely battleground where global culture wars play out in one English seaside town.",
+    "pitch": "Climate campaigners find themselves fighting a new enemy: well-funded 'inactivists' who use culture war tactics and social media manipulation to turn environmental action into a symbol of elite privilege, with the battle playing out around a disused Kent airport.",
     "comparable_works": [
       "The Great Hack",
-      "Brexit: The Uncivil War",
-      "Dark Money"
+      "Dark Money",
+      "Merchants of Doubt"
     ]
   }
 }

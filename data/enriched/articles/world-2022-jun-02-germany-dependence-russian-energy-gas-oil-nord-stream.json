@@ -167,14 +167,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "espionage"
+      "history_revisited",
+      "conspiracy"
     ],
     "format": "documentary",
-    "pitch": "How a 1970 gas deal in an Essen hotel became Putin's economic weapon against the West, told through the German politicians and energy executives who built the pipeline infrastructure that now funds Russia's war in Ukraine.",
+    "pitch": "How a 50-year German gamble on Russian energy became Putin's weapon of war, told through the politicians and dealmakers who built the pipeline system that now funds the invasion of Ukraine.",
     "comparable_works": [
-      "The Power of Nightmares",
-      "Icarus",
-      "Active Measures"
+      "The Fog of War",
+      "Inside Job",
+      "Icarus"
     ]
   }
 }

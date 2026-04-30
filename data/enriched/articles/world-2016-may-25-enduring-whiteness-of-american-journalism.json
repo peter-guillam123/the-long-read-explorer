@@ -119,10 +119,17 @@
     "canon formation"
   ],
   "film_adaptation": {
-    "potential": "low",
-    "categories": [],
+    "potential": "medium",
+    "categories": [
+      "whistleblower",
+      "hidden_world"
+    ],
     "format": "documentary",
-    "pitch": null,
-    "comparable_works": []
+    "pitch": "A veteran black journalist chronicles three decades inside America's most prestigious newsrooms, revealing how racial blind spots and editorial hierarchies shape the stories that define American consciousness.",
+    "comparable_works": [
+      "Spotlight",
+      "The Post",
+      "13th"
+    ]
   }
 }

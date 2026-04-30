@@ -104,14 +104,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "origin_moment"
+      "origin_moment",
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "A cycling tradition born from pandemic isolation becomes an annual marker of Black British resilience, tracked across four years as communities navigate Covid, racial justice protests and social change through the simple act of riding together.",
+    "pitch": "Following the Black Unity Bike Ride through four years of pandemic and protest, tracking how a community created new rituals of resistance and joy during Britain's racial reckoning.",
     "comparable_works": [
       "Summer of Soul",
       "13th",
-      "I Am Not Your Negro"
+      "The Last Dance"
     ]
   }
 }

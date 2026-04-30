@@ -128,14 +128,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "phenomenal_individual"
+      "phenomenal_individual",
+      "architecture"
     ],
     "format": "documentary",
-    "pitch": "Nicholas Serota spent three decades transforming Britain from a country indifferent to modern art into one where five million people a year visit Tate Modern. The story of how one man's monkish devotion and steely strategy built an empire from a derelict power station.",
+    "pitch": "Nicholas Serota's 30-year transformation of Britain from a country largely indifferent to modern art into one where contemporary art became mainstream, culminating in Tate Modern becoming the world's most popular modern art museum.",
     "comparable_works": [
       "The Price of Everything",
-      "Herb & Dorothy",
-      "Ai Weiwei: Never Sorry"
+      "Civilisations",
+      "Abstract: The Art of Design"
     ]
   }
 }

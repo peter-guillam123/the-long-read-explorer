@@ -159,10 +159,16 @@
     "measurement and precision"
   ],
   "film_adaptation": {
-    "potential": "low",
-    "categories": [],
+    "potential": "medium",
+    "categories": [
+      "phenomenal_individual"
+    ],
     "format": "documentary",
-    "pitch": null,
-    "comparable_works": []
+    "pitch": "A cognitive psychologist becomes the world's most influential optimist, advising presidents and billionaires that humanity is on the right track while critics accuse him of providing intellectual cover for inequality and climate inaction.",
+    "comparable_works": [
+      "The Social Dilemma",
+      "Won't You Be My Neighbor?",
+      "Merchants of Doubt"
+    ]
   }
 }

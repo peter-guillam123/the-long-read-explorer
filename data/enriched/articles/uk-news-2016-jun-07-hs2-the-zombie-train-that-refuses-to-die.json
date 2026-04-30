@@ -122,13 +122,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
+      "conspiracy",
       "phenomenal_individual"
     ],
     "format": "documentary",
-    "pitch": "The story of Jim Steer, the obsessive engineer who spent three decades turning a glimpse of French high-speed trains into Britain's most expensive infrastructure project, despite mounting evidence it wasn't needed.",
+    "pitch": "How three obsessive men kept alive Britain's most expensive infrastructure project despite mounting evidence it made no sense, turning HS2 into an unstoppable political zombie that consumed £70 billion.",
     "comparable_works": [
       "The Big Short",
-      "Enron: The Smartest Guys in the Room"
+      "Going Clear: Scientology and the Prison of Belief"
     ]
   }
 }

@@ -98,15 +98,18 @@
     "paradigm shift"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
-      "heist_con"
+      "conspiracy",
+      "david_vs_goliath",
+      "brand_story"
     ],
     "format": "documentary",
-    "pitch": "Guy Hands orchestrates one of Britain's most lucrative financial schemes, exploiting military housing privatisation to extract billions from taxpayers while leaving armed forces families in crumbling homes.",
+    "pitch": "How Guy Hands and his team at Nomura systematically exploited loopholes in Britain's military housing privatisation, making billions while leaving soldiers in squalor and taxpayers facing a rental 'cliff edge' in 2021.",
     "comparable_works": [
       "The Big Short",
-      "Enron: The Smartest Guys in the Room"
+      "Inside Job",
+      "McMillion$"
     ]
   }
 }

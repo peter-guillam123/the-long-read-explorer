@@ -132,14 +132,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "origin_moment"
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "A journalist's intimate account of the final dinner party in Kyiv before Putin's invasion, capturing the surreal atmosphere as friends shared wine and historical documents while tanks massed at the border.",
+    "pitch": "A journalist's last dinner party in Kyiv on 23 February 2022 becomes a time capsule of the final hours before Putin's invasion transformed Europe forever.",
     "comparable_works": [
-      "The Fog of War",
       "Winter on Fire",
-      "Icarus"
+      "The Fog of War",
+      "They Shall Not Grow Old"
     ]
   }
 }

@@ -102,13 +102,13 @@
     "potential": "medium",
     "categories": [
       "phenomenal_individual",
-      "origin_moment"
+      "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "Derek Li, a former child prodigy who creates algorithms for everything from making friends to finding girlfriends, builds an AI tutoring empire that threatens to replace human teachers across China's vast education system.",
+    "pitch": "Derek Li, a Chinese prodigy who used algorithms to make friends at university, now commands a billion-dollar AI tutoring empire that's replacing human teachers with machines across China.",
     "comparable_works": [
-      "The Social Network",
       "AlphaGo",
+      "The Social Dilemma",
       "American Factory"
     ]
   }

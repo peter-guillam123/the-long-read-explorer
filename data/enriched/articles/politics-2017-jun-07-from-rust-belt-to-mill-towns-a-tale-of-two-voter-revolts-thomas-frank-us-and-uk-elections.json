@@ -121,16 +121,10 @@
     "power and resistance"
   ],
   "film_adaptation": {
-    "potential": "medium",
-    "categories": [
-      "closed_community_upheaval"
-    ],
+    "potential": "low",
+    "categories": [],
     "format": "documentary",
-    "pitch": "A journalist travels through post-industrial Yorkshire on the eve of Brexit's defining election, finding working-class communities torn between their socialist roots and populist revolt.",
-    "comparable_works": [
-      "The Last Mine",
-      "The Decline of Western Civilization",
-      "American Factory"
-    ]
+    "pitch": null,
+    "comparable_works": []
   }
 }

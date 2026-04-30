@@ -94,14 +94,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world"
+      "hidden_world",
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "A Hong Kong tech executive becomes an unlikely mask mogul during the pandemic, navigating armed security escorts, diplomatic buyers and a global commodity scramble that exposes how quickly essential goods become geopolitical weapons.",
+    "pitch": "A Hong Kong tech executive stumbles into the global mask trade during early Covid, navigating armed guards, government requisitions and a Wild West market where countries hijack each other's shipments.",
     "comparable_works": [
+      "McMillion$",
       "The China Hustle",
-      "Betting on Zero",
-      "Dirty Money"
+      "American Factory"
     ]
   }
 }

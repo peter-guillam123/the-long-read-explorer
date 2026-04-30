@@ -124,16 +124,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "heist_con",
       "twisty_mystery",
-      "whistleblower"
+      "heist_con",
+      "conspiracy"
     ],
     "format": "documentary",
-    "pitch": "A reformed criminal mastermind sets up a fake law office with hidden cameras to expose Denmark's money-laundering underworld, risking her life while secretly working as a police informant and plotting her own media empire.",
+    "pitch": "A repentant criminal lawyer secretly films Denmark's elite confessing to corruption on hidden cameras, demolishing the country's reputation as a beacon of clean governance. The twist: she's already a police informant, raising questions about who's really pulling the strings.",
     "comparable_works": [
-      "The Tinder Swindler",
-      "Fyre: The Greatest Party That Never Happened",
-      "Tiger King"
+      "The Jinx",
+      "Don't F**k with Cats",
+      "Abscam: The FBI Sting Operation"
     ]
   }
 }

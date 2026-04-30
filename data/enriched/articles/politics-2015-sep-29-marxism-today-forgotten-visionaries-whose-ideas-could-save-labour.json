@@ -131,10 +131,17 @@
     "power and resistance"
   ],
   "film_adaptation": {
-    "potential": "low",
-    "categories": [],
+    "potential": "medium",
+    "categories": [
+      "origin_moment",
+      "history_revisited"
+    ],
     "format": "documentary",
-    "pitch": null,
-    "comparable_works": []
+    "pitch": "A weekend gathering of leftist intellectuals in 1988 produced startlingly accurate predictions about modern capitalism and politics, but their warnings were ignored by the very Labour politicians who could have used them.",
+    "comparable_works": [
+      "The Century of the Self",
+      "HyperNormalisation",
+      "Get Me Roger Stone"
+    ]
   }
 }

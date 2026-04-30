@@ -92,15 +92,17 @@
     "cause and effect"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
-      "david_vs_goliath"
+      "david_vs_goliath",
+      "conspiracy",
+      "whistleblower"
     ],
-    "format": "documentary",
-    "pitch": "Frances Stojilkovic, a Glasgow home carer who signed away her rights for £2,800, discovers she was short-changed by 90% and leads a two-decade fight that brings down councils across Britain.",
+    "format": "either",
+    "pitch": "Frances Stojilkovic, a Glasgow home carer, discovers she was systematically underpaid for decades and leads a grassroots movement that exposes a multibillion-pound scandal affecting women workers across Britain.",
     "comparable_works": [
       "Erin Brockovich",
-      "Made You Look",
+      "Made for Love",
       "Dark Waters"
     ]
   }

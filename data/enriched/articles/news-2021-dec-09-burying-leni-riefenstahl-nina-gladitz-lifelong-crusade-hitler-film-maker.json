@@ -116,16 +116,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "david_vs_goliath",
       "phenomenal_individual",
+      "david_vs_goliath",
       "forensic_chase"
     ],
     "format": "either",
-    "pitch": "A young documentary maker sacrifices her career and health in a four-decade obsession to expose Hitler's favourite filmmaker Leni Riefenstahl, culminating in a courtroom battle that proves Riefenstahl's complicity in the Holocaust but destroys the crusader's life in the process.",
+    "pitch": "A young documentary filmmaker wages a four-decade obsession to expose Nazi propagandist Leni Riefenstahl's complicity in the Holocaust, sacrificing her career and health in a relentless pursuit of truth that becomes as much about her own demons as historical justice.",
     "comparable_works": [
       "Spotlight",
-      "She Said",
-      "Dark Waters"
+      "The Act of Killing",
+      "Bombshell: The Hedy Lamarr Story"
     ]
   }
 }

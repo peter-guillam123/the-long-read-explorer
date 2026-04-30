@@ -95,17 +95,18 @@
     "boundary crossing"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
       "hidden_world",
-      "phenomenal_individual"
+      "phenomenal_individual",
+      "origin_moment"
     ],
     "format": "documentary",
-    "pitch": "Two inventors racing to create the world's first commercial sex robot reveal a $30bn industry most people know nothing about, raising questions about intimacy, loneliness and what we actually want from relationships.",
+    "pitch": "Two engineers race to create the world's first commercially viable sex robot — one driven by grief and social isolation, the other by 20 years perfecting silicone dolls — as the $30bn sex tech industry prepares for its biggest gamble yet.",
     "comparable_works": [
       "Her",
-      "The China Hustle",
-      "Fyre: The Greatest Party That Never Happened"
+      "The Social Dilemma",
+      "Print the Legend"
     ]
   }
 }

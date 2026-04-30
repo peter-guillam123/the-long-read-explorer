@@ -133,15 +133,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
-      "david_vs_goliath"
+      "phenomenal_individual",
+      "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "Two maverick voice coaches challenge the medical establishment's surgical approach to saving damaged singers, claiming they can resurrect careers using a forgotten 19th-century Italian technique that could have prevented Adele's vocal breakdown.",
+    "pitch": "Two voice coaches stake their reputations on predicting that Adele's surgically repaired voice will fail again, challenging a celebrity surgeon and the entire music industry's approach to vocal damage. When Adele cancels her Wembley shows years later, their vindication sparks a battle over whether modern singing techniques are destroying voices.",
     "comparable_works": [
       "Icarus",
-      "The Theory of Everything",
-      "Searching for Sugar Man"
+      "The Act of Killing"
     ]
   }
 }

@@ -110,12 +110,12 @@
     "potential": "high",
     "categories": [
       "twisty_mystery",
-      "forensic_chase"
+      "conspiracy"
     ],
-    "format": "documentary",
-    "pitch": "Britain's second-busiest airport is shut down for 33 hours by drone sightings that affect 140,000 passengers, yet after an 18-month police investigation costing £800,000, no culprit is found and doubt emerges about whether the drones existed at all.",
+    "format": "either",
+    "pitch": "Britain's second-busiest airport shuts down for 33 hours after drone sightings that grounded 1,000 flights and stranded 140,000 passengers, but an 18-month police investigation costing £800,000 never finds a single suspect — or even proves the drones existed.",
     "comparable_works": [
-      "Don't F**k with Cats",
+      "Don't F**k With Cats",
       "The Jinx",
       "Making a Murderer"
     ]

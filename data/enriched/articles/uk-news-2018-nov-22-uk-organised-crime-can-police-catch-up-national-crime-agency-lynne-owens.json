@@ -122,15 +122,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "david_vs_goliath",
-      "hidden_world"
+      "forensic_chase",
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "Lynne Owens, Britain's top crime fighter, battles to reform an outdated police system as international criminal gangs with more members than the Italian mafia operate freely across the UK.",
+    "pitch": "Britain's top crime fighter Lynne Owens wages a lonely campaign to transform an antiquated police system as international criminal networks worth £37bn annually run rings around fragmented county forces.",
     "comparable_works": [
+      "The Wire",
       "McMafia",
-      "The Untouchables",
-      "Inside Job"
+      "Spotlight"
     ]
   }
 }

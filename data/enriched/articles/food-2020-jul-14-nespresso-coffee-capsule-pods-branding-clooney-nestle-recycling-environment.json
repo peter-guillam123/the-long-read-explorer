@@ -103,15 +103,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "origin_moment",
-      "david_vs_goliath"
+      "brand_story",
+      "origin_moment"
     ],
-    "format": "either",
-    "pitch": "The unlikely story of how a Swiss engineer's observation at a Roman coffee bar in 1975 spawned a billion-dollar empire, only to see his invention face extinction as the world turns against single-use pods and coffee snobbery goes mainstream.",
+    "format": "documentary",
+    "pitch": "The inside story of how Nestlé's Nespresso capsules transformed coffee culture from a Swiss engineer's eureka moment in a Roman café to a global luxury brand worth billions — and how environmental backlash and coffee snobbery threaten its empire.",
     "comparable_works": [
-      "The Social Network",
+      "The Social Dilemma",
       "Super Size Me",
-      "The Corporation"
+      "Fyre: The Greatest Party That Never Happened"
     ]
   }
 }

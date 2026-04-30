@@ -105,18 +105,17 @@
     "boundary crossing"
   ],
   "film_adaptation": {
-    "potential": "high",
+    "potential": "medium",
     "categories": [
       "visual_spectacle",
-      "survival",
-      "closed_community_upheaval"
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "Follow Sailosi Ramatu and the villagers of Vunidogoloa as they become the first climate refugees in history to relocate their entire community, abandoning ancestral burial grounds and homes that once housed generations. As Fiji races to develop a blueprint for moving 42 more villages before rising seas swallow them, this unprecedented human migration unfolds against the stunning backdrop of a Pacific island nation literally disappearing beneath the waves.",
+    "pitch": "A small Pacific nation becomes the first country to systematically relocate entire villages inland as rising seas claim their ancestral homes, with families forced to abandon burial grounds and centuries-old communities in an unprecedented climate migration.",
     "comparable_works": [
       "An Inconvenient Truth",
       "The Age of Stupid",
-      "Chasing Ice"
+      "2040"
     ]
   }
 }

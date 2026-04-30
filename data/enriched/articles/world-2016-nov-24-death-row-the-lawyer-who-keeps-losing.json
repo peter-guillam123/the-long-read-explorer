@@ -122,13 +122,14 @@
     "classification and taxonomy"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
       "david_vs_goliath",
+      "whistleblower",
       "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "A defence lawyer has had more clients sentenced to death than any other federal attorney in America, exposing how the capital punishment system fails the most vulnerable defendants through inadequate representation.",
+    "pitch": "A maverick lawyer has sent more clients to federal death row than any attorney in America, while critics argue his incompetence is rigging the system against the poorest defendants in the country's most serious cases.",
     "comparable_works": [
       "The Staircase",
       "Making a Murderer",

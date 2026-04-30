@@ -94,15 +94,17 @@
     "classification and taxonomy"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
+      "phenomenal_individual",
       "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "A mild-mannered travel agent uses spreadsheets and polite letters to wage a one-man war against Britain's media establishment, filing hundreds of complaints about Islamophobic reporting while the press largely ignores his methodical campaign.",
+    "pitch": "A mild-mannered travel agent wages a relentless bureaucratic war against Britain's entire press establishment, armed only with spreadsheets and unshakeable politeness. His three-year campaign of formal complaints has forced newspapers to retract dozens of Islamophobic stories, one meticulous correction at a time.",
     "comparable_works": [
+      "Dark Waters",
       "Spotlight",
-      "Dark Waters"
+      "The Post"
     ]
   }
 }

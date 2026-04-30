@@ -124,16 +124,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "forensic_chase",
-      "hidden_world",
-      "twisty_mystery"
+      "conspiracy",
+      "phenomenal_individual",
+      "forensic_chase"
     ],
     "format": "documentary",
-    "pitch": "An FBI investigation reveals how one of history's most prolific paedophiles operated undetected across elite international schools for four decades, exposing a global network that repeatedly failed to act on warning signs.",
+    "pitch": "A comprehensive investigation into how William James Vahey, one of history's most prolific paedophiles, abused hundreds of children across international schools for four decades while institutions repeatedly ignored warning signs that could have stopped him.",
     "comparable_works": [
-      "Spotlight",
-      "Don't F**k with Cats",
-      "Abducted in Plain Sight"
+      "Leaving Neverland",
+      "The Keepers",
+      "Don't F**k with Cats"
     ]
   }
 }

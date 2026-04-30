@@ -120,14 +120,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "closed_community_upheaval"
+      "closed_community_upheaval",
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "A personal journey through Fleetwood, a Lancashire fishing town hollowed out by the collapse of its industry, exploring how a tight-knit community built around dangerous work at sea has adapted to decline and abandonment.",
+    "pitch": "A former fishing town in Lancashire grapples with economic collapse and social decay after losing its livelihood to the cod wars, told through the lives of those who stayed behind.",
     "comparable_works": [
-      "The Last Tourist",
+      "The Last Laugh",
       "American Factory",
-      "Derry Girls"
+      "Teesside"
     ]
   }
 }

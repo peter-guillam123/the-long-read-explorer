@@ -137,10 +137,17 @@
     "boundary crossing"
   ],
   "film_adaptation": {
-    "potential": "low",
-    "categories": [],
+    "potential": "high",
+    "categories": [
+      "phenomenal_individual",
+      "david_vs_goliath"
+    ],
     "format": "documentary",
-    "pitch": null,
-    "comparable_works": []
+    "pitch": "Francisco Holgado infiltrates the criminal underworld to solve his son's murder after police fail, becoming a national hero while risking everything in his obsessive pursuit of justice.",
+    "comparable_works": [
+      "Dear Zachary",
+      "The Staircase",
+      "Three Identical Strangers"
+    ]
   }
 }

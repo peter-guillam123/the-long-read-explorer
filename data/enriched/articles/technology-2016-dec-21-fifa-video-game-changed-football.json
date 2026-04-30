@@ -117,15 +117,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "origin_moment",
-      "hidden_world"
+      "brand_story",
+      "origin_moment"
     ],
-    "format": "either",
-    "pitch": "A Chinese programmer bribes his way onto a flight from Beijing to fix a broken video game that would become the world's most profitable franchise. The untold story of how Fifa went from a $30,000 gamble nobody at EA wanted to make to a cultural force that changed football itself.",
+    "format": "documentary",
+    "pitch": "A Chinese programmer bribes his way onto a plane to save a video game that would become the world's most profitable franchise. The story of how FIFA went from a $30,000 afterthought that nobody at EA cared about to a cultural force that influences real football.",
     "comparable_works": [
       "The Social Network",
-      "Tetris",
-      "Air"
+      "General Magic"
     ]
   }
 }

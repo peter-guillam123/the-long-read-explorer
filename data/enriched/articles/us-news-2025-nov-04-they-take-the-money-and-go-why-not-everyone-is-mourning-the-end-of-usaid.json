@@ -117,14 +117,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world"
+      "phenomenal_individual",
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "A Sierra Leonean farmer who has watched aid workers come and go for six decades offers a ground-level view of the international development industry's promises and failures.",
+    "pitch": "David Kpakiwa was born the same year as USAID and has watched 60 years of foreign aid promises come and go in Sierra Leone, offering a ground-level view of why aid dependency might be ending not with panic but with resignation.",
     "comparable_works": [
       "The Act of Killing",
-      "Poverty, Inc.",
-      "Life and Debt"
+      "Capitalism: A Love Story"
     ]
   }
 }

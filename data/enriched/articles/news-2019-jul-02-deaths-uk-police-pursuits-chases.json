@@ -114,15 +114,15 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "david_vs_goliath",
-      "ethical_choice"
+      "ethical_choice",
+      "david_vs_goliath"
     ],
     "format": "either",
-    "pitch": "After her boyfriend dies in a police chase gone wrong, 17-year-old Bryony Morgan fights a five-year legal battle against Thames Valley police while raising their daughter alone. The case exposes how a routine traffic stop can spiral into tragedy in 270 seconds.",
+    "pitch": "A teenage mother fights for answers after her boyfriend dies in a four-minute police chase, challenging the very nature of how British police pursue suspects and what price we accept for keeping the streets safe.",
     "comparable_works": [
       "Three Billboards Outside Ebbing, Missouri",
       "I, Daniel Blake",
-      "The Insider"
+      "The Thin Blue Line"
     ]
   }
 }

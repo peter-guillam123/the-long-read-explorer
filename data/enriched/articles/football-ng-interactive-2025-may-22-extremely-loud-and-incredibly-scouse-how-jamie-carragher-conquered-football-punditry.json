@@ -129,15 +129,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "phenomenal_individual",
-      "hidden_world"
+      "phenomenal_individual"
     ],
     "format": "documentary",
-    "pitch": "A former Liverpool defender becomes the most influential voice in football punditry, transforming how the sport is discussed while remaining rooted in his working-class Bootle neighbourhood.",
+    "pitch": "A former footballer from the Liverpool docks becomes the most influential voice in modern football punditry, transforming how the sport is discussed while remaining rooted in his working-class Bootle community.",
     "comparable_works": [
       "Senna",
       "Diego Maradona",
-      "The Last Dance"
+      "The Class of '92"
     ]
   }
 }

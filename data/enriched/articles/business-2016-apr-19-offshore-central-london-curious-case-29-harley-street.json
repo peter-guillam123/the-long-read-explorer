@@ -125,12 +125,12 @@
       "twisty_mystery",
       "hidden_world"
     ],
-    "format": "documentary",
-    "pitch": "A prestigious London address houses over 2,000 shell companies used in elaborate international frauds, from fake knights conning investors in Las Vegas to Portuguese traders stealing €100 million from Dutch shipping firms.",
+    "format": "either",
+    "pitch": "A prestigious London address houses over 2,000 shell companies used in elaborate international frauds, from fake knights bailing out the Queen to Portuguese conmen living in five-star hotels while defrauding shipping companies of €100 million.",
     "comparable_works": [
       "The Laundromat",
-      "McMillion$",
-      "Bad Vegan"
+      "Bad Banks",
+      "McMillion$"
     ]
   }
 }

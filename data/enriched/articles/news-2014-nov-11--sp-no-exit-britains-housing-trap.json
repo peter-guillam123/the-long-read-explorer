@@ -98,13 +98,13 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world"
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "Families trapped for years in a hostel opposite Hampstead's million-pound homes, caught in Britain's housing crisis where temporary accommodation becomes a modern-day debtors' prison.",
+    "pitch": "A university-educated mother and her family spend years trapped in a single room in a Hampstead hostel, casualties of Britain's housing crisis and Margaret Thatcher's right-to-buy legacy.",
     "comparable_works": [
-      "Cathy Come Home",
       "I, Daniel Blake",
+      "Cathy Come Home",
       "Shelter"
     ]
   }

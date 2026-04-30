@@ -124,14 +124,15 @@
     "potential": "medium",
     "categories": [
       "hidden_world",
-      "visual_spectacle"
+      "visual_spectacle",
+      "ethical_choice"
     ],
     "format": "documentary",
-    "pitch": "Deep inside Britain's most hazardous nuclear site, engineers face an impossible puzzle: how to safely dismantle 70 years of radioactive legacy in a century-long project that will outlive everyone working on it.",
+    "pitch": "Inside Britain's most dangerous workplace, a multi-generational workforce races against time to dismantle decades of nuclear waste before crumbling storage facilities leak radioactive material into the countryside.",
     "comparable_works": [
       "Chernobyl",
       "Into Eternity",
-      "Pandora's Promise"
+      "The Act of Killing"
     ]
   }
 }

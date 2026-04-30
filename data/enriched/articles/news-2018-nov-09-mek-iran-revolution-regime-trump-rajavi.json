@@ -151,15 +151,15 @@
     "potential": "high",
     "categories": [
       "hidden_world",
-      "david_vs_goliath",
-      "espionage"
+      "conspiracy",
+      "closed_community_upheaval"
     ],
     "format": "documentary",
-    "pitch": "A Canadian couple spend two decades chasing their daughter across continents, from Iraq to Albania, trying to extract her from a secretive Iranian opposition group that has transformed from revolutionary militia to Washington-backed cult. The MEK's journey from anti-American terrorists to Trump administration allies reveals how geopolitics can rehabilitate any extremist group with the right enemies.",
+    "pitch": "Parents travel across continents trying to rescue their daughter from a secretive Iranian exile group in Albania, while the same organisation that was once designated terrorist now enjoys backing from Trump administration hawks who see them as the future government of Iran.",
     "comparable_works": [
       "Wild Wild Country",
       "The Vow",
-      "Icarus"
+      "Going Clear"
     ]
   }
 }

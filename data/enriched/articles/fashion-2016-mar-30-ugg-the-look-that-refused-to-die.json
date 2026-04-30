@@ -125,13 +125,12 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "origin_moment",
-      "phenomenal_individual"
+      "brand_story"
     ],
     "format": "documentary",
-    "pitch": "How a young Australian dreamer's quest to import sheepskin boots to California created a billion-dollar empire that survived every fashion cycle and cultural backlash. Brian Smith's unlikely journey from Pink Floyd epiphany to building one of fashion's most enduring brands.",
+    "pitch": "The unlikely survival story of Ugg boots, from a surfer's accidental discovery to a billion-dollar empire that weathered ridicule, knockoffs and the death of early 2000s celebrity culture to become fashion's most enduring contradiction.",
     "comparable_works": [
-      "The Founder",
+      "The Rise and Rise of Bitcoin",
       "Fyre: The Greatest Party That Never Happened",
       "McMillions"
     ]

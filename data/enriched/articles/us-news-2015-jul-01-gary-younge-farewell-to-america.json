@@ -121,10 +121,17 @@
     "unintended consequences"
   ],
   "film_adaptation": {
-    "potential": "low",
-    "categories": [],
+    "potential": "medium",
+    "categories": [
+      "phenomenal_individual",
+      "history_revisited"
+    ],
     "format": "documentary",
-    "pitch": null,
-    "comparable_works": []
+    "pitch": "A British journalist's 12-year chronicle of America from Iraq war jingoism to Obama's rise, told through his transformation from detached observer to invested parent raising black children in Chicago's gun violence.",
+    "comparable_works": [
+      "13th",
+      "I Am Not Your Negro",
+      "The Black Panthers: Vanguard of the Revolution"
+    ]
   }
 }

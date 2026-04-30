@@ -144,13 +144,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "origin_moment"
+      "phenomenal_individual",
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "The story of how Nobel laureate Paul Crutzen's outburst in a Mexican meeting room sparked a global scientific and cultural revolution, as geologist Jan Zalasiewicz leads a controversial quest to officially rewrite Earth's history.",
+    "pitch": "Jan Zalasiewicz, a fossil expert more comfortable with 400-million-year-old graptolites than committee politics, must convince geology's conservative establishment to officially declare that humans have fundamentally altered Earth's 4.6-billion-year timeline.",
     "comparable_works": [
-      "An Inconvenient Truth",
-      "The Age of Stupid"
+      "The Theory of Everything",
+      "An Inconvenient Truth"
     ]
   }
 }

@@ -117,14 +117,15 @@
     "potential": "high",
     "categories": [
       "david_vs_goliath",
-      "forensic_chase"
+      "conspiracy",
+      "phenomenal_individual"
     ],
     "format": "documentary",
-    "pitch": "Two Ukrainian mothers search for their missing sons after a military disaster, uncovering official cover-ups and becoming their own detectives when the state fails them. Their quest reveals the human cost of a war that officially doesn't exist.",
+    "pitch": "Ukrainian mothers become amateur investigators when their government abandons the search for soldiers missing after the country's worst military disaster, uncovering official incompetence and possible cover-ups while falling prey to cruel phone scams.",
     "comparable_works": [
-      "The Disappeared",
-      "Mothers of the Plaza de Mayo",
-      "For Sama"
+      "The Mothers of Srebrenica",
+      "Icarus",
+      "Searching for Sugar Man"
     ]
   }
 }

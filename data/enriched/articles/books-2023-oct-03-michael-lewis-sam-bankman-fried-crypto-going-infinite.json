@@ -108,13 +108,14 @@
     "unintended consequences"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
       "phenomenal_individual",
-      "heist_con"
+      "heist_con",
+      "twisty_mystery"
     ],
     "format": "either",
-    "pitch": "Michael Lewis, America's most celebrated financial journalist, gets unprecedented access to crypto billionaire Sam Bankman-Fried just as his empire collapses into fraud and scandal. The story of how the writer who made his career spotting financial misfits completely missed the biggest con of all.",
+    "pitch": "Michael Lewis, America's most celebrated financial journalist, gets unprecedented access to crypto billionaire Sam Bankman-Fried just as his empire collapses into one of history's biggest frauds. The writer who made his career spotting financial visionaries before anyone else finds himself documenting a con artist in real time.",
     "comparable_works": [
       "The Big Short",
       "Fyre: The Greatest Party That Never Happened",

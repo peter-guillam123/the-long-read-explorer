@@ -105,14 +105,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world"
+      "hidden_world",
+      "phenomenal_individual"
     ],
     "format": "documentary",
-    "pitch": "A journalist traces the motivations of foreign fighters who travelled to join ISIS, revealing how an obscure Syrian village became ground zero for an apocalyptic ideology that reshaped the Middle East.",
+    "pitch": "A journalist travels across Iraq and Syria to interview foreign fighters who abandoned their lives to join ISIS, revealing the apocalyptic beliefs and personal grievances that drove thousands to the world's most brutal jihadi movement.",
     "comparable_works": [
-      "The White Helmets",
-      "City of Ghosts",
-      "Of Fathers and Sons"
+      "The Act of Killing",
+      "Of Fathers and Sons",
+      "My Son the Jihadi"
     ]
   }
 }

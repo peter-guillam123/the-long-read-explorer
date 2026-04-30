@@ -117,14 +117,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
+      "brand_story",
       "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "An investigation into the multi-billion pound educational toy industry reveals how Fisher-Price designers, child psychologists and anxious parents have weaponised play in pursuit of competitive advantage.",
+    "pitch": "Inside the £55 billion educational toy industry where companies like Fisher-Price employ techno DJs and neuroscience consultants to design products that promise to get toddlers into Harvard, while child development experts say we've got it completely wrong.",
     "comparable_works": [
-      "The Century of the Self",
+      "The Toys That Made Us",
       "Consumed: The Real Restaurant Business",
-      "The Toys That Made Us"
+      "The Century of the Self"
     ]
   }
 }

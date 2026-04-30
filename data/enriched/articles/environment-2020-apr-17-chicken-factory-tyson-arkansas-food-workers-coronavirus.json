@@ -105,14 +105,15 @@
     "potential": "high",
     "categories": [
       "david_vs_goliath",
-      "hidden_world"
+      "whistleblower",
+      "closed_community_upheaval"
     ],
-    "format": "documentary",
-    "pitch": "Latina women at a Tyson chicken plant in Arkansas organise for workers' rights after surviving a chemical gas leak, fighting the world's largest poultry processor while navigating Trump-era immigration hostility and then Covid-19.",
+    "format": "either",
+    "pitch": "After surviving a chlorine gas disaster at a Tyson chicken plant, an injured worker with damaged lungs leads a group of Latina women in a years-long fight against America's largest poultry processor — just as coronavirus turns their factory into a death trap.",
     "comparable_works": [
-      "Norma Rae",
-      "American Factory",
-      "The Insider"
+      "Erin Brockovich",
+      "Dark Waters",
+      "Silkwood"
     ]
   }
 }

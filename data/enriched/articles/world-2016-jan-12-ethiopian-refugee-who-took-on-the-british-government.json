@@ -87,14 +87,15 @@
     "potential": "high",
     "categories": [
       "david_vs_goliath",
-      "whistleblower"
+      "whistleblower",
+      "conspiracy"
     ],
-    "format": "documentary",
-    "pitch": "An Ethiopian refugee living in Kenya's Dadaab camp takes on the British government over aid money that funded forced evictions, fighting a legal battle from one of the world's largest refugee camps against Whitehall's development machine.",
+    "format": "either",
+    "pitch": "An Ethiopian refugee in a Kenyan camp takes the British government to court, exposing how UK aid money funded forced evictions that destroyed his village. A David and Goliath story that follows Opik's journey from farmer to exile to unlikely legal challenger of one of the world's largest aid programmes.",
     "comparable_works": [
-      "The Act of Killing",
-      "Citizenfour",
-      "Dark Waters"
+      "The Constant Gardener",
+      "Dark Waters",
+      "Official Secrets"
     ]
   }
 }

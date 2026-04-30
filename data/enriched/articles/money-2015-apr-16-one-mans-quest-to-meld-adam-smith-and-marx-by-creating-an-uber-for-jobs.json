@@ -114,13 +114,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "phenomenal_individual"
+      "phenomenal_individual",
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "An eccentric English inventor spends 20 years developing software he believes will revolutionise work by merging Adam Smith and Karl Marx, only to watch politicians and corporations repeatedly embrace then abandon his vision.",
+    "pitch": "A middle-class dreamer spends 20 years building software to revolutionise work for Britain's casual labourers, but can't convince politicians to switch it on.",
     "comparable_works": [
-      "The Inventor: Out for Blood in Silicon Valley",
-      "WeWork: Or the Making and Breaking of a $47 Billion Unicorn"
+      "The Social Dilemma",
+      "Startup.com",
+      "Print the Legend"
     ]
   }
 }

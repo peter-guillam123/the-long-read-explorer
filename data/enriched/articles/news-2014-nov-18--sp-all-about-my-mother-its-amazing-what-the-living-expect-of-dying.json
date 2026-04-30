@@ -107,13 +107,15 @@
   ],
   "film_adaptation": {
     "potential": "medium",
-    "categories": [],
-    "format": "fiction",
-    "pitch": "A daughter confronts her complex relationship with her dying mother while packing up her life around her hospital bed, revealing how three generations of difficult women shaped each other.",
+    "categories": [
+      "phenomenal_individual"
+    ],
+    "format": "either",
+    "pitch": "A daughter discovers she genuinely likes her difficult mother for the first time as they navigate her final months together, packing up her life while she's still dying in the same room.",
     "comparable_works": [
       "The Farewell",
       "Still Alice",
-      "Away from Her"
+      "Amour"
     ]
   }
 }

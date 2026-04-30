@@ -162,14 +162,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "phenomenal_individual"
+      "brand_story",
+      "hidden_world"
     ],
-    "format": "either",
-    "pitch": "Scott Adams creates the Dilbert comic strip while working as a programmer at Pacific Bell, where executives spend $40m on a mystical corporate training programme based on a Russian guru's teachings that transforms employees into speaking incomprehensible jargon.",
+    "format": "documentary",
+    "pitch": "The Pacific Bell telephone company spent $40 million on a mystical management training programme based on a Russian guru's teachings, creating a corporate language so incomprehensible it inspired the Dilbert cartoon strip.",
     "comparable_works": [
-      "Thank You for Smoking",
-      "Up in the Air",
-      "Severance"
+      "The Inventor: Out for Blood in Silicon Valley",
+      "Fyre: The Greatest Party That Never Happened"
     ]
   }
 }

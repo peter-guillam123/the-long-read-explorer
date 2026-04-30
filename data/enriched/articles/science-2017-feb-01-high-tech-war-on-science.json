@@ -108,14 +108,15 @@
     "potential": "medium",
     "categories": [
       "whistleblower",
-      "david_vs_goliath"
+      "david_vs_goliath",
+      "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "A young Dutch researcher deploys automated programs to expose statistical fraud across thousands of scientific papers, sparking fury from the academic establishment he's trying to reform.",
+    "pitch": "A 25-year-old Dutch researcher deploys computer programs to expose scientific fraud, triggering fierce resistance from the academic establishment and revealing how the peer review system that underpins modern science may be fundamentally broken.",
     "comparable_works": [
       "The Social Dilemma",
-      "Icarus",
-      "All the President's Men"
+      "Dark Waters",
+      "Spotlight"
     ]
   }
 }

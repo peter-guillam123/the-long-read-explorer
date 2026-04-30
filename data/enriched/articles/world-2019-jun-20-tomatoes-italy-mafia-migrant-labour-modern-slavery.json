@@ -133,17 +133,18 @@
     "individual vs collective"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
       "hidden_world",
+      "conspiracy",
       "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "African migrants live in shanty towns across southern Italy, trapped in a cycle of modern slavery picking tomatoes for European supermarkets while the mafia profits from their desperation.",
+    "pitch": "Migrant workers live in shanty towns across southern Italy, picking tomatoes for European supermarkets under conditions activists call modern slavery, while the mafia and gangmasters profit from a system that exploits their desperation.",
     "comparable_works": [
       "The Dark Side of Chocolate",
       "Food Chains",
-      "The True Cost"
+      "The Harvest"
     ]
   }
 }

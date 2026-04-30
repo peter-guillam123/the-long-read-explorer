@@ -103,16 +103,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "ethical_choice",
-      "espionage",
-      "david_vs_goliath"
+      "david_vs_goliath",
+      "forensic_chase",
+      "ethical_choice"
     ],
     "format": "either",
-    "pitch": "A radical American lawyer teams with al-Qaeda veterans and the FBI in a desperate back-channel negotiation to save a US hostage from ISIS execution, racing against a two-week deadline.",
+    "pitch": "A radical New York lawyer races against time to save an American hostage from ISIS, navigating back-channel negotiations between al-Qaeda veterans and the world's most brutal terrorist group while the FBI watches from the sidelines.",
     "comparable_works": [
       "Argo",
-      "The Report",
-      "Official Secrets"
+      "The Negotiator",
+      "Captain Phillips"
     ]
   }
 }

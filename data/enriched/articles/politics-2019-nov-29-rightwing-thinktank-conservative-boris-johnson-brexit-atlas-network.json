@@ -142,14 +142,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
+      "conspiracy",
       "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "How a network of American-funded think tanks quietly reshaped British politics through Brexit, placing their alumni in Boris Johnson's cabinet and turning fringe free-market ideology into government policy.",
+    "pitch": "A network of American-funded think tanks quietly rewrites British politics through Brexit, placing their alumni in Boris Johnson's cabinet and pushing radical free-market policies from the shadows.",
     "comparable_works": [
       "The Great Hack",
-      "Active Measures",
-      "Brexit: The Uncivil War"
+      "Brexit: The Uncivil War",
+      "Dark Money"
     ]
   }
 }

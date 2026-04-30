@@ -134,14 +134,15 @@
     "potential": "medium",
     "categories": [
       "phenomenal_individual",
-      "heist_con"
+      "brand_story",
+      "conspiracy"
     ],
-    "format": "documentary",
-    "pitch": "Robert Maxwell, the notorious media tycoon who transformed scientific publishing into a money-making machine with profit margins exceeding Google's, built his empire by convincing scientists to give away their work for free then selling it back to them at vast profits.",
+    "format": "either",
+    "pitch": "Robert Maxwell, a Czech refugee turned British war hero, built a publishing empire by turning scientific journals into a money-making machine that still controls how science is conducted today. His transformation of academic publishing created a bizarre system where governments fund research, scientists work for free, and private companies sell the results back to universities at massive profits.",
     "comparable_works": [
-      "The Corporation",
-      "Enron: The Smartest Guys in the Room",
-      "Citizen K"
+      "The Big Short",
+      "All the President's Men",
+      "The Social Dilemma"
     ]
   }
 }

@@ -113,14 +113,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "closed_community_upheaval",
+      "history_revisited",
       "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "In the small Polish city of Legnica, two men wage opposing campaigns over Soviet war monuments — one tearing them down as symbols of oppression, the other restoring them to honour the dead.",
+    "pitch": "Two men wage opposite campaigns across Poland's monuments to Soviet soldiers — one renovating them in secret defiance of nationalist government policy, the other celebrating their demolition as symbols of occupation rather than liberation.",
     "comparable_works": [
       "The Act of Killing",
-      "Collective",
+      "Waltz with Bashir",
       "Winter on Fire"
     ]
   }

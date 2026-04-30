@@ -79,16 +79,10 @@
     "power and resistance"
   ],
   "film_adaptation": {
-    "potential": "medium",
-    "categories": [
-      "visual_spectacle"
-    ],
+    "potential": "low",
+    "categories": [],
     "format": "documentary",
-    "pitch": "A cinematic exploration of humanity's ancient war with mosquitoes, combining stunning macro photography of their feeding rituals with the global battle against the diseases they carry across continents.",
-    "comparable_works": [
-      "Microcosmos",
-      "Our Planet",
-      "The Hot Zone"
-    ]
+    "pitch": null,
+    "comparable_works": []
   }
 }

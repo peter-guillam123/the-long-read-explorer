@@ -127,13 +127,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world"
+      "hidden_world",
+      "history_revisited"
     ],
     "format": "either",
-    "pitch": "A mother and daughter navigate secret Christian churches in 1980s Iran before escaping to America, where the same apocalyptic beliefs take on a darker political meaning.",
+    "pitch": "A woman's journey from Iran's underground Christian church, where believers yearned for the rapture as escape from persecution, to refugee life in Oklahoma, where she discovers the same apocalyptic fantasies serving very different political ends.",
     "comparable_works": [
       "Persepolis",
-      "The Handmaid's Tale",
+      "The Act of Killing",
       "Jesus Camp"
     ]
   }

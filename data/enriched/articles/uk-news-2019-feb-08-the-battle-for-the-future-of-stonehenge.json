@@ -137,14 +137,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "david_vs_goliath"
+      "david_vs_goliath",
+      "architecture"
     ],
     "format": "documentary",
-    "pitch": "The three-decade battle over a tunnel beside Britain's most famous monument, where archaeologists, druids and heritage campaigners face off against government road-builders in a uniquely British planning circus.",
+    "pitch": "A decades-long planning battle over whether to tunnel beneath Britain's most iconic monument reveals how modern bureaucracy has reduced ancient majesty to traffic management. Archaeologists, druids, and government officials clash over a £1.7bn scheme that could either save or scar Stonehenge forever.",
     "comparable_works": [
-      "Made You Look",
-      "The Act of Killing",
-      "Grizzly Man"
+      "The Power of Nightmares",
+      "Grizzly Man",
+      "My Architect"
     ]
   }
 }

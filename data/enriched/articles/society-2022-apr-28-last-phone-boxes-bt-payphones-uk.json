@@ -110,10 +110,16 @@
     "transmission of knowledge"
   ],
   "film_adaptation": {
-    "potential": "low",
-    "categories": [],
+    "potential": "medium",
+    "categories": [
+      "hidden_world"
+    ],
     "format": "documentary",
-    "pitch": null,
-    "comparable_works": []
+    "pitch": "A journey through Britain's last remaining phone boxes to find the 5 million people still making calls from them each year, uncovering the hidden communities who depend on these relics when the modern world fails them.",
+    "comparable_works": [
+      "The Last Blockbuster",
+      "Searching for Sugar Man",
+      "Notes on Blindness"
+    ]
   }
 }

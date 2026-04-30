@@ -147,14 +147,15 @@
     "tradition vs innovation"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
-      "origin_moment"
+      "origin_moment",
+      "history_revisited"
     ],
     "format": "either",
-    "pitch": "Inside three months in 2015, a 66-year-old backbench rebel transforms Britain's oldest political party from a cramped Westminster room to an unlikely victory that nobody — including himself — saw coming.",
+    "pitch": "A 66-year-old backbench rebel's reluctant leadership bid accidentally triggers a political earthquake that transforms Britain's Labour Party in three months. The inside story of how Jeremy Corbyn's unlikely candidacy exploited a new electoral system and years of pent-up frustration to deliver the shock of a generation.",
     "comparable_works": [
-      "The Big Short",
+      "The Social Network",
       "All the President's Men",
       "Vice"
     ]

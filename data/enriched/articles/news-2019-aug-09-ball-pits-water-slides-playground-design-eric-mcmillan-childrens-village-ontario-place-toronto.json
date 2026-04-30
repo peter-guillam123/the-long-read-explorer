@@ -128,14 +128,15 @@
     "potential": "medium",
     "categories": [
       "phenomenal_individual",
-      "origin_moment"
+      "origin_moment",
+      "architecture"
     ],
     "format": "either",
-    "pitch": "A working-class English immigrant with a Dickensian childhood creates the world's most influential playground in 1970s Toronto, inadvertently launching the modern theme park industry before watching his vision of creative play disappear into corporate control.",
+    "pitch": "A working-class English immigrant with a Dickensian childhood creates the world's most influential playground in 1970s Toronto, launching the modern water park industry before watching his vision of child-centred design disappear into corporate theme parks.",
     "comparable_works": [
+      "The Social Network",
       "The Founder",
-      "Joy",
-      "Big Eyes"
+      "Won't You Be My Neighbor?"
     ]
   }
 }

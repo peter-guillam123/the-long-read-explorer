@@ -114,15 +114,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "david_vs_goliath",
-      "phenomenal_individual"
+      "brand_story",
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "Two secretive German brothers, hardened by war and kidnapping, quietly demolish Britain's supermarket establishment with nothing but wooden pallets, multiple barcodes and a ruthless focus on low prices.",
+    "pitch": "Two reclusive German brothers transform British shopping culture by refusing to play by supermarket rules, forcing titans like Tesco and Sainsbury's to scramble as discount stores become classless.",
     "comparable_works": [
       "The Founder",
-      "Walmart: The High Cost of Low Price",
-      "The Men Who Built America"
+      "Betting on Zero",
+      "The Corporation"
     ]
   }
 }

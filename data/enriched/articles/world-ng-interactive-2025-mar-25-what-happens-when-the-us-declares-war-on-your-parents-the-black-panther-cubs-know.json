@@ -136,15 +136,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "david_vs_goliath",
-      "hidden_world"
+      "conspiracy",
+      "history_revisited",
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "The children of Black Panthers tell their stories of growing up as targets of FBI surveillance, navigating the pride and trauma of having revolutionary parents who challenged America's power structure. Fred Hampton Jr, born weeks after his father's assassination by police, leads a group of 'Panther cubs' through their shared journey from radical childhoods to adulthood.",
+    "pitch": "The children of Black Panthers tell their stories for the first time, revealing how they paid the price for their parents' revolution against white America — and what they learned about radical change that speaks to today's movements.",
     "comparable_works": [
       "The Black Panthers: Vanguard of the Revolution",
       "13th",
-      "Won't You Be My Neighbor?"
+      "Free Angela and All Political Prisoners"
     ]
   }
 }

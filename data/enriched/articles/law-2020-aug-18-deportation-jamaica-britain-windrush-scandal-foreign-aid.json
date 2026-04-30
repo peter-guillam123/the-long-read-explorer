@@ -81,15 +81,15 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "survival",
+      "david_vs_goliath",
       "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "Jason, deported from London after 15 years to a Jamaica he barely knows, struggles to survive in a British-funded homeless shelter while desperately trying to return to the only home he's ever known.",
+    "pitch": "A man deported after 15 years homeless on London's streets finds himself trapped in a Jamaican shelter funded by the same British government that expelled him. The story follows his isolation and desperation as he navigates a system designed to manage the human cost of deportation policies.",
     "comparable_works": [
       "I, Daniel Blake",
-      "The Florida Project",
-      "American Factory"
+      "The Pursuit of Happyness",
+      "13th"
     ]
   }
 }

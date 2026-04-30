@@ -130,15 +130,13 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "phenomenal_individual",
-      "hidden_world"
+      "phenomenal_individual"
     ],
     "format": "documentary",
-    "pitch": "A poet becomes one of Britain's most successful literary performers, transforming from schoolteacher to cultural force by turning poetry into a viable career through relentless touring, media savvy and populist appeal.",
+    "pitch": "A poet who turned verse into a viable career follows the gruelling circuit of readings, residencies and performances that keep poetry alive in modern Britain.",
     "comparable_works": [
-      "Being John Malkovich",
-      "American Movie",
-      "Searching for Sugar Man"
+      "Finding Vivian Maier",
+      "Tim's Vermeer"
     ]
   }
 }

@@ -137,14 +137,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world"
+      "hidden_world",
+      "twisty_mystery"
     ],
     "format": "documentary",
-    "pitch": "A deep dive into how Britain's criminal underworld has transformed from old-school family firms into sophisticated multinational enterprises, following detectives and former gang members as they navigate a world where crime has gone corporate.",
+    "pitch": "Modern organised crime has gone corporate and multinational, with Albanian gangs flaunting wealth on Instagram while Vietnamese children are trafficked to tend cannabis farms in British suburbs.",
     "comparable_works": [
       "McMafia",
-      "The Sopranos",
-      "Freakonomics"
+      "The Traffickers",
+      "Dope"
     ]
   }
 }

@@ -94,11 +94,10 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "survival",
-      "visual_spectacle"
+      "survival"
     ],
     "format": "documentary",
-    "pitch": "A family scattered across continents navigates the sudden collapse of Sudan's capital Khartoum in April 2023, as the author tries desperately to coordinate their escape while watching her childhood city transform into a war zone through WhatsApp videos and frantic phone calls.",
+    "pitch": "A family's desperate attempts to evacuate relatives from Khartoum as Sudan's capital transforms overnight from peaceful city into urban battlefield, capturing both intimate personal stakes and the collapse of a society.",
     "comparable_works": [
       "For Sama",
       "City of Ghosts",

@@ -94,14 +94,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "closed_community_upheaval"
+      "history_revisited"
     ],
-    "format": "either",
-    "pitch": "A personal memoir of Britain's abandoned secondary modern pupils becomes a lens into how educational selection shaped an entire generation. The author's journey from 11-plus failure to finding his voice offers a counternarrative to grammar school nostalgia.",
+    "format": "documentary",
+    "pitch": "A personal journey through Britain's abandoned secondary modern schools, where the author who failed the 11-plus in 1967 revisits the brutal realities of educational segregation as Theresa May proposes bringing back grammar schools.",
     "comparable_works": [
-      "This Is England",
-      "Kes",
-      "Education"
+      "56 Up",
+      "The Up Series",
+      "Comprehensive: A User's Guide to the Universe"
     ]
   }
 }

@@ -117,14 +117,15 @@
     "potential": "high",
     "categories": [
       "forensic_chase",
-      "hidden_world"
+      "phenomenal_individual",
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "Retired detectives in Camden, New Jersey — America's former murder capital — form the city's first cold case squad to solve decades-old killings and restore community trust in a place where only a third of murders are solved.",
+    "pitch": "Retired detectives return to America's former murder capital to solve cold cases that active police couldn't crack, racing against time to bring closure to families in a city where most killers walk free.",
     "comparable_works": [
       "The First 48",
       "Cold Case Files",
-      "Mindhunter"
+      "Homicide: Life on the Street"
     ]
   }
 }

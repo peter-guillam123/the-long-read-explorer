@@ -85,16 +85,10 @@
     "power and resistance"
   ],
   "film_adaptation": {
-    "potential": "medium",
-    "categories": [
-      "origin_moment"
-    ],
+    "potential": "low",
+    "categories": [],
     "format": "documentary",
-    "pitch": "A writer traces how her generation accidentally became housing millionaires while the next was locked out entirely, using her own property journey from a £32,750 flat to a £660,000 sale as a window into Britain's housing crisis.",
-    "comparable_works": [
-      "The Big Short",
-      "Inside Job",
-      "Capital"
-    ]
+    "pitch": null,
+    "comparable_works": []
   }
 }

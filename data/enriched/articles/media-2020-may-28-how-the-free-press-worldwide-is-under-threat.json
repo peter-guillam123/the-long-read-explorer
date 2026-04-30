@@ -158,17 +158,10 @@
     "unintended consequences"
   ],
   "film_adaptation": {
-    "potential": "medium",
-    "categories": [
-      "david_vs_goliath",
-      "whistleblower"
-    ],
+    "potential": "low",
+    "categories": [],
     "format": "documentary",
-    "pitch": "Maria Ressa's battle against Philippine president Rodrigo Duterte's attacks on press freedom, facing arrest warrants and lawsuits while her news site Rappler exposes his regime's disinformation campaigns and human rights violations.",
-    "comparable_works": [
-      "All the President's Men",
-      "The Post",
-      "A Thousand Cuts"
-    ]
+    "pitch": null,
+    "comparable_works": []
   }
 }

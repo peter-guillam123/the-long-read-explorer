@@ -115,14 +115,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world"
+      "hidden_world",
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "A veterinary professor leads late-night boar hunts through Barcelona's streets, using blowguns and smartphone-triggered traps to battle an invasion that's turning Europe's cities into wildlife battlegrounds.",
+    "pitch": "A veterinary scientist wages an unusual urban war against wild boar invading Barcelona, using night-time traps and strategic culling while navigating angry residents, animal rights activists and city politics.",
     "comparable_works": [
       "Tiger King",
       "My Octopus Teacher",
-      "Blackfish"
+      "Rats"
     ]
   }
 }

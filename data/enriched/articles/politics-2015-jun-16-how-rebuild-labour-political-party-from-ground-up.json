@@ -120,13 +120,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "origin_moment"
+      "david_vs_goliath"
     ],
-    "format": "documentary",
-    "pitch": "A journalist reluctantly joins her local Labour branch after an election defeat and accidentally becomes a key organiser, rebuilding a decimated political party from eight members to victory through door-to-door activism.",
+    "format": "either",
+    "pitch": "A cynical journalist accidentally becomes a local Labour party official and helps rebuild a constituency from eight members to electoral victory, discovering the unglamorous machinery that holds democracy together.",
     "comparable_works": [
-      "Knock Down the House",
-      "Street Fight"
+      "In the Loop",
+      "The Thick of It",
+      "The West Wing"
     ]
   }
 }

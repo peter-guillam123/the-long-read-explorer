@@ -76,16 +76,10 @@
     "unintended consequences"
   ],
   "film_adaptation": {
-    "potential": "medium",
-    "categories": [
-      "hidden_world"
-    ],
+    "potential": "low",
+    "categories": [],
     "format": "documentary",
-    "pitch": "A therapist chronicles how the pandemic upended his profession as he and his colleagues navigate conducting intimate psychological work through screens while grappling with their own terror.",
-    "comparable_works": [
-      "In Treatment",
-      "My Octopus Teacher",
-      "The Chair"
-    ]
+    "pitch": null,
+    "comparable_works": []
   }
 }

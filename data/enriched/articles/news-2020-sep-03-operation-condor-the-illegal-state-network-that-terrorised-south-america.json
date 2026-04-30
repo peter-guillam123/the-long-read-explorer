@@ -127,17 +127,18 @@
     "cause and effect"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
-      "espionage",
-      "david_vs_goliath"
+      "conspiracy",
+      "forensic_chase",
+      "history_revisited"
     ],
-    "format": "documentary",
-    "pitch": "A stolen child who became a prosecutor hunts down the ageing architects of Operation Condor, the cross-border terror network that murdered his parents and trafficked him across three countries in 1976.",
+    "format": "either",
+    "pitch": "A four-year-old boy and his baby sister are abandoned in a Chilean square after witnessing their parents' murder — the start of a decades-long pursuit to expose Operation Condor, the secret network that allowed eight South American dictatorships to hunt their enemies across borders.",
     "comparable_works": [
-      "The Act of Killing",
-      "Searching for Sugar Man",
-      "The Disappeared"
+      "Missing",
+      "The Official Story",
+      "State of Siege"
     ]
   }
 }

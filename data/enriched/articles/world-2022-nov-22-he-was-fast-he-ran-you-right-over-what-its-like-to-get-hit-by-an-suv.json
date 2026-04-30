@@ -97,13 +97,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
+      "phenomenal_individual",
       "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "A journalist's traumatic brain injury from a hit-and-run becomes the catalyst for investigating America's epidemic of pedestrian deaths and the culture of road rage that enables them.",
+    "pitch": "A pedestrian hit-and-run victim with brain injuries becomes an unlikely investigator into America's epidemic of drivers who don't stop, uncovering a culture of road rage and toxic individualism.",
     "comparable_works": [
       "Icarus",
-      "The Inventor: Out for Blood in Silicon Valley"
+      "Three Identical Strangers"
     ]
   }
 }

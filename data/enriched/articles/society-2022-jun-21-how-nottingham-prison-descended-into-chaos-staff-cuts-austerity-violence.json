@@ -133,17 +133,18 @@
     "cause and effect"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
-      "hidden_world",
-      "whistleblower"
+      "whistleblower",
+      "david_vs_goliath",
+      "closed_community_upheaval"
     ],
     "format": "documentary",
-    "pitch": "A former prison officer and grieving families expose how government cuts turned a Victorian jail into a death trap, told through the case of Ben Ireson who died by suicide after repeated warnings.",
+    "pitch": "The systematic destruction of Britain's prison system told through one catastrophically failing jail where 12 men killed themselves in 18 months. A forensic account of how political decisions to cut staff and overcrowd cells turned HMP Nottingham into what officers called a war zone.",
     "comparable_works": [
-      "I Am a Killer",
       "The Scheme",
-      "Time (BBC)"
+      "Time",
+      "Life and Death Row"
     ]
   }
 }

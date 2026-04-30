@@ -118,14 +118,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "david_vs_goliath"
+      "david_vs_goliath",
+      "phenomenal_individual"
     ],
     "format": "documentary",
-    "pitch": "A gang of Hungarian pranksters led by artist Gergely Kovács use viral stunts and satirical billboards to mock Viktor Orbán's authoritarian government, unexpectedly raising £76,000 from supporters to fight xenophobia with humour.",
+    "pitch": "A group of prankster artists in Hungary use viral satire and crowdfunded billboards to mock Viktor Orbán's xenophobic government, raising €76,000 in donations and becoming an unlikely focal point of resistance in an increasingly authoritarian state.",
     "comparable_works": [
-      "The Act of Killing",
-      "Pussy Riot: A Punk Prayer",
-      "The Great Hack"
+      "The Yes Men",
+      "Welcome to Chechnya",
+      "Active Measures"
     ]
   }
 }

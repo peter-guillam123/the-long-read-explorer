@@ -120,14 +120,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
+      "phenomenal_individual",
       "ethical_choice"
     ],
     "format": "documentary",
-    "pitch": "A veteran UN diplomat sacrifices his peaceful retirement to take on the world's most impossible job—ending the Syrian war—knowing his predecessors failed and his reputation hangs in the balance.",
+    "pitch": "A veteran UN diplomat accepts what colleagues call 'mission impossible' — bringing peace to Syria — knowing his two predecessors resigned in failure, and watches his reputation crumble as the war rages on.",
     "comparable_works": [
       "The Fog of War",
-      "13th",
-      "Inside Job"
+      "The Act of Killing",
+      "Icarus"
     ]
   }
 }

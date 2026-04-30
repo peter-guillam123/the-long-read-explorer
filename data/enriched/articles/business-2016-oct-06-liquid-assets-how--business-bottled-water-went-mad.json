@@ -132,10 +132,16 @@
     "classification and taxonomy"
   ],
   "film_adaptation": {
-    "potential": "low",
-    "categories": [],
+    "potential": "medium",
+    "categories": [
+      "brand_story"
+    ],
     "format": "documentary",
-    "pitch": null,
-    "comparable_works": []
+    "pitch": "How Orson Welles and a £5 million campaign convinced the world to pay premium prices for a substance that falls free from the sky. The story follows modern water entrepreneurs like 27-year-old Rahi Daneshmand as they turn tap water into £280 billion worth of lifestyle products.",
+    "comparable_works": [
+      "Super Size Me",
+      "The Men Who Stole the World",
+      "Fyre: The Greatest Party That Never Happened"
+    ]
   }
 }

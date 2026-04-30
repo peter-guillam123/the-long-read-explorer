@@ -116,14 +116,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "phenomenal_individual"
+      "history_revisited"
     ],
-    "format": "either",
-    "pitch": "China's leading novelist Yu Hua guides us through five decades of seismic change, from Mao's Cultural Revolution to Xi Jinping's anti-corruption purges, as witnessed from his small southern town.",
+    "format": "documentary",
+    "pitch": "A novelist who lived through China's three great upheavals — Cultural Revolution, economic reform, and Xi's crackdown — uses the country's recurring waves of official suicides to chart how power, law and human nature have transformed across 50 years of breakneck change.",
     "comparable_works": [
-      "Wild Swans",
       "The Act of Killing",
-      "Last Train Home"
+      "Wild Wild Country",
+      "Summer of Soul"
     ]
   }
 }

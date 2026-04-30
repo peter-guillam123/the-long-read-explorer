@@ -127,16 +127,18 @@
     "theory vs observation"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
-      "david_vs_goliath"
+      "david_vs_goliath",
+      "conspiracy",
+      "brand_story"
     ],
     "format": "documentary",
-    "pitch": "The inside story of how Mexico became the first major country to defy Big Soda's lobbying machine and impose a tax on sugary drinks, despite Coca-Cola's extraordinary political influence in a nation where the company controls 73% of the market.",
+    "pitch": "How Mexican health advocates took on Coca-Cola's extraordinary political influence to pass the world's first major soda tax, despite the company controlling 73% of the market and having former executives in the highest levels of government.",
     "comparable_works": [
       "The Insider",
       "Dark Waters",
-      "Thank You for Smoking"
+      "Super Size Me"
     ]
   }
 }

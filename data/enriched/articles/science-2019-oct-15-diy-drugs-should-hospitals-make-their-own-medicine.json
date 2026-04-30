@@ -98,17 +98,18 @@
     "boundary crossing"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
       "david_vs_goliath",
-      "ethical_choice"
+      "ethical_choice",
+      "phenomenal_individual"
     ],
-    "format": "documentary",
-    "pitch": "When a pharmaceutical company raises the price of a life-saving drug by 400%, a Dutch hospital pharmacist decides to manufacture it herself, triggering a cross-border battle that threatens patients across Europe.",
+    "format": "either",
+    "pitch": "When a pharmaceutical company increases the price of a life-saving drug by 400%, a rebellious Dutch hospital pharmacist decides to manufacture it herself, triggering a David-and-Goliath battle that spreads across Europe.",
     "comparable_works": [
-      "Dallas Buyers Club",
       "The Insider",
-      "Dark Waters"
+      "Dark Waters",
+      "Fire in the Blood"
     ]
   }
 }

@@ -109,14 +109,15 @@
     "potential": "high",
     "categories": [
       "survival",
-      "forensic_chase"
+      "forensic_chase",
+      "david_vs_goliath"
     ],
     "format": "either",
-    "pitch": "A nine-year-old girl is kidnapped from Barcelona and held captive for nine months in the Bolivian rainforest, surviving through extraordinary resilience while Spanish police mount an international manhunt.",
+    "pitch": "A nine-year-old girl kidnapped from Barcelona survives nine months in the Bolivian rainforest while Spanish police mount an international manhunt to find her.",
     "comparable_works": [
       "Room",
-      "Abducted in Plain Sight",
-      "The Disappearance of Madeleine McCann"
+      "Taken",
+      "The Missing"
     ]
   }
 }

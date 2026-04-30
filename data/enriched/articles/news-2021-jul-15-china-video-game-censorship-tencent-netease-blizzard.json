@@ -105,13 +105,14 @@
     "potential": "medium",
     "categories": [
       "hidden_world",
-      "david_vs_goliath"
+      "brand_story"
     ],
     "format": "documentary",
-    "pitch": "Swedish game developers and American designers navigate China's opaque censorship machine, where a sci-fi game about aliens gets banned while billion-dollar deals hang on whether blood can be black instead of red.",
+    "pitch": "Western video game companies navigate China's opaque censorship system, transforming beloved characters and storylines to access the world's largest gaming market while Chinese influence reshapes global entertainment.",
     "comparable_works": [
-      "The Great Hack",
-      "The China Hustle"
+      "The China Hustle",
+      "Operation Varsity Blues",
+      "Fyre: The Greatest Party That Never Happened"
     ]
   }
 }

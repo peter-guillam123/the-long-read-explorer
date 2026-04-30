@@ -97,14 +97,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world"
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "A documentary following refugees and fixers as they navigate Europe's media machinery, revealing how disaster reporting shapes public perception through a carefully orchestrated economy of suffering.",
+    "pitch": "A documentary examining how European media shaped public perception during the 2015 refugee crisis, following journalists, refugees and fixers as they navigate the machinery of disaster reporting.",
     "comparable_works": [
-      "Human Flow",
+      "Manufacturing Consent",
       "The Act of Killing",
-      "Citizenfour"
+      "Five Broken Cameras"
     ]
   }
 }

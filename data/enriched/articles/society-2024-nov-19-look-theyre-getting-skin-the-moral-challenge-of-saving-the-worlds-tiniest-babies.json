@@ -100,18 +100,17 @@
     "boundary crossing"
   ],
   "film_adaptation": {
-    "potential": "high",
+    "potential": "medium",
     "categories": [
       "ethical_choice",
-      "survival",
       "hidden_world"
     ],
     "format": "documentary",
-    "pitch": "Alice Smith and Jim Clack face an impossible decision when their twins are born at 23 weeks — resuscitate them for a slim chance at life through months of painful treatment, or let them die peacefully. The film follows their journey through the neonatal intensive care unit where doctors push the boundaries of what's medically possible.",
+    "pitch": "Alice Smith's twins are born at 23 weeks in a London hospital where doctors must decide whether to put these butterfly-fragile babies through months of painful treatment for a slim chance at life. The film follows families navigating the 'grey zone' where medical possibility meets impossible choices.",
     "comparable_works": [
       "24 Weeks",
       "The Beginning of Life",
-      "One Born Every Minute"
+      "Extremis"
     ]
   }
 }

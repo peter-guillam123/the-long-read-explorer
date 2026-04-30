@@ -137,10 +137,16 @@
     "canon formation"
   ],
   "film_adaptation": {
-    "potential": "low",
-    "categories": [],
+    "potential": "medium",
+    "categories": [
+      "history_revisited"
+    ],
     "format": "documentary",
-    "pitch": null,
-    "comparable_works": []
+    "pitch": "The forgotten colonial soldiers who fought in World War I reveal how racial fears shaped the conflict and continue to influence Western politics today.",
+    "comparable_works": [
+      "They Shall Not Grow Old",
+      "The Great War and the Shaping of the 20th Century",
+      "13th"
+    ]
   }
 }

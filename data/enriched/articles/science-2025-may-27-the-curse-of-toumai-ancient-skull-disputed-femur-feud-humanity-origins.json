@@ -117,15 +117,15 @@
     "potential": "high",
     "categories": [
       "twisty_mystery",
-      "hidden_world",
-      "david_vs_goliath"
+      "conspiracy",
+      "phenomenal_individual"
     ],
-    "format": "documentary",
-    "pitch": "A bitter 20-year scientific feud erupts when a junior researcher discovers that a famous palaeontologist has been hiding crucial evidence about humanity's oldest ancestor. Two academics destroy their careers fighting over a 7-million-year-old skull and a femur bone that could rewrite human evolution.",
+    "format": "either",
+    "pitch": "When a 7-million-year-old skull discovered in Chad threatens to rewrite human evolution, a bitter feud erupts between rival scientists over a hidden femur bone that could prove or destroy the theory. Two decades later, careers lie in ruins as the fight over humanity's origins consumes the lives of those who sought to discover it.",
     "comparable_works": [
-      "The Act of Killing",
-      "My Octopus Teacher",
-      "Won't You Be My Neighbor?"
+      "The Theory of Everything",
+      "Fyre: The Greatest Party That Never Happened",
+      "The Act of Killing"
     ]
   }
 }

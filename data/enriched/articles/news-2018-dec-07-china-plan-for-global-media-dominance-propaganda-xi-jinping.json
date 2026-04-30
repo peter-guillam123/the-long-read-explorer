@@ -122,14 +122,14 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
+      "conspiracy",
       "espionage"
     ],
     "format": "documentary",
-    "pitch": "An investigation into China's global media influence operation reveals how Beijing recruits western journalists, plants content in international outlets, and builds a digital infrastructure to reshape the world's information landscape.",
+    "pitch": "Western journalists navigate the grey zones of China's global media empire, as Beijing deploys soft power through news outlets, all-expenses-paid training programmes and digital infrastructure to reshape how the world sees itself.",
     "comparable_works": [
-      "Icarus",
       "The Great Hack",
+      "Icarus",
       "Active Measures"
     ]
   }

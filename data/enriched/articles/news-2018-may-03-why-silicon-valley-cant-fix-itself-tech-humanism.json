@@ -142,10 +142,15 @@
     "individual vs collective"
   ],
   "film_adaptation": {
-    "potential": "low",
-    "categories": [],
+    "potential": "medium",
+    "categories": [
+      "origin_moment"
+    ],
     "format": "documentary",
-    "pitch": null,
-    "comparable_works": []
+    "pitch": "How Silicon Valley's tech humanists — former Facebook and Google insiders now preaching 'ethical design' — may actually be helping Big Tech consolidate power while appearing to reform it.",
+    "comparable_works": [
+      "The Social Dilemma",
+      "The Great Hack"
+    ]
   }
 }

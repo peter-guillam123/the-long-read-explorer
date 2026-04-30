@@ -97,15 +97,15 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "david_vs_goliath",
-      "phenomenal_individual"
+      "phenomenal_individual",
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "A champion boxer who represented England despite being trafficked to Britain as a child now faces deportation under a little-known immigration scheme, fighting the Home Office while living in legal limbo.",
+    "pitch": "A champion boxer who represented England six times faces deportation to a country that won't accept him, caught in Britain's immigration system despite being trafficked here as a child and having nowhere else to go.",
     "comparable_works": [
-      "I, Daniel Blake",
-      "The Wrestler",
-      "Icarus"
+      "I Am Bolt",
+      "The Pruitt-Igoe Myth",
+      "McQueen"
     ]
   }
 }

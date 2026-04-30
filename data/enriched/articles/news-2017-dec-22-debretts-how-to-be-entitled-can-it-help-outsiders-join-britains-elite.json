@@ -149,14 +149,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world"
+      "hidden_world",
+      "brand_story"
     ],
     "format": "documentary",
-    "pitch": "A 250-year-old arbiter of British aristocracy reinvents itself as a social mobility engine, teaching working-class kids the mannerisms of the elite while its traditional clientele watches their world change.",
+    "pitch": "A 250-year-old aristocratic publisher reinvents itself as a charm school for social climbers, promising that anyone can learn to join Britain's elite for the right price.",
     "comparable_works": [
-      "Made You Look: A True Story About Fake Art",
-      "The Queen of Versailles",
-      "Downton Abbey"
+      "My Fair Lady",
+      "The Crown",
+      "Made in Chelsea"
     ]
   }
 }

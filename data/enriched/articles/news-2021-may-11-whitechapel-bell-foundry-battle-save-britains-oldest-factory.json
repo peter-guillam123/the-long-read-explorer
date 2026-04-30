@@ -124,14 +124,15 @@
     "potential": "high",
     "categories": [
       "david_vs_goliath",
-      "hidden_world"
+      "architecture",
+      "brand_story"
     ],
-    "format": "documentary",
-    "pitch": "When America's oldest bell foundry closes after 447 years, a former employee leads a campaign against US developers who want to turn the workshop that made Big Ben into a boutique hotel. The battle unfolds in real time through council meetings, revealing how global capital reshapes London's industrial heritage.",
+    "format": "either",
+    "pitch": "The 450-year-old foundry that cast Big Ben and the Liberty Bell faces demolition by American developers who want to turn it into a boutique hotel, as its longest-serving employee leads a desperate campaign to save England's last working bell foundry.",
     "comparable_works": [
-      "The Last Blockbuster",
-      "Blackfish",
-      "Won't You Be My Neighbor?"
+      "The Full Monty",
+      "Made You Look",
+      "Saving Grace"
     ]
   }
 }

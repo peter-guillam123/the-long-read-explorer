@@ -122,14 +122,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "origin_moment"
+      "origin_moment",
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "Two journalists spend a decade talking to ordinary people across Britain, accidentally documenting the collapse of traditional politics through conversations that predicted Brexit, Trump and the rise of populism before anyone else saw it coming.",
+    "pitch": "Two journalists spend a decade travelling Britain's forgotten places, accidentally documenting the collapse of the old political order through conversations on doorsteps and street corners—from the first Ukip stirrings in 2014 to Brexit's aftermath.",
     "comparable_works": [
       "The Up Series",
-      "Brexit: The Uncivil War",
-      "American Factory"
+      "Bowling for Columbine",
+      "An American Family"
     ]
   }
 }

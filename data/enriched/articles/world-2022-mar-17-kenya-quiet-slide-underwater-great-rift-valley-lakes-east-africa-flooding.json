@@ -109,11 +109,12 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
+      "phenomenal_individual",
       "david_vs_goliath",
       "visual_spectacle"
     ],
     "format": "documentary",
-    "pitch": "A geologist accidentally discovers that Kenya's great lakes are swallowing entire communities, then fights government indifference as hundreds of thousands are displaced by an environmental catastrophe hidden in plain sight.",
+    "pitch": "A lone Kenyan geologist discovers that his country's great lakes are swallowing entire communities, then fights government indifference to expose a climate disaster displacing hundreds of thousands across east Africa.",
     "comparable_works": [
       "An Inconvenient Truth",
       "The Age of Stupid",

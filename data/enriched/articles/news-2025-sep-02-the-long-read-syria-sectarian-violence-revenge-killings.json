@@ -95,14 +95,15 @@
     "potential": "high",
     "categories": [
       "survival",
-      "ethical_choice"
+      "ethical_choice",
+      "david_vs_goliath"
     ],
     "format": "either",
-    "pitch": "Two friends from different religious communities navigate a night of sectarian killings in post-Assad Syria, where answering the wrong question at your door means death. As Munir, an Alawite hiding from revenge squads, calls his Sunni friend Anas for help, both men risk everything to preserve their friendship across Syria's bloodiest divide.",
+    "pitch": "Two friends from different religious communities navigate sectarian revenge killings in post-Assad Syria, as one risks everything to save the other during a night of door-to-door executions.",
     "comparable_works": [
       "Hotel Rwanda",
       "The Siege of Jadotville",
-      "They Shall Not Grow Old"
+      "City of God"
     ]
   }
 }

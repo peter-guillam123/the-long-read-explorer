@@ -116,15 +116,15 @@
     "potential": "high",
     "categories": [
       "phenomenal_individual",
-      "hidden_world",
-      "forensic_chase"
+      "forensic_chase",
+      "hidden_world"
     ],
     "format": "either",
-    "pitch": "Britain's most celebrated forensic scientist Angela Gallop has cracked the country's most notorious murders over five decades, but now watches her profession collapse around her as she races to solve cases that could be the last of their kind.",
+    "pitch": "Angela Gallop, Britain's foremost forensic scientist, uses unconventional methods to crack the country's most notorious cold cases — from God's Banker to Stephen Lawrence — while fighting to save her dying field from institutional collapse.",
     "comparable_works": [
       "Mindhunter",
       "The Staircase",
-      "Zodiac"
+      "Silkwood"
     ]
   }
 }

@@ -115,15 +115,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
+      "phenomenal_individual",
       "david_vs_goliath",
-      "phenomenal_individual"
+      "origin_moment"
     ],
-    "format": "documentary",
-    "pitch": "A housing activist transforms from calling bankers criminals in parliament to becoming mayor of Barcelona, then faces the ultimate test of whether radical politics can work in practice.",
+    "format": "either",
+    "pitch": "A Spanish housing activist who called a banking executive a criminal on live television becomes mayor of Barcelona and attempts to transform one of Europe's most tourist-saturated cities while battling established political forces.",
     "comparable_works": [
-      "The Shock Doctrine",
+      "The Square",
       "Knock Down the House",
-      "City Hall"
+      "City of God"
     ]
   }
 }

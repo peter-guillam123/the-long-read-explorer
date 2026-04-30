@@ -139,18 +139,17 @@
     "unintended consequences"
   ],
   "film_adaptation": {
-    "potential": "high",
+    "potential": "medium",
     "categories": [
       "phenomenal_individual",
-      "hidden_world",
-      "espionage"
+      "hidden_world"
     ],
-    "format": "either",
-    "pitch": "A Romanian emigrant turned mysterious strategic consultant earns millions advising presidents and prime ministers from his Maryland home, dispensing counter-intuitive wisdom to solve the world's most intractable problems. His clients include the Dalai Lama, European governments hunting al-Qaeda operatives, and the president of Mexico seeking to eliminate a tourist bus-burning gang.",
+    "format": "documentary",
+    "pitch": "A Romanian emigrant operates as a one-man strategic consultancy from suburban Maryland, advising presidents and prime ministers on everything from coups to custody battles while earning $1 million a year dispensing counterintuitive wisdom.",
     "comparable_works": [
-      "The Big Short",
-      "Vice",
-      "Charlie Wilson's War"
+      "The Act of Killing",
+      "My Architect",
+      "Errol Morris documentaries"
     ]
   }
 }

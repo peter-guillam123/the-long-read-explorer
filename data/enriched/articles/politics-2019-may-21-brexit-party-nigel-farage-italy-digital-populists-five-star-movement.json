@@ -121,14 +121,14 @@
     "potential": "medium",
     "categories": [
       "origin_moment",
-      "heist_con"
+      "conspiracy"
     ],
     "format": "documentary",
-    "pitch": "A secretive Italian tech guru and a British populist forge an unlikely alliance in a Milan meeting room, then use corporate structures and digital manipulation to hijack democracy across Europe.",
+    "pitch": "The untold story of how a secretive Italian tech guru taught Nigel Farage to weaponise the internet, creating a new playbook for populist movements that helped deliver Brexit and reshape European politics.",
     "comparable_works": [
       "The Great Hack",
       "Brexit: The Uncivil War",
-      "The Social Dilemma"
+      "Citizenfour"
     ]
   }
 }

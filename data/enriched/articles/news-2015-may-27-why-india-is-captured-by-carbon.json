@@ -120,15 +120,16 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
+      "david_vs_goliath",
       "visual_spectacle",
       "ethical_choice"
     ],
     "format": "documentary",
-    "pitch": "Inside India's massive coal mining operations, government officials and local communities navigate the impossible choice between lifting 400 million people out of poverty and preventing catastrophic climate change.",
+    "pitch": "As India prepares to double its coal production and become the world's second-largest carbon emitter, follow the collision between climate activists, displaced tribal communities, and government officials racing to lift 400 million people out of poverty through the massive Singrauli coalfield.",
     "comparable_works": [
       "An Inconvenient Truth",
       "The Age of Stupid",
-      "Before the Flood"
+      "Gasland"
     ]
   }
 }

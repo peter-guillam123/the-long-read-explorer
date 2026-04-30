@@ -114,15 +114,15 @@
     "potential": "high",
     "categories": [
       "hidden_world",
-      "heist_con",
-      "visual_spectacle"
+      "brand_story",
+      "closed_community_upheaval"
     ],
     "format": "documentary",
-    "pitch": "Inside Eve Online, the Icelandic space simulation that became a living laboratory for human behaviour, where real money changes hands and elaborate spy networks execute billion-credit assassinations over months of infiltration.",
+    "pitch": "Inside Eve Online, a virtual universe inhabited by half a million players whose corporate espionage, billion-dollar heists and political machinations have created the world's largest living work of science fiction. When the game's democracy faces its greatest test, players and developers must decide whether their digital society can survive real-world pressures.",
     "comparable_works": [
-      "The Social Network",
-      "Free Solo",
-      "Fyre: The Greatest Party That Never Happened"
+      "The Social Dilemma",
+      "Fyre: The Greatest Party That Never Happened",
+      "Free Solo"
     ]
   }
 }

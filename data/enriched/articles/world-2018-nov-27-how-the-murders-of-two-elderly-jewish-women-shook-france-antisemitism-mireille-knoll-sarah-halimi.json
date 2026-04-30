@@ -105,17 +105,17 @@
     "unintended consequences"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
       "twisty_mystery",
-      "closed_community_upheaval"
+      "history_revisited"
     ],
     "format": "documentary",
-    "pitch": "A social housing building in Paris becomes ground zero for France's culture wars when a Muslim neighbour kills his Jewish resident, leaving investigators to untangle whether cannabis-induced psychosis or antisemitism drove the fatal attack.",
+    "pitch": "The murder of an elderly Jewish woman in Paris becomes a battleground over how France defines antisemitism, identity and mental illness in a republic that officially refuses to see race.",
     "comparable_works": [
-      "The Staircase",
-      "Making a Murderer",
-      "Dear Zachary"
+      "The Act of Killing",
+      "13th",
+      "The Staircase"
     ]
   }
 }

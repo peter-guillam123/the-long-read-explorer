@@ -105,16 +105,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
-      "david_vs_goliath",
-      "ethical_choice",
-      "espionage"
+      "conspiracy",
+      "phenomenal_individual",
+      "david_vs_goliath"
     ],
-    "format": "either",
-    "pitch": "A British ex-soldier builds Syria's most celebrated rescue organisation, only to be destroyed by a Russian disinformation campaign that drives him to suicide in Istanbul. The story of how information warfare killed the co-founder of the White Helmets.",
+    "format": "documentary",
+    "pitch": "The co-founder of Syria's White Helmets rescue organisation becomes the target of a Russian disinformation campaign so relentless it drives him to suicide in Istanbul. A story of how modern information warfare destroys the people it targets, told through the final months of a humanitarian who helped save thousands but couldn't save himself.",
     "comparable_works": [
-      "The White Helmets",
       "Icarus",
-      "Official Secrets"
+      "The Social Dilemma",
+      "Navalny"
     ]
   }
 }

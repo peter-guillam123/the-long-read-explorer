@@ -107,15 +107,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "david_vs_goliath",
-      "whistleblower"
+      "conspiracy",
+      "brand_story"
     ],
     "format": "documentary",
-    "pitch": "French journalist Guillaume Coudray takes on the global meat industry, exposing how bacon manufacturers have spent 40 years covering up the cancer-causing chemicals they could easily avoid using.",
+    "pitch": "For 40 years, the processed meat industry has concealed the fact that bacon could be made without cancer-causing chemicals, using the same playbook as Big Tobacco to keep nitrates in our food.",
     "comparable_works": [
       "The Insider",
       "Dark Waters",
-      "Super Size Me"
+      "Thank You for Smoking"
     ]
   }
 }

@@ -145,14 +145,15 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
+      "phenomenal_individual",
       "ethical_choice",
-      "whistleblower"
+      "history_revisited"
     ],
     "format": "either",
-    "pitch": "Two Guardian war correspondents abandon journalistic neutrality during the Yugoslav wars, becoming passionate advocates for genocide victims — one eventually testifies at The Hague tribunal while the other refuses, fearing it will compromise press freedom.",
+    "pitch": "Two war correspondents abandon journalistic neutrality during the Bosnian genocide, with one becoming the first journalist to testify at an international war crimes tribunal while grappling with whether bearing witness requires becoming a participant.",
     "comparable_works": [
-      "The Killing Fields",
       "Spotlight",
+      "The Killing Fields",
       "Salvador"
     ]
   }

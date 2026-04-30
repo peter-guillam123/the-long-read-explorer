@@ -116,17 +116,10 @@
     "unintended consequences"
   ],
   "film_adaptation": {
-    "potential": "medium",
-    "categories": [
-      "hidden_world",
-      "phenomenal_individual"
-    ],
+    "potential": "low",
+    "categories": [],
     "format": "documentary",
-    "pitch": "The story of Mohamed Merah, who spent his final 36 hours editing a GoPro video of his killing spree while surrounded by police, reveals how terrorists and news organisations have evolved together in the digital age.",
-    "comparable_works": [
-      "The Act of Killing",
-      "We Need to Talk About Kevin",
-      "Four Lions"
-    ]
+    "pitch": null,
+    "comparable_works": []
   }
 }

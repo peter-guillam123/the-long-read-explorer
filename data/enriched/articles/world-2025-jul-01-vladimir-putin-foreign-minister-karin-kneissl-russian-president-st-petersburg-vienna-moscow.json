@@ -132,13 +132,14 @@
     "potential": "high",
     "categories": [
       "phenomenal_individual",
+      "conspiracy",
       "espionage"
     ],
     "format": "either",
-    "pitch": "An eccentric Austrian diplomat's journey from foreign minister to Putin propagandist, charting her descent from dancing with the Russian president at her wedding to becoming a mouthpiece for Moscow's war in Ukraine.",
+    "pitch": "An Austrian foreign minister's journey from respected diplomat to Putin apologist, charted through a waltz at her wedding that scandalized the world and her eventual exile to St Petersburg as a Russian propaganda voice.",
     "comparable_works": [
-      "The Spy Who Came In from the Cold",
-      "Red Sparrow",
+      "The Crown",
+      "Tinker Tailor Soldier Spy",
       "Active Measures"
     ]
   }

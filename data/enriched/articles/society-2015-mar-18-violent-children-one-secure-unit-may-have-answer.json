@@ -91,14 +91,15 @@
     "potential": "high",
     "categories": [
       "hidden_world",
+      "david_vs_goliath",
       "ethical_choice"
     ],
-    "format": "documentary",
-    "pitch": "Mark, 17, has spent three years locked up for a knife crime and is about to be released from Britain's most expensive young offender facility — but the institution that transformed him may close just as he leaves.",
+    "format": "either",
+    "pitch": "A 17-year-old violent offender mentors younger boys in knife crime prevention while preparing for release from Britain's most expensive juvenile facility, which faces closure as the government plans to replace small, intensive units with warehouse-style institutions.",
     "comparable_works": [
-      "Up series",
-      "Girlhood",
-      "Kids for Cash"
+      "The Work",
+      "Kids Behind Bars",
+      "Youth Unstoppable"
     ]
   }
 }

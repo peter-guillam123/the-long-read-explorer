@@ -114,16 +114,10 @@
     "tradition vs innovation"
   ],
   "film_adaptation": {
-    "potential": "medium",
-    "categories": [
-      "origin_moment"
-    ],
+    "potential": "low",
+    "categories": [],
     "format": "documentary",
-    "pitch": "How ordinary people across the globe created an unprecedented grassroots response to the pandemic, building networks of mutual aid that challenged traditional notions of charity and revealed humanity's cooperative instincts in crisis.",
-    "comparable_works": [
-      "Won't You Be My Neighbor?",
-      "The Age of Stupid",
-      "Where to Invade Next"
-    ]
+    "pitch": null,
+    "comparable_works": []
   }
 }

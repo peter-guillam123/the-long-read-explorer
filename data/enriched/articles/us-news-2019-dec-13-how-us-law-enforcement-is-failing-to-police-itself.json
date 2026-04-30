@@ -126,15 +126,16 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world",
-      "whistleblower"
+      "whistleblower",
+      "conspiracy",
+      "closed_community_upheaval"
     ],
     "format": "documentary",
-    "pitch": "A police officer openly recruits colleagues into a white supremacist group while his superiors turn a blind eye, exposing how law enforcement fails to police extremism within its own ranks.",
+    "pitch": "A police officer openly recruits colleagues to a white supremacist group in racially divided Alabama, yet keeps getting promoted until a leaked video forces the town to confront what it's been ignoring.",
     "comparable_works": [
-      "Spotlight",
-      "Dark Waters",
-      "The Thin Blue Line"
+      "The Infiltrators",
+      "Welcome to Leith",
+      "Errol Morris documentaries"
     ]
   }
 }

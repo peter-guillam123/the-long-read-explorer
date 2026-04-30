@@ -129,18 +129,17 @@
     "power and resistance"
   ],
   "film_adaptation": {
-    "potential": "high",
+    "potential": "medium",
     "categories": [
       "hidden_world",
-      "david_vs_goliath",
-      "visual_spectacle"
+      "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "Following the journey of rose quartz from deadly hand-dug mines in Madagascar's poorest villages to million-dollar crystal collections in American wellness empires, exposing the human cost behind the booming healing crystal industry.",
+    "pitch": "Crystal healing's billion-dollar boom traces back to deadly artisanal mines in Madagascar, where families risk their lives digging for rose quartz that ends up in Western wellness shops. A supply chain investigation following crystals from collapsing mine shafts to celebrity endorsements.",
     "comparable_works": [
-      "Blood Diamond",
       "The True Cost",
-      "Dark Waters"
+      "Blood Diamond",
+      "Dirty Gold"
     ]
   }
 }

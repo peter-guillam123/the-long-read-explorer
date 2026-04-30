@@ -115,12 +115,12 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
+      "conspiracy",
       "whistleblower",
-      "twisty_mystery",
-      "heist_con"
+      "twisty_mystery"
     ],
     "format": "either",
-    "pitch": "A Spanish town councillor spends 18 months secretly recording his corrupt business partner, gathering evidence that will expose the biggest political scandal in Spain's modern history. The investigation that begins with small-town kickbacks eventually brings down a government and reshapes the country's entire political system.",
+    "pitch": "A Spanish town councillor secretly records his corrupt business partner for 18 months, gathering evidence that brings down an entire government and reshapes a nation's politics. The recordings from that final confrontation in a Madrid office become the smoking gun in Spain's biggest corruption scandal.",
     "comparable_works": [
       "All the President's Men",
       "The Insider",

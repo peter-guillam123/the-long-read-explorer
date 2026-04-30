@@ -115,15 +115,16 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
+      "conspiracy",
       "whistleblower",
       "david_vs_goliath"
     ],
     "format": "documentary",
-    "pitch": "Former British defence officials and BAE contractors reveal how the UK government secretly outsourced Britain's role in Yemen's air war to private arms companies, while families in Glenrothes and Stevenage discover their neighbours are manufacturing the bombs killing Yemeni civilians.",
+    "pitch": "British contractors and RAF personnel enable Saudi Arabia's bombing campaign in Yemen while the government maintains plausible deniability through arms companies and secret export licences.",
     "comparable_works": [
-      "The Insider",
-      "Official Secrets",
-      "They Shall Not Grow Old"
+      "The Act of Killing",
+      "Icarus",
+      "Dirty Money"
     ]
   }
 }

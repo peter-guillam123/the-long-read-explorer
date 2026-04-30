@@ -113,15 +113,14 @@
     "potential": "high",
     "categories": [
       "twisty_mystery",
-      "closed_community_upheaval",
-      "forensic_chase"
+      "closed_community_upheaval"
     ],
     "format": "either",
-    "pitch": "When half a tonne of cocaine washes ashore on a remote Atlantic island in 2001, it transforms an entire community overnight as locals discover packages worth millions scattered across beaches while police race to catch the mysterious smuggler.",
+    "pitch": "When half a tonne of cocaine washes ashore on a remote Atlantic island in 2001, it transforms an isolated farming community overnight — housewives mistake it for flour, fishermen sell beer glasses full of pure powder for €20, and nearly two decades later the effects still linger.",
     "comparable_works": [
-      "Narcos",
-      "The Cocaine Coast",
-      "McMillion$"
+      "McMillion$",
+      "Tiger King",
+      "Cocaine Island"
     ]
   }
 }

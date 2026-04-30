@@ -125,15 +125,16 @@
   "film_adaptation": {
     "potential": "high",
     "categories": [
+      "conspiracy",
       "david_vs_goliath",
       "closed_community_upheaval"
     ],
     "format": "documentary",
-    "pitch": "Working-class residents of Rainham fight council indifference and corporate power as illegally dumped waste burns beneath their feet, creating Britain's own 'triangle of death'. A boy's horrific burns from stepping on burning ground becomes the catalyst for a community's desperate battle against environmental injustice.",
+    "pitch": "In east London, residents battle a burning underground waste dump that has poisoned their community for decades while authorities pass the buck. A boy's horrific burns from superheated ground spark a David vs Goliath fight against criminal dumping, official negligence and environmental racism.",
     "comparable_works": [
       "Erin Brockovich",
       "Dark Waters",
-      "Flint Town"
+      "A Civil Action"
     ]
   }
 }

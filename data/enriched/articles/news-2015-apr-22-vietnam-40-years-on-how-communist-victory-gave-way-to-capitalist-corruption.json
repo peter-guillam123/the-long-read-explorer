@@ -133,14 +133,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "ethical_choice"
+      "history_revisited",
+      "conspiracy"
     ],
     "format": "documentary",
-    "pitch": "How Vietnam's Communist Party veterans who fought for decades to build a socialist society now find themselves presiding over the very capitalist corruption they once opposed, forced to choose between revolutionary ideals and economic survival.",
+    "pitch": "Forty years after winning the Vietnam War, communist veterans watch their revolutionary dreams crumble as American economic power succeeds where military force failed, forcing a country that defeated the US army to erase its own war memorials for foreign investment.",
     "comparable_works": [
+      "The Fog of War",
       "The Act of Killing",
-      "Winter on Fire",
-      "13th"
+      "Winter on Fire"
     ]
   }
 }

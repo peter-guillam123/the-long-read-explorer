@@ -105,14 +105,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
-      "hidden_world"
+      "hidden_world",
+      "ethical_choice"
     ],
     "format": "documentary",
-    "pitch": "Inside France's experimental prison units where convicted jihadists undergo intensive deradicalisation programmes, following both inmates and staff as they navigate the delicate process of rehabilitation in a climate of national fear.",
+    "pitch": "Inside France's experimental prison units where Islamic radicals receive therapy, education and cultural programmes in a desperate attempt to reverse radicalisation before they're released back onto the streets.",
     "comparable_works": [
       "The Act of Killing",
-      "15 Minutes of Shame",
-      "Won't You Be My Neighbor?"
+      "13th",
+      "For Sama"
     ]
   }
 }

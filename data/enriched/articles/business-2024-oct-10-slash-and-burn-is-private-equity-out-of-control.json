@@ -128,14 +128,15 @@
   "film_adaptation": {
     "potential": "medium",
     "categories": [
+      "hidden_world",
       "phenomenal_individual"
     ],
     "format": "documentary",
-    "pitch": "Stephen Schwarzman's rise to become private equity's king, told through the lavish parties that bookend deals gutting companies from nursing homes to children's dental chains.",
+    "pitch": "Stephen Schwarzman throws million-dollar parties with Mongolian acrobats while his private equity empire forces children into unnecessary dental surgery — an investigation into how a handful of financiers now control every aspect of ordinary life.",
     "comparable_works": [
       "The Big Short",
-      "Inside Job",
-      "Dirty Money"
+      "Dirty Money",
+      "Inside Job"
     ]
   }
 }

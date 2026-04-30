@@ -108,16 +108,17 @@
     "transmission of knowledge"
   ],
   "film_adaptation": {
-    "potential": "medium",
+    "potential": "high",
     "categories": [
+      "history_revisited",
       "david_vs_goliath"
     ],
-    "format": "documentary",
-    "pitch": "A Zimbabwean academic who grew up in the shadow of Cecil Rhodes's colonial legacy leads the fight to remove the imperialist's statue from Oxford University, confronting both his own complex relationship with colonial privilege and Britain's reluctance to face its imperial past.",
+    "format": "either",
+    "pitch": "A Zimbabwean academic traces how Cecil Rhodes's colonial legacy shaped his journey from an elite Harare school modelled on Eton to founding Oxford's Rhodes Must Fall movement. The personal becomes political as he confronts the same imperial structures that displaced his family, now embedded in Britain's most prestigious university.",
     "comparable_works": [
+      "The Act of Killing",
       "I Am Not Your Negro",
-      "13th",
-      "The Act of Killing"
+      "Another Country"
     ]
   }
 }

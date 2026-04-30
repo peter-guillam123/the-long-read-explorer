@@ -180,17 +180,10 @@
     "unintended consequences"
   ],
   "film_adaptation": {
-    "potential": "medium",
-    "categories": [
-      "hidden_world",
-      "origin_moment"
-    ],
+    "potential": "low",
+    "categories": [],
     "format": "documentary",
-    "pitch": "A handful of radical philosophers predicted our tech-obsessed, hyper-accelerated world decades before it arrived, but their ideas may have helped create the political chaos they warned against.",
-    "comparable_works": [
-      "HyperNormalisation",
-      "The Century of the Self",
-      "The Social Dilemma"
-    ]
+    "pitch": null,
+    "comparable_works": []
   }
 }
