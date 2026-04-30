@@ -63,11 +63,38 @@ body.film-page {
     display: flex;
     flex-wrap: wrap;
     gap: 18px 24px;
-    align-items: flex-start;
+    align-items: center;
+    position: relative;
 }
 
+/* Secondary controls live in a popover anchored under the ⋯ button — same on
+   desktop and mobile. Categories stay visible in the primary strip. */
 .film-controls-secondary {
-    display: contents;
+    display: none;
+    position: absolute;
+    top: calc(100% + 8px);
+    right: 0;
+    width: min(380px, calc(100vw - 28px));
+    max-height: 70vh;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    box-shadow: 0 8px 28px rgba(0, 0, 0, 0.4);
+    padding: 14px;
+    flex-direction: column;
+    gap: 14px;
+    z-index: 20;
+}
+
+.film-controls-secondary.is-open {
+    display: flex;
+}
+
+.film-controls-secondary .film-control-group {
+    flex-direction: column;
+    gap: 8px;
 }
 
 .film-control-group {
@@ -119,9 +146,9 @@ body.film-page {
     min-height: 32px;
 }
 
-/* === Secondary controls "more" button (mobile only) === */
+/* === Secondary controls "more" button — visible on all viewports === */
 .film-secondary-toggle {
-    display: none;
+    display: inline-flex;
     flex: 0 0 auto;
     width: 44px;
     height: 40px;
@@ -137,6 +164,7 @@ body.film-page {
     position: relative;
     padding: 0;
     transition: border-color 0.15s, background 0.15s;
+    margin-left: auto;
 }
 
 .film-secondary-toggle:hover {
@@ -385,43 +413,10 @@ body.film-page {
         scroll-snap-align: start;
     }
 
-    /* The ⋯ button is shown only on mobile */
-    .film-secondary-toggle {
-        display: inline-flex;
-        margin-left: 8px;
-    }
-
-    /* Secondary controls become a popover anchored under the ⋯ button */
+    /* On mobile the popover spans the strip width and tucks below it */
     .film-controls-secondary {
-        display: none;
-        position: absolute;
-        top: calc(100% + 4px);
         right: 14px;
-        max-width: calc(100vw - 28px);
-        max-height: 70vh;
-        overflow-y: auto;
-        -webkit-overflow-scrolling: touch;
-        background: var(--bg-elevated);
-        border: 1px solid var(--border);
-        border-radius: 12px;
-        box-shadow: 0 8px 28px rgba(0,0,0,0.4);
-        padding: 14px;
-        flex-direction: column;
-        gap: 14px;
-        z-index: 20;
-    }
-    .film-controls-secondary.is-open {
-        display: flex;
-    }
-    .film-controls-secondary .film-control-group {
-        flex-direction: column;
-        gap: 8px;
-    }
-    /* Country chips: many of them, give them a capped scrollable area */
-    #film-country-chips {
-        max-height: 160px;
-        overflow-y: auto;
-        -webkit-overflow-scrolling: touch;
+        width: calc(100vw - 28px);
     }
 
     /* Status row sits below the strip, still visible at all times */
