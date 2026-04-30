@@ -115,5 +115,12 @@
       "Zero Dark Thirty",
       "Mindhunter"
     ]
-  }
+  },
+  "countries": [
+    "Iraq",
+    "Syria"
+  ],
+  "regions_normalised": [
+    "Middle East"
+  ]
 }

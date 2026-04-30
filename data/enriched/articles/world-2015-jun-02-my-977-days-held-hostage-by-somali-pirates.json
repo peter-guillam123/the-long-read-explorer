@@ -132,5 +132,12 @@
       "127 Hours",
       "The Impossible"
     ]
-  }
+  },
+  "countries": [
+    "Somalia",
+    "Germany"
+  ],
+  "regions_normalised": [
+    "Horn of Africa"
+  ]
 }

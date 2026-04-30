@@ -115,5 +115,9 @@
       "Active Measures",
       "Icarus"
     ]
-  }
+  },
+  "countries": [
+    "Russia",
+    "Ukraine"
+  ]
 }

@@ -130,5 +130,12 @@
       "Brexit: The Uncivil War",
       "Citizenfour"
     ]
-  }
+  },
+  "countries": [
+    "England",
+    "Italy"
+  ],
+  "regions_normalised": [
+    "European Union"
+  ]
 }

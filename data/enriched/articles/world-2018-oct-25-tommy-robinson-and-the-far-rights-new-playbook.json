@@ -111,5 +111,12 @@
       "Alt-Right: Age of Rage",
       "Get Me Roger Stone"
     ]
-  }
+  },
+  "countries": [
+    "England",
+    "United States"
+  ],
+  "regions_normalised": [
+    "Europe"
+  ]
 }

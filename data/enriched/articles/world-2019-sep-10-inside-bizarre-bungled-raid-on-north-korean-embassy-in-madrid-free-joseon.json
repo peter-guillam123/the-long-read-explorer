@@ -130,5 +130,11 @@
       "The Impossible Spy",
       "McMillion$"
     ]
-  }
+  },
+  "countries": [
+    "North Korea",
+    "Spain",
+    "South Korea",
+    "United States"
+  ]
 }

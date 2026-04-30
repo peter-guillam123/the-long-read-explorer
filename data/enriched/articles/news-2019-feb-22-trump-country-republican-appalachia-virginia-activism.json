@@ -138,5 +138,8 @@
       "American Factory",
       "Union"
     ]
-  }
+  },
+  "countries": [
+    "United States"
+  ]
 }

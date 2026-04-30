@@ -92,5 +92,10 @@
       "The Swimmers",
       "My Octopus Teacher"
     ]
-  }
+  },
+  "countries": [
+    "France",
+    "United States",
+    "Scotland"
+  ]
 }

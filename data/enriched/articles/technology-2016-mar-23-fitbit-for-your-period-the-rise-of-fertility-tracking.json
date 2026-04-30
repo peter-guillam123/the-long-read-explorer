@@ -119,5 +119,9 @@
       "The Social Network",
       "Theranos documentaries"
     ]
-  }
+  },
+  "countries": [
+    "United States",
+    "Canada"
+  ]
 }

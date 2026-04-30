@@ -104,5 +104,9 @@
       "The China Hustle",
       "American Factory"
     ]
-  }
+  },
+  "countries": [
+    "China",
+    "Hong Kong"
+  ]
 }

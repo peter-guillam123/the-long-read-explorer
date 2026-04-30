@@ -141,5 +141,12 @@
       "The Fog of War",
       "They Shall Not Grow Old"
     ]
-  }
+  },
+  "countries": [
+    "Ukraine",
+    "Russia"
+  ],
+  "regions_normalised": [
+    "Eastern Europe"
+  ]
 }

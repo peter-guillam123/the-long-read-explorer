@@ -140,5 +140,11 @@
       "Get Me Roger Stone",
       "The Brink"
     ]
-  }
+  },
+  "countries": [
+    "Norway"
+  ],
+  "regions_normalised": [
+    "Europe"
+  ]
 }

@@ -123,5 +123,9 @@
       "Bobby Sands: 66 Days",
       "Five Minutes of Heaven"
     ]
-  }
+  },
+  "countries": [
+    "Northern Ireland",
+    "Republic of Ireland"
+  ]
 }

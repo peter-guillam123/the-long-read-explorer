@@ -126,5 +126,10 @@
       "An Inconvenient Truth",
       "Picture a Scientist"
     ]
-  }
+  },
+  "countries": [
+    "Canada",
+    "Germany",
+    "United States"
+  ]
 }

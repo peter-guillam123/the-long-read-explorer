@@ -126,5 +126,10 @@
       "Won't You Be My Neighbor?",
       "An Inconvenient Truth"
     ]
-  }
+  },
+  "countries": [
+    "Israel",
+    "Palestine",
+    "United States"
+  ]
 }

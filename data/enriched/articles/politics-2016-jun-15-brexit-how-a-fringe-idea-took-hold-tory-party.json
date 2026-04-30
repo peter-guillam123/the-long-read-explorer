@@ -147,5 +147,11 @@
       "All the President's Men",
       "Brexit: The Uncivil War"
     ]
-  }
+  },
+  "countries": [
+    "England"
+  ],
+  "regions_normalised": [
+    "European Union"
+  ]
 }

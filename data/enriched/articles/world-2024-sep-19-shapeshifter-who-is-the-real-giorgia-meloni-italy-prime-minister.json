@@ -174,5 +174,11 @@
       "The Iron Lady",
       "All the President's Men"
     ]
-  }
+  },
+  "countries": [
+    "Italy"
+  ],
+  "regions_normalised": [
+    "Europe"
+  ]
 }

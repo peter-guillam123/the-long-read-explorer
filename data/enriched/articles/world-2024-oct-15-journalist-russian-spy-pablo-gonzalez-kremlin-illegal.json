@@ -151,5 +151,10 @@
       "Tinker Tailor Soldier Spy",
       "The Spy Who Came in from the Cold"
     ]
-  }
+  },
+  "countries": [
+    "Russia",
+    "Spain",
+    "Poland"
+  ]
 }

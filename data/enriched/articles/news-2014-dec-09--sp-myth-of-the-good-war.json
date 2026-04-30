@@ -176,5 +176,13 @@
     "format": "documentary",
     "pitch": null,
     "comparable_works": []
-  }
+  },
+  "countries": [
+    "England",
+    "Germany",
+    "France"
+  ],
+  "regions_normalised": [
+    "Europe"
+  ]
 }

@@ -144,5 +144,11 @@
       "13 Days",
       "All the President's Men"
     ]
-  }
+  },
+  "countries": [
+    "North Korea",
+    "United States",
+    "Japan",
+    "South Korea"
+  ]
 }

@@ -157,5 +157,12 @@
       "13th",
       "Life and Debt"
     ]
-  }
+  },
+  "countries": [
+    "Haiti",
+    "United States"
+  ],
+  "regions_normalised": [
+    "Caribbean"
+  ]
 }

@@ -119,5 +119,9 @@
       "March of the Penguins",
       "Chasing Ice"
     ]
-  }
+  },
+  "countries": [],
+  "regions_normalised": [
+    "Antarctica"
+  ]
 }

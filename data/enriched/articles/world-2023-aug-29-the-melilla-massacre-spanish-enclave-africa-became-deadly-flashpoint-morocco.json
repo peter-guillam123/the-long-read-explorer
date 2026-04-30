@@ -142,5 +142,12 @@
       "Human Flow",
       "The White Helmets"
     ]
-  }
+  },
+  "countries": [
+    "Spain",
+    "Morocco"
+  ],
+  "regions_normalised": [
+    "North Africa"
+  ]
 }

@@ -112,5 +112,11 @@
       "Fire in the Blood",
       "How to Survive a Plague"
     ]
-  }
+  },
+  "countries": [
+    "England",
+    "Scotland",
+    "Egypt",
+    "United States"
+  ]
 }

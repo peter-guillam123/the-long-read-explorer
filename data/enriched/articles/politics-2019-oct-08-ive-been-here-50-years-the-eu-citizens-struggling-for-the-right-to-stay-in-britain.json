@@ -109,5 +109,12 @@
       "The Pruitt-Igoe Myth",
       "Cathy Come Home"
     ]
-  }
+  },
+  "countries": [
+    "England",
+    "Germany"
+  ],
+  "regions_normalised": [
+    "European Union"
+  ]
 }

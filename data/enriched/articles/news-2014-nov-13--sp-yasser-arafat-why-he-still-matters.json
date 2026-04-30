@@ -137,5 +137,12 @@
       "Vice",
       "Nixon"
     ]
-  }
+  },
+  "countries": [
+    "Palestine",
+    "Israel"
+  ],
+  "regions_normalised": [
+    "Middle East"
+  ]
 }

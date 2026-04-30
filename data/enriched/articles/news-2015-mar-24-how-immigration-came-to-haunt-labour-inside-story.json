@@ -140,5 +140,11 @@
       "Brexit: The Uncivil War",
       "The Blair Years"
     ]
-  }
+  },
+  "countries": [
+    "United Kingdom"
+  ],
+  "regions_normalised": [
+    "European Union"
+  ]
 }

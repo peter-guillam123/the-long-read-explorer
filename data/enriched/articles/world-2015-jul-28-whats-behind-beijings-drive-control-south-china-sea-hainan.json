@@ -114,5 +114,14 @@
       "Free Solo",
       "They Shall Not Grow Old"
     ]
-  }
+  },
+  "countries": [
+    "China",
+    "United States",
+    "Philippines",
+    "Vietnam"
+  ],
+  "regions_normalised": [
+    "South China Sea"
+  ]
 }

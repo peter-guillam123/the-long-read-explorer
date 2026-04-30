@@ -118,5 +118,9 @@
       "Dark Waters",
       "Spotlight"
     ]
-  }
+  },
+  "countries": [
+    "Australia",
+    "France"
+  ]
 }

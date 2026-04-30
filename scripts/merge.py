@@ -12,6 +12,39 @@ ENRICHED_DIR = BASE_DIR / "data" / "enriched" / "articles"
 CONNECTIONS_PATH = BASE_DIR / "data" / "connections" / "connections.json"
 OUTPUT_DIR = BASE_DIR / "site" / "data"
 
+# Era buckets — slug, label, [start_year, end_year_exclusive]
+# An article belongs to an era if any of its time_periods overlaps the range.
+ERAS = [
+    ("pre_1900",   "Before 1900",  None, 1900),
+    ("1900_1945",  "1900–1945",    1900, 1945),
+    ("1945_1989",  "1945–1989",    1945, 1990),
+    ("1990s",      "1990s",        1990, 2000),
+    ("2000s",      "2000s",        2000, 2010),
+    ("2010s",      "2010s",        2010, 2020),
+    ("2020s",      "2020s",        2020, 3000),
+]
+
+
+def article_eras(article):
+    """Return the set of era slugs the article's time_periods overlap."""
+    eras = set()
+    for tp in article.get("time_periods", []) or []:
+        s = tp.get("start_year")
+        e = tp.get("end_year")
+        if s is None and e is None:
+            continue
+        if s is None: s = e
+        if e is None: e = s
+        # Clamp wild outliers (geological time, far-future)
+        if s < -3000: s = -3000
+        if e > 2999: e = 2999
+        for slug, _, lo, hi in ERAS:
+            era_lo = lo if lo is not None else -10000
+            era_hi = hi
+            if s < era_hi and e >= era_lo:
+                eras.add(slug)
+    return eras
+
 
 def main():
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -57,6 +90,7 @@ def main():
             "cross_domain_bridges": art.get("cross_domain_bridges", []),
             "abstracted_concepts": art.get("abstracted_concepts", []),
             "film_adaptation": art.get("film_adaptation"),
+            "countries": art.get("countries", []),
         }
         frontend_articles.append(frontend_art)
 
@@ -100,6 +134,8 @@ def main():
     film_by_potential = defaultdict(int)
     film_by_category = defaultdict(int)
     film_by_format = defaultdict(int)
+    country_counts = defaultdict(int)
+    era_counts = defaultdict(int)
     dates = []
     audio_count = 0
 
@@ -128,6 +164,10 @@ def main():
             film_by_format[film.get("format", "unknown")] += 1
             for c in film.get("categories", []) or []:
                 film_by_category[c] += 1
+        for c in art.get("countries", []) or []:
+            country_counts[c] += 1
+        for era in article_eras(art):
+            era_counts[era] += 1
 
     conn_by_type = defaultdict(int)
     for c in connections:
@@ -154,6 +194,9 @@ def main():
             "by_category": dict(sorted(film_by_category.items(), key=lambda x: -x[1])),
             "by_format": dict(film_by_format),
         },
+        "country_counts": dict(sorted(country_counts.items(), key=lambda x: -x[1])),
+        "era_counts": {slug: era_counts.get(slug, 0) for slug, _, _, _ in ERAS},
+        "eras": [{"slug": slug, "label": label} for slug, label, _, _ in ERAS],
     }
 
     metadata_path = OUTPUT_DIR / "metadata.json"

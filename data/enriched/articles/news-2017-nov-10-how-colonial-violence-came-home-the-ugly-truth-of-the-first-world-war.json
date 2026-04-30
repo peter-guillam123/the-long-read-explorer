@@ -148,5 +148,14 @@
       "The Great War and the Shaping of the 20th Century",
       "13th"
     ]
-  }
+  },
+  "countries": [
+    "Germany",
+    "France",
+    "England",
+    "United States"
+  ],
+  "regions_normalised": [
+    "Europe"
+  ]
 }

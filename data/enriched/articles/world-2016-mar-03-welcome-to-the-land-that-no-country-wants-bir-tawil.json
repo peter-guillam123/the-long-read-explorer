@@ -108,5 +108,12 @@
       "Gringo: The Dangerous Life of John McAfee",
       "Werner Herzog's documentaries"
     ]
-  }
+  },
+  "countries": [
+    "Egypt",
+    "Sudan"
+  ],
+  "regions_normalised": [
+    "Africa"
+  ]
 }

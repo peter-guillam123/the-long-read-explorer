@@ -115,5 +115,12 @@
       "Of Fathers and Sons",
       "My Son the Jihadi"
     ]
-  }
+  },
+  "countries": [
+    "Syria",
+    "Iraq"
+  ],
+  "regions_normalised": [
+    "Middle East"
+  ]
 }

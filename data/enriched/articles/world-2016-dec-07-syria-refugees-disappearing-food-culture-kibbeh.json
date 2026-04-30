@@ -129,5 +129,12 @@
       "City of Ghosts",
       "The Cave"
     ]
-  }
+  },
+  "countries": [
+    "Syria",
+    "Lebanon"
+  ],
+  "regions_normalised": [
+    "Middle East"
+  ]
 }

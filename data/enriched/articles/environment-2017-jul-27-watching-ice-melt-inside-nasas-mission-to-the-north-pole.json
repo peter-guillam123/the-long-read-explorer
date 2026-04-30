@@ -99,5 +99,12 @@
       "Chasing Ice",
       "The Last Ice"
     ]
-  }
+  },
+  "countries": [
+    "Denmark",
+    "United States"
+  ],
+  "regions_normalised": [
+    "Arctic"
+  ]
 }

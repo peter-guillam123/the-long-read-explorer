@@ -134,5 +134,14 @@
       "The Age of Stupid",
       "Chasing Ice"
     ]
-  }
+  },
+  "countries": [
+    "France",
+    "Switzerland",
+    "Austria",
+    "Italy"
+  ],
+  "regions_normalised": [
+    "Alps"
+  ]
 }

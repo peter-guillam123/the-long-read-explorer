@@ -104,5 +104,11 @@
       "All the President's Men",
       "The Insider"
     ]
-  }
+  },
+  "countries": [
+    "Italy"
+  ],
+  "regions_normalised": [
+    "Europe"
+  ]
 }

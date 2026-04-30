@@ -139,5 +139,12 @@
       "The Big Short",
       "Darkest Hour"
     ]
-  }
+  },
+  "countries": [
+    "Greece",
+    "Germany"
+  ],
+  "regions_normalised": [
+    "Europe"
+  ]
 }

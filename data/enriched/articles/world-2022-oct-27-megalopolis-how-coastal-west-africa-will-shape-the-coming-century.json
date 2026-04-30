@@ -119,5 +119,14 @@
       "The Human Scale",
       "Koyaanisqatsi"
     ]
-  }
+  },
+  "countries": [
+    "Nigeria",
+    "Ivory Coast",
+    "Ghana",
+    "Togo"
+  ],
+  "regions_normalised": [
+    "West Africa"
+  ]
 }

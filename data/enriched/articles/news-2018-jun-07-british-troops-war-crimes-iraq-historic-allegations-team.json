@@ -141,5 +141,12 @@
       "Dark Waters",
       "Official Secrets"
     ]
-  }
+  },
+  "countries": [
+    "Iraq",
+    "England"
+  ],
+  "regions_normalised": [
+    "Middle East"
+  ]
 }

@@ -125,5 +125,14 @@
       "My Octopus Teacher",
       "Rats"
     ]
-  }
+  },
+  "countries": [
+    "Spain",
+    "Germany",
+    "Italy",
+    "United States"
+  ],
+  "regions_normalised": [
+    "Europe"
+  ]
 }

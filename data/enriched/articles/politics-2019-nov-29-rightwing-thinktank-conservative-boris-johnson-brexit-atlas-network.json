@@ -152,5 +152,12 @@
       "Brexit: The Uncivil War",
       "Dark Money"
     ]
-  }
+  },
+  "countries": [
+    "England",
+    "United States"
+  ],
+  "regions_normalised": [
+    "Europe"
+  ]
 }

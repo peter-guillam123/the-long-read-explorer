@@ -134,5 +134,9 @@
       "Welcome to Chechnya",
       "Icarus"
     ]
-  }
+  },
+  "countries": [
+    "Pakistan",
+    "United States"
+  ]
 }

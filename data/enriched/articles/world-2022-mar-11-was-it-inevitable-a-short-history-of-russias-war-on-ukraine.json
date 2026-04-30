@@ -116,5 +116,12 @@
     "format": "documentary",
     "pitch": null,
     "comparable_works": []
-  }
+  },
+  "countries": [
+    "Ukraine",
+    "Russia"
+  ],
+  "regions_normalised": [
+    "Former Soviet Union"
+  ]
 }

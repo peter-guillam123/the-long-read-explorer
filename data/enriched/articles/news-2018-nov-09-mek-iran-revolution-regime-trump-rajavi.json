@@ -161,5 +161,11 @@
       "The Vow",
       "Going Clear"
     ]
-  }
+  },
+  "countries": [
+    "Iran",
+    "Albania",
+    "Iraq",
+    "United States"
+  ]
 }

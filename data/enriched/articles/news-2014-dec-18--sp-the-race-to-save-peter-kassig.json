@@ -114,5 +114,13 @@
       "The Negotiator",
       "Captain Phillips"
     ]
-  }
+  },
+  "countries": [
+    "Syria",
+    "Iraq",
+    "United States"
+  ],
+  "regions_normalised": [
+    "Middle East"
+  ]
 }

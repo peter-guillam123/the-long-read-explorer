@@ -111,5 +111,9 @@
       "AlphaGo",
       "American Factory"
     ]
-  }
+  },
+  "countries": [
+    "China",
+    "United States"
+  ]
 }

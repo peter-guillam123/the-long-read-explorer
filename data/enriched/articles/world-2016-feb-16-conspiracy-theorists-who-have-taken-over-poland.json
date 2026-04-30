@@ -124,5 +124,12 @@
       "All the President's Men",
       "Darkest Hour"
     ]
-  }
+  },
+  "countries": [
+    "Poland"
+  ],
+  "regions_normalised": [
+    "Central Europe",
+    "Eastern Europe"
+  ]
 }

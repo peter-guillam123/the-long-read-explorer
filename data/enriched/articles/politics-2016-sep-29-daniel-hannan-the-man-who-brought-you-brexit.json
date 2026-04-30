@@ -166,5 +166,11 @@
       "Vice",
       "Brexit: The Uncivil War"
     ]
-  }
+  },
+  "countries": [
+    "England"
+  ],
+  "regions_normalised": [
+    "European Union"
+  ]
 }

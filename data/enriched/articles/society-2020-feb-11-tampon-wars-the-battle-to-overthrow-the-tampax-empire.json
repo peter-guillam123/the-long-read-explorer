@@ -114,5 +114,11 @@
       "The Social Dilemma",
       "Fyre: The Greatest Party That Never Happened"
     ]
-  }
+  },
+  "countries": [
+    "United States"
+  ],
+  "regions_normalised": [
+    "Global markets"
+  ]
 }

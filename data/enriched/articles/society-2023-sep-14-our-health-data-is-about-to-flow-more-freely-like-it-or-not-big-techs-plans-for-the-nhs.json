@@ -98,5 +98,9 @@
       "Privacy Uprising",
       "Terms and Conditions May Apply"
     ]
-  }
+  },
+  "countries": [
+    "England",
+    "United States"
+  ]
 }

@@ -141,5 +141,14 @@
     "format": "documentary",
     "pitch": null,
     "comparable_works": []
-  }
+  },
+  "countries": [
+    "Russia",
+    "Ukraine",
+    "United States",
+    "Germany"
+  ],
+  "regions_normalised": [
+    "Europe"
+  ]
 }

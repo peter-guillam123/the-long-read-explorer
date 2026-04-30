@@ -109,5 +109,9 @@
       "Vegas Baby",
       "Expecting"
     ]
-  }
+  },
+  "countries": [
+    "Germany",
+    "United States"
+  ]
 }

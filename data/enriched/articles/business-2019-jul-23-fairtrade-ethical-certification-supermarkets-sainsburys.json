@@ -123,5 +123,14 @@
       "Food, Inc.",
       "The True Cost"
     ]
-  }
+  },
+  "countries": [
+    "Ghana",
+    "Costa Rica",
+    "Dominican Republic",
+    "Kenya"
+  ],
+  "regions_normalised": [
+    "Global South"
+  ]
 }

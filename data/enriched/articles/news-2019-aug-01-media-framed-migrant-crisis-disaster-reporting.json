@@ -106,5 +106,15 @@
       "The Act of Killing",
       "Five Broken Cameras"
     ]
-  }
+  },
+  "countries": [
+    "Greece",
+    "Turkey",
+    "Libya",
+    "Syria"
+  ],
+  "regions_normalised": [
+    "Europe",
+    "Mediterranean"
+  ]
 }

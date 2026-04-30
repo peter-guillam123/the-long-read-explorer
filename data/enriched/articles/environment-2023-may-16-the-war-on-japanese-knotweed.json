@@ -113,5 +113,14 @@
       "Blackfish",
       "My Octopus Teacher"
     ]
-  }
+  },
+  "countries": [
+    "England",
+    "Wales",
+    "Japan"
+  ],
+  "regions_normalised": [
+    "Europe",
+    "North America"
+  ]
 }

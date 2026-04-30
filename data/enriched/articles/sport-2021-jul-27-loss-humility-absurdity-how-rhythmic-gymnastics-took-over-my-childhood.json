@@ -90,5 +90,9 @@
       "Athlete A",
       "Black Swan"
     ]
-  }
+  },
+  "countries": [
+    "New Zealand",
+    "China"
+  ]
 }

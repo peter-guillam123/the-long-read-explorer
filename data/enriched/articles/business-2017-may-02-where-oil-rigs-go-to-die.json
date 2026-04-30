@@ -116,5 +116,14 @@
       "Free Solo",
       "The Impossible"
     ]
-  }
+  },
+  "countries": [
+    "Scotland",
+    "Norway",
+    "Malta"
+  ],
+  "regions_normalised": [
+    "North Atlantic",
+    "North Sea"
+  ]
 }

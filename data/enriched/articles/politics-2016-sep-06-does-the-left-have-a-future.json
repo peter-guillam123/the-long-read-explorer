@@ -133,5 +133,14 @@
     "format": "documentary",
     "pitch": null,
     "comparable_works": []
-  }
+  },
+  "countries": [
+    "Germany",
+    "France",
+    "Spain",
+    "Greece"
+  ],
+  "regions_normalised": [
+    "Europe"
+  ]
 }

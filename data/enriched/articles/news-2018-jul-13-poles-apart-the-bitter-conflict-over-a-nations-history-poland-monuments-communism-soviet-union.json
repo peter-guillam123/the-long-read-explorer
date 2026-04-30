@@ -123,5 +123,12 @@
       "Waltz with Bashir",
       "Winter on Fire"
     ]
-  }
+  },
+  "countries": [
+    "Poland",
+    "Russia"
+  ],
+  "regions_normalised": [
+    "Eastern Europe"
+  ]
 }

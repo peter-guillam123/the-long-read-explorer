@@ -128,5 +128,9 @@
       "The Last Men in Aleppo",
       "City of Ghosts"
     ]
-  }
+  },
+  "countries": [
+    "Palestine",
+    "Israel"
+  ]
 }

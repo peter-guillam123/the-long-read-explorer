@@ -147,5 +147,11 @@
       "Brexit: The Uncivil War",
       "Won't You Be My Neighbor?"
     ]
-  }
+  },
+  "countries": [
+    "England"
+  ],
+  "regions_normalised": [
+    "European Union"
+  ]
 }

@@ -125,5 +125,13 @@
       "Captain Phillips",
       "The White Helmets"
     ]
-  }
+  },
+  "countries": [
+    "Malta",
+    "Libya",
+    "Italy"
+  ],
+  "regions_normalised": [
+    "Mediterranean Sea"
+  ]
 }

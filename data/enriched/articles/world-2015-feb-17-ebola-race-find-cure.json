@@ -111,5 +111,13 @@
       "Outbreak",
       "The Hot Zone"
     ]
-  }
+  },
+  "countries": [
+    "Liberia",
+    "Guinea",
+    "Sierra Leone"
+  ],
+  "regions_normalised": [
+    "West Africa"
+  ]
 }

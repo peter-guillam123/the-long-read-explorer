@@ -127,5 +127,9 @@
       "Apocalypse Now",
       "Last Days in Vietnam"
     ]
-  }
+  },
+  "countries": [
+    "Vietnam",
+    "United States"
+  ]
 }

@@ -128,5 +128,12 @@
       "The Act of Killing",
       "Of Fathers and Sons"
     ]
-  }
+  },
+  "countries": [
+    "Mali"
+  ],
+  "regions_normalised": [
+    "West Africa",
+    "Sahel"
+  ]
 }

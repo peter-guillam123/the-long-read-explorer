@@ -125,5 +125,11 @@
       "Jiro Dreams of Sushi",
       "Boiling Point"
     ]
-  }
+  },
+  "countries": [
+    "Sweden"
+  ],
+  "regions_normalised": [
+    "Nordic region"
+  ]
 }

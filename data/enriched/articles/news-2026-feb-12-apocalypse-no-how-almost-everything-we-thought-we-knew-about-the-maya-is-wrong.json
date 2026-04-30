@@ -118,5 +118,10 @@
       "Civilisations",
       "The Cave of Forgotten Dreams"
     ]
-  }
+  },
+  "countries": [
+    "Guatemala",
+    "Mexico",
+    "Belize"
+  ]
 }

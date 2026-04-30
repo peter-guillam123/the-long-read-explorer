@@ -150,5 +150,10 @@
       "McMillion$",
       "The Jinx"
     ]
-  }
+  },
+  "countries": [
+    "Mexico",
+    "United States",
+    "Colombia"
+  ]
 }

@@ -105,5 +105,9 @@
       "The Tinder Swindler",
       "Catfish"
     ]
-  }
+  },
+  "countries": [
+    "Canada",
+    "United States"
+  ]
 }

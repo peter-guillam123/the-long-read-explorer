@@ -163,5 +163,12 @@
     "format": "documentary",
     "pitch": null,
     "comparable_works": []
-  }
+  },
+  "countries": [
+    "Mexico",
+    "Malta"
+  ],
+  "regions_normalised": [
+    "Europe"
+  ]
 }

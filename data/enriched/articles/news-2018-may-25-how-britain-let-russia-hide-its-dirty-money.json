@@ -131,5 +131,9 @@
       "McMafia",
       "Icarus"
     ]
-  }
+  },
+  "countries": [
+    "United Kingdom",
+    "Russia"
+  ]
 }

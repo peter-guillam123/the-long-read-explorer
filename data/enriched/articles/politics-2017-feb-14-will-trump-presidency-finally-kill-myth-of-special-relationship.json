@@ -134,5 +134,9 @@
     "format": "documentary",
     "pitch": null,
     "comparable_works": []
-  }
+  },
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ]
 }

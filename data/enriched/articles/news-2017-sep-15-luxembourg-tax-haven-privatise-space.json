@@ -123,5 +123,9 @@
       "Icarus",
       "Generation Wealth"
     ]
-  }
+  },
+  "countries": [
+    "Luxembourg",
+    "United States"
+  ]
 }

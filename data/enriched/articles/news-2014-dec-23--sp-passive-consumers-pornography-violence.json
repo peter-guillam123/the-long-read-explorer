@@ -143,5 +143,12 @@
     "format": "documentary",
     "pitch": null,
     "comparable_works": []
-  }
+  },
+  "countries": [
+    "Syria",
+    "Iraq"
+  ],
+  "regions_normalised": [
+    "Middle East"
+  ]
 }

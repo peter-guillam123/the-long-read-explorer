@@ -148,5 +148,14 @@
     "format": "documentary",
     "pitch": null,
     "comparable_works": []
-  }
+  },
+  "countries": [
+    "Germany",
+    "France",
+    "Italy",
+    "Denmark"
+  ],
+  "regions_normalised": [
+    "Europe"
+  ]
 }

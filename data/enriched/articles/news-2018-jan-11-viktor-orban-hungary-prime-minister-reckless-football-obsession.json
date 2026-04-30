@@ -146,5 +146,11 @@
       "Icarus",
       "All the President's Men"
     ]
-  }
+  },
+  "countries": [
+    "Hungary"
+  ],
+  "regions_normalised": [
+    "European Union"
+  ]
 }

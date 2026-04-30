@@ -143,5 +143,10 @@
       "The Men Who Stole the World",
       "Fyre: The Greatest Party That Never Happened"
     ]
-  }
+  },
+  "countries": [
+    "England",
+    "United States",
+    "France"
+  ]
 }

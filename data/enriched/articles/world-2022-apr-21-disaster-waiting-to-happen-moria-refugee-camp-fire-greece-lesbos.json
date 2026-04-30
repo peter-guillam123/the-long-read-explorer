@@ -111,5 +111,11 @@
       "Fire at Sea",
       "For Sama"
     ]
-  }
+  },
+  "countries": [
+    "Greece"
+  ],
+  "regions_normalised": [
+    "Europe"
+  ]
 }

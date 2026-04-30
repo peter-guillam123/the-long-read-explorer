@@ -120,5 +120,9 @@
       "The Great Hack",
       "Terms and Conditions May Apply"
     ]
-  }
+  },
+  "countries": [],
+  "regions_normalised": [
+    "Global"
+  ]
 }

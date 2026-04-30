@@ -140,5 +140,13 @@
       "The Official Story",
       "State of Siege"
     ]
-  }
+  },
+  "countries": [
+    "Argentina",
+    "Chile",
+    "Uruguay"
+  ],
+  "regions_normalised": [
+    "South America"
+  ]
 }

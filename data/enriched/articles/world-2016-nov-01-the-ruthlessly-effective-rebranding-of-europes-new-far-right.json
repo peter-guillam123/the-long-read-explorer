@@ -143,5 +143,14 @@
       "Brexit: The Uncivil War",
       "Putin's Russia"
     ]
-  }
+  },
+  "countries": [
+    "France",
+    "Netherlands",
+    "Denmark",
+    "Germany"
+  ],
+  "regions_normalised": [
+    "Europe"
+  ]
 }

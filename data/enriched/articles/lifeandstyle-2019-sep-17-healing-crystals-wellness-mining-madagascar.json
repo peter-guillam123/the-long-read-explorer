@@ -141,5 +141,9 @@
       "Blood Diamond",
       "Dirty Gold"
     ]
-  }
+  },
+  "countries": [
+    "Madagascar",
+    "United States"
+  ]
 }

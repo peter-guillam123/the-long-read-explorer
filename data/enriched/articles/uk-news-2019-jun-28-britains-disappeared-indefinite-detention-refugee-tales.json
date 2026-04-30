@@ -87,5 +87,12 @@
       "For Sama",
       "Fire at Sea"
     ]
-  }
+  },
+  "countries": [
+    "England",
+    "France"
+  ],
+  "regions_normalised": [
+    "Africa"
+  ]
 }

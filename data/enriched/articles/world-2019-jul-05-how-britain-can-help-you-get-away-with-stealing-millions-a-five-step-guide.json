@@ -120,5 +120,11 @@
       "Dirty Money",
       "McMillion$"
     ]
-  }
+  },
+  "countries": [
+    "United Kingdom",
+    "Estonia",
+    "Denmark",
+    "Russia"
+  ]
 }

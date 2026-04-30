@@ -124,5 +124,12 @@
     "format": "documentary",
     "pitch": null,
     "comparable_works": []
-  }
+  },
+  "countries": [
+    "France",
+    "England"
+  ],
+  "regions_normalised": [
+    "Middle East"
+  ]
 }

@@ -143,5 +143,10 @@
       "Poverty, Inc.",
       "Blackfish"
     ]
-  }
+  },
+  "countries": [
+    "Guatemala",
+    "Cambodia",
+    "Haiti"
+  ]
 }

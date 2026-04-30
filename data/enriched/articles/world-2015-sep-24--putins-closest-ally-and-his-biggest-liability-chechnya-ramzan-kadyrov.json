@@ -115,5 +115,11 @@
       "Icarus",
       "Putin's Palace"
     ]
-  }
+  },
+  "countries": [
+    "Russia"
+  ],
+  "regions_normalised": [
+    "Caucasus"
+  ]
 }

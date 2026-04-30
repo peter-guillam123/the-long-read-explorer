@@ -104,5 +104,9 @@
       "Minari",
       "Last Days in Vietnam"
     ]
-  }
+  },
+  "countries": [
+    "China",
+    "United States"
+  ]
 }

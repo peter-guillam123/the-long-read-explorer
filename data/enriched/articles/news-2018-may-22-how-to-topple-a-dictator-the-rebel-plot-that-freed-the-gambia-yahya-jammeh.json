@@ -145,5 +145,11 @@
       "Hotel Rwanda",
       "They Shall Not Grow Old"
     ]
-  }
+  },
+  "countries": [
+    "Gambia"
+  ],
+  "regions_normalised": [
+    "West Africa"
+  ]
 }

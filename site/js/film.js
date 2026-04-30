@@ -41,6 +41,34 @@ const POTENTIALS = [
 
 const POTENTIAL_RANK = { high: 3, medium: 2, low: 1, none: 0 };
 
+// Era buckets — must mirror scripts/merge.py ERAS exactly.
+const ERAS = [
+    { slug: "pre_1900",  label: "Before 1900", lo: -10000, hi: 1900 },
+    { slug: "1900_1945", label: "1900–1945",   lo: 1900,   hi: 1945 },
+    { slug: "1945_1989", label: "1945–1989",   lo: 1945,   hi: 1990 },
+    { slug: "1990s",     label: "1990s",       lo: 1990,   hi: 2000 },
+    { slug: "2000s",     label: "2000s",       lo: 2000,   hi: 2010 },
+    { slug: "2010s",     label: "2010s",       lo: 2010,   hi: 2020 },
+    { slug: "2020s",     label: "2020s",       lo: 2020,   hi: 3000 },
+];
+
+function articleEras(article) {
+    const eras = new Set();
+    const periods = article.time_periods || [];
+    for (const tp of periods) {
+        let s = tp.start_year, e = tp.end_year;
+        if (s == null && e == null) continue;
+        if (s == null) s = e;
+        if (e == null) e = s;
+        if (s < -3000) s = -3000;
+        if (e > 2999) e = 2999;
+        for (const era of ERAS) {
+            if (s < era.hi && e >= era.lo) eras.add(era.slug);
+        }
+    }
+    return eras;
+}
+
 class FilmLens {
     constructor() {
         this.articles = [];
@@ -49,6 +77,8 @@ class FilmLens {
             categories: new Set(),
             formats: new Set(),
             potential: "high_medium",
+            countries: new Set(),
+            eras: new Set(),
         };
         this.sort = "potential";
         this.init();
@@ -146,6 +176,42 @@ class FilmLens {
             this.render();
         });
 
+        const periodChips = document.getElementById("film-period-chips");
+        const eraCounts = (this.metadata?.era_counts) || {};
+        periodChips.innerHTML = ERAS.map(era => {
+            const n = eraCounts[era.slug] || 0;
+            return `<button class="chip" data-era="${era.slug}">${era.label}<span class="chip-count">${n}</span></button>`;
+        }).join("");
+        periodChips.addEventListener("click", e => {
+            const btn = e.target.closest("[data-era]");
+            if (!btn) return;
+            const slug = btn.dataset.era;
+            this.filters.eras.has(slug)
+                ? this.filters.eras.delete(slug)
+                : this.filters.eras.add(slug);
+            btn.classList.toggle("active");
+            this.render();
+        });
+
+        const countryChips = document.getElementById("film-country-chips");
+        const countryCounts = (this.metadata?.country_counts) || {};
+        // Sort by count, then alpha for ties
+        const countriesSorted = Object.entries(countryCounts)
+            .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
+        countryChips.innerHTML = countriesSorted.map(([name, n]) =>
+            `<button class="chip" data-country="${escapeAttr(name)}">${escapeHtml(name)}<span class="chip-count">${n}</span></button>`
+        ).join("");
+        countryChips.addEventListener("click", e => {
+            const btn = e.target.closest("[data-country]");
+            if (!btn) return;
+            const name = btn.dataset.country;
+            this.filters.countries.has(name)
+                ? this.filters.countries.delete(name)
+                : this.filters.countries.add(name);
+            btn.classList.toggle("active");
+            this.render();
+        });
+
         const sortSel = document.getElementById("film-sort");
         sortSel.addEventListener("change", () => {
             this.sort = sortSel.value;
@@ -156,8 +222,12 @@ class FilmLens {
             this.filters.categories.clear();
             this.filters.formats.clear();
             this.filters.potential = "high_medium";
+            this.filters.countries.clear();
+            this.filters.eras.clear();
             catChips.querySelectorAll(".chip").forEach(c => c.classList.remove("active"));
             fmtChips.querySelectorAll(".chip").forEach(c => c.classList.remove("active"));
+            periodChips.querySelectorAll(".chip").forEach(c => c.classList.remove("active"));
+            countryChips.querySelectorAll(".chip").forEach(c => c.classList.remove("active"));
             potChips.querySelectorAll("[data-pot]").forEach(b =>
                 b.classList.toggle("active", b.dataset.pot === "high_medium")
             );
@@ -191,7 +261,10 @@ class FilmLens {
     updateSecondaryDot() {
         const dot = document.getElementById("film-secondary-dot");
         if (!dot) return;
-        const active = this.filters.formats.size > 0 || this.filters.potential !== "high_medium";
+        const active = this.filters.formats.size > 0
+            || this.filters.potential !== "high_medium"
+            || this.filters.countries.size > 0
+            || this.filters.eras.size > 0;
         dot.classList.toggle("hidden", !active);
     }
 
@@ -210,6 +283,21 @@ class FilmLens {
 
             if (this.filters.formats.size > 0) {
                 if (!this.filters.formats.has(film.format)) return false;
+            }
+
+            if (this.filters.countries.size > 0) {
+                const cs = art.countries || [];
+                const hit = cs.some(c => this.filters.countries.has(c));
+                if (!hit) return false;
+            }
+
+            if (this.filters.eras.size > 0) {
+                const eras = articleEras(art);
+                let hit = false;
+                for (const era of this.filters.eras) {
+                    if (eras.has(era)) { hit = true; break; }
+                }
+                if (!hit) return false;
             }
 
             return true;

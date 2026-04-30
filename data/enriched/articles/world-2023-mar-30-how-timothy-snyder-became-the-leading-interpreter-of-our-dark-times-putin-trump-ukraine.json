@@ -154,5 +154,13 @@
       "Errol Morris documentaries",
       "Won't You Be My Neighbor?"
     ]
-  }
+  },
+  "countries": [
+    "Ukraine",
+    "Russia",
+    "United States"
+  ],
+  "regions_normalised": [
+    "Eastern Europe"
+  ]
 }

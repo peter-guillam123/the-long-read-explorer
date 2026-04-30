@@ -157,5 +157,12 @@
       "Waltz with Bashir",
       "Five Broken Cameras"
     ]
-  }
+  },
+  "countries": [
+    "Israel",
+    "England"
+  ],
+  "regions_normalised": [
+    "Middle East"
+  ]
 }

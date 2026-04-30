@@ -121,5 +121,12 @@
       "Touching the Void",
       "Free Solo"
     ]
-  }
+  },
+  "countries": [
+    "England"
+  ],
+  "regions_normalised": [
+    "Southern Ocean",
+    "Atlantic Ocean"
+  ]
 }

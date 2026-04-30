@@ -133,5 +133,11 @@
       "Get Me Roger Stone",
       "The Social Dilemma"
     ]
-  }
+  },
+  "countries": [
+    "Italy"
+  ],
+  "regions_normalised": [
+    "Europe"
+  ]
 }

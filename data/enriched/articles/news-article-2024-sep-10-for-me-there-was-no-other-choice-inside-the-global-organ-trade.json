@@ -110,5 +110,14 @@
       "The Trade",
       "City of Joy"
     ]
-  }
+  },
+  "countries": [
+    "Egypt",
+    "Eritrea",
+    "Sudan"
+  ],
+  "regions_normalised": [
+    "Middle East",
+    "North Africa"
+  ]
 }

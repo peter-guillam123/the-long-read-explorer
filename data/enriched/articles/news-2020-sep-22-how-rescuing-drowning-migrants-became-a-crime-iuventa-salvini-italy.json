@@ -123,5 +123,13 @@
       "Icarus",
       "All the President's Men"
     ]
-  }
+  },
+  "countries": [
+    "Italy",
+    "Libya",
+    "Germany"
+  ],
+  "regions_normalised": [
+    "Europe"
+  ]
 }

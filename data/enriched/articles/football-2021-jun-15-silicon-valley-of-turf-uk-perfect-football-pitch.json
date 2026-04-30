@@ -132,5 +132,12 @@
       "The Price of Gold",
       "Icarus"
     ]
-  }
+  },
+  "countries": [
+    "England",
+    "France"
+  ],
+  "regions_normalised": [
+    "Europe"
+  ]
 }

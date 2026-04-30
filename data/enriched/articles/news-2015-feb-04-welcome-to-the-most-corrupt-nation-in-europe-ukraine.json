@@ -109,5 +109,11 @@
       "The Act of Killing",
       "Winter on Fire"
     ]
-  }
+  },
+  "countries": [
+    "Ukraine"
+  ],
+  "regions_normalised": [
+    "Eastern Europe"
+  ]
 }

@@ -139,5 +139,9 @@
     "format": "documentary",
     "pitch": null,
     "comparable_works": []
-  }
+  },
+  "countries": [
+    "Russia",
+    "United States"
+  ]
 }

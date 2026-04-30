@@ -121,5 +121,11 @@
     "format": "documentary",
     "pitch": null,
     "comparable_works": []
-  }
+  },
+  "countries": [
+    "England"
+  ],
+  "regions_normalised": [
+    "Europe"
+  ]
 }

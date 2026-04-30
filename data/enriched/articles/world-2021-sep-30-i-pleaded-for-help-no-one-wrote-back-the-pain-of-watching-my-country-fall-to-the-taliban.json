@@ -114,5 +114,10 @@
       "For Sama",
       "Flee"
     ]
-  }
+  },
+  "countries": [
+    "Afghanistan",
+    "United States",
+    "England"
+  ]
 }

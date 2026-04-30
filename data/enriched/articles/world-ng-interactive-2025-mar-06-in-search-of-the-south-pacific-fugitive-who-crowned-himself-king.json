@@ -135,5 +135,11 @@
       "Fyre: The Greatest Party That Never Happened",
       "Tiger King"
     ]
-  }
+  },
+  "countries": [
+    "Papua New Guinea"
+  ],
+  "regions_normalised": [
+    "South Pacific"
+  ]
 }

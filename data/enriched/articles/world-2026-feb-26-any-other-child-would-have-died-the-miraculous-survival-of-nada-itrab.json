@@ -119,5 +119,9 @@
       "Taken",
       "The Missing"
     ]
-  }
+  },
+  "countries": [
+    "Spain",
+    "Bolivia"
+  ]
 }

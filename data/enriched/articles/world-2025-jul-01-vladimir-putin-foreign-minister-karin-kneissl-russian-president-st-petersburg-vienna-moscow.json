@@ -142,5 +142,9 @@
       "Tinker Tailor Soldier Spy",
       "Active Measures"
     ]
-  }
+  },
+  "countries": [
+    "Austria",
+    "Russia"
+  ]
 }

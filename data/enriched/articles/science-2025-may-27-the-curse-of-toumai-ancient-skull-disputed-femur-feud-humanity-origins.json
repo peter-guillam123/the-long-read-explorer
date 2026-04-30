@@ -127,5 +127,12 @@
       "Fyre: The Greatest Party That Never Happened",
       "The Act of Killing"
     ]
-  }
+  },
+  "countries": [
+    "Chad",
+    "France"
+  ],
+  "regions_normalised": [
+    "Sahara Desert"
+  ]
 }

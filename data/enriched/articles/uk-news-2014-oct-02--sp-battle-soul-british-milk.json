@@ -111,5 +111,12 @@
       "The Biggest Little Farm",
       "King Corn"
     ]
-  }
+  },
+  "countries": [
+    "Wales",
+    "United States"
+  ],
+  "regions_normalised": [
+    "Europe"
+  ]
 }

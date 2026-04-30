@@ -139,5 +139,13 @@
       "The Mystery of Chi Chi Rodriguez",
       "McQueen"
     ]
-  }
+  },
+  "countries": [
+    "England",
+    "Germany",
+    "France"
+  ],
+  "regions_normalised": [
+    "Europe"
+  ]
 }

@@ -126,5 +126,12 @@
       "All the President's Men",
       "Inside Job"
     ]
-  }
+  },
+  "countries": [
+    "Greece",
+    "Germany"
+  ],
+  "regions_normalised": [
+    "European Union"
+  ]
 }

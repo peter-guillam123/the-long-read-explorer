@@ -125,5 +125,8 @@
       "The Post",
       "Dark Money"
     ]
-  }
+  },
+  "countries": [
+    "United States"
+  ]
 }

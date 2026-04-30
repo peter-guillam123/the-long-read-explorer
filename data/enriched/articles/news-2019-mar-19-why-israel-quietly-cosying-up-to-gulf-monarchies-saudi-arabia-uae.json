@@ -178,5 +178,14 @@
       "State Secrets",
       "The Shadow War"
     ]
-  }
+  },
+  "countries": [
+    "Israel",
+    "Saudi Arabia",
+    "United Arab Emirates",
+    "Iran"
+  ],
+  "regions_normalised": [
+    "Middle East"
+  ]
 }

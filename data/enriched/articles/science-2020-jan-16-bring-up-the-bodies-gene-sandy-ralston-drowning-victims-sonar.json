@@ -111,5 +111,9 @@
       "Don't F**k with Cats",
       "Free Solo"
     ]
-  }
+  },
+  "countries": [
+    "United States",
+    "Canada"
+  ]
 }

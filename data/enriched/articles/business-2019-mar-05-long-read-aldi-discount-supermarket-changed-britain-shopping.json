@@ -124,5 +124,12 @@
       "Betting on Zero",
       "The Corporation"
     ]
-  }
+  },
+  "countries": [
+    "England",
+    "Germany"
+  ],
+  "regions_normalised": [
+    "Europe"
+  ]
 }

@@ -176,5 +176,9 @@
       "The China Hustle",
       "Becoming Warren Buffett"
     ]
-  }
+  },
+  "countries": [
+    "China",
+    "United States"
+  ]
 }

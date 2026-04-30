@@ -123,5 +123,9 @@
       "Dear Zachary",
       "Spotlight"
     ]
-  }
+  },
+  "countries": [
+    "Spain",
+    "Romania"
+  ]
 }

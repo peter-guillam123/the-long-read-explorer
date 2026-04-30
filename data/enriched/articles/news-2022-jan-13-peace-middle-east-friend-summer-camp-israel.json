@@ -128,5 +128,10 @@
       "My Name is Asher Lev",
       "Paradise Now"
     ]
-  }
+  },
+  "countries": [
+    "Israel",
+    "Palestine",
+    "United States"
+  ]
 }

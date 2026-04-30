@@ -135,5 +135,13 @@
       "Inside the Mossad",
       "Qatar: A Sporting Chance"
     ]
-  }
+  },
+  "countries": [
+    "Qatar",
+    "Iran",
+    "United States"
+  ],
+  "regions_normalised": [
+    "Middle East"
+  ]
 }

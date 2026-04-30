@@ -130,5 +130,12 @@
       "American Factory",
       "Rust"
     ]
-  }
+  },
+  "countries": [
+    "England",
+    "Japan"
+  ],
+  "regions_normalised": [
+    "Europe"
+  ]
 }

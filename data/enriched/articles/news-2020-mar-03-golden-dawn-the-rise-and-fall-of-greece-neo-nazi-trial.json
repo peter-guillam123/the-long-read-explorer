@@ -145,5 +145,11 @@
       "Wild Wild Country",
       "The Staircase"
     ]
-  }
+  },
+  "countries": [
+    "Greece"
+  ],
+  "regions_normalised": [
+    "Europe"
+  ]
 }

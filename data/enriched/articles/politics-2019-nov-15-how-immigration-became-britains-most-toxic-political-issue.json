@@ -147,5 +147,11 @@
       "HyperNormalisation",
       "Get Me Roger Stone"
     ]
-  }
+  },
+  "countries": [
+    "United Kingdom"
+  ],
+  "regions_normalised": [
+    "Eastern Europe"
+  ]
 }

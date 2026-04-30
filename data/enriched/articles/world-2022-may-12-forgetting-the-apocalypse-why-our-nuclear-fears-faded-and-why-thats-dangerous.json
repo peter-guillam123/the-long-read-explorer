@@ -144,5 +144,11 @@
       "13 Days",
       "Atomic Cafe"
     ]
-  }
+  },
+  "countries": [
+    "United States",
+    "Russia",
+    "Ukraine",
+    "Japan"
+  ]
 }

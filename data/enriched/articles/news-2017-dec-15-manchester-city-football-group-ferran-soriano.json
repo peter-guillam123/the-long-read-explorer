@@ -116,5 +116,10 @@
       "Icarus",
       "All or Nothing: Manchester City"
     ]
-  }
+  },
+  "countries": [
+    "England",
+    "Spain",
+    "United Arab Emirates"
+  ]
 }

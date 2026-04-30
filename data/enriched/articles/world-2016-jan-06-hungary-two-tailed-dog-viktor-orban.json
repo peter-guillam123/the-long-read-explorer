@@ -128,5 +128,11 @@
       "Welcome to Chechnya",
       "Active Measures"
     ]
-  }
+  },
+  "countries": [
+    "Hungary"
+  ],
+  "regions_normalised": [
+    "Europe"
+  ]
 }

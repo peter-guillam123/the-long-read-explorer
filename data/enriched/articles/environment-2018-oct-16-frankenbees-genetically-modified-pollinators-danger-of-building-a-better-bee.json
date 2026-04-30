@@ -108,5 +108,11 @@
       "The Corporation",
       "Food, Inc."
     ]
-  }
+  },
+  "countries": [
+    "Germany"
+  ],
+  "regions_normalised": [
+    "Europe"
+  ]
 }

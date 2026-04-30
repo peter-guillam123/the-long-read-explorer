@@ -132,5 +132,13 @@
       "Icarus",
       "Active Measures"
     ]
-  }
+  },
+  "countries": [
+    "China",
+    "United States",
+    "England"
+  ],
+  "regions_normalised": [
+    "Africa"
+  ]
 }

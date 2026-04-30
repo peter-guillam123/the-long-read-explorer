@@ -153,5 +153,13 @@
       "The Square",
       "I Am Not Your Negro"
     ]
-  }
+  },
+  "countries": [
+    "Kenya",
+    "United States",
+    "England"
+  ],
+  "regions_normalised": [
+    "Africa"
+  ]
 }

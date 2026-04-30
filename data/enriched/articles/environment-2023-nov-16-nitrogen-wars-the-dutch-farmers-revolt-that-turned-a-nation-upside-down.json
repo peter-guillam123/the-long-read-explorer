@@ -130,5 +130,11 @@
       "Collective",
       "American Factory"
     ]
-  }
+  },
+  "countries": [
+    "Netherlands"
+  ],
+  "regions_normalised": [
+    "European Union"
+  ]
 }

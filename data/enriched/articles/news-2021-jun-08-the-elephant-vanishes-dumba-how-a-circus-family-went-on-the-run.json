@@ -122,5 +122,12 @@
       "Blackfish",
       "The Elephant in the Living Room"
     ]
-  }
+  },
+  "countries": [
+    "Spain",
+    "France"
+  ],
+  "regions_normalised": [
+    "Europe"
+  ]
 }

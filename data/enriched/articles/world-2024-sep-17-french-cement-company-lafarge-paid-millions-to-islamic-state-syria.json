@@ -125,5 +125,10 @@
       "Dark Waters",
       "Official Secrets"
     ]
-  }
+  },
+  "countries": [
+    "Syria",
+    "France",
+    "United States"
+  ]
 }

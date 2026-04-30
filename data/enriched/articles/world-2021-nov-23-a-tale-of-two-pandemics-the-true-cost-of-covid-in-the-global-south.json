@@ -110,5 +110,14 @@
       "Food, Inc.",
       "The Dark Side of Chocolate"
     ]
-  }
+  },
+  "countries": [
+    "Ghana",
+    "Nigeria",
+    "Namibia",
+    "India"
+  ],
+  "regions_normalised": [
+    "Global South"
+  ]
 }

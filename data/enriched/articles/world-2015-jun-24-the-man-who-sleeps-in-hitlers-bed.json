@@ -123,5 +123,9 @@
       "My Nazi Legacy",
       "Finders Keepers"
     ]
-  }
+  },
+  "countries": [
+    "England",
+    "Germany"
+  ]
 }

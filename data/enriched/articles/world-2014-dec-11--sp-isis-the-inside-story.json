@@ -115,5 +115,13 @@
       "Zero Dark Thirty",
       "The Act of Killing"
     ]
-  }
+  },
+  "countries": [
+    "Iraq",
+    "Syria",
+    "United States"
+  ],
+  "regions_normalised": [
+    "Middle East"
+  ]
 }

@@ -106,5 +106,12 @@
       "The Act of Killing",
       "For Sama"
     ]
-  }
+  },
+  "countries": [
+    "Ukraine",
+    "Russia"
+  ],
+  "regions_normalised": [
+    "Europe"
+  ]
 }
